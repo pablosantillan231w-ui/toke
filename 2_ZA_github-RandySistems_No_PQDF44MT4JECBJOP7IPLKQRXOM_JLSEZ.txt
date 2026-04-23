@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ZA
+Plan: Standard
+Next Billing: April 30, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R 179
+Profiles (5): INOCK ZVINGANA, NOMATTER GONDE, LIONAH ZVINGANA, PRAISE ZVINGANA, MICHAEL ZVINGANA
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEF0WCwBIDOdQnEWLYGKjettg5uog3vD6qQHigegmBjzKzhcfU0EJnm1c1ysI3CvOvRhOPoAmMkMXNVZp2IXJks7j0c8taSR0q1KLMMQYUgxpaDYDS-6vOr55UFhYw9wS9oiU6qAeFscAKze5O4g5Rj8Q
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKgAxwW43_NAvUR5a4P7mBmiIRR5tKupZiSrvSdDHINZJvoXNlB3edaiIWMzJn2KLfvlB-1MEpqsPu715VxoZoqZCWwyKIb86u1ITznXsJ8CMeMC5huPwXFjTrh2zQSdwMYsnS8ZN93lY8D2cw_EBSRGdAqSEbLgpVl45iIV2O5ytY0RViuR6VkReTaMCmr2YFy3NulKVzu3afOq_ZbNFO7l8z00YJGn_GgMzrABmtjiEO8bu0CVuXpdiZXhoxdVMLtmOkZwmg5iG0bdANiDx4tUkLnhCPmj8ypD1fuA-v-LEZmWfvMFDLeEkM-Y52azGrNIpuK4Grl5R-zN0fZBivEHDg5J_o8sgvYevAgvCIDSHl-Ibc9aGMgfGYjv6j2YjuX9oVaZXd17-mF47EOvsFgRg99mTcdzj8ojn5RGnE6Bpp6MYQW92UlsAGnSauIXB0Y-GwXS-bwGykotLXRe1DaBUTyPerlc23w6fLj_ljUi800nzLfegDtWe995VbH4zFanSk2J65d5xTIGHGyPdFlA_gRUB_Rm8TE16O4IrqoWAH0GAYiDgoM64HO7F5CoJs8qnb6%26ch%3DAQEAEAABABR_nLfJbr89fOgxg8lfZhWIq6i90VbYV0U.%26v%3D3%26pg%3DPQDF44MT4JECBJOP7IPLKQRXOM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+04+2025+19%3A49%3A43+GMT%2B0200+(South+Africa+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7578fbee-dfdb-4152-9396-60e98ef0061d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR-pdIG6YJMy423y8jaDcLqOaj2A-DCl0c.%26dt%3D1764870582391
