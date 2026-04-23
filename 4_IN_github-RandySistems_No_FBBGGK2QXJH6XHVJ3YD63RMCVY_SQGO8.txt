@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: April 24, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): DD, Devanshdeep, Surbhi, Devansh, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBzURqOWNr4GaqMck1TrjrNgOkX08BIQfBGkCYnRPgaGKyROorcfSS2z2_od7EGzZNercQlchpeO5zyu93ZVune7xkTSdltYHfUwjKS2j-tgtcujCQuT3zitzMdSJz6IEfvV0KFZgU8dBB--dGQL0lcO
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLiA-JZ3cDbPMlxWwkEVOhaBzCa05mjZruQSQdhrqXPD-VDA3rCl-iRGYbTs0BuFtEdzKouIZu2GFklrI3_1uZX2N0Zkjo4KHXhiOvggTG4XoKZhgND7fwo0JNSe_XUfEOr6903aUgZgCFS4xwzXp7-hTWR_mdoDZWYpE8I8v_VtHXD9BbQ2wL3isNbFSwKnwwwirWb-aGAPZf_UEwpgsoXmhHJ2L-C-PczU1z0mt7aBlTMBJMx9i_wz9Nls4Bfws_L4Blj9KKBlcPbAEe4eGLNZnSLkgl2MDHShLMHCrqnQSBMp7Auo_vBcH6-0oZ6q5HvtEB4VcIZlgEiPrQ6bZA0TA7xR0wJGg-dr54H3riE9eyKgnykhJb4gbldTNeLcXx0x9GIAwanfDmDlixtJT-9vU1CShoj0APORhCmh1HI4c97E_WmzON1YlT8_PwQFW52svZbur7caTyP89Fcc-8GtoxyjtqEmIIO1Z_OY2IKNsxjJGiWf_2SVpheO75QzjRpRfgRQ-N7FJxdz1JcpZawslrjfn30Io8Y-0kFKst6VRj-bd36ddN6oIFHb_NuCQrg09jEbbD8CYh2B_o4HlXnFH3uxM24Y7tO6QcR0GA2q8v5Hi4twGh7NT003aIBRFP1GcH6GAYiDgoMm7AE-iZt3ASZoAWl%26ch%3DAQEAEAABABRgcZC4sX6v-ieYMedfPusvNdE8j03FWww.%26v%3D3%26pg%3DFBBGGK2QXJH6XHVJ3YD63RMCVY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+03+2026+00%3A36%3A56+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=51fad0b5-5a77-4d14-bbe5-d64b2bb9e3a9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcr1HRoCQNYiWp7ZZ8RPmM5q2k6wwNW-0.%26dt%3D1767380810324
