@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: NET_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): Cris, Elaine, ꧁Biel x꧂, Arthur, ALISON Não Mexeeeer
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJ1fvi4uRVDy_Aav86EpRoVgqPALwhZcVDV-kUyY15m4Ap_SkxegfrCLX8K7LkaCFH0aG3o0xZEIUeIkHvNBHnyd8FxgJsQEzYoAhkuA5uFPCbflXOcq8huWTiTBxwmEj3jB82TXEGaybBmxzN0axerS
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKKBJqE3YVRavSac9WQL4ApP0qYfEZID_cpgzSrnv1G_-hwCZzcOyl83EHHLXi3fcwwY1RIbaGHwNAGdouifTe5vkcbKo1BYUIE1ixD4TyUkC5frWxz1cGTXI2Djt4d71x2S5CFZsjoL3aKWIMkRq_jzE7jpa8mLzYKYt6rtDHv-ekKgasjzrgLyX2fd5vYr37G55YgEzXz6oCWaMbOKExFMEfTb6RGcLftQbGyN-NENvjsMtcDYkjxrHD7pMlyefpyWqzNQP4pVSTadnceoX1CpK8BggBLo0dWNECUYQoDee0LUMoGo0Te-pImuHoM-PhpFiPji_b-5IZXxt5oyKEtreDnIZaLnrBKgtBQibCHUEYugGNfjj6kWN5M9_JDgRq6Gyn0aHrE68zjkmJeh61xfdpurYdFxm6ozlXjSLINGrf21M5dSKpotMYQLyCJmQkVwRHK5IHKUoIsyI7WxWqAteOEgbzUpX-A-dSu8VLj4PyPdmb5yC_Ep6Njusg9uIOhEpEbnhtpfCnHombvb37tLxeaehB3fo7AxA0-1XKSmCcTqZCId0EoBmRAd2A6XgoZH5zdnodHRLeG3G3YUKgkp-LPlGlyXznRacXZ1uK9N4uRMEq_Vzxa8GDw3_tkchr4OczrXkFnwoxNFZaisNUrXY5KROnzXzCCa2EPTGKq_F8YeIkZMxK0j1TfchgGIg4KDL2BZyNOj2rvu2MbFg..%26ch%3DAQEAEAABABQJpE2j2XGXOKUKxzaw6eT0bCLP46IrMgE.%26v%3D3%26pg%3DP3AXPLMDQBEL3JC5WDK3U3FXNU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+16%3A55%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=154be8db-1b55-470c-8989-6c639c233c1a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BGO&prevHadToken=0
