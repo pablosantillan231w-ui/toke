@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: SKY_UK_IE_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): michael, guest, jack, jackie, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFfhevHU_s_-k6e2i2SJkU1gE3cqvixBHqBEgmd3xcNFkVOAthUNIKYfrU5i-HelrtCoKKZFJZbehyCMmtkHyUhtnu5E0M_AOQV3zXI3DHUVKKsY40MSlcjcsrbChiERZUwP2wCXyN-Wj0AvUbU01Tv8
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA9qB7JI1RLZk0iUcS8GnFNZJ1nDfWVOVMrIiOtO1GGe1HCE5cYtyiX5sB42bbkyYk5yNTYUQG6SAF2f1RQcCAnbQN2qCTEO3ao0f6F0xXa1Ow9BLmuw5Jz9PUgZavuASV7sOtxzysHzLEklxJFCAi5ABpd3iyi2Rg19qcypkbVk26Pqht_qJ-gPwSXuUPw598t2A2_uib8iWUnf1HOvZb8XCsOoeqKSG0KnOC48WNXiHSTXT-Zg6vG1ky78_1YiTcVTwiPXRz8cAQpp9Dg1fPMiLSiMoJGGLLaLjCOya30wJztEWMo0Zf78V-r7yq-4y4VIUHdTfoWS4bEiSwgpUpVwcUgDZV4pFS-GSVyyx5PmJTCQbI_8zjZiL3BAQJmyLoNVl3u_fMi9tj0A_CJPOUC7c8bETAtVEwFt-qAXg9AAxJumR-KYYVn9AUCrL8mliRGtftm8fJ08MTprsJ2Rla8aMyIO4wVDbi7aK3Qb457-GhIqUYsQJP7jQBPKisISqyZ01ehPxwwDc5OwytGYSkcZkVSMcjG8YBiIOCgySZtQrHLuzDr1KxEc.%26pg%3D6SUUGJD5GNFTRJ7BLSBONAB5VU%26ch%3DAQEAEAABABQLQypjT99Lw0vAOzayr6Wpz_ur59EYUUg.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+21%3A39%3A01+GMT%2B0100+(British+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=460302dd-000e-41ae-95c4-34151a6698ab&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false&prevHadToken=0
