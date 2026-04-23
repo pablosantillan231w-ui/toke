@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: May 2, 2026
+Payment: PAYPAL
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (5): Papa, Maman, Elyssia, Raph, Ezra
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKuioV1fp7T61tb7YllHrP9gZ11YDBf89OmQP9HmL1azMtZpaHI-0Ocnw3sXsGgCdDTrFI6M5STkL8ifhIJt4zbD13-9tLPX-4WYoVqaIE3G8V1DmVgNiwhIQ-nQv3S0EWr_T6vn--riBT9f8X7BHYJN
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSgTke1RStrXNXjmWOHXv_7io3jo_V2MoM.%26dt%3D1775328409673
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA9SiQln4m883vB3LWVcJud7RcoODdmeyMpHqa3rutc0na_revL99MQxj21xSOUCXIIOEkzLyVUOy3dWtJqjNgWxh7aNE5hiajpSFfsMUPQl79ZKx4VbOMjMMQtz-MhsBx-9u2DKMedFNqiobCaEEQOynT2dF3qWj83s0YmqZZefQQJkRBHxfz9HKgoWaUT8eUl1qaEKOJWZS9bNvOnFjeDNly360yBAtoU6HGlimJC7moGsv7OdFm1gCjmK7GNKtIlUXd99avFw4hIhg0-d_MHRGAz6pyYVKP8iM_CkqiCXvejEXdClSQO-a7OQMVt28Oo7YXCeiKk6GK6qcnW4uacbJevNzF4r52lG9peKfyos72l2HmOH7eP9P6mGs8x_3utrYQdWBZ81XZ07WNEP6n258DTSksODdGkkFBMhGH8Oc2KMD2qae-YRIw7KzBxs3A0OQ5WwSxpaQFDzAKOx2WZMBsh0s3uA0O7p14nnDIEqlqB5j4K7fztmW__akCZ6DRC0tWuUbzsZEzgAU8SToGczvYOoYBiIOCgzh4f4LTEbOcdQWaPw.%26pg%3DHFUH6TCD5RFDNK7JZ363TJAPYA%26ch%3DAQEAEAABABQTMPl4Ew_1l2r-P69fUV8uYwuqABjvKgQ.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+20%3A46%3A51+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ad05c9e-faf5-47c1-aa80-f8b333667561&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false&prevHadToken=0
