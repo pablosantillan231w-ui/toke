@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: April 27, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (5): Ilyas, Yanis, Maman, Noham, Naël
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEO0tnshd-syNlMe3EGoOdpZgvyZZhpf3_9XAFBi10r7Ps5ptQAyZl_RXlBRchFMih7JvHm2i_O_asQL-LNKAdRLX4QAx1yebiDPg44CJ9L2EDDqejjTYYJFJtlC06BTWD6v2cVn1_h7n4j_sqOPk19gi
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA1FwYCFiZiZV68zuIlwDnQSng16mo5u5t4kUXTF4tohWd_3XbSW9ySw259ChGIUJYDQ-P7tvEfB5GL-lIk5mbcmdCQmlVA04rYC8yYvz7YC8qpdYKzf-4MTFvX77JwwA2CL-f0NKxNtA5-KkriBfCSYAN6XZytS2Afkb-PHK25VdbOU1lHInYD6TneP1mE56jZnm49pbeV2cZdCp7W0Pf6tbOz3vhRjHUJzPOv_3u41n9D_VZQlkvRhSRvMqicWQqaTEBX5-fuaHzhptdtbyQUgyIRtTQQdPACLdzDjxxJrWV-hzDnxbDyLNfg45_7eAkf-CATzcj5i1AsU_tJapuxplFtbQCtS8hikiapyZtLRL1X_Kww26KQw8XDHpdgHC1lULl-lkYD6Ls1hEx_Jw4oyWosZ3panVHeFtVYW-4cFz70pGyuPb_1988jiU52PJ13D5FrlQwOeiAgu5thvVBjYJZF3iXKxYq2wBXYcDe1cS0czJLFyHXF3T5O2cta61sK2vpXfttXcGtgzr_0HAuNVwMFRU5p3kwMYIZBdofeHZhRS-K1FV-sn4q_9YoTTKewqOUdus64DJi-2yClsYZMl3Sov-JdLm-QLnHJ1tg6PbSiOjn2NgaZ7AXLRVPyWPEkKbCIZjVBgGIg4KDDP_7ARqJwAd46wY3Q..%26ch%3DAQEAEAABABRbvYIrpLB-BtgtJdJEjjdg85KR6VkQhqU.%26v%3D3%26pg%3DVXXC2EUFG5EU7EE5MMLQPX7NNA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+07+2025+16%3A26%3A28+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5efa8c45-6696-43e5-a36b-c9a39266cbe1&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BGES&AwaitingReconsent=false
