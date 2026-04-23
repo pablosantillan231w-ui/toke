@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: NET_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): Valéria, Evelyn, Bremer, Iagle, Keven
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDjX6C_7MPxwx5g-43jb46Jg8Jz0oN1STFF99WZzXnRnjtMnR9lgxDXo5zU4u2qaAXfQQZvtzJyXe58VFeMqCiRQPGPVZqAMzwOpsikK4DP4VMhddG5v5sDUIFUx2SvnH1ua0GQnIl04BdtckRF1wy2i
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+21%3A13%3A04+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9ddb744e-4289-49a2-8d70-04034c1a27fb&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKuA1KJ13x0Y66ESNXAAF4QJJ1uKTBBwuFjie3wUGRVdo4Gg1ajR2arbOQ9xXz2UE9OTLVrYG79Ob1rl3wSXCMTLoe0VrhQ-yXeKAYsuxIw20BV7r4bByy0J8EnjcTkQaMC1BRao54F1V9oB-sGpG8fVF1NTh3VR1XKzr8aIJcwn8TVMHJlp2flbzkUQm7_kp7W7E3VKKxBltUaXbqYnuJmDDLkhU13ZK8WiNZxFJLrA8BK2Tkj5aIfTHNFDnF8gwkLlbZUCU3ueTWQfA5qgVw2oqvjsVWEa2oMAbxva16J8hC0dhwahgiUoxsvvNJOPG9-ArPlLxc1gi23bn5dKdAQVsUGz8j6a5nHJSVMdnzxDkBG7zSuD7AoffYW2OTui-vE92QuejD7M1KgEtdQXchAR_jgQe_ALXfyuO-OnSC490f4c4AwC72ejPIVKXci9_8gA-WSvjHzBoZIwLv1a2QnAPNH0lfxhaTkRbtMzg5D-3AtmvJSQV2ac_NDQySMhcx0lUMwnbWCgLLB_FVD4hTKb37rcJ9xPWqagHmmC2GPr_YME0xFAeilVIoopd72DaUYBiIOCgyh9npnEvb55woRkCI.%26ch%3DAQEAEAABABQkCldmPZIrjOyAmEQlBJXvWjKpApHEpek.%26v%3D3%26pg%3DPP55TPY5RZC7ZML6UJTBHVMWM4
