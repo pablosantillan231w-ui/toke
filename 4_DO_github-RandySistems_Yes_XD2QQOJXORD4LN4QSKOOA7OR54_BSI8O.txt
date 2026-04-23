@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: May 21, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$13.99
+Extra Member: Yes
+Profiles (5): Hanowel Mañaná, Familia Mañaná, Nina, Extra, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPN8-4DsdQLkuNyJLRA6b6pgF_iFZktwTPePLczdJN5K2lR6PQLYqewzQdl2uU3qrVXr_xqihImMX1CceggMorBNr2fxfARv4G2husFTmKiZhwGjgvQC0QmxbNYQBQ_ggWesMwBIfYiLNnoxORXqwdMl
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKJBMlHC1-6SEuxapaxpj2AgP4bnVO_cB74mJjViWyR8ZY2nNZu0fDnMgBVhhEhn-r1_Y4Sodc7jHx62B7uCE0AOeGOYe2Dpe3l-WbARXlRSJV3NkBqcoNolg7etLKOw0fXIlp2NG7urV6iQHGmCxYRy9MJjbtGhHnKPhnLOwzjGk5yFu7UsloQwZz91jRkmDu3POfMZd8PktUM6uGgt6X9P5FIkts1WCGNJuZ3uRpQ0xCHHTdi2mbXQagDguE6KhhsHluXaHxapGL3cnhRhbFYHN2qHREdst1nCGKjR4ikE927rKxeD0OlkOqyrZ2AqhYQ0ii4ybUk3eZ4FOfVMljubBgmsv68rWTB6AU_iPSQh6FkZMYWlAhbxM_uCQ_2muolzWClL-y9pTIeyDqMpSJjNNa7qVug1t35f0Nk2zGHJJhI6iBH_adHMQYDeH8seBkGC9lno2diCfSH_w7duJBL4os5WqA4ZWFhn-U-ke21rriUkrdpZ7zYlBH3EJ8Jg_OpzJoPbZtKqwpYdcfdpoXDkuufrkkOXf-imYxrWCg9OSyB1yJj5OZIu3oKj38HeREkm6leSXwoCSGyC0VH0Wnw2Dqe5R1gBDOjauHclWcvWk-23a7qciTTC5pVsRhu45q3mHMf5pCAywU5AdPQx7InXZIPfIyeECanAtcrRSovtZd4Kiz_JjSgjnncGAYiDgoM2wHV3-ARm5g7imNL%26ch%3DAQEAEAABABROvJuEfDZAz6DVCEwE7QPbANaQBrglGDo.%26v%3D3%26pg%3DXD2QQOJXORD4LN4QSKOOA7OR54
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+16%3A39%3A11+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e71a9b6a-03ba-439a-908a-cd68bce79ec6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
