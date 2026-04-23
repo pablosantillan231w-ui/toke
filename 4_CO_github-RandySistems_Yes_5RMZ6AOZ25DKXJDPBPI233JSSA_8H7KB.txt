@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Premium
+Next Billing: April 28, 2026
+Payment: GIFT
+Quality: UHD
+Streams: 4
+Price: 44.900 COP
+Extra Member: Yes
+Profiles (6): ingrid, Gabobutaque77, eduard, kaleth, camilo, vanesa
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEK-W7BwdaLq80NOBGLn9vVFg1onm0oaFcsLlHvTc_KrRYVGhxbfUEGjHLY-xuiEfGdcn6N3yv3Ok1mmc2nA9V-3hLmGStEfprjIQAWjjjfk-dhb8o1SFJN3SExQftBqN2f6QeK020xKtOqnmXwVUTdyJ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKxAxRryvFeahn3QIganXTUYeAkylj9O9QklBj_TF7bBuqneHWRgftsNvQU59768lSV0E3q8KrXgW9Y2rl7g0LQWRsR_-34D8Cztqbaykz7Iu44XuIos_xyA6wlgIdMkKcMsPqFTAIL4NPMcQ-7uPXvNP5TBr4i6h5HO-kMkW0EIe7L5SFwMsKP1OPvywUyQ0NNE666JnzGhWw_CP3l6PwuItYxJ_4wxD3K_13RrsTuPU9AVIbaJPUzZTZvpEA5I6v_dlVh7CzLmWYelgLfs5whJd66AmcO7eN3eM0mMnKIWmbeCRPPP-iIXg2_Iipx1XjVVl9NTXjvsykz6Q-QVfgmpvjIFpDHWR_ikwUQgA0ul9TAr2KiYvdCzOtDguIewMnQ6IKUiKFUP3PH46oGLp8vrw4yGSIsHsUjg0lTRTRN8OPgRgwwsmjZld8WZTCoTkXG1N4VHmQNgt3YEiCHLRUGmJLrmNl4-7DmiHjbdF6qrqfXEyqthuGL_I2dd-S9p4vlxkxRYnMDyHR0VcUw6nLmpvb0W7pyMOUQJQ427SyAtd4B32mab-XGodVwXA3U_E43yikYBiIOCgzfOpRKpxa0MPy4_zU.%26ch%3DAQEAEAABABRQy02--PkKJQAFRfDyYSEgXAdG-7sNNa8.%26v%3D3%26pg%3D5RMZ6AOZ25DKXJDPBPI233JSSA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+17%3A58%3A23+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9f78df49-5c8a-4d88-b9f6-01f9cf9140ac&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&crTime=1774650945597&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR4Kv_hCwoa8yKQPjNgjU_0f7XeZb0I7OU.%26dt%3D1776380300501
