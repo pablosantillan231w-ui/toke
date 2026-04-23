@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 20, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (4): Rohan, Kartik, Kk, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAJD06_ra8-haoZtYsKW-sBgPoCUlqGJgS0fVioIcx5NPHRQGatn6rUxId9A3qYzdhYFF_60jem8LromVhi_Zo-GVuLVPru_PaWPDQw2qzBBOfLvYaO4tx8EXUOYhfPMdTTg5-yKuUBgwr05STdCoIXy
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLNA255WDf2b_5iYpez7Jt1QfjVeUy2AhRdpiTcOpUec6qosK9a-ndnMUfwQkyJnSki5XvYTi2o5yTzr_JcZsbw0M0JxdLBHKEt50QalhbJoGCkFMmXmbUOEnW4iuQVM1L3-5U-P9IeA4HVPwmVeTPkNV5FTvfslciXYw_pL5p-jnbLDk7Tb6zOgAwciRuOrudbtBf-u0esaV4b-MDHZPWffQGF7yKThkltr3LKHMfJVQ8VHS3dipMNGfodbYSrWXR7YSJ6xPIqKz8MxfR85n0l1XG2ngj6ldwHIkLywFfiNa7jTH5ruMe2QuDGvSuM-6vhqFGfTGq-CQEW0vqxIls6OUGdDg_7ftmIGIqWtd_FLo2V_ljCnua1E5j7LMy87G-X_qMXjB_u3RGIKpEIMzaB4ne9r4nLIJNFpIBkVUf17_3vjABfBhJfMn02rTG__loAxfMNgCZKVfDhG74K8b_M5CDOOBv3n8diy-_Fm5p0efbuNAnoew3FvLf3lcUiUaBU6Md020a2ZGDZ8d3JHO41jr7pwSlS2OXdxnJheHcsy5gwuppjzuDU7GYxumQvBVIorVebc5NndjjnHAdx3MWX494ymNavwFfObDDLzJeLGAYiDgoMArtFRpnUZJ_cyFHT%26ch%3DAQEAEAABABQsqQdM94CvTukFl2aIQBBuP5YnXG157z8.%26v%3D3%26pg%3DWW37WY5BMBDQZOI6GK5EQNQRUA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+20+2026+18%3A19%3A42+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d4735fb-9eb3-4cbc-b704-b25f8c572625&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774425913587&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGaPvVyhpdiGSr1YCoogG0mA6DOiZvk8U.%26dt%3D1776689379277
