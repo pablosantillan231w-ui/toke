@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TZ
+Plan: Premium
+Next Billing: May 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (4): DEBDAH, MANKEMMA FAMILY, KIDs, G
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJ6auhgoLZDUs3-6KR0C225gABD7ZD5Zjv7_ihVljwBf4fmAFrrVySJwynqD9LywhrySm1SDGM9x3XcRk-D1V9TbRXsMvIgu66d_Yyr90q_8A8l0uJVDk-oOStNwYweV6w0jZPWdoRk45DB26Z6aZrbS
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+19+2025+21%3A40%3A24+GMT%2B0200+(Central+Africa+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=a36231bc-f7a8-4ec2-ac84-d0f5c2b44786&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA9Mk7GdH1WXAmLhaKAqS8NZ9g5y5kLtecQnw6i5_DjRQ5xmQws__jQZkwk91sakeyQEnr7S9NzTEMJ72Oew0vMV61PREVayIfMsgPVg23LdyBaNd9fE3KN7ZVznaMMb5RXbUc6eN7gDhY8oExS9m4JTG1ydKmcwpi3U4Ji0ctuHevbwoUUEVCUl-VzjqZ_XJ7NT_rTQC7-s5c4jYD07sWwDLIFCG7JnnFxPqweFeEWde92IEoxPLFzNQ2eR3GbHfFpmP0Y-00U6y4d6A6IC1AKfkhBYK_lb7YjaMuRVqUxKQSpRuxAf0P8bTUFrmkbUPTqahmkz39ZWOPKJsVUlhQx3YAhF4CLbTF1nkkRnanY4ysZmlRl3hVXsjrCXCu5FRPiten7xVj5PCHzFCLb81srLKd5NhssJHxWwlbANBQIY2XfDNab3PEUoAN_OE_DLRDeHSqLhG1OmSNQg-oWmzwmNckTqYHkT-KE_FHXavRNk5TIRuxGDty6GxQm0Dz7uD72MqXv9h0D_0B0ZML6akFshOgJayQ60U3w-pRcJINRkUXJFMYAAIhuCVb2Tge8gtV2eSzD7g-8nND260MlwM2_bzDAT3IRvK1toaGRNQ3lIk3Cm_r2bliw5Wf5Aw9e1Ei0TslNDfiBgGIg4KDB5DphGbcnRTInd_tg..%26ch%3DAQEAEAABABTRfBJDlBlZ0HPEJEs7yMCeaD9Tgw4scAU.%26v%3D3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQhhoeQ3JlRj25SZbxLwzeEHS1nWtaGdtQ.%26dt%3D1745310781944
