@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: April 19, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Red devil, Lakshya, maila, عزعز, JAI
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECqyksXCYs9N5QF7Gd9Z41Vg_b5pO9IWdXFebudw2ni9lkACMDtqYNzIOIQP3TSJuB8TPnKRsAY_ZCqtce2Fci1xO2-as2t9wcd27ESXlM3EESfbBsbsF1JV0aRA4iDgbCVwvees7EbQvL6mEk-z1X9U
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKDBOvdZ8abMWvJOnv2911BnlmuAItNR0bcuhcpVdVa-OQIto3t_O0kb1mT70G_0zIg_fgb_TLuMoUyUKvbVmWMAtWNMJdtmjxlFvH9jL42LrYkBZmYA4eMMjfVwY-wi0K-VpYe35B3Kv2KZqHAxOqitICmKNiIlYrvbyDezPb2OT9YX_8fSbiHxN3M5AJ9Dnwj9pEBI0XOkZrgWaybWmLx8rYyi93ymmee-pfi2jnulDqTbKBHwkukM4nBlQDKKWPUqEUlC3lHC3EHdYiz2N3E6AVrFOgBaECmUNzMn7n6AVKURdfMXhK7iQl19I1yIvy_76Vxax7scznOzQQwqQ5trBYszG_en406a6orY-vEmOsDjyxEv_oEdd1WugJT-u-gHtF8_4EVXrgDTSOjm8X1IApKcSJByFbO4tCUFjjNq4jcXrGzo3s8F_SdV_uF7yskwMwZLToh6ffwm1YVF_c36B-edXQb5hmUPJZVUZ9DzC4CX_z2_SjUJyawkL4EVkZLkTroCqKc8Cjc9OldWAQCn8qLGP0xE-2Whcs73-vNEBxOiSLlfa2_ZFqqtsi5vF9tDb_XnlGp1Vai32K_fqxg93eqEKCCV3fPxqlU5f_9UR4QCfFxVZ3iGWJhflZwBB3CU0SQa46L40MykdB5ErmObx_OYnBikIydYPcj2MWGsF24yC1XGAYiDgoMgLKWGdM6rfIEWrwq%26ch%3DAQEAEAABABSVbyV4SLB5qZrqT2UF5VZlq7DbO7hIdCk.%26v%3D3%26pg%3D5CJJF4MLQ5EZRKT4RIQJKFYEJ4
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+17%3A48%3A45+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7496bfc7-798c-4196-939f-029e9d8c8198&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772945994495&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKpyRhoYAJ-y5XVFdH73cf73eo3WHRQwM.%26dt%3D1774824513191

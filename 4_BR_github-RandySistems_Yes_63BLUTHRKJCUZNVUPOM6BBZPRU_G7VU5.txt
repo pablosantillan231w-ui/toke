@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 6, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$59.90
+Extra Member: Yes
+Profiles (5): Ellen, Livre, Davi, Warley, NETFLIX
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEP4aKe1xhMgWDO_Qk5sGZq1gxa1HpGIreLcVvfLTPAxbPXp2OgdeFcx6rHssBtxV91XrpfmEdsFUOXfdS7Lyvk46iNn5uFdY2Cfp9M6FeEgoAeonf0o93UvgOUYmCLUrcJHfpBPZyYzXuMkMLHLwPur4
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKABPxiik42nHUbaOkqUAwoLosFyjSaFAaShxuUOs9bNz3mQbPFfQT8_OfTQ6ZY7MLl6eZfoNiWQ9VyQk_xGDNXiWurku111HIThIW3emcV5Z1TTcDHuaJ-U0qdQVTkdPBB9tnalZzk0BLH_lPhwSRzRkn6iajGtB4qOYNVKpNXqZPrgrgBGT1XeWNwpq_VSK6mDqK3uhYTjd6FsNa_ulEMiGnD-HjT2MGahou0GGqbYIs-ySp5Xx8uq-xc1BfU2vMOkj0nwrvUjtpj21FjyhuSXhjMDTjwYioU0EovRnZhCUmEY2bjPHebKZDSAOhJrAxcO4ObaOUd4j01e1bQZCbCn7gIgf2dfIRrzv8GA4FVrOe8mtU485Nt_QXp4jtoWQlDsPALvi9_x1wEbzUTTwcwQJ5lweiWovPkUHm_moLLY5PdQrPYGBCDxfvbI_gecoT7h5UYXDU6KYyaYdpjt57UJ4CQXn4qvLoICDBq1ywRIsRlLGCNbtct4E_NtdWR3Ae0TKCF4k6ZWgzwfOWBBHenNSolAc6inFIDCj3ze-hraRDsKbycd2XRbGN7BC-W7IwJcrfBt1nOpCSGszyBopw-TNcKBTteDkruhsTRd6pQws-mENrOv0kQyGqEitMLaVK2rffoW53c3FUBSSTFqOnSPid8f_gxVa_ywDWsoGOlfOtEGAYiDgoM9r43GlWCC3257cyd%26ch%3DAQEAEAABABS9VkuXyxJzDCZCB9BFBVeHfxnSvtckXKg.%26v%3D3%26pg%3D63BLUTHRKJCUZNVUPOM6BBZPRU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+15%3A43%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&isIABGlobal=false&hosts=&consentId=a9600c73-a17b-4e82-892a-aeccd6949950&interactionCount=5&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&geolocation=BR%3BMG&isAnonUser=1&intType=3&prevHadToken=0

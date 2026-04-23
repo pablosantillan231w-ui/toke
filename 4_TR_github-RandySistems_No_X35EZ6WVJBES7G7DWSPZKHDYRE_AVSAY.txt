@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: April 24, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (5): Adil, Anas, Salih, Munaf, Wesam
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDIqlFpLtG1IQsNeppTeWFRggyD7HBUCcjRxUo96Q8yPXueU42KUe8IqcUXJNheAuWww_tVAzBPm3yNLs2eBsQH0r8kmYqxGKUNk-xhSnyUKxJigEbjpWA9-iypud4DlYM7HF7TnGvQ0RD7TBYxkEJuz
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+21+2025+00%3A40%3A40+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b496ec15-8a42-4a5a-a800-df5ee52e64a7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B27
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLsA923q5vIJ6kiIIM8fqMlDJdaWeh25K8fIN4NbDuMhWzIpIB3kxYRi4VfLyZO3ok0xs_JM2N7cqWBWY19OUhDxjJLaGyXVl6YsF6kNMjfeBv4usnBOHt6DKbnjquA2rO7msTG_0K70eD8O_62gZ9BJoBKbGIhjF3wVwsaou0mCSPZI7ldRXbPBIbJIGXxAyEHQ5x6uY8_KbB2-Q_NFXXzCJj5thyFCjm_FUKjPSJ8wyhstVOwd7BA7T5Rp38Nn2mRQQFjpOL9RiOQ10adAcWdeqZpJWUSc5RDKV0dReoJd3hh4LEqrWqioC_68AgsJa9ycGLGdCpy8ZzlDT6uIoxx2xgibnaWC_o3rxfxoKCWyYbZvLQi6qkczugWYBmWbCWjZ3F0_f8kS7ZPyBM_i8ceaV-0ctFgwTNfNtkmfE8U8RZ14mt8lh1fMJeXyOry88IOPicVrYTmITEXVedj2QBR0E_VNdsY9kmev-M7HHQN2TOSA2g5DeyXbP0rYCx2Rh32hDgCnoNLys4WxwXv6MT1NFjUF2qipp304jsK2wa5u8E-KyBvE8nDcA1IBE1BjKEA4ACVyiKK5eVThX0Bfl6bJREgPpLK2zSrd1Y4PwhOitLWm___Zn2wgBZnwyYEQeN-eAXjXAE3J7DLTpufYhgGIg4KDITCBMnLnyMwtuIidA..%26ch%3DAQEAEAABABTuwtL6vf68RTFjVhzO-_32ejWOdktPLrs.%26v%3D3%26pg%3DX35EZ6WVJBES7G7DWSPZKHDYRE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSR4kmZD4N1oQ2bAGwR5QnurG0VNgVEw6E.%26dt%3D1771952968400

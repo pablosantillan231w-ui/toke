@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: April 30, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): Muthu, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKMUjwPFOCD3Lixv_3Hhuz9g0u2UGwxOoqEv4-kMPd403nwAGbOmS1K9442hOHfwkYvUKZE_QMp8moNL0khpsorUKSlr-3acWTTCAjFdGJyFM7xRpdxYctmjm4lRUUpwmoF0IczNi8SM4A4ssL2VjlAA
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLjAyYNyObUZUYfCWk4L3xKAvidtebCciknS3Sd2LH6OgetdPKKuOWGVEXdXUIMHImNDopKzSBLUZGmJdY8CjJV8xvzMSxsdqBkLUwKZzMtwwsCvW8OfFxV4_zoNFfUeJf4RvDpO6gyvZhzkZ32FOmroDHaVw8PCCDGmxXTcx8GeDhL7YrKdFYitG1WK8zCo2Ytg0Sixxb84ID8OZIz6gJBb-Q_EqTnuFfzoZSdnwh642cwUGf6A1wQrnNqZiwjhNOG-cJM7tib6XA67eO6kFL05kSFpfpqrmp8jyBjTlqDCJCFU1FVUsaGYCh82SeyOLYn2tRtZz129IlGKNIYvkJ6IU691PRTKvV8_7qeBPUsE8SG9znc4oueTfMB9_Q7qr9t9pBEC1afnAg0PsTdllU-okynBj2ejgnyRo1ybwQVoUHYFZbUOtom4ASgipmtMNFVPHccBycp9PTkJ3MyPPHLeprIVP_dj9chHF56csSCMlVjwLvLKRXoniOWhPkjKgAvx4j90tkEfk1s7p2PIHASWxAcNSbDI9ee6J3uWa4u4lVxJaCxhtOxStwuDTak158WuWqmeQi3DTIDLL9nGxQpTF_RPlKoSMu9JN8ywfdb8yux1_fsTzBB-U51W5kMNc7qjCoW1hgGIg4KDDIAkUTI-Eo8_jWJ5Q..%26ch%3DAQEAEAABABTfe9NV1mR83bbbbjQ6X4civYvI9y942bA.%26v%3D3%26pg%3DRKG3NLN4OVGK3LX6S6F2CEWO5I
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS62x37NrbobhvVp-KxYFXAZ3cZRv5kyLw.%26dt%3D1775276114466
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+09%3A46%3A07+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ce0c4d0f-dfff-4f79-b25c-9666f479464d&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

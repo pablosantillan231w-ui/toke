@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Standard
+Next Billing: May 4, 2026
+Payment: ENTEL_PI
+Quality: HD
+Streams: 2
+Price: $9.990
+Profiles (5): Kinpin84, Rosa, Andres, Vicente, Anawis
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+09%3A44%3A50+GMT-0300+(hora+de+verano+de+Chile)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68effb00-7819-4354-9ced-239588bcc222&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AhBQ0QgDf5enwWSNViRQYNX9MeYZDII-qN-uzFlejK3DO7YtJz_uuGql7zx3PCnKTQ2BfLPPHnq52bcl2wxXl41cUn2HMkNbW000-X7ROwqIEjB8MM1Nrg2oA-aF4-hKzplDsNFevgbinn9v0n1flmt_BGhCdR68J0o_r4k1h1e9gYBxh9Vx3xMalvuwe6cT-4y7HCnqhkedF7O-5p9TM5cPKVBROYzvzt0ZG1M2wRL3SwuMxNa3LrcaQVyqbI0Lb-BvTKhD4g8D5diwW8koe2i2Om00UJzDgkw3IFkWgPoGLMZsHPkfv0o467SjCJ_Kzip1AsBx29qUOrHqX9ygIyFF5dH0nwexQpWpDujdZrcTqsuY0NF3HgLOuL-DcGl9gs-_wKf7ntG65t3Z6y4DUuzuDLGUBcGw4R007igTWlFMUwvEU9XZjYoIefbMxDVE2hp08OLP71goUCuNfEssDA1ABq9lGjqOE3s_BjWAYK88yzysMzM4AHIJLxgGIg4KDOt6whhi7pFRN5b5PQ..%26pg%3DWURIRFXVABEELCJCAR7KZC44ZU%26ch%3DAQEAEAABABT-VZVwSxhq1To4CcYl1rRXld5Vxw6DrJk.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQTZK6GuvBhcOvmACR9mVVzGbH6dYAQpI8.%26dt%3D1769517886488
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPiL9ZjlBfN25PpGeWPHH7BgpuSdOID98oqIKkXZvq7T552Ztq3TUj6YnXwHDHEme7qYd2Zoqou2bbmRJQtDGbCtiViLyey0PGvUZRKw_5Mpwxeyb3W8tkyDZvXYsX1Sc6W5uNXh8oDHJSe_n1xwA5Tp

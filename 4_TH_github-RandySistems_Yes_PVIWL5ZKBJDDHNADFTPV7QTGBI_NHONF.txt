@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Premium
+Next Billing: May 18, 2026
+Payment: DCB
+Quality: UHD
+Streams: 4
+Price: 419 บาท
+Extra Member: Yes
+Profiles (4): ??gracyy??, ??wassry??, ??Kae??, ❤️grizzly??
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOFHvKuk8k31gnPBcY5J9-BgcWppha52Eq3CtHNrx4qgo1xmKqkCYqabdq8knxoCcFBCHIlxXdAC465vevqsp5R-SAYrKztzVmWqm7AxvBduHFHTA3jw6QxZNqPhTJ3kPNTAqepbYI06aLdy5nqKZ_gu
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA0_3oAG75AlDOJP8bTcQHB-lSHXRvzM2wm4WncCOAMAXCJEKLwGHbC_tZB6lGG7SDOsZHkDg148o1FPRzct6uRjXK6WotPGLgVfNm2_xTK0FfEUrK1BIauCdlpuZbfu7auJUFh4kiV7Hh36u2rqFiiysTn52YAhwtFd3syeliB3U1owI8uhexTFkHxwW0KV5WoY1p0kbMSeeMNikM_PuTV1QQPNJpTBzGR3YliKo1cbvZ-tUcGd32j8HFoHrs4D4D7Kc8gKZFNp-KlEfebGn6bmpzL8ol3Ga95XXPTXw7Mo1vj4Talp4zWAaF0ca9U4BoSJt09cCw1FuoThUjob57cREyqgyaK1YDimGndSaaGRCvhGKdWAJVxgUU15TRFRVDurtp_fnQiWQtZ2oc0GSqljg4jOuJ3UCueRRam5CAs6mlrzX5lJ4n7MGIB4HtYPlP3ZlMxzVEuS7qBldyit_-g2n0okPvWv7_Qs6uPV16oWs39LVtb-j0vho8vyHlbQX9kOVGAYiDgoMaPlMBuWYaIfoSH-R%26pg%3DPVIWL5ZKBJDDHNADFTPV7QTGBI%26ch%3DAQEAEAABABQ8JRDmn1Sjx6IFHZK7_-nwjIVJ0_4Vp_g.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7Rmedy9XJKP0y34SH3XcOnIJGZkwCfzk.%26dt%3D1774701384766
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+06%3A21%3A29+GMT-0700+(Pacific+Daylight+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e4915f9b-9575-40dd-9d6f-1a01d07a355e&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774701367806&AwaitingReconsent=false

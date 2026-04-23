@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: AR
+Plan: Standard
+Next Billing: May 9, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: ARS 14.999
+Extra Member: Yes
+Profiles (5): Santi, trini, Edu, Yamisss, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMI41t_RHQ12ntF2wKb-Yudgb6EbNvkk_1XdfOWdhoCa2HbfnvwvHYC-XxPydhXs8_XbexRmJ-xffYzLrcYMlzsGCh4-1D1taQje1SaHD3dpg2HziesqVr7FxhxULOoNT7B6zbHeG5-ZegFTI1nBwaiL
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK5A-MBqDGLn2nyV0x2cV7okMdFVWc_8H_Pz9rLLp453Pb-nsJadl5OPIp3t-aBDNCgtnzTgD-0pEPvZleyXrHOK2BclMIWIGIzUBnsuZqUkwGtbcsUsZAcV79b2nWwkNZZm6d84Q7qddBgdcngaHJEBQVPiHhNzegdDKBYWTZLthsB4cqKN_h4ZAIF8FkCY91mxVh8nWS2H-3xLlNbxV20S_zgUfj6xS7T2Dm7EFc0N-P10OrlUZHNQaB6YY8kyhaA9hT7L8JBMTvuEf3LYL6dw1IhbSkfSVurw80cBReBzWTWozKOAKpN8BCCAJcpyiTx9nl9MaWYtw5b1A2gy_bf1Uxq9G3eWqdfQnt8ZG22qf6r8IiYWpwWivSmMmp-NUMG-T30TU8OPTjB5icTwuYKvXdOshz86h2igI1LwyuSxjL4SLyRFAy_kw71L_cu5L_n4WWmk4sQQCJAQqpnVrDAYa3OkrNEpCwM4ksiETVNg0ltZlilru17kJzfoBfgro7IyOMR_dIzrdDm4WrWGUMm7fPPmdBmfIqG0xxGfTTl5gqXj-OCLzofzpqiWXN1KgZGqPwUY9-eARRQMxgGIg4KDLrrJd5J99TrnDDy0g..%26ch%3DAQEAEAABABQStfMKi1-a7aNLYFxa5oJeLd5eNDm03I4.%26v%3D3%26pg%3DYGR3WHJDM5C4BPYFDS3XAFCIVU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+05+2025+00%3A29%3A23+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c054deda-20f6-4ee6-b754-754effc24199&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BRJ
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYDpMYF7XbSmnJ6wQFTCx4Cag79lhqGvw.%26dt%3D1762313365156

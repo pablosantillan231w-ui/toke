@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: MX
+Plan: Premium
+Next Billing: April 17, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $329
+Extra Member: Yes
+Profiles (4): Ana Luisa, Lizbeth Good, Alann, Meño59
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOwjcRcYqoYoloIF3Z5st0tg0dgqA6T1yf7d2WybU_KSpWCMFaxs2kMa68JfXFzbv9PGaug9MakLQOVDKt0oi2CHpYeaOiY0dKWXLOHyyS5y1bj66sZ1fiTLEa5TzSpZVMLh50CeSJJp5lcBUIO6aNB6
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKzA_qEMaVXUoAfV7APHkkX-JTHTY3zFhbizhIYm8OweQu5UaAgXMFg94NOLOpRWWLbQ_B58q7YkAMqWhde5KJJBGU_-wi8pZwjGVq711sMis846PySFozOaOwNSkhP9tZQdSwFCY0BN0yRtHf4edV0beDtgKlq57DWqbadNQ4tgL4AEi4mnHY2MRTBgNmDVctI9DIhc3kJVHhg6NEPH0bXanfu0aJFJ6aqWJ_KF8AsMeDIoHRaCVlQByzs4BpJh0DJzALcLZ0qw_oQ8ImUmu-DCYo0pYltUHnkh5tPa6OTXBJWmwCkBa8srQ45IiNxyRoUbLR4CdbkWo7tyl43OXJKjsKe2mQ7mpTkYkCl4qPdUu3c57RTvcRNPNz2m8X2-XGgOCp8ER8UmHjSWK6-CcpMwU897kKGbzPQpP2HVssbttKPj_Kc1v_acDrG6CNYvDBB1C4IDbejZLQSLLcOoOylthDUQgtVJdiV_EFfH-4CxeX5Hg-dPxbSJJMEiticJ3clTePgqD9BkdSeL_YdqKYFb1xQBhEIjvkuToEF4Q2xZ9q1heLN1QRqcQxTbk6v9O9mU5EQABgGIg4KDKjqBxLlUKVT5sgVQA..%26ch%3DAQEAEAABABQ-WZs_EBmVmV8CtNvLtQsz_8_7YbC7Fe8.%26v%3D3%26pg%3DJM4DE2ZDEJDOLCR624BOBQXAU4
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+10%3A44%3A55+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=820f7de8-3a07-4952-8758-f0d27b5c33b0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770506952677&geolocation=MX%3BSON&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZ6cTNna_8aMbnJnK3L8FF2erSJgiJVQg.%26dt%3D1775583891874

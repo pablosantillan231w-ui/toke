@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 16, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (4): Ana paula, marii, Daniel, Ze
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEB34DOkYUg5Nmewcv-ycZ_Vg0Yn4Bxf16ChSCJBB_eLw2LFwZ3-jGFi5e94DoXIRvWw34WaPizuU1MSSmJXvlF4ve9y14wm4RNv0CMrxNuH9WfHti69zFgWXkViPOtV5Gt5n3ptwVz6Ep1T6nChNdIMU
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKEBEQDn0_aQ8beL5klutV8QJprEAvZqrlL_vGCSaeKkM8Bob7GjnmhzcqjvW54EEaWL4VVAoXgUVbXqkSED0ksMUSV342ZNhnuB7NWauOM8WSwcsQI_yvUHuLcCglRrRYCh2EVRcfw61QfYcu3TJEtiTtxziXUYHWr7BN9_aBY0xyWuw7elgCZmfllVUjuwXbvCfF4XgBqcuM8Thhq2fKAASeMTeyOQAaADqXXN4b0OvMid75pnCSasd2lPxjuYjXRfA63Lc92el4v0DVWkSjzJ40ClwZ6B_Atg8FVBuWP6BylCcUGo8qJSy8SM1LS1kmzjMYssEXEdQZpNWas-I3s5nDe2dzNXH-7v3sDP16ep1GaLBVuz7Lzs_t6ooN_B8LeKoaht1Qx7b6oNp8ZV7Hbw5Ls-_n1ZBhYsH_d4HJlS5Kau6Rq6NwmszSvraMRQnxV8IegUloLxAA8PYGXtyrDdXrU1fjFjV9axRPVcfBOwWM1FGDXFXN7QwdDgX_G88KdbEKl15velX_U1UFmL6P-u5ZC7Fs_i93u5EMM-SmIrNv4fluMFzNcVQWRxA5W7S5FMua33E1E9-Zx-UNoOnqedkH0rfjDOkTZtXejeLLvOdB3-mVGsrOPdF23yxDhg8gK-AqRRu231nTDrhd_0yIiTz4JpVyb46fNFpOgGceZyiJrQzKeehgGIg4KDK6OJ31HDPSTqRtU7w..%26ch%3DAQEAEAABABS_WWmveqsYF0yAwdb3mq3kKbiIiN0Q6Ek.%26v%3D3%26pg%3DAQ6ZDTXGCNDFTO2HHW4T4Q6CKY
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtVQPohd_vOI7CcH5loF_llqO1uEjFzmo.%26dt%3D1775342648336
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+05+2026+00%3A15%3A46+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c1655ddd-aeff-464d-9718-dc590adddf9c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false&prevHadToken=0

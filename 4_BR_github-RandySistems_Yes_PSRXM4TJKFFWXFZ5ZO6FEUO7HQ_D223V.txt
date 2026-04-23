@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 17, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$59.90
+Extra Member: Yes
+Profiles (5): bertoldo, ?, Raquel, Mestizo, Ravi
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEPEBJJdpkOzMPlP7etSEnhgWMaWXHVmy_cyAxJO3p4Wy0GVJDmX-lUIjFXIuLdpLvDDGgluLfFoWnEEH8Hxolu-fXBQkbXBmCShiv3GT3fAtmj4Pg7FAcPRxEO-Ci9hybVF01WpCXDCF02BeN-g7G_U
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKYBFIh2UzyqZ1l9-L6Zlh7NxxDJIHlwAYXxXzJYyicL3RW9ACFNYFpxhkZO5wqMQCY6_FvSulZ-aodFM1QjTMgnmcjWWz48QpWYfTjdXBcw8hTVWEHgzoHC1besoL9KiRCJR5p3wJa1aAyDAwJipiwPRHR7TVu2djU7jPml6A4gbhWTC9M42maV4ce_lH2qRqUQ-OjPeJJ_KEVcybFLuNWhEQpx2LMFbktNjlhU6WRONf27B29AXmP7LSS8AMuDRJ6b5OM_Siih9R8gw2Eo1j0Pg5FgtS8bCFHZMn70KinRsAXLK0LxM29vxCZo7l_acoZviVuj671W9iykTBKh97rDMGBnrUDtBXN-8DqqOvfhvQipJJQreMgmws7H22JKDXVWTNwdeuPhY7XjcM6gn_XgBDv3svG9C5v5eZs-hRkBcIjPV3fFjr0xy2_NVhDebH3bHehRW7fiNRJsXitKsUrMGSyzkIqvHQSVseaeVEX2R3y_W93EunOHX7ly1qfKeOtg3h-0VYvI125Y3IfPQqZ_LcKrwtCNqMgZUC75EYs-Oid8m5f_xdnqn8D-nVPaCddZNslyEpLbEndbhMW4u6Fi958dHnB01VSFc38sWwk_sy1C2EolCofI-zkZcVIh0VjKD0JkI8k8dtOWpZ_HIwRgjNBZlqGzXwCA_v3Gdkrw0J5fO0GuYNwTmvW6haO7tDKyHLLhadZ_aK6GAYiDgoMcgyV7rTm_XfJ4olO%26ch%3DAQEAEAABABRBV3yv7WOudg0mOZxApHCJLuoHpFxDReo.%26v%3D3%26pg%3DPSRXM4TJKFFWXFZ5ZO6FEUO7HQ
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+17%3A32%3A17+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e2efdc81-f2d7-4b65-941d-7e3f73f54198&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773981484971&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFLz4ypfMfTn39URirmSVzeoaiQzi2DWE.%26dt%3D1774823520858

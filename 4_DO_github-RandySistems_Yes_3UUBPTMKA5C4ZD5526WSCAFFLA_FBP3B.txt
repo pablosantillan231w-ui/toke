@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: March 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: USD 13.99
+Extra Member: Yes
+Profiles (5): Javier, Isaaa??????, Anny, Yancarlo, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAyGj7Ex7qmyGVVz70qMJyRgLySCmn-PQpIuIBbtaGNlbO1397NX7CvlTb7unUOgGEhJeaSE3fe_hEc4ZNSZs7-Dcc0EG3qCnZ_WyE_XjiEjMj_Xjf4nAjdRpscDc-cjrT8PE_EbrnNHni9F7JHfrr8X
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLXA8pDDE7RRfHxRwYpcABov2PuifTI8Eygvo2nczDGivuasq06_XjcPTxVUkjooW29Ty1-aZNro97K2gKqhDTL8R9ExuPgtads56b2Yv1_1BFya3-2iJhV7Lr17o0uYqvuUKQCqg4ylXTPdICMMHZ9zmzPc2OkmLwX93904aGjytRowFHhmJxN9REVJ2hkFjcn1d_VzjhvYugsjAD0zKjloqmTq8hjUGZCkIcPI61k-Px4VSImUIyB6_RV8PwZUlAs33dPKdZROSbi6ZV5qe2_AR_sMSgA6DS0pIt-ZUJdms59HBzx4dgbnjOeu-JLC5kvQWVA-1yfMVvoYBS1dv7Gb2EiYnyCb3uC2P4LxSol5DWr69WSJmFCmibKEIQ9II2rh-r5juOl2c6UM9RV4I2N6qJ8Yr_Y2_VhYzdubBP3I3rXpSwC9Tt_AXQQK_W5zYHIKaaQvh8DKloXbzMdQiM3SeDKQADxF2rmkX8Q-Ucr016RZVNKQ_I-ATtg8-EHOuHuLJwbYVepg5pAwvARhe3FGox22jampBpzgUzejlsFzBigNpXzvEZwLXH9lcL0UtFrP5PLATLs9nl_PWfm8syl-53JBggk9ZyOIAQNQGyx37Xb_EQGLrIOYRgGIg4KDLsHRiYuYhKGqB0CZA..%26ch%3DAQEAEAABABTD-6ILMgGgcaI3Hspbk8EwT1CFn5kb2qo.%26v%3D3%26pg%3D3UUBPTMKA5C4ZD5526WSCAFFLA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHN6kcQNi7j4dw01E44BumcG5Darsaruw.%26dt%3D1773984156780

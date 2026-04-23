@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CA
+Plan: Standard
+Next Billing: April 14, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: $18.99
+Extra Member: Yes
+Profiles (5): Muds, Nehita, OJ, Mum, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGCoaGNiTZDvOVqn30V6G29gxXUPkFe-We34zmsSlYkvkn8MMKlwkBpstykP_5eNwDY4y-rw6qmCG0Sa9mJILWoBXiZKK1A5LUuTnydBS1gUkqYDuCGXZtKYudenE9fK17rp5xwh9tOATqrTykzY4EIC
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+23%3A41%3A40+GMT-0500+(Central+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a877fa8f-64b6-4f57-b1d1-82511b9c26a5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772080603283&AwaitingReconsent=false&intType=3&geolocation=CA%3BMB
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSaLYsZNGt05Dw9Hd_Oxvx3Sfs4oPH1d2Y.%26dt%3D1774240885853
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLxA4XEEsp6biUV4YrES95XA8syT0KXvrojQ7GEB7ULZaR5XB-FyIbK83ywERHA01GPqQIVMzpr2ZjMyF8rnA7gPkswbZeHld55-g_gBc5BGcZhusOt_FmxCJk9cjEcbA77GlwdkAzqZuUs3Obr6GioAG9T8H5n-3b4GRshFNE0RtA5a5xkP05WIWybvF_yh15MFiy6zjI5xVazr7w1lx7IDJeaeM3gLtl5IfXl2tMQRabgQrdnptgZ2hAwfnA5a_kU7NKyMFdYKkYJZt8G6wC8Mj3AOG0GC2hkQqX3znfG0cEv6DR4IFDbb5Yd3qVNB84heN8VbEOpabeVNgMS6Cn-dPqsgP3rgyFA7nsTkyW1u5DrYFLuHKsQ0irG-tKrAmhrsK4HhNM_GfLzkKqiuNJ8mXB9IBHqqcISn9_ZdVMXTu9uPYWYY81rMUY_dMCOy_xDv6_OhQgiwBBh28S6H7WEMWXzHN0WO-WIJWipPfU-izka0JZcNAhuJ1_TGKJzCMXIJ9uAYbMzyKOqxDV_7f9GZnTC3ahKYndHb7woE2-tDC1YhnxS1ix8un_k8P9aEqYfxdhw--VP8-rVDzQVmbSIXzdCHvR2P9-CXWUHGA5UR3jJQpEeT-_R8o4oyOwk5kJ57KrboreCD8KYdNrMTLM4mEqrGAYiDgoMOQ5Kajk1-ZDVj__k%26ch%3DAQEAEAABABR5sj6zKelqhRhCyybN8a4JJe08UPPFj4A.%26v%3D3%26pg%3DPLAUJ3BVORB6ZLO4MCITWSCH4U

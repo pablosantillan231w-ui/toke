@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: May 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Extra Member: Yes
+Profiles (5): Yo, Visita, Wilmary, Dulmary, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEObyxQWnITNCK94Y7eEDqoRgbAA0Iu-9dGfzEQ6cIStjh6nvblDwTa2oRHGicqilp_4FB5uaz3l0d3-_xa0bZMIeXKPizhbZuiwG6UKpCpORN4zgotiX1YldQSH3A8t17Beq5b1b-aO0D7skhDKatN3B
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKtA0YTuph4DLCJVUy9P6sBHyNg_gqGr47nogvLnw9I5sfmal5xFV5tP7SvQtKx_LwaRmLQ2Zfdq7Jh1aPzIP-AqNkpQiyYday5p-yMBCaLJ4SjzFOD29gKSLEl_9CKxlzJ0LuS2RUOXs73VPCHfBFmUcul_g5Roj06nHMfVPeqVbo6I-1EjOBEi4Wmlu4LRwobhvnXgfIsUY5dS3JUUiFWcYNmMRScan5h7gNvAJNGwD1Q4LPy2LJzTbUiqkFNeKYDqscPvelzoaL6lHCzhZehV2QnoqOvYA7cVKg8INUeyHMCV9HbdQwP6QduxMwUio_lHys9RP24s2e5zg4pKpc_ABsvsFhgCiyv0eOUmXqRVU7qEb9fS3aR0OBPP4WaNn2WGGqx8Uz5zgRnaBdxtCV8s7guBv9C0xSSSFG33Rk9hFl1n7JQcuJhWOBYedJKIMuDWBoTTUD3IR0MXJFWzsa2ihcNX8HQuxsaeICTV1keXpFcct_Ij3P99-6lfzMTBSfUKkMw1U452GvtX_8yMZLiEVlBc_MVsBeZaBjoF0h7vSw4UDvvNxKMRQVOm03d2BgGIg4KDGdEyjoybGHSm-ujmg..%26ch%3DAQEAEAABABRwYap-JjBeI4Bz9gFuz-kQbDw4_daosAg.%26v%3D3%26pg%3DH2O55KJIHFH7VNXVTRBS2NPNFM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+23+2026+13%3A51%3A12+GMT-0400+(GMT-04%3A00)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7583af07-ab59-46fa-8c27-6a280a33ed24&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQdK8w8UxdV8ea7pXTGV93yfwV0gOl7F-I.%26dt%3D1769190626282

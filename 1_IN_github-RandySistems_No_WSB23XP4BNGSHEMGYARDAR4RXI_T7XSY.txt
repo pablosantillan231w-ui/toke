@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 16, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): ANUPAM -2001, Kangkan, _Mahadeb⚜️, Pulak, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEpRsbUI0p8OuzmqVv7HamVg-iNNCgHucI6PUIYiIyynqDixpiRybETa6TFDy97AVlOkSqNOOYcvpXezWjcWvFCmTHBRq2ZRnBArrA_23lJK2RoD27iNCk1A8vdtHRXvSi3-d0-jZkVuFJl02nes9fxP
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSi3djuLPSo0xmpb_7_QWD3rqYl66tHxOM.%26dt%3D1774798144492
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK6A3GxrPhPEJIYvcgbtk3kMaJzjkIk-IegjCHg3Op3OZit37wsPsuW-kqcU0GCtlvh87wujQPkbepFCdiRMcZQRLmLuyaQw8afjhTnQCm2s1L5gnkAilwf4v5nCW9IlepJvdHP6T06tUkmDEoBMqmKJuz-oy4_3G6qMvCWSExkjHEfMoxShJjwfIoOtMAWMK4HSqMMmA1_aCAaRn-Nrgaqa9tZVwtPV-fVI2yZXBLRdlgFErMTaV89-5RpSQ7mnZuCCbZK67sgVE5guOne9WksL1Uib2F3Lc1eSyTMN4lUUD_NV-ybfbaUMerlNhsdNYR4EOqS2l_S-tFY5PGmkD975GtTUPLDB0zijmomjB6pA47svrlKhBSUSUpTFE7vgRxXswdLTY860SDAJWXxmpdOxxRYHEdyzJ7ZBG8091DG6WJrQgLKXmMr0ucAbhJOfTqChvMmT2SIgHSvRmRBf8nL5FhJ7gqhTso09-9n59WZ-t_x3TmdooMm0UzCfa4BYt5Bzm3Y3lqUkIYxaxfoOdEyC9Np2hhLHUcx6yMA5Wnp5awQc1dh36abSFryOMMGMGEwKpm84fKh6rOPoLYYBiIOCgzcIDGSBiva5JZxc6I.%26ch%3DAQEAEAABABTlHeGyBvhjbZF4b7bIcVbUyu2HnVj1vdg.%26v%3D3%26pg%3DWSB23XP4BNGSHEMGYARDAR4RXI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+21%3A02%3A50+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08f19b57-14d9-4eeb-8244-f1c80e6438b3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0

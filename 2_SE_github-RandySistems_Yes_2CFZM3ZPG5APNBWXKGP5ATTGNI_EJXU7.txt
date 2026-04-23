@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: SE
+Plan: Standard
+Next Billing: April 26, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 149 kr
+Extra Member: Yes
+Profiles (5): Viktoria Holmberg, Liam, Jesper, Gino, Isa
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMgdddOhLPHVKzmSKKbhP0xgHSlSdbGbKyROPVGb2eK708X3RngrJx4Le1NcTcfrOR36pTUR-MRcIQHJGQGkIGHTvIoGCKt09EJVlqFblgaYyo1CUfn6uIdtXwQv1oM9Dy6cFtVbXBw8GwbFuSl5Faea
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA1ZOKBx1Mag5mng3U1ZZQcxElpLeBA8RSZY8NusgyDcpA8UX0fd43Zmmo9u4rqXulr66_Q87zLDd6WmNLyEHXbXKgK6Mt_7lx5R8Eztpw0Ky8nlxZxCSfeU6k7OjlxWFe1ZpFXZ080ipZJNcVAjAmbgyKEJCkOC5LJAAjvSLBK6AE27u1A8ilmfbO1ntPY2ewRsjgLHCOzwU6rb1yjL0Tbyu5BLPbZKOSGy37d39eYVpwmZ3gegE5z1EFGGvv0ItgHx1QRg3FqLTLZsxa8bEzn7ey6uq6joMDsMTmw5PnccepaorG7SxrRM8Ra-oLzWN33NJ5YdJLeDc4H7yeGWBUlWSy_9Vz7j3BPEiGmUthRZAHWK65DuzRvzKzwKR1QCwcnx_JHENhJKYuw8FG5yey2G4w65wGiYNaseJE2ND9CBO0Qqz7E3sDl6N8CH5Di5d93FDG0vecqKiN18dQr4uJzMUDwEgbKtjLFBbn4W9LrGJZnfSdI2thy29Yji1pLVGqDDV2C4oA_SVsubEp8n3fRV5EmsYvaz7fX1WxTu0n_HLwZph1KFAFkhnv1acPiBf_YppSXil1QlAXx7B0KxvoLG3buxMM3KYvm2BnNWCcoiVFb4fMK6k4JipzMMtldlF_6sRs7d2ihgGIg4KDHneoZqwQrIkPa4poA..%26ch%3DAQEAEAABABRahbR5r8ZyYV4h1af8wtVCTAyyS7nqifY.%26v%3D3%26pg%3D2CFZM3ZPG5APNBWXKGP5ATTGNI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+16%3A43%3A23+GMT%2B0100+(centraleuropeisk+normaltid)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=14794695-c410-41cc-844e-cda4aa66f83e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=SE%3BAB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRjPy-60JOrpXnj5_nv2CCJE2fJlcmQbAU.%26dt%3D1773934993354

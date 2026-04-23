@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: PY
+Plan: Premium
+Next Billing: May 20, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: USD 7,99
+Extra Member: Yes
+Profiles (2): Ueno, Alex
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBSR9Z9UczvQ6jFIjee1s85gC50gTpLId8uVzaUVpYKWxN7ADvz4oAGM6Q5sMKBOCqX5852JhWJx0Of_Txiy1ohE_C3LXW1zCLvtSTCA1lSlmMkPf1u-V7jNdws9OQaS2d6IH2f_4HnPwPr4bEE7Ek1d
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA-Wuj2scNnLGqTHl4ScS0U39Fuzcfmwry-tsyDtaJsyXen-qLWOSYCSLmnNizuQii87bgfzpdZs2LKZEG2yE1eUqL6Ytdk7Nddw2gFYwaHIttVICn2ZoCKGIHobIHJAJhcv3mL0t2ye4rDQ8Td6yLTKPoevz21mN9SC_gHb5l3MfH2_z84CQEs1PI1N8r1U8eT-_zUWUAF4ehFu_lkRMCffHKuguVD8gRauo890QQJsyJtsO4aluzanGVuZGlJLl0LBWxcwmTkhPax_VBld3KAy9u3CjXtAlS1pUTmGIQuqD4yqsguzvxfvepreJuQXlSz4_tXMm950ZRNQw6tft6iHKZI3zpqE9wFSk_UoLe_Ggv8ITYBEi6Jx3RnqFEJ2McdXQk3_lBZO2k6SjGH8aM00rRfErrpzAWlI9orG7f7PeMpUwnJdANMynwsllZGJ0g8ReAgMMoPArKE1NpGCtArtnqWclKNoNmawTzyH8pWOsogKCY7teD7FpL6SuCIiEL45tVOw8H2hAf6lf1LPiGAYiDgoMWXK8TAZEgI0pu60v%26pg%3DTIYF5F5X6RH6FECZ4VEKSACUSQ%26ch%3DAQEAEAABABR_45r2_PeKVrFYQhTZ00xzJU4kD6pWnuA.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+10%3A21%3A20+GMT-0300+(Hora+padr%C3%A3o+do+Paraguai)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7a790cc-cfe3-4a99-9dfb-268db9b1c3b6&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQq4en1zs_27NJeLl77Z5ZXK7d89CQT13k.%26dt%3D1774704075809

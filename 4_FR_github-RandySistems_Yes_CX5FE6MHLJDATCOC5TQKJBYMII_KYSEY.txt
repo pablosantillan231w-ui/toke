@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: April 25, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (4): Aissa, Reda, Amira, 5
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENN6qtJqB7IPnLQn4kxkJzBg10VB5_Q0Sc-_x9EjacyG_E-ldyEZXOwPrLnt-Abw0QqzCwbO5b1CODjqdN2FK_tTPks4ETfYr_OMmZYaitxrF9pTa0mxWAgWqRhaRcdZsVICBdTpVesxH-6-s_9kYe9g
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA7_bTKbfJO6V3Rj6NpZAFtcrbNrsrswux0NJNZLJS3qua-Jb-l8VjagCjRWMC17ccF_5AyS1E90_KUTNPawZq_g3MJe_81vnvm5qG5Jvdg90ixFBEQ049s-4jKFnBVxKMHufRuJQWBvUpyhKuY8Xzc6wEQnxcCBstQRQYJIlZYGcxHVmKBsJxA8HrJuAzTKyOIxATiNg8r1UnLCh_457IIWTBCBnGTsVU_hb03ocZxrhTY8sD_meZuvZIYcWZKjw6Qu_f5N5nflNtorZij6GO1KWU7Y9IHVDAvNIMYnk9be2gdrZ4m91RsDnBl6-g2-1M4a32PGeRK3CrCKpWSR-cw9I-qxP-xqONYK02-FtUFb4y_5TY_CnO8rUYCAp5ade74ZfBJL2OMXJoBFJJKFLZRRXeQKdQvqWdohDU_6eNf9yO-1fOEHfRJGaMTH3Q2z33dlCu1Z1y2hQdXQjwqJudtGm8u0nDNf2wAIojOeDYPKUYuR1hyl2OQaXvci-Vh9QuYISIeL6_Rt7LrJ-cPAyrb6R1sFh3xt-6bBP3yQqjOUloe-F7QPwvkAxirki-4UjTmGoVibjuHvUafPV5__BjLNMpEUWCLERZNR-l6ogl8qBoZfAsx-RI2WSqbaY3QIDDdXcjL-GmRgGIg4KDBKzaRlAP2qFlKGlSg..%26ch%3DAQEAEAABABSJkToRmraZi-IMv4Uel1IrqOHChfM96-c.%26v%3D3%26pg%3DCX5FE6MHLJDATCOC5TQKJBYMII
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsM5ZwLRxDvox3wqSMzNd77lh5IXRfesY.%26dt%3D1774175646523
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+20%3A25%3A20+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1fb8c79f-c739-4950-92af-0c6c53cb79d3&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false

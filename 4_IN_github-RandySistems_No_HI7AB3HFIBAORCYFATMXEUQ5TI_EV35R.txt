@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: April 27, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (3): Shan??, Harini??, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEASLjQBvCb8SSiMEBWdHGehg7b7XRBcnGyeCSoI73uq9J2dskovF_G9Tr5tmVWCIXy8ds0CJQ-xT6Ej7FgIsWsgELiic8xghGMkriE3gwCE4RgZid8bDqe3bUSpNMZOp-8tz07NqNUBVuT5vlCiJDDPR
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA5VO9qW69O_dQICI1U6p-2pE_n2ZNFmPhSunn06ncTpnbpS7CV9worVBluiOQGdwkxCThosdiK-ClWWZhL5aQ092li9FXYO28LRoSAMRgpV7MW0BJg6DYJh0MZVcvzzCTxvMLmTRIlROfi-0s9B9Y7tcxkdv4z1H4AaCFnI3PQGotkU-A7o1rmiVHlMhPNa9vphb1pSfR44z1OUhDWimNmZE-xqEXG1UwIl9vMc-RxyNb25JNhh70bJrzpcntyO3zGwygDnznun0UgJ4Jb_BsRCDi4t66ZQDKueFru6HPQwzpt5QWZcgV25cwaZBp_jGXDfQfTMW68qN3vC1SlT-M5ZKad-IYKgSG2krO4G52D9MoZydhkJR66cfhtBb_J4keX_le_1FUFulEhwos6FyPvJwegCoNVABuZwEY6u_GQHaInYbKhFnqXC1Hhh46gKSVPqstU0HcNpjHmY_6FH80F__K8iSYgibjX65L4LkGSgY8XioBrsIzgSd3N_lqOCGrH-_o-aNGgV8GfbJhkQRMd-yMJTuA7A8pCRZTzYYBiIOCgxW2Pq4YX47iww_R48.%26pg%3DHI7AB3HFIBAORCYFATMXEUQ5TI%26ch%3DAQEAEAABABSL_GF7B21PJl64jwYwqR9xb24pkEVggZM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+00%3A33%3A14+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=72661d83-cacb-4686-b54d-c6eb6d15d796&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTzWZiYlxl5lA6MNoHWjOp5u8Ad9TY5l4c.%26dt%3D1776538985025

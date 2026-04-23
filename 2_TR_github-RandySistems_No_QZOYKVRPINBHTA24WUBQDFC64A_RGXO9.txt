@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Standard
+Next Billing: May 18, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 289,99 TL
+Profiles (5): METİN, Şükran, M. Ali, Topak, Çocuk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENGcwcBQlmgcZri58COOF0dgIjmuNzrtnvydwPB26N3dgLDPn0oHHSLqbBLQu68Py8NxTAcS94dqJmjSOBqOulzsXXUHslikK2wWEpYura-5fP9gRXKAIwU_AfWUOnrKIIP9Lr80odLGgMKLYARV8-xv
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Oct+03+2025+22%3A41%3A53+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e53b50d3-e7c3-408d-9357-89267dc43997&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B35&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKHBN2geTsEJELq2yBAJQAF3SJLlsSFzMAPbjMy7__dMs4a3A-IEssOt_Rjh9eQTh6nc8CXGrpacMvBkxasj4OLfUdtyzv9T4vhWn7hnmLs5YJWYVsIJb_UxqEFVk-j6r36e7OPK6rGLWaUu2z5JzCdFw_8KLvVJcz_9rqTXfQSZwdv9Z1ai-WjudzFHbScY2yFcy_xhZF9fEIwlFNhTUQ39dSuNGpD65QMNt1bdUbdj-kjHZ1ScuYrhtf7_hWpiXScxfAoPRRhLOvZXYzSZ3KtVdmmj-ebq8qW5aC82EJUhiXpPyZaodnUPpNy9YNy1sRRnBO-BW3os88370tUORMkWuujyrUPHykSqXbYEzkJf5hlKrJLaPb0dzAKlwfctfRr06XBFEHek0K4ckgCUeurqAv273nqqP8bQMT3YDKccptk61uqOkwTikbXu9p0fCf70kur3GTbsSy9--gSuRx5k0ikkC2drDz7_O9M3OXLelwde9UhbzwJNHHpy1Kg_M5TGf4AJFRFb7tPjstsOpbj1JXl6RNhq2pCV8EIJoi2PkbWcDRU4dXrYvkPX1_gdQVt92jBpVoNyLEtXnMD0N1GzDsGrgEwldIFciTf91gacVqbdNhyi_3HMJ0tftwXQ7ULaiHwTfxTylSH9OoZQ2QzorgtJ3Fp7s3RJnCqBA-BxKRYkHaPsiYujRgGIg4KDDnVCnIMypQWqP3UoA..%26ch%3DAQEAEAABABSiiabFPj1-S1FD525oNwx0-PBxZnPHatU.%26v%3D3%26pg%3DQZOYKVRPINBHTA24WUBQDFC64A
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7W4r8jqY6MVV4yWI4Ak3-HVf80rKz-XA.%26dt%3D1775564786571

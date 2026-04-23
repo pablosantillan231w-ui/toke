@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: April 26, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): vishalvipvishalpranav, niki, S, Whisk sod, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECTmWozKlOEDgwknpqpTEDpgUilavR66Z7ljk0al8478v72T3imnUWs3o62h1aAWNR0grNdC5iuqKMTlyIY_Ik8Iq7HbfAIOeSUnlajgtz9x-xIx2KNwSCty8AEu6ypAqrscV8MuXTf9JVuDDozFB484
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQA_ffK7bF9T9SRppdGsay-Odtq9Qyf3Fo.%26dt%3D1773752616577
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLdA07r6IzwaeHKzFxm8fTICIhidW8LYk1iRIOJ_RMJ6KGBdLDOS8n1KUhw8ib-mBUtEQAp7b2Pjj0Pgy8c0B2jAb5-ValwCIl3vuLO3tnsrCcPUCOwvNhd4Cl0UXxfABrX3vcNuVN-91nSZYTIG3fxVXh_Cu9WpIEdmytYdb6jqjzQ_xyDjwr1g7mG0yQ6dTwXgDPvVU4kFXAPxYtoGggNzTamlfzs8EqofLb_7zg_GFEmwCSepDfyIhRqJM6cDtKUvbbj9XxAgtWGjz5K1bNR2IeSfOsWriwlIYS17EXBCop4oz9ZMRCf5GDj9mCeEOVsXqYxq5GHrSdwvegPWY1_EIejg9B5zI3P4gZpunpZbbmE1OGQPcAlhVLFfCFUhnL5PECBDJaXCur4X91cLvOYeAEnNV1lROZKAZe3QFJqNsxwx1XOgLCTsIjz91xILxJsgD9f4D1HwbBMawGYk-ytr9_h4f-iggO00MmDl8MgQK6PKlOoz8Hko-ym1xUzs7LR60gfgzuI4RYJfkdGOOVSb_2Yo0Nwiv-0vqDoD2daSUAHt5HdEWwT8ZpketrrBsKlN3fviXtCbInKvR_-14IlMNN-7HaAXMJXn_TuQAaUO0kZ075PjmYDFQyfqyfKxBgGIg4KDFTYq64jjlEd_poSIA..%26ch%3DAQEAEAABABQVQZx2qjZqSMKwg4iIMDHZ_UhtdBuGiIE.%26v%3D3%26pg%3DSK3ZZ4ZORJAHJF4HENKW4B5G7Y
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+17+2026+22%3A34%3A42+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=aae2b61e-1467-4a0c-9621-df860f8ec6d9&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false

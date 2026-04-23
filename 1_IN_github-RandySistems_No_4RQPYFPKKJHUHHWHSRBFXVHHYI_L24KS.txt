@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 11, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): ssahota24, Shaunn, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENdyMAflXnyXj2JUuT8Lvadg1XukjUGDosJXDGbXOvwL6E4dqJOK35wk407lT8i2zZIL8LNulQon5WA-2NSItLdmrBnVfo5G3B7dvmFSB9A2XtUC1yrQjrNYVy8gp_z9JI5U5_qQrceqnrmQrZOIKCPF
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Dec+22+2025+01%3A14%3A59+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=364520d0-6d1f-490e-9f31-245d1af4a4e2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTBJuLiL9Yj2Uzy317li3KirqKkksqD47Y.%26dt%3D1766398206966
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLZA2wFPFZW0pjwDOuI8NOtjION1bUCA5Nf1O2dPXLrsUyWeWbW9FB5iyZUENRWxWLOzNyyda9weTfsRH2JLy_bZdNA62MgwoJZIcwu-Nob85DXoxC7DQ3ToFzCVha0PdOYYYaity0QIyEPDSja9833IZXu-4Xp7ld_dCCe6ih1pW-euMZSjNVkpcEGk3mbOwzQDbt6iXNhDfkAdqpH7nWMoxXMMdLLA4AGV8ui9zi_oS8OQTkjB4dDaoCdcmDi7TYymPMDwiSU3mtq6o47CWTBFEhEGdSNj_mwpZNdAl6YjOQxXnN1nXsfs3R8wL2ZX9xvXV3HhfO_PkGwRPBhopm3x7a0rVMZvXRoQXu6sg856j4V9C05PzeC3zNJz7dtjeyDqpTR0oQj0P6EIV284J_gQIZJIjXu79PNylyMePpFoDl4L1g0F4htJiNcoMcONbCigCnKkdMRSmENQyMD_4FB3nx849ByOQjF9ZnqaiEuK18RCYWMh1pn_9w0wCuC-Axy5Fkk_DRm7I1OV3QrvyuMAO0grh4faTuJfIqhFWwptooI93uz5l4PSrIgDgP-xRrbl9rHO6-Q9LorbICLUrglrmVqtw83rAXO8aJQqquyMDNZ2cXF7uKPwx71GAYiDgoME-5pPGSrtHyWzJ83%26ch%3DAQEAEAABABRej-sKBhBOu6Y_w0Cc-J9WSZZyM8ZvVtg.%26v%3D3%26pg%3D4RQPYFPKKJHUHHWHSRBFXVHHYI

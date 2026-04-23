@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 19, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: BRL 59.90
+Extra Member: Yes
+Profiles (5): Isabel, Marquinho, Vera, Shane, Visitante
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHWZy7gwMuBE04NNNECla9lgTyGp8b7yWaYkuKstK0gyBsvvdvK8fwLavOUl7WSlBX717JURm2xTOyha4mxkxYN-5ac_XGRO01S2phV9wJT5pMuKgOsASYVgF3xJpwnumWNK9lRXyWgd6mMU02WfWGQL
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA3RBZP3IjoTbmIVPqt84EDmDHt-izU1OgbRQdspW9W5OtVmVIjcLCDQA4mC-U_jB10VYuiWzqpCBxyDOlw20NNMuyEkRZm-aHQ2c9dI-1WhuwAorgfo1_vo_McmWYqzQXzyTmL_Vd6rX5A9ExwJj30wenpTpIOncgmrQDXMAThahP0cMVRCZ7mGow21uelG5x6_CCgOVU-BzUOOfub_lTAKxiIsZcz-u5AzV7pYfh4qPNJ4N1p6xdZ5BDS6QlnJevP41rpEd_XXVg9U5R1Y_ZyOaMvGy5m2doNLP2Of_gI7HuwZllsX-ySm8IARO1TqhK6IOhpwsLc54VmmII4khibCugLi0JbbpAAHwgq2L_VzgOrC-QgggE_Pvnl4zChqpwjuk1MwfE9ISkfchZuOrNT3eROaYxZY4fgGMshwkOZrml0Lg6YRe09M-9f6FnBqiUTGTICVG6u5arLOmqkr75vHRWqXv7Ol00yOrMaNgr4u8dDYOZ5GBAmCGrh4iHRPDxhgGIg4KDK_G5-fqQkL-iZFrrQ..%26pg%3DCSE42Z4PZRDXJINDQRVIB26TFA%26ch%3DAQEAEAABABQ3gx7z7wqyYwouLBy5NHheJ0f_sf3xbUw.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+23+2025+23%3A08%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3a426446-4399-40f7-8d6d-445ca0849d68&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&AwaitingReconsent=false

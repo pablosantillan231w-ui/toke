@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Premium
+Next Billing: March 30, 2026
+Payment: MOBILE_WALLET
+Quality: UHD
+Streams: 4
+Price: 419 บาท
+Extra Member: Yes
+Profiles (5): kpanpracha, Sak, Mu, Pim, มุมเด็ก
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKKAzmSELMIQF98HYnQ9Kc8B184icWaYO8zSw5I0dpTPKGvR_WOYGJjR6IhTl_mUlPw0q2SZ4UCpdyjdDrW4IUQGid8duIbZKqC24w0tSLyzLtYinzmqv8cXFAAmbbE1oLsfvjwzPcQujH1p2W2E4R_SMGqT1CfKRToRVRaUYXp4sY-IksuG_Tlajt01-MOxs_ewD__n5grsbATYSp_ZzcoHcSDKJlKWYFjWuLrRaz0lx9cQELRlq9lcUVhYDX17GlMn_UCaXkLi8D5TO9sPxxVVjo8qmm3bF4RpHnxYiYrgGqeMXJSm-V6_E7Ip4hc23k10uWYslxsu7TJXPtldgz-redWCq9_m6jeWjAuoeiInbGDoogpKv7CwfBz6ENIiz-ShyisvXDtUjkHYb2OP9RpfdBCGsNIJpBN1JklPrRVuyUtjDesx3vwIHG3Fvthm0g_vbxuyNl0UisJdRbN85lS_ZVAT9nxj_I9G8W9TDhTBXhg-UJ7VKOWf3grXLRc2wNGQq0KHX5dDvY6MykYBiIOCgxy4qzGpoEdYL7gQWQ.%26pg%3DO3QP6TZE3FHPHNT2DI7KPD7NVM%26ch%3DAQEAEAABABRsMiElm-LxWq9jTSbO9cI4uOWwq2ndRXI.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Oct+20+2025+17%3A46%3A39+GMT%2B0700+(Indochina+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8e9fbda6-9684-4d17-8a07-4b84f5d4d699&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTX4m83YHotOHDugKi3nshLRBSQoP31gqw.%26dt%3D1760957198774
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEgGknUTKklJiroXtnbR1l9gPa4HhQ9gbaEfEWqvsp78c9yVo6LK_7FvrCdHXHJAWwFwqSEz3MN-FyOUeXd57xO45tDvJ_sdSpPCGz__-XUyjszMbCw2kY00I0uE0fj34vTnZKcfs_WZ5U44sVHSgvJI

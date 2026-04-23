@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: May 14, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (1): profile
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOpZ5NAAqNNBIBIp6EU4Hlpg819N3i3I-DS38p8dv6f4HfHkXnFT51l_U-u6xgjysUU8GmLqVRfJOHWUtjLkoeHr9vhTy0ZRnnFmB307Z-S5153mrEXAyb_9IJu8gKr6jtetjIHpWNQrVlZrqrjUQqfd
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL4A06SINpCHsc-W-UvyehnQKFyeRBxZLvH3vyB_3459yeg70oSd8wYjgaDwZm_JpPUDjS_VQ5xxKnwnhjRKgW84gKbZDeoIgb5kPemzy9p6c_ApMRwp32v-AYZhdbqixRabnnNPzpoxY78aWZZhG0SeXadh44qtGk1kQlpe8jAB-O4nDOc7Ceh2awQOOz9dxQfDWJf_vMzq7176KTVXJytRsh8FcYic3edVLOfTpU0CqqJFV54HLzLCY_pFewwNjA_qhcbMJk48vfWEPYSP5l32oZmUZAqtgrVEAgmjj7fWAI2hx9DZ7Q-h1pSjFF0vX9uqNc-Ln1HBHoIvWto_xRPhzm_Ri0J8kbIipRiEVImkT5gRg6u-ujP1m-Y68l9iDvXXh0l3Lv-ltYz74DVuEiZy7yWgkhbfQ_pMzlX9ltpOWDSGzFdvO5d5kBH68un3GO0U81s1-856lPH2c1WhAxL--qwTy20xFnixvYM2wtYKMzKLtqb-veJtwjlcD0uvi_8kMqJyIfHNFFf4cnbC1JSnUbrCf1f2-sjheYe3JA4ow6wov72sK7qub_c5auKG4CW_0a2nwwpb4UOb78rD0tAEaFgLQBpzvn9ESl-ENnKQOnpbucwamS_F46xNpcRTFWJjvkB7A01OjCyT_wzNb3Z_bvHH1VB6ZZo_hgGIg4KDPaob1x-pnh70xfqGg..%26ch%3DAQEAEAABABSRCbYkoc-r3JUibv4oFDQvcFMXdBATf50.%26v%3D3%26pg%3D6NL2JEZJMBAGDAAS4HHQG6Q37Q
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+04+2026+02%3A35%3A17+GMT%2B0300+(GMT%2B03%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7fd552a1-7230-4a20-98dc-759290e1a60b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B34&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDtRcFZpop5ZjEi8o9NTNu6P1PV2Lvqms.%26dt%3D1767483318589

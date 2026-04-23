@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: VN
+Plan: Premium
+Next Billing: May 16, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 273.000 ₫
+Profiles (5): Coca, Ningg, Chang Chang, Garong, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMvv3XCOto9evLDf1_pfNJFg-VF46RBdcPdXOLG4UpfJNQkharMMz6ZuiO-NcbuDRJ4H0WYA8UxxlGG3PVXGJYL2zvGLFCtCUegqVqjEcTasBfEOvKk4n302mspRkrJmjNtnyIdlgMFCRqZ8rAD9yF-x
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AiuUB-F9tUyDV-6NMIQNN4ithH0copVkjr6h45XSGZc_oAyj2xDqEPVranzm-k7S5xnsSr6MyELAwbM1av6Gf3Ww1_KTC61i_FuaeCtm47UfUVYbdTFUbJ0bYhw_S4ftGiJhebGVxf-ZK9Wz8rKsspJm7b3rHdSsCz-dlseX4YVFf1MeGI5DgOr7Aqq_3oF92zgfGH0P_n75m1rgYK-8KfVzJl9fiIuPLdtc2TPicxbKWp8qQAbu54y3h1o2T4R4-1zfQihwccnMcSLyCiSuZHbAqfDY_A-S2ZB9bN-wLcSZmNYeQiFEZNbkA9R1sl_prC4xV1YcqZV9FkwcX93dv4iVHsrv2aXxkudVf02y3ZdHxCSSv4brAuDG18hpPYt-i1_wmkHezu4MGQJlXnxfpg0iN4I24nbF7ysxxY3OnXhDxzbgpYWu2TDj3hpnND5hIDJL3phJVIbcAE4_00iT31kuAUoS3Kt13T9UUCKgvr85zr5CGxjj0RgGIg4KDK9v0yCWFAGg1aTuOw..%26ch%3DAQEAEAABABQ2A7owZpl39svlmpwfaDHmEzE9efSiZ-s.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+25+2025+07%3A45%3A40+GMT%2B0700+(Gi%E1%BB%9D+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7ee630ab-0c19-416b-bcac-b3b7695ce118&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHyi1kJfenu1hoOPwDKpEvtD52rs7i1fo.%26dt%3D1745541934149

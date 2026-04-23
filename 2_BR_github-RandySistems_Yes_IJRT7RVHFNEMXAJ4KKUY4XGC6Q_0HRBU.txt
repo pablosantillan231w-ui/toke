@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 10, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (5): Lourival, Rodolfo, flavinha, Sizinha, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEE9zSd0xl6EqwhXq7y69Bc9g6W6fhxC6dL5AH65YR6V5YF9drCeVMr8j7rxviD0xGmOFhS4-c8TbYDBgOQ5MvbOBRVFqSbV0oiIbTPQNiiDzDBiIjOdXWckiKVl7aAJZB6D_ouo-YFhrxjfd1T8dPu73
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBCyfRYqWY-I2dbvRx7WEqU4zvOQvH_Pjq1eftEPe5K1bVm8SqzKA-yFQOB8YQcYkQXCcltENKt1dOZ4IznH5bwrnQ_RO9j8XMtCZq54KOQcSsi-jQEW1DflgqmGa6Z4kvJxSZScAUQFatHXkHh_GSNJGzwP21e0hmmncHiUv0kE_MHsiO3xyUBZxjEPKIVPZMGGXTjOAnYxih2FTMBFA4Oc5O1aLaELrSzRW0UfpDJE7uGl3r22IJv6xeBKoP20fUYOCVeqgTWu8fVjx45CW6-usPykv-U68lxE3aQOCxr2IgjXR2v6qG7TYxKWm2opJoNQAZ1UWhULQG-CEjcIgbZKy41WtW_5yAOQUZIc9T8KmoB24NRdYqVIKrMy3Y5kqntw0Vv4qBLntbMxqB0x6XXgksPGUpo2Vw3omt4xtd5L5VyNlir7--aJhvsLp5cfHOF8FCDN9PkP6Q2X4BJQd6T3bGw3RWIHf2neWXgeA62-d_rxU-E5Uee3l1iECSu2k9xogXFZC1J5cVaU2IUI4Ft_kKcQ1ewZQtKtYOwI-UiZZrMgEBaWmYBiTLmlZX78Lo58n_Y-B1lG7CABUG9A5QagIkpJDqQ1EVWcEWl0IiImrPWayxybn9vhnRNSs0b-eSAUnxbvPaIeHu5h1OeEw7jJ-tw6INxIx5qNAfGmOwIeGIocYBiIOCgyq2-i3hJEEHpHf2kc.%26ch%3DAQEAEAABABQ2vUbx3bGBug3euaMUD39_HpKSxpIft7o.%26v%3D3%26pg%3DIJRT7RVHFNEMXAJ4KKUY4XGC6Q
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ1Vu7uUfn_l8HxNOiV4IAF0rbB7myIsJY.%26dt%3D1773155871885
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+12%3A17%3A51+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3994504f-9496-4a57-8437-5b27e0f6c00e&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771735625709&AwaitingReconsent=false&intType=3&geolocation=BR%3BPR
