@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: ORANGE_V2_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (4): Max, Invité, Anaïs, Jérémy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMOkHw9HWDDsx2mQW8H3wIVgzmv9fopnWPaNmqHS05qXq3k1ioc1WpiiS5LNQ826xz7G3mN4q69qgz8VryE6S2CH1FMXJhuDMaLJSZUkHh3PtMYDQir2F1FVww8a3Q1QT_AbuDX6zYNFpA7E0XxOZccI
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKIBBwKarWCHC5tTXMVt3pkNocRmjBsdkTiJXjVSbLVzU_aR75Y6vrZiTKAgz3UQynfcH_wot1hPMJoi2pvEw7ZOExJTDb2FSwRZsBTMYURyWDDtY6JuUtAUljDv06hM0Vp_w7ho5yF7Z_CGDTCgbOk_Poq5qAerqc8VU5XRdmRz1_i7px5yPRtA7zw83dvJsdOF9lXKkUVv35d_3kMfFBRye1Mbn0Q6j_NEmtacg8F9HjTedERuHOWR2AF4HazjCXn_mFsOYDD2drvPzxKRznXdb8WV-lETejWSfOHPJu-VA2Tl5nCFVRqyqDSCU6Q9461xK5dNxgDnXqot1EHqZDUudnRDvARzzt6CYfj09PhPK6PcMYBJNfD3oLOsgKPAqHtB7UM-dcmnhNgYoS5RqRUzieBJIyRd5mbQy-VZV8fT6-JHqpq9-fg9d58x9L0LK_uwJECmv0NGA7U4ngKxhn2wNfVMr05LxcWJwnH4tR4AofdqNlYlfB3NQOCZ24o5vuY-ICa-P9ovIzb5VXFp6dTxR1LiUza2wDbb3ANRdVvOJXW1s6jNTIOOimXmrW0aveC3-upeR3n2mAVlwbTfD0Sz75sxJyEFeLZvnFkVK_bfh62dPSJc33nU8d1xSM4PCJ9yrEzI75wTV4mQ08AV9OOBlVTi94KNg34esXrHxCbvwYoILjzUrDKIEIYBiIOCgxbx3UM6Er4V8rHIwM.%26ch%3DAQEAEAABABQaAXwvTOD9zkpRaHMpiBgVGHkNiCtOmhE.%26v%3D3%26pg%3DJR75H5UXVZEUHFO4U6NYRTWASU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+11+2026+19%3A31%3A01+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4448327e-6496-479d-af60-40748f37bd36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BGES&AwaitingReconsent=false&prevHadToken=0
