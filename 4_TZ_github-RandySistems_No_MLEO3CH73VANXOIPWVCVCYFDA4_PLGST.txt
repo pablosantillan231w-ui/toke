@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TZ
+Plan: Premium
+Next Billing: April 27, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (3): Evarist Matata Khongo, Zettie, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOdzyCKTBPmuT7LlLHFs1XBgLftR1hfgqpZYr7JdXlEPzO_KfFLpj2tVlnR4yXY_8lv-wLb-65St3VUGzGIvllwlQEFm0-_NJHt9tEzKAAx5Mz82PCLfmoWk-GSTPnFXqcESDXLBI_ETCPBDj5bPMmFF
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+11%3A39%3A20+GMT-0700+(Pacific+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f823917b-c3ef-401e-a390-7694acf1e2da&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770065891633&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKABKs_wmvoQXAMS6R8jM7ghLRhH-Rd5ANpNwZJjv9oMxCeMLxXaXwo1gYDkzhVNBpruHMnyzNtzH5K9OUtAEryyVZyK-iRhkgH-EX817W83rqrY_VhPEEE_q0AiJ0MrXj1EHfZ6Z8s6Dj8wdcMsblAebeVXYTRz3TrA9EF_5rTSX8HrpttjnWKnaCQfJ2LugdcylhBOEvgV0bX5mmeliHF9gAH9V8MVmhrw8EiNZp1NjD_8WTHpkT7ZcUz0VDckzWqLQDYfwHmL5-FYI4zjLeV5VnHlKEraO64eGgi0naXlkjGyIiUJp_8UZ5nHYz9r_w9m4a25wlKIo1BCUbSanv3QvNUdXnjsB5qD3w3_-CcaD0KPBm5gmu7TuJ8fDrqVbzoR7pxyzfgV5l0Pm-G9Ko5U3vDv2bdXXlmlFMtOAJ6lWa5y7-c87EQu8I65FkGrDbPAJC31Ux90uvDjdyCzehhdFY2uu0ABxTuIe_ISCMK_BMp2i3WZNhk1R5ezoKSOb6W8fFk1xDo4riN1SAdOH7wRa2kaDzzb0-3n1WWccOgY35SzHsy1D49BMq_tU42Y5snWQKQye21QihiDZYa1hVZ9QQevdG45csREkVaMFvzhnduIY7YjbGz_aTGotL0QAfmSwT7mPUMz2ScNdrbrEUfc-2gKePdUPJu3nzXc3zzEmilGAYiDgoMILiobsYjRZGT5B03%26ch%3DAQEAEAABABTs0g_Sb9p90SzB2bJ51uwQKY0gfjgRxgA.%26v%3D3%26pg%3DMLEO3CH73VANXOIPWVCVCYFDA4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgeef4wUVzzKq7dpan1YjwWCBxrWvciYw.%26dt%3D1776279445103
