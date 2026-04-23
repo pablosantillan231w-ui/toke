@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 9, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Golden Gupta, Golden, Ayush, Chandan, Raja
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDBr8REfg8PQLbuSXykvgNtgvGDB_5nFzK5HkkVz5QVeSO2RDdHAQcRQfsfbjj2tzc-mFHbrl2eePWDjGqII8k_RyNU9wFtsz42U9T4wNd_GTwycsD6_iE6RcHWn9KxaT0T0zXnqhiEgKCEpg40nLqB9
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLdA-BEqEH1bWUYtivj6uxQQ_4WFTNVs3L9uc3pmDzEzNRQeWRBUNJRJ6H1YY58aIbd6xNfcl3L9C-rw586vkVH5QPK32AlI7q0SNXVOcpkj4fv4e6VleoMq6KImz0bOtRpjKVJRNL6qDMb8mMg0aHUNoI1rHNVq3644bGeWDaHe1Hkguvh8QUqlXrHgbd5MUSdq3_rZKSA4g-B8ej5j4fKAU6H_tRPzL473-diVHUSU8diI5iFy0j2U8EKS6ovsvQIySGA7h-aLMm0WLDRNqVmIulnzBDCIGQjjR3BtEWrXZZnCQxvCr50tsrbtLBxJsFwEiXWrEzPcjbBjXz8IG5BW2CNhHjeFoDNbgxBR_BoWsmT1beLP07F_yeyJCQusHwQpS-7ZrooJtgCvgafMGGpUrSD6A8mlsW0lIayMY88XBepkq13JOD3MZJnjCjPRCzo8iMdv36z_SWTcWuFK-UFIANkuiKMKwBIS_-__5KVtLO6Psf2KFw4p5MpvtUfwu0SDVWgFlx27_3HjqZYTrWiP8DyRf6hGurFhbIq9Y65hW7ub_3yk95Uy4JlH3wWDNAnb9ZQ9NcFZO2uq_lQEBUoCTKNVrkI_EwhpyGutUMgIoiFQM5Sae4_jwUU8TpdxRgGIg4KDIfODpf6WVPZP0e3sA..%26ch%3DAQEAEAABABRa762si_bOG8E3f6t-VYWCUm4ntYO-7yI.%26v%3D3%26pg%3DUV7ZICNO7BAJXJ3EES44UHMH3I
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+17%3A11%3A28+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6ed1461-dba1-4fb2-800b-9896cb5c9a74&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRq6H_4_IcRdu3CUAesXaLdoFS7Y6uZyiA.%26dt%3D1776339684946
