@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELEFONICA_SPAIN_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (5): Mama, Edgar, Papa, Nil, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFW5VC2kMl8BPQ2gc6870RZguCD3JwngW3hrNcz39-HPfOj0JkfUk5zKmDaJqIL_HslUVSS7un8qaHpfUove2PFGGYCJRnTxcRiTLG04FI2NuM3k_8QRwwSlbDEphIGi02uDqoV8zvK7UpQiL3Fy-oW7
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRBqMqSwRrNqaaBWeS3eTWCnfXZU0IZ9GQ.%26dt%3D1776198165815
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLnA38-t3NVcMe_TLyXYgke9LP2h7-8AAVRfX0a5e3iPof3UkQ8E40yQGrt8iRIYu2ISD4hUpYtVGmqtSzRPVPhrritaceV8YU1dxqRmD2d6982MCoEB1uztwgdln1dDXmycM8g8gNZUlzN_A58Cx2OA0BN30T0ttp3KcF4d-eg0E1CHkfQ_znSHJ7pUnn1JzA7AoH0BHmqCWk_8lCUvOUQ8yMimur0DStvS_T9HyZRRmMeM417X3mA2YUGTVabWWLETRji3qjEICc2xct0EyyVgL0_ReFql7Z34OHqtrA2V7E8OQdS8WRVNz8AYR8IdyYvpn6Dc1amJu7RUxhT6t5W2NBFChV7vEl5Ifleo-NcExQiQH_LbAdJ-8UAQP8hgkhsUpkliepH_Z8hr9FEsfO4MR5wV0AYc3ggLsYS_WwVcWZhtBIgeWUZOWuF6z6c7YVdCSg_dZ4iogx4FT3MoBU4mStpQjwigZo-OueokRAqEBsFU2y_oIwT5bwuqhxXXDUr0AK6SHlkCg9wyBEOQ5UUfm2rRwVkd3xPenWWcXNtOh6YCtgcF_J6t_NuW4mqEtfwFChC4730y6keDpO3lwZp9AZBPCz_6a2QUPoOPXqAQpWUd3gp0I4bNnByMADZjoBZzT92RzeG50YYBiIOCgwhmfJU_wGDGzo5LL8.%26ch%3DAQEAEAABABSx0YHsKPq_2Ttnpf4XA8igFOuK4B3imAA.%26v%3D3%26pg%3DHNOKCWBEO5CV7DRECDNQ6LBXWI
