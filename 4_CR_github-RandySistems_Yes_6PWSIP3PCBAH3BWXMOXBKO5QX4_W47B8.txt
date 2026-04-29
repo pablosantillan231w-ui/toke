@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CR
+Plan: Premium
+Next Billing: May 19, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $17.99
+Extra Member: Yes
+Profiles (3): Manuel, Maricruz, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEM1o_vvcJEINxk3RgHjxBlNg1S4rbWb9IXP8P-a5IFNrJ34N-81h-qnPM73uB7Z4RSC6WxDUu8olTrOE9tUnJGMOSIUjWDK_PeDFyFsw2Vx4EtLV-fuM5et6pJ-_Y1lKbcOOvI1Q0HMtPrHtYCeB4m02
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQtuw31hDdlbvE9t_TwU8bMIDnHlw6ar78.%26dt%3D1774486326785
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_8yvk-Rr4E9xl2vYAgXk3XZs5gn5OeEJ_epMSD_6091bIiPLXdX3yO52jJekT2qXbuTDqfAHGZQhTegt0EPC5Mmtxd9m3wdjImDrIFQi7CLoa9zH-7kEx6T9jYVNQ6oLnP3fQJ5_sMynFNd_uwRtBwRfe5DyCmYmzSbPQMbDWeJWXKc5MT6p86-dt2Lf1mKKaVonElCI_olnVrBt-Hr56gWecxMLzRB-IcbpWKk-oLesfJFZJSsxwaX-H2GBs-H0mBEyCPrgykCeVMG5tbYdMcYqvh1DieLzixD39SXsAS4evtTw8hHo0zDqrpt9ntIROP7K7QKpiqPGWAGTtWH_TBd2-XTTIY5QV2ajwwLZWoIKopYEFKDIuXRNu2Y7Dj0SCT212iWD7Y--EYBoYqD9rvFtc3fJwDveEBaKE30IJrPiC3T42nSgjgi1ws3II-3DT0lFlbgBwrpfS6id6tVd42aDBpNcmVfpy9uHLb28qc09DtPWnIQ_4VejQJIqkIkqt-Gh4kTCPRD_n2ab7jK0vJ2PL8qyjU-5YCMGAYiDgoMNukeTuznIuZCIAqB%26pg%3D6PWSIP3PCBAH3BWXMOXBKO5QX4%26ch%3DAQEAEAABABSb_eq6K756H_zNQj1Bh0LhRlR2j29tbUc.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+20%3A41%3A05+GMT-0600+(hora+est%C3%A1ndar+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0c729452-56d8-4a25-9689-0820908f42c0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
