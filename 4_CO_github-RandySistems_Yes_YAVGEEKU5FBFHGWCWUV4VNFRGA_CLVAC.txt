@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Premium
+Next Billing: May 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $ 44.900
+Extra Member: Yes
+Profiles (5): Abuelo, Juli Juli, Abue, Sami j, La ranita de La abue
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAR83zFseTCTLIcAfLAnA7Zgke2n_ZuS2_wuS2gb0gzY7yp0LBqLDNJlbjdyOyG31NFI95m9l5pigcvalZbzK6IrfFi90SCo2xBEyDZ-4lmEQCGUGPRoc6FYHfPk57Cx0Yn-LRAl1ynmqPh5RUL_1ajz
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKVA26a8rww3UqGEB86WyMUvB1kTAI9NllDZDRaIFVN2tK19DF-To7tyejXETrBcnHMKElRe6EUYJF-qXP6L13qVb1RAyfh6Po8PnjSLMyb5VWndXTalBdfwM2iS9vKBsAcR-rDiGeM64qzVeyx0qQnJ2IjzFg6uI6Wf70k3vLJTK6NzB6T0waDV0F0Jcrm4EM2YyMjc15ADAKfaFcMU1_30Az_REWCg-2FFtL_NZEmgU8F-r5iCMKlJsp_wbpj96IJKBWsVMbv-UT-544hhzqepikcm4cguskJnhbFPGIYY-0oa6G6SetVm3n2UIuBd_7tiBxruyaNhMojxCJHc5pnx0O49NPYHfayOj9RUqx0PCfaVcBgGZv7ULCo8BBR3oTdr-dG_4j8K8F5ZuaDUwik4SsIkMHUajtv71TXzdzYHLro6tcUnqAtG61Qa2WADBE0aQt3cFxd3ap5QL8NsOSXOe7-5SIE7GjmJQkiwKrlKKCQHZnfFqNfOy7jT9b07mcgNb7zb_A89JH7vXDSvuyX-plJtEYwFBgGIg4KDITvcBu-rBoKSiqTDw..%26ch%3DAQEAEAABABT-dhPyh8gMtUwMavLBIXn88lGYtbBpC5M.%26v%3D3%26pg%3DYAVGEEKU5FBFHGWCWUV4VNFRGA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+08+2026+20%3A02%3A01+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f1947bb3-50fd-43ec-b0c4-c4402b51a53e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRPsWvII2O6kJRL2x6V3BXhDEXoALaHBvY.%26dt%3D1767920495495
