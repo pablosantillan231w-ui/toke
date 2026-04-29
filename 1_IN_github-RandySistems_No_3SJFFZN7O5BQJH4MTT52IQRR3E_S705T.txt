@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 6, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): ruhzi, Bhavya, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGvHGLHenMvuR9VAqtuKJnpgyK16dLbbiFzypGHdnKfE8srizZCyAsIKhQM8C2oZ7AqP-30wCr_mQSxtn5iO94v_IkSCQBVVEpzDjBVr636VfyDphf0f0EkwiliG3kNrUV9czmCVLLqpjUahH2_L1Jr4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABToVnvkG4g778w0Q9LX3FVHVxvGIj8nxWQ.%26dt%3D1769712611280
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAveQ7d1DxQ9-BwGjd0ctk5BZ0fGD3tfoV-1nWVVTYHaiDHpIfEBDwVtpEx6mHJXfpV4NE4FksJiKGBJYOWDWu83E9tSs8KnP89v7PvNywhUoMbogFNdITJCj1E1rPEfdJHBXvvzdD1lUa90EFDJX0MidSWXbE-gqaPMWNhG2B82rSoFpW_Bhg3ZTJ9Auysi7M0zp8i0CFTGQ1Tkf9yTrUyzYTMlrlUIfMzdNET8UxbSqVd1aE5RAvRA6nOhRps2tzwl9cgYC9eagwIPevA6C4P_Qv9IlsqgTwWOMID5uhyIv9D67FSkzp7pRPUNMku-Qcf2NQiafYqZnuXhM47H1Ebt5laplX_7NHQMwptwRnO9NnpboNrQ8WPxkoiAONhMfx5SafBmWdjGNJF3CCsPSZFHedHbjPoXfY9fQPQ0GzhWnHMCscZwgJh2AO9mX2RETq05VZW_mcnGlWZ_k0U2jwkHCqrVXxcI4Juf_Z1F58VEwGAYiDgoMjsBo-dqzqUolOCME%26pg%3D3SJFFZN7O5BQJH4MTT52IQRR3E%26ch%3DAQEAEAABABSNg6cDcaBqAxhsy1l-_0_TqVR4ozeM-cs.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+30+2026+00%3A20%3A17+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=4a7eb9f6-bd0f-407b-b41d-f96c42e74b58&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
