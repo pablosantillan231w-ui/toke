@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELEFONICA_B_PI_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (4): Andre luiz dos Santos Andrade, Victor, DANY, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AnYR8EcoO9h6RZNd54fBvOET6fzfV8HuKH4HJmTAXx19LNT_xlZTVIXz9JSEWkwttm10igA2pIbFRMfyvOd8HcZlyikbbvrqSYr8O3j9kUZ8x7ATLAghHiAKpkt4e0mrr4Bid5yiQPcwAHnizbwUQ4MbujRJ6_i14uy428BqJ90B2zutQkhLQS2_asN637k5ubVZ4eD4hgp3sO7YtWtKMyu_ou5y7VtLUCzuFv9s95uliqbfjvJWFZxLkF0qUm3AHKOSc2pK6p0JzbGjkMBiBJ6R6GYVzy6OrwP_eI4MmrK_L7h1paIpsCyAxGY4RIv2o67rFyUKTyo9ppnkOJMIH6QOdyVRdtu4Qm7Brx30ZgdO-zQjnBlzyuulSzdRYDzxLDm3oxtInv7UAq41i0oENdIGZEcqUDTLvTfqNeqRrFsXgWithlTblmvEjebFDkSC2rw6TQ6_N1UCCqUd9RjMepGs96Lw3HHgeSk2uNWYlh9vBofDgUQUfMmWLdayhxgGIg4KDFD45W0kw4LPb8WDyg..%26pg%3DMVRJDMPVGZE3VLOYEZG5HN7HPQ%26ch%3DAQEAEAABABSGnZCdGxB7fGncOhnXkS_v7261XaUczs8.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSyVb2w6e2Xj9_XqZztb03Cn0qJrZb_EEM.%26dt%3D1773926557267
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEC5wQxfyzdczewKyfi6R7TZga8LQww-hHHyxzcC-B5IXy1Xyve6X1l3t_O0cMsKBzP1VLfx91KWtkZQl_RLKFSvvy91y5-x1mzXhSduXXoqYQg4aXbTEmw4mEhShrEhFUr2pqgC3AxY76OLsdwLz_7xC
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+10%3A28%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=1db63ee3-c05f-4262-9349-259499cbf3cb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773926773533&geolocation=BR%3BSP&AwaitingReconsent=false
