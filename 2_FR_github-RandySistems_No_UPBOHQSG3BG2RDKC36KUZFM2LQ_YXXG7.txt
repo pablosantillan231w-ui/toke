@@ -1,0 +1,18 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: FREE_ILIAD_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (4): Baxter, Tweety, Tim, Léo
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AhK80hFwA_MkCGt220WM6a53pdmsWq0MggVHMTeLR0-BNujTFRVt2qadFact7Ns1QWndU_dJ4-6hypWMGBQYE4KqKze7pm3j72oFukA55vhjnrvvxIKbEhSRweG83IVsWaa_yIvGk525CSL6MiA1paf-cofpyJIJEQWg9snNbu5-PJF7ioRfLxjapFnFp5R286S2w3exu3uKEP8Edu7r9F183OXa2Moc64tdr5SXJZc9pwKby876MdMPr_3r5X9q4wEdQx7HRgc38PMaCDa3GUsu879FN31MvHIJTXFJdHmf7QA3aEwk5xA2dbIqXfiQSvWKBr6Gi8K1rMMM847MwX6Tcg_YuAkajgdk82EayQmn8ZKUx-Q3l_U5CriDkStrYC8ovRB_4IiW_yIiGz9gb1MDrxzQg9tPQhQRNsEw0fsl9Y6ykur8MzPKBRcZeAEuvqRXsk7M6KdVc9jUz8WbRIH1Tzoxh_uz2Bn4_Erhm3upYT8A6cAYBiIOCgxFUyUsHLP4ogylvKs.%26pg%3DUPBOHQSG3BG2RDKC36KUZFM2LQ%26ch%3DAQEAEAABABQwfRW6YJu9rYnTHT_dTY6NgeF6btdNxC8.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQx92tr3d4oQ_qjnd5-LGecopl-K5J0xRA.%26dt%3D1766912243283
