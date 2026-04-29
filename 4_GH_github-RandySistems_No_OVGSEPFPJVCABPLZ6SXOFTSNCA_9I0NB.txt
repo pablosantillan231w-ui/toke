@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: GH
+Plan: Premium
+Next Billing: May 23, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (5): Omi, Charity Owusu, Isaac Blay Captain??, Twitt, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGon0Ze0xe23svWABGhWfptg3jLoLWvXw2UiKzr3WPlO-Xob_k063BMKjiuU2vk7ywIAdpAj7xjKNDYGh3klIAqDoK7K6FsZVOVe6OQdB_tNTv8x-9XzMA6QDdWRccgyW8pwxxLqvFOnRRlmLqP2_EwX
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKUBA0R8F8Vaash-4hWrCBg5p__n9xN8_NCqOTh1LxICMbxO8xU52r12CTFvePWKg0k9v-sswpup6U3-AvPJRQMJ9YQkqjeomj91sY2iAFDPjpTwgpZGmBoFE5pbRL_9zLbq4mUmsney-MDA3bYrhedG0fqdyXBqpm-FXRYIEzol7SGgBqYDZMqQL9RJQxj-HK-g0Pwm9w5G2F0Fmw4YK4Ye4RNVXCLg3QMtxcGC6IOdXs7nk1UMW7B0WMwSFTGCpo7SGwmDmxQ6YcWibk-SAWO-w1B3SYR1BcAJzQbnJdmTXmrTcjd2OXtJjcXENKDuXtMbQynRV6pNZggap4KRWr2t7cvZT2kzhDGyCsqfxO10ja7cYxCXQLXJmeccK1OVFUqdcfqJnWeA0r2WU2FLjkMlN4rK2nbumIstujeRA-irI1vFrJVHT8sV1AncD0kWcZ7fMfOH1ARUcYmqr0lmlq-QlX4koKrTaRC2h9-w-XJs9tdefsQ89qng30Ai5cMEAi8mGpYQ_tttBVYXJFtjtFKLwUN3BW5ZYoUBUsPEkzkpKx8ANyiBLeOhfTG94LA_mtMNp8LaeXzt_CnHdu2kJ0RGsmHqHOYlR2W8HSpN3TPaMZzFCKUycvqxXoW6KUvjURGiNYx3Iqi_0heD4-doEOcVuTiAF3lRZcDqmrGYcK3_B1zEC0nGiy8zbwxgVAFUfxctNjLc3cYBiIOCgxcSig1YE37rTNVfSo.%26ch%3DAQEAEAABABT-wmnhtJTeYl0lgGW9o_83u-4JWCM0MKs.%26v%3D3%26pg%3DOVGSEPFPJVCABPLZ6SXOFTSNCA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSFH0PUws3XLoRGVY3Pqu6DhqoMTz6Qjgk.%26dt%3D1774348144871
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+10%3A29%3A36+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e214ad8d-cdd5-422b-b78b-bd21a102ea02&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
