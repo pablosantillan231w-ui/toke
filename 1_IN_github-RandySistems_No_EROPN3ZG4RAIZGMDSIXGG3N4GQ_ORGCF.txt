@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 28, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): niharikamahajan11, adii, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJR-Sv33KUvtyAofoE1z1GlgK7v9bp1-pF6u8lbI-vylHO_wUpaSXiA0i84f3D4lh6SUxqk4kFup35Nh4zbNrtoDxjWda-m0LYBKBvbEUIbKvIJG8qHca5W8p7Ci3cd-qsX2y3g2FbJBwOXvy_MufMF0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTAwMx_4ba2L14XspoSR4UVenvAujk8o-Ta4MlPTkYAMkYL360DpTCj7TmuFPZh-BKFOHVp3-52JscgyNz-uMv7PcnEM8ywgeOBX4tF94MCbIwY9gZQVWHiIumRPNexF6Tx5hGvTKMMs9_YGFUD8nFTR_8tUrR3rL2VRI4kupqNVwgVKJlzxCdfh3rK2n9IJKFokTBnRai-4zRp5skbG1EmRdCuCaMHodcKI1KeRFbTIT1aD-uVR1Z5i3goPQMc9RmMHsdXef-a5gdNeP1E7-C48lyyi92nynn7muX3XJBngGUknNfqj3e-AjayNdKoKFeD96jTepgvt-IjUOtnhjaSmS1_dEvY4CotkvLd6NoycDrhYWGGeQmAsQYAOWVWyht0oKKorV6ch-_6ep6n2ku8QwBnNNpQ4GV0zZyjt47DyNJ6mXaR32UR-93TIe69j5cyCDX1ymLSjcNOp4A1BhnyVY_mWD5fY6XsMcZg5QxUWp4lyc9LlFX0F-8VLDdhghUK88gLbup2FUK9jq-v4FR-Tjrf6EYBiIOCgy1B8bSmyh3pHIMBB0.%26pg%3DEROPN3ZG4RAIZGMDSIXGG3N4GQ%26ch%3DAQEAEAABABTwN5WrKTSrwX7nn6kbWAq5cLoUU7pgVGI.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+14%3A13%3A44+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a1eae545-8c5b-4aac-b6bc-1b2638dbf4d4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ42QNieYKktqlf3Ef1Q65SM2ws7ETUr6U.%26dt%3D1775119422207
