@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Basic
+Next Billing: May 21, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: ‏32.90 ‏₪
+Extra Member: Yes
+Profiles (5): Tamar, Maor, Hagay, Amos, Ester malka
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAd9w-F_qKTIVlMqDxvlaYZgoe8QdIGNLVQpKAv0l03a8wHAt2pwDkpKeR-zrFpE3k9r2U-xg9WdtNHDrbzFsszImzeFqgtT3T0zsfLUoJrjgszRP3GofUpifvfUx4Tb_68OuDseYe1HwpSscuavS56t
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLFA6hmES_vsUayFHoXBltku_KQ8DgRNyn7xgVLNbSUoUXMMxSmhtnpUhoF7xw4GPjn9m-d7J8iTH9ioE1NkPTMts-iBw5YP-hRHqy__mjB8mIZSAPKX3fzniJ3Is-7WUmJg30AXAjGO7Q6J7jzCCcu75CHcURElEOeLv_MJHav-3H0nwsxS8k3YZKCCE3kgcD8BLm0EshR5Dev4_u8DGzMcmwtTcOS56ap9bJMPyyPcdHjkoEeoVoO0sJbZ75ssjcCimvuWNVH5W4H0xuAF4yamWsKtHnmasGFoRYd0SQdStSykXEIza3Irw9Ax4t-5GmZgFZNaa9tRLV1P8PVN-UpPVSTqS8zQI3eBwIshZJUyQLhN-bI4EpHqTSVOCS84wEk62aujkh6LA3vdGKNtf5wwpRB4x3dsct16hWhap_8mkUsd40WIZhDvhhbDsqKUNWGnHyhaToDCEWhMnSMyxvBn5Glt-FNWrvmCf0Jd1xMCrEC20i1J0uzYo2YxwGD-1aRaQE6taPdwLiyUZ_rV6ZbAVELf5lfQBRp5iRHlWiyl_u9iFrB_mvzVAC_HIFpjWCgqXERXObsO95wcgc1XxLz8u617zTwFBgGIg4KDLcmd3INYoZTpd2pTA..%26ch%3DAQEAEAABABTpN1SFfpxc9_Ue1TAxfE3CoQvL9pgJs4U.%26v%3D3%26pg%3DWXOWQVOEZFADBK3FTXTXHXUHG4
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+19%3A16%3A18+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=91a74536-28ec-4ee0-9888-a34ea220962a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769170022696&AwaitingReconsent=false&intType=3&geolocation=US%3BOR
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRzqgw3DZcCG_kpuX-dHC3YtaXiSdb8Yas.%26dt%3D1769447776578
