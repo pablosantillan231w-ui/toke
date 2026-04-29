@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: May 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (5): Latif, Sertaç, Elif, Mehmet, Ertuğrul
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKqH7_kBZYknz8R_kUGIMF1gwsUipaMqyt-2-cgwiR8foXIZiDfD5gPtMzN8Ibre1N65nzVq9D7YCwJOjMlGjF7pcmSClk70MJLSu9bA9otDkaLuoSLPMXXJvDoDReCJJer6sN5kpbTmtcV-wLer1uLi
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAzEnyAk_-njN9OdyxjkBOnSMXSv-WeScId_RsIXp-vg4cYArpyABWpThvTlxMSyKYMxmQ2n27ulKkaxe1saoFgl6tqpA4j8fBFcPn_Ygwihg-hJG7gvkQHGw0mKQW-dOFuNEKyLYrxhjvMDzOrMXk225cL0I2BDXR5PMVmn3bFm_KItYFvzsgRQRAhdihOKJt_4q7lTZeXtKBSvB5_bYwp8F49KpyIkb4Peme1TxP0LRMlwQpE8QnSv2L9nlhXG3cVMJmq6wgw9Xhpr-PDwV90SKsvReewSELo-o77uPMWH1A5VTrEDytIsbGrDQANQ2B8c5khj4MniWFUkxTuHnhMNYs-c7rjZMhxsRztCYj79awCr_y-EM1wWPSu9mB3p0vW-6mqbnwXJpwPxvdqGZ8dmFTvwxD4wKfRXwCAkM_laX-QP9Qr3p6pg7aYag22pwXvVoCqEkIWXm4b1uZ31wEHIrXa2vrToG0DdeXzyoLfjWx4oqFacrK8KUfIqrHtf4PjDx0b7gs4MLULfDwWcNfpTs3G7eGAYiDgoMyITenYwy5vSx8OZY%26pg%3DN6J6CXYF2BHRLLMQRHBK42RLTY%26ch%3DAQEAEAABABQEQGaCBym8DZOmu7Z2X0cGOv4Eg78t1tA.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+00%3A16%3A16+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7302a4a-6e20-4f73-ad5d-f3832b172872&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1773857457792&geolocation=TR%3B06&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTdweANGSdDHptB40F1cei1jwZmvvPv8M.%26dt%3D1775164569620
