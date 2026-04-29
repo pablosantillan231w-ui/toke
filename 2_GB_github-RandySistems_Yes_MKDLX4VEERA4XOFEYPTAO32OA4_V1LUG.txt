@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Standard
+Next Billing: May 8, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: £12.99
+Extra Member: Yes
+Profiles (3): Angel, Agi, Bri
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFMBmeZvmpQ1n_n2qCytCltg7KCLcwmJgeN2jgOVaDjB9eERVU118LiZm-0rrxpeili_7u9A8LziLWISJmBDp-RtZ1vFcebAz1zgUr5uvAlGUaO9ptldgKoZz_kEjd0FYcPO3FMtqdkCPC-cF9-fPIja
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUAwNsFQT1JfZW03ZBm-0KGWsDmLyaj27dZHYM3S5XDcfBRN_LHKXBygwMksCbG2qG5CqHx0aWWFuK-9QV68RPzBLW0ieqxqlPaQlGcfk-wMUgAxosPSefaBDoIiqYmTcSvukaWZzyG_hFkOU9VvvshP1YXmPok5-vwL7EwlBU7MmQhfxp8dUmpcxmg4cXg8KV_qk8W0f2DCiE0K1ee6lF2TlDRzZdkRNHn3N_1c7yWO9U-T6wM3dSIm37sBsMktSE_VxsX-igBEbm2FMr2ngPlN_d2XIaODLGNOdpkYgW8p2HF9oWoU-AKy9kB2NlOw8XfHIWZh_9fXd-ABXbZTzzXM8eNUOVB3He3z84RlcnC8A6Dj-5p2kuLyKGqjZzbJRXsporJnui-WZr_9tjrMnw9EJGic1ayC6b8E3VVnxLlCt13F4dheVvfbsLBSw5tYCutlecAwRNrR0PmfNSWg2wl_hcFaZXbcx-b4KKKwJqSvqE_SJPbSs5wuBWYrlouKGjHXa4WfVZiyTjhPgFU0QJxeeZ3hZ_GAYiDgoM6IooWROUVQHFRD1M%26pg%3DMKDLX4VEERA4XOFEYPTAO32OA4%26ch%3DAQEAEAABABSuAj65MX3dDD6DqEwWHG9nCoTkqKpfR4s.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+12%3A26%3A47+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3dca0ac8-9178-4d2a-8cbe-0ed67adc464d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1771693036837&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnZuMfh1Uc2FuwYg8qkYeGv6BhD2Imhg8.%26dt%3D1774009604444
