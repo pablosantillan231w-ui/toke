@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: UG
+Plan: Standard
+Next Billing: May 12, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: $7.99
+Profiles (2): Samip, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA9XAqoC-TkqmRnganbBjiUf54PbBFyjXsWA7KCLK1nOMmkpPF-ahjTCL1q5Gf3F8LbSMziBoOB2_TqZ1L6b4KrLRwdV0virQK6I9ygy7u1uUet-31PxW1X51H55dfhtjLPNAEc0lTFXzJ1VKREF4zrQLlrf7JTaMCZZvDOCf0LtDbIiuS2_ip1AEo62oDzuGwEWPaPST7WydtUAxa5xUhaSef738m7od_qQtWDsYvKbf2v5MBaQFshzApB16K3Gmhswm5rQXlxbv7QzSCfNAUbXnvpepKmm1dQEeqVA8BB2QzTDKo-QW3nArtWz6NSH2BtKN5eLopO1FZGnytXYtD8igBmJUoeZPqDtS41sFkgZO9vS8xK1jiCOp_giS8cWo0yJGoKjhpPCNuhExiCky5ub3U_zDtjhYZimk2TAgiL9ttRL9clLoP_rSEYN8rmfZUY6T_65t8U5zSKOEpw16zLwDU14P-HHjsLw85uvYcarB6siuShpbpHQkJTul8txgQGxOD0IXGAYiDgoMyxlnJsWbrYpcX-Vm%26pg%3DQWDF4V6WI5GRDORHVFJE5AECGA%26ch%3DAQEAEAABABSKDeWKwCbuZA74TkAQQzkl0apAh7I6yiI.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Nov+12+2025+10%3A44%3A14+GMT%2B0300+(East+Africa+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=934beffb-432f-4f87-8684-395d47da6f7d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT8cJnpaRzvw-EGe-78iLzb8Ow0nq85CZc.%26dt%3D1762933451467
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN5hrfAeZp7AbsNX84s4CTtgNecPCEDI0qzithqLiT71dkr8xKe3SiJEUka7wb1llKZz5ywoDfKxyqjyC3qinrucDY3DAV1KeUHlLi9rpBoB_v4xnLU5BIv-ec33vEuZfF9hiX_OjhIGwY8E_XuUP3rh
