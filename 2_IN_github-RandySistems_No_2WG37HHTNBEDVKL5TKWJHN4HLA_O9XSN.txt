@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 21, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (3): ashbyjiji, Feba, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELuUFxDmfNfzlwVP8YMnWshgmhKk6gmwqLRidqKB3Y0vDJt7mflaBjIeHV82EFPLFU1rB-qGBxMGRXlmnY15WwIe9mXnnBJeJbrnQEzWw_AagJmd_j3kEJ9xm94CU2q8_XPHO93EPOCsHWR05YJh2z2t
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK3A502UA2Ikeu3eD5ljDQbHEElRvE_V5FKwmqi80Z59MVfVgdA3fZgxB741jT-PM8MpltkOBl2jBxQkroEV44Czs99hdQgxR2et-Ja-kCJp1EmYxGaEqWVGcPHBtH2TDGagqeeW0rVGtgwDx7OxzQu-c6czwY-654iznuZ9NJ5rK6N7CDNJQ7zia2_sVlNypmwn3esq1OZ2U9JV_YnBAdGlSE66qUkVFM1_ApnuVX_MtxDth2pM-yDoXbAiDpcs2bJPoWrAyS9hrsC2sUJd5VnlztQGoYxwyX6VtcifsSbXsb3ARGvv1Hlts880nYjlitUboL8rfBLFCxupPwH5NOqVOE7xB6MyiN0wcGaZmTcHfklDqDwap1iiUNL0WGQV6qzqeN_ljsFpmgFC_XuYf_4Hrk9li2bWXim-QL-Aan_BQxljYJjSF4yyQKpdhFja983aKsJzM6w92i27z65Kzq2K6pLQ-LsEp1Z4CS6-AJ2ce-_leNeKj01YIbnqi6wSaE6Yp_yG5W6CkBZ1uHYVpViGVQd7DzpBhZBQYv1VLMP8s_6WnXmW42NjQVvNNixzLRm6lW-5jWHgtsYBiIOCgyYcFuqDhrbvf6rhxE.%26ch%3DAQEAEAABABRgkRluwoR6YlDnH0uAWPKVXVFmC5iPyeo.%26v%3D3%26pg%3D2WG37HHTNBEDVKL5TKWJHN4HLA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+18%3A57%3A04+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d1282c3-2ec5-478c-801f-5c6bf0c972da&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRyI7hVJszCoaqAya3m65wTJoi6Wr9Y1OE.%26dt%3D1774618030871
