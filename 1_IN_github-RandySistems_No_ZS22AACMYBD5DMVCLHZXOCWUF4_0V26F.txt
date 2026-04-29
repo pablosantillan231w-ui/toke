@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 9, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Manoj, Dakshesh, Sarika, Vivan, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECbDpuWPz0p4S9pDNbp2UVxgJuXEpbOFAfdM_kG_yPONcuxiIEti_pDEDbhPAn5wQdVHIJG5ywJ-3Ncqmc0BhLBPCnjXtF7-1OVQpGuq5oMF7zf9-RS1cXq8KstPPtdcTUMOXt0FWVp81sRcYx3t15w3
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXA8r-FvTpimDbdyJ29e-Ujl4G2iFGVpf4KV2U5avzVlTW4TLSQ0V4_cKyp79Ywh7XksKDAQbZN-s3e1j9iooCGVKwPDNVl306rP3zLsfCjkI7VEAIJApLH6VkIVraRGOleGBE3TAHSV1XJMJL0NEhZEEMprUSVj-pw2c9kbamsPB8h7m0aman0Nk_VuYLChYWJiuhTj7n_WQvfejkRi_CummeVc8WxE0uHqcKki8DpcOaA7PKIVZ7m9ZPTlntgRNlGke9pWiisY8qsM_gyil02SCYf0_DpSngH7RDVvDeSEd27VVFB1ilhtmqvtv0SeUNEd0XZ2c23moGQ3j0uRv-PyWYMQb2Sdd_nlXZgP_e1neoPd2SMwykTT8kzqMHD82LzdOYXN9vu3FTaYrJyeFNgKZuLE2FaOy-H45862Q98AeK3llunTO0UQ_9_NlccBexDBbV2hrlEaGCLwJy4GiUZWzatBButqfJtQVK_amJdXAFQXIJnMAOkGR_rZPpkA2F0zFVeJYI2pFECdxugkPoiKFNLgbo1-MFGAYiDgoMO7OM9h58TfkYcxzV%26pg%3DZS22AACMYBD5DMVCLHZXOCWUF4%26ch%3DAQEAEAABABQ-BRpqokQFCKnFRJOUUI_rxa1pV2pGL8Q.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQG8_Q5cEsFcfQoOfUfMeXoJPYwx_rUYn0.%26dt%3D1775198553061
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+12%3A50%3A17+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=445a26a3-6f46-483a-bdbc-1dbb0e257dea&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
