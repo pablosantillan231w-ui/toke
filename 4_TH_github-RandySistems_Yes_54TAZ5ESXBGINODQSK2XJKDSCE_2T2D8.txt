@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Premium
+Next Billing: May 30, 2026
+Payment: DCB
+Quality: UHD
+Streams: 4
+Price: 419 บาท
+Extra Member: Yes
+Profiles (2): WVX, มุมเด็ก
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA8QkK0v4ZBsV6vIJwOWB08KES-RzLMn5K5YLB8QCqqaiv07qAXowIiv1Ab7HgfWIZDTp5sy6aGjWpCfE21n0rmCXJ2nRn-V5ayUGvDdMVizYG89kt1y22aiWn6kHjZIF_ajiX86sDJKCRvFbYKU99-ZkPzAh2JMnk4YXtdyzr9OP9ztQnhObvFXza3wrBEVokLU9zdH7P6UcKwu34lxnmTVvjMTW3uozc4wr9iFaARto9rV9QJpJzGTzvKOKEEMuxz1LyyXg1g6HsiKUbu7oLVMNuzGpE_nEKCxmaM7_RO0xZOm_vTEDuk8gliv4i9lcqxLuTaUtaYsCeEDq9XGvvwEMQPrKyO1EBRhwxILyHsHuCgjJapM_-u7ArDnQSO-SvF2_Gm1lGL2lPFSSFAzBjyGhbXyZ4J37UhNXY-cL5hB8kzlGzi_kgEvua4d0-od0psuQEeUYmBxjzDV06j2TLtznp_7wnCVuXW1YLd0-jI68gDVZTYVPI84Y64LdmlRYe2R2BwQuCeY7tvUJQD6gnOSDr9GPorh9zB8VNCRPi6oPGAYiDgoMMO1XUvO2sYVLWCbd%26pg%3D54TAZ5ESXBGINODQSK2XJKDSCE%26ch%3DAQEAEAABABTF8W_i4qTQv7RbSReMROQftGwj38AAjcI.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRK1qMYwRg2e3tngFAHXv85av_mnyAT378.%26dt%3D1775115095112
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDQy6VpOGCe3b7Zj429Cdtpgk1e_N1rY8F5ts0hi_-FjViPa2VYzfi6BPF6HqMaMKiT3QvaC8WHRQ3mxvhMCn4vsJ3-BNewIJKQflpAK1BtYsXGksOUXAEvMNn9bRJt3o7xvs1o0ZC1XS-idzKUqNGqw
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+14%3A35%3A09+GMT%2B0700+(Indochina+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cd9c3151-a3a7-4968-9fa5-c590934888b7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769432288363&AwaitingReconsent=false&prevHadToken=0
