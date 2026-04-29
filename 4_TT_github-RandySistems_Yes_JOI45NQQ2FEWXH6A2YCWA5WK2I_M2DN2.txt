@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TT
+Plan: Premium
+Next Billing: May 28, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$19.99
+Extra Member: Yes
+Profiles (4): Justin, Guest, Damien, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEORcdLAQn1jnW5NnRaS8ziFguGDycqiYpKE5uaj8PdB5UCCqwqVar2hj-JyxCxe7sRMvstnfl7gDP0-2arUW4SWWxh7xpg48Q59OV1gRFjefGJtJ7XgGeWiSM3whPwCXyL2vh7DJWMDJPL3e0O1wHHLi
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKeA2j9UP3xN3vgCDMCKYImHycQZghW-kKupclUY9Kvbbx9mKXdWuFkKPIS4_rsMahWN1kiFK7DHbBBhJgd49mBqQcKzOjEbDiqHX7VUe-WIH63xBdPrYz-bX2AhlwewPfNxthJ5J80GhXfNj0DOyCjWA52liisDxJ_et_vPdxFzFZEzegABzkFCdR2aHwuBpWmkJnbGtc6ffw6Vpn7ZF9XKtN2E9J_mGHFIEBU09ouJLGtvKWcbDvdiFrox9Iv1whJsXGsMCtUzK427x3p-adPE6nxP5edhFdT2oiuRGKXs29jo0r0pKAN8f3GMmRQfPGRMdFQmxzzfj_Rp3M3byqb0dA1qFfcZBjpFPe3muWtXbNguTt8DJDx-gzLn_j2ntgZUg1r-wY9srdcqTYdM4oxeCLAz1-yonKyGBduJ2DKiL0GxIVCg3u5eLfgN8EIEyjme7YQDnEMf5OLWxNyAWB7okF_XXuPRNLrXgPEo5l_GaqtVxicKdObExThQdv9tAzfd7yeLkrAnynqK-agOjyqesfKRULDQ2ShkJiW1dN7LxgGIg4KDJcLXoMtzKHOnXjgMA..%26ch%3DAQEAEAABABSI83mQa1faM8vcELa8xLUL3HeTe62heo0.%26v%3D3%26pg%3DJOI45NQQ2FEWXH6A2YCWA5WK2I
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+11%3A13%3A58+GMT-0400+(Venezuela+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=263af003-61dc-4891-900f-6db3c2bdf16d&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZiZCD00NdXz37gnE2pr__U0o0Oqh39_0.%26dt%3D1765120436991
