@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 18, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (3): Akshansh, Aks, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIjMG9w4GFVh6pKn9z1bU1RgoW3o8IMQr7-sHcNuH1fbkYuAGM8_-7zL9atjTVyVIBAANTWIY3Ng-Q4VzTqr0I-4OFklYEx9OgTWmg5plOtyb2RbhV0vtIeYvz9MTmskfGN5Er4QaJD7aIwX8b1jD74a
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKXAzuNGYhFL6oXsSbEAhVKGt4NOF8F14Y4RmFIxsCjJnrMP6WL6OUGDEIUn060mTYHSikXXJ8VUfeMAPBUnhNVJ4Ac0FDrcCMjgfNdU01Owedenn2FguLx-rr6Gy7G1ZaIUyrMnArU8ggLMTqBZ4yKj4w0X8Q-bgewfbdC9nIK1cjNAl9nIICycDKDxjiQ9GeRUsute6P3snmJn9cSUioRgX_4rmVBa11S9cINADjr3qCNVJ7vdLYPf01cekAl3Ub0g5Hd47FiDAzzsF_fdSBwuO11zAGnwANZATnQAbI1mVJQ_cEJ9glQ1w1oIBHNgzXgkC3A1OFQ8Avvj0LBYuu44JyY7pbD9EyALJUd6tv7m-YEG9PS4oUxoaB9B14jSLGmVPAzvotmSkzQhq1pRg53Q2FUXCGlETmE7qlvYHRZSJPTvZ0NKu4z733rskhYcaykuMhYn4XZFCWttMI6HiNKkQPC6OpDyOwzU0EyHHHXTCtJRt6HvMMcZ4vzk1h2D7jVEZQ10-fUEr__jtkXUzo3Y-tD9MxiiguCGAYiDgoMhYZBpoGomRyT0lMS%26pg%3DM44O5KRVMVC7DHNTQDN52QLN5Y%26ch%3DAQEAEAABABRytX7qByC2-VkVCoPAGMux06-MS3nYO3k.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTebqgD0YeJQpZpXgQOH6xTkAVSZZjsRRU.%26dt%3D1774718129268
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+22%3A45%3A31+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=04832adb-bfaa-4837-ae11-08531406faed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
