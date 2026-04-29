@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (5): olivia, vincent, Nathan et leo, Studio Olivia, Emy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDmXPptfsS3_5qkt6YJVeJZgKFABWS1QDPSsPgJzO7Cc_w4fRqHA8IsnUHQynKqzQZBF3_5KcMu6HIAMg7Uvq3ugpfHQ56C0TJY4xhTE257FCRr6AQtd-Yf9KacsKqR7m449hnCsFDWvgOf9K74cLCtf
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKNBH_HDdvC079q57hJTbLjrMhAt60d_wsE5XeqDYzZXonj1rHKGWBhF7MzqPReOaWxlJQs07pce3ep6gTd8Eaq_0wz6WSFtS61dD_Q_C7PwHxAsJhFTe8vfqkodt4HgH36BDPKfHRmJQ7TspC544K8qZK7GxXvypXZxStg9vinDgGD1qCDk4NgWqGbvOM0K_aK16osQnsPP68LFtkAwlwtLbxmwv_l5o-7ZQBvQMOd9IT-XzJL-DIvT3k3kHlpYmUzdnsyDsPn2pjhf6d5_Amidu83AzAFldsR2YlqaR2Pol9LZcbt1npf3J-DqznhYOfh9uueMIA5zn24fjw7zX2dtXPXl9L2M2XHON9xy8Frcn7xWWinExxZY2THr2Lat1cP5UFMKacJV15bKk1tsMbHMWXRjo2_86oqwbLVxeatdu4ZM-VKP9ivNHnuN5Uf2pOWAp3LyyescjWH1PHbeN9PLWzGjVu2R6e74ZZppKyPUkOgEqvv7V-Nu_Spoxckjq0YeL3fwXPwEi-fg_CK1e6ftKqpfbEFx1HtytgbiPNVWioK3aodBp-qGWaaOEIhgsR3g6I_9RfdH9Q6AZ5rPSjcLadKAHTAHVgBsmDMbEPJq3hpq2eFaulX3WXj38GsVTAR56TRTsPVbCdSe8QCvkvk-korqPKOlyWE-NvVSNG27q7O8GEF-osKttv7QfU4QRgGIg4KDNO_WtVRJonxFWDFYA..%26ch%3DAQEAEAABABTGHYooBJ6XcusRB6tCYNHuopPaE1grP-c.%26v%3D3%26pg%3DGPH5FEKE3ZHNRGDXYBYLYT4PWM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdn2CYe9MxffDkJmWVQsiOf68MZhK-cBY.%26dt%3D1774353990249
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+21%3A46%3A06+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b242f152-5622-43e0-b505-3775edd92569&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
