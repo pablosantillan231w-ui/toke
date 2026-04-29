@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: May 14, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Profiles (5): Mamí, papí, amandaa, Andrés, Elii
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN4c9KeGOMvlgLJSFXyV6qtgR-sk92ITNW3c1PkFemhlUYVD2Xlg7HwKpT0q89owNSdNcwreUtDs6pkTfa475uahqEfxCeMCMt4MDehSyfmwmvA_ekBQah14lo1ElgaqCMJIM2ltpy7g-3DQVbhWozEl
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKyAypuOSHGWkcr4m1su4eLpZET-EbKyl8ODvw9XUXeae4SQURcfL1k-Bt70Gvn_OFq3qCqhhEiy5PjTvtEQjDnYvD87gErJLzgIxGABV9zb_uOLXxKIEQeKSHVGADOhtgruqFnPR60iXR894UtuGn8-UnTilOQ-EjP6FFSIhz6lX_wY22me6C7QFg2bHp0KiXE5SoiyUf8OT9GnF9WT3K9c9E-7yz-Stp9bAeIndzDZisJSYRP5AF7eSTfGbpC9ut4hkhU-vX55HZ7yEz99fR4VKZUJN1O3caYlttTRexjSt7UIE-iuG0D8BYBoz3TpdAM2jNcMbfpsrUPrWu4_-sJiVRUamt8s6H9h_-FJbE8h7exKcjQh-2GZoVrRIHQQTGf3tRfl9XHNlN4i7h2MRtcHvigHr1IceC6i7LGTMMo9xEljZMRh8aGG8Y6chcoGu3ybm59baQA8XQSpJrEZhB8iVUs8p4M0-sbZDVsl1wa7s_9BzgY2fANr7OwL4qVFRZIr06HQJO5I06N22SlMvtDCRRNs6oRl7YMpyq11wv9aG7Nd6ytVgBHz-WPMaxQr4FbcI0gGAYiDgoMnmLn_k1PMSBhJjkd%26ch%3DAQEAEAABABSSxQ6UPxzq0B0dewsERcjijpFLZzLPVFw.%26v%3D3%26pg%3DUXFQNBASOJAEZBYYKPBGFNZOHI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXaMx0oC4f5dq2ZA0Ulqq5uH85tJLaw6I.%26dt%3D1775228021015
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+11%3A59%3A26+GMT-0300+(hora+de+verano+de+Chile)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33b3aea4-b2ab-4aa2-9b97-a9406b2ddc4a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
