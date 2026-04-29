@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Basic
+Next Billing: May 26, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: ‏32.90 ‏₪
+Extra Member: Yes
+Profiles (3): דוד, רן, אור
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEI6Salw4QfhDV87h3GcWSPdgEMK638gi7Q0axDcOQ2fp_scEzE6pFv7lW6MG-zGuE5WTRwyM1haJE10fW9KclRAYvBpXXNwhnTQ6DmkFiPtKucBy0DU6pM3Lr70SwnBde3EruW2WvSTWAUmIG5-fGrQ7
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLlA3AU05FvFXY1f9Buy2dRs6QfJL5LkhimV2DkiY4FU7nzlUogsEB1pjqlbyAvj5X4qcOLGYb5_hiCJ2yl3I04a3SYBDKqiASx6-99qs5wHz6fH-kCA-4HBD2pBDzzdE1akGxbDGJ0UT2pcHZIJK0D6qdqDML6Ib6YIxPW5Gxla3J_lGEedbAA8ANCmR1OFNWCTNM1RA5KyIEUR5LJc6rM5DPxYNosY6Nr_mNJPoB5_vV4HYAjpUIKseVEYX8XlpctAVa2pikZ5wXLseC8aOsQAVT-FMid42pIDdhyxY376Wzf7VldLfqyJaJayrlGbxFYeTXWh-tmd0ISLRnP6EOodTWc9yia_-TMIC9i2Mqd5dPTKGOyuMKwclhciCB1GtDQ81HsBPa_0u0hDoa1HKkWg_VtXO729tLRhE0uM9UIcWzI5x01EEYE3WlEcjcEJjpSZdhsPUeYonD_VTDuQMOP-3Y55mdfvpaU8mjDVXGgI98nxy7B_5h546lSf7fjyD732oNgayRxRgz8rnBwq9q1DIaQpUAzKvcP2o1_FHpDsK_C03KrP7S7q44nDEx7shZixqj5KQiz2AppqcByLg3CAaxnIEBzyYz_6CR5qWMyfJ4q2JXdpi2-4l74yeaWYFRddHf7m2U1GAYiDgoMQ1nVkE24NF07Gw_z%26ch%3DAQEAEAABABTZR2rIG4EISE4BaYJ6kBKY6S8kw2FqubY.%26v%3D3%26pg%3DQ2RVKA3TTZFT7L4BW4FVUN7J2A
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+14+2026+17%3A59%3A27+GMT%2B0200+(Israel+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=481f4d23-ab2d-42ec-88cd-c53cec012ae6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABST6_rDiHf3duHtHMENouKsMAPOnZq5MhI.%26dt%3D1771084763986
