@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 8, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Tanmay, Megha, Vijay, Pratibha, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEUdafFvzPs64eSID-QstiRgBsxcuWenjo1SX4B00w4FomXDVPu7ivRyrrSnLOu92_Jl0j2mRamPFsugYjUvgndrX2dd2_qCr33KQXyVk8tHrI6yLc5OfPvuOVuisFyI5MenTqD_HcrnDvQytdvz1Ut0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKABHariansQRAgIzAiueNkgHo-7KIWdb3lMmhc1iQHVT2WJ6lc46ni7jIviZr3HkJQ6FVSxL19DxaPoxXDHAdkDulMj0DggePghwk8ypxMOrHJfGw8-oCYg1-NhavuFjS8AEVQ_6VXbINqrJ5pc6tCEIlRZbiljNXDdhDKBsRpWCbQFKlyxayy1NO33fxdSApESQ7svNP9H5TCr2ymYDukv-FUx0yA1fIpqQ5ZkzTa8Bdjc_P2A3R9TNCnlQfW0gY2uc34E6sBZVQhkglBaRWX10oY7hT0wAIqdHV6udIJCQGwkAsDYHShuFOIKXTkPQs-MY5I19p-GvENgXQ_qfPaxedlGK85tf49PAkJIkwPQUsPWiSUohyc4bPiHybhQIQVuZIxxnpB28n6dev35jrW6SMf2ILtoGWEOSQQq87QWH_Ibv5pRavUyKvdWDFkIs4kNkQ92_avZ9duJ9og6Y5M0libLJe9EBigpLHIKPJZJ2UnyI_FskWvVOXwfWTXbFr6HiIkdDzMQJEnP_ePSQe1om3shbmMsz_hgSdsHiIFgodBMrNw72T2y6p4ZPRhYPrJmAw3JjXXEMaYBW122mdlxMYVFcVBwWhcnp3cS422CoEvU1h-wqo2fxU5HSQIYQIHYclfsKL0SSRygqV0X7mELKBj8ofDdv7Cb4wsPoi6TpyMGAYiDgoMMnynV_VcVzJM8TrF%26ch%3DAQEAEAABABQRX7WQbD29o0YqWDKthwfeGOgxPVkdPn4.%26v%3D3%26pg%3DHXP55QLA2VADXMSZDM3ZX7WDJQ
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+23%3A22%3A41+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e28ef2f-38cf-4af6-ad76-5ea398aa82a6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=DE%3BHE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQloyXnOTybloJg2Hxj7gD5YlxRbc6pSS4.%26dt%3D1773683556131
