@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: May 26, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: CLP 12,990
+Extra Member: Yes
+Profiles (5): Xior, Deiyon, Aaron, Deiberth, Xiorgeilys
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGlrvfi_oLTBKy97olRKukhgWtkOjhWO24rLW8_JisjyB_Sqw7b8lxcgheRBL7PJgVR3AUw-tVmL97SB1n5uKcY2O809g2vFuooY-xHritIrdgIa1MaL0HpFJ-qPwUDr99xUaBPwvpNz0HfbtLCIXVjf
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLoA1IN08gylrTsgTDGqIGyBy9XhUNWB-bPAFQFmj9urSUCIQRlnzsin0IWg_KIBOMZ4KwP-0TqgZgCusH7Cvpl_ApWTXh1Mq56R9AiA9toQnw9eY_Lgk9lkLlHTSmJXolTsJKEOqzjGACceXT-ucdL3qZhZIghstZ25GlcZpYpT3y9fpyZ7G8EqUHjTjQiLwPLIbgg0rgoI3Z9_MUTyMPqJjxIHdSe29oqD2IAwe6j0LLXP1v_VChk8v8RGUCQaXC6rCKWPF2-FL5PbwzporJCn2Z_8rwz4EaVcMQHbBaO6MVDHxWH5xqS6rfrY4RtVifOGui7sDdef6eGrATvyLE1QUDDiyAXqTAZ3qjxB5jdSgdIm-6lTqfXANXY-42XZWGsr2e1pMIe2Ak2-cd48SQRJCik3qlrnPbmNrZ5hf0tRTVFhjyWX0_w3nra4U87IItcj0mFQKhZVwxj8kRwjDdEJhJS0zjoAC9ugRMzuFKVinJV22v3vIeB2jcqe5-UDuyzdaSMUdGrnCwb-9P7CO-sR0UrDEOf3bKOMDSV_JZaXXn1PxP7F66FT-fF81vSIOTfI9zFDDeQYNuZ5_Ny7oFfAIdty-eQwfgoKK6FOGK8hUtxZuGDoUsSQRiHiymbgenVSjiZv4UEMqbBGAYiDgoMWzxuvvg29Q1CWKLt%26ch%3DAQEAEAABABT9KaVt6tCoZCIPurLjen9wRm5jMvrq8Sk.%26v%3D3%26pg%3D6S7HOIQ3FZHFPCJRCXHB2B4IWI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOyDIY5S66ZrYKq6NxRzxjwWGiA5_Mrtk.%26dt%3D1774109271715
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+08%3A30%3A11+GMT-0400+(GMT-04%3A00)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=469aa0f5-9647-4ac5-9f10-46b36458b47b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
