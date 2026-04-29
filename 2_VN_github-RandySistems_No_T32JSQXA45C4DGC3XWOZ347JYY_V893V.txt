@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: VN
+Plan: Standard
+Next Billing: May 19, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 231.000 ₫
+Profiles (5): Pham Kieu Oanh, Ngo Minh Thanh, Ngo Minh Cong, Ngo Minh Dung, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHRXQJJaxul9yDVeSHEB-l9gCSuTJE1yzTiLpvPoss84cTDj9CpDvLwhryhG_rluEUx3FwqfVnLAcoBSOkfsK-FyzwQsAm49d-SfF1EGl1XW4Hfsa5DJpmSmH4TdXWqhYNoIQhyjyc7NXmMh-3C6tpWS
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+24+2025+20%3A11%3A39+GMT%2B0100+(British+Summer+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=77ec2570-a72d-44f7-8c49-9c8900d17a0a&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLNA4UiZrgc9MG5SjNrHoDf_kB5D1yi5rNYXc3XqOvNUe0hDueIusohgya73lfv1qnt7jEL9S4lk6ZKRim5jUGUWSxSkQvaMhu2pY0oYbVcbC_wQrGPfMW5KZ9bxdLo3prXE1qhEZwaMcgmBLKDP8Ye3Mv3I3gErWFGwfeZ1ccwx8l-WAcY-ah5QfRQhaQbesc6wW7mdiAHX_dDqObFD2AZg6jbxCPUq5iCYCpGjr8hqqVMFhvaIu33aygoixMCoQgtbNKeHxbjjobyPun4a1Oy1dm0ayA-c3f-PKBTPJ10EjrzhMCTdYKCr5K5DIyLsQtrNEFU_Euxr8-pX7XXDHaVOABAu2dkGZN31eLQEa-_ZT3uiFbsa_mgoU2KF7DZf61-zP7pYaLOW_F3HO29ca4KGU7_lxVpKjyNjbH4bsZr3wH9aY7W7w4DeVjfsDnw5GTkXbj_bHLpjve4EnJ_-5RwuoMJV8MBsiaHGdaGJPoTeM421-FFcj6q9JZi7WKNTOJ7LzhthtpruVPRm6s08j0JdlgLroGywJF3QxHYZjnzrroTqdqdcCydT9r9OO7RKCO0oT3fCXzpsaHFtNjJumIU7in5mkVWL9u7P317n9vBGAYiDgoM7G1g6-OP0j1uC-ik%26ch%3DAQEAEAABABSLchyqF3SqXP7KYsyDEaaHTl8wFWKJtNs.%26v%3D3%26pg%3DT32JSQXA45C4DGC3XWOZ347JYY
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRLoKUHGf88gYnstnV-hlKLheMgzlKXzow.%26dt%3D1758788737924
