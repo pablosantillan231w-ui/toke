@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: May 19, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): 12121212, It's My Own, 3, GUEST, Duc
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEtlVyY-jaErDfMbA_hHKWBgYst8sTY1NIynsUPCEn4qtFwP8p4S2eg0CFKeGOlU_VpGWFFID0H4TbR3GfcNlJytkPm3Gw64xaIf6dTC5FBhO6F_ajM6jGanYHbBsjRmkEj78_C8RRaaGaswrKpgIKeQ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKrA-uxNCBEBmC1Pt_2smC3GGZJZGtpfolLTI9nbFBHENayrWoC05LS6wq8YJkNv_6wHx3ervDQuUlONLlr0vGaqSfnRNsPukSRALgjpr9CqJi0KdZhuJClBAuW7Lr9KSAoPO39am_vVIbiiNU9TSdO5DsH6ThkdSCD8mnzOxen6mhOogw3Hw0JKwNOOTOMvq8gQL9oBYj3RuC9_pkjBj5-q_PHJN_TRFCALUK9ELm8jhoj3sIRaH8a87SyFHbu_wsyShwq_zbMa7-_gC0quogBO8cIvMEHrbrar3VeR5aq3lBFSZ0InGCVk2il6dNVxyLdmJxrwputm-kNPQpW-DP42Yk9Q7UCBVof5l1HyWktztPWdE71EjHVVQvsW79-Pc1m1uOlKn01f_Y1_40P0xdhUknSqDdsgLNVCFYHbQJRjKKJU70i2gzTyq99_LwAmM9RzkUB88Ug2jcQc69AGLJQtcaXMNj1aoUxCBnYoVD0q1DWVPuFpN82ihmANvnjyO6sPSzGKngzSaTH043UuCAzeFi-19uD6soOztjFQ2c5WmS8bUOq5RYTtThVQ9MYBiIOCgxRW3XjO61_FmjyzMo.%26ch%3DAQEAEAABABR06QGPRgj6sXxUeyEnJWpB6eCKuc9d6Vo.%26v%3D3%26pg%3DORZZYSXJCJHWZBTIPOZXYQHFZM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAu35Y0gNUnHrft1upsCPMtbYrHpBQDps.%26dt%3D1768830613527
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+19+2026+20%3A16%3A50+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=38020bff-b3e2-4d16-b0d8-2c72c2c6f8a4&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
