@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 13, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Suamir, Ana Clara, João Victor, joão sávio, Pedro
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN9ayl5ptAaHijEumH1yxylgiu_6-XoASn7rCTODZ4p007-6BCs_stwp1pX54ORnn8E2bkk309N7VQWPN-Xw8gHStkPkI7nZ0gwKzn0zD4flyIe7WZJ4xWGNQDUBs9gMj6AQ226egfpaBfhcuoWAfY3k
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK6A2xvPZr0wNwTeSf7eoFcc2yk3iCtfRc39pp-mpl3S92OuoyrtFMV3WH0x11wsWzy0iTZaq719mPaawfW8_a96m8e-LMMJu_jgjd4jfspXYzwWKJ0RGaprULzMT5n8IZxSRYjRRCxvWQfqCA4SiXko_rZ5Pa2UU7EKTXN-MCbGhoRnrVW3P-PyDuLEcme5alq2gr920ixebmZMR25QJHiE6IGbt7Zp0ug-OkmerfhGJyVRF9PY5nmp8tXQx9oNb1guS6UBzvXlUnl7Sqz1kNFj5cjDFX9y8dUMZViEjWgB9oBtb7_nvk2Jh8sunXv3W5YTb7tOLAxE0G7HxgLVPirdVbhgoVlVsd5p737V3NrlF3xVcVLV4kyo2v4egjaOkIjDZIsi5J9_zrJOn-6flwLcr-Nj78kZgXigurNlQrBDl5b-xdauhcSYGxmFr_p2PFZVx5jEuS5hVmfq9nJrbcyCoOlhbM2zl2QkRPOUwWsBwYYqCYmlZrw8ulYdot4gHZ5xV8b_pO3iQOzmV3-J5bcopAOUmPjVP0EmSRIg9VBEtgrA9HEgov2z3Cckdv1559q7TWtxZ3PPwhOBz8YBiIOCgz73i2UrW9A-xIEv84.%26ch%3DAQEAEAABABQxjzum2dwAXV_cIuEqs3JhKm6SQ85i5Mw.%26v%3D3%26pg%3DX6VQIJNLABCGPH3ZBDXNDRXIYI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+08%3A51%3A54+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=35a2eeba-fccb-4463-9f73-4a4bcf636efc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1774133746590&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRfDjmN5qbvzNqa_DOyK4R0yl7n0vW4xtU.%26dt%3D1774180312457
