@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: KR
+Plan: Premium
+Next Billing: May 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 17.000 ₩
+Extra Member: Yes
+Profiles (3): Dongsun Lee, Steve Lee, Don Lee
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGziqFYz336wizcipjuQK_1gDVZI1Di_TnaXX82pkaOMAmwW4ORZbSh03imMtyqYzFkLgGrsllgvmxb4CrndZsyVuuVPXr3Ucc7kau4BlDmatowCdFl0_FRWOC3RsMFtedXyBWJcDQgBIV9iuBVml447
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOf0K8vcZuSqB_V2ow9HGXghl62xfO4cM.%26dt%3D1769463334405
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLhA08YknDjEGxIJ5qatVLeRSop_m86ejiM-GiYYsIIKDL1Ari8GCp860CoSUsXWQH37VqBmWnhw5Tjs2_Eub2jEODNjDeZsLWXlt9udOzdXYJQ2Mm6ujdGLwGjyVY__jZxXJO9qji9EdONllgpYwSDKcJDvPugn7LQUm09t_MYHBoIRnfnXE8hNk_zpnO1tr8LXO8dEGxX1spp3urpGE7SqUxK3hGUOLjuSeQXBcVml6C8XdItKc911Md-QjtQMxuGcl4RticQLF2H_2HzV6HN0mz6TrvMf1AJe18Sgi2fVnAyvtHSTM-ZS6rKwXCqxU1FgH2R_ceZ1M-qOmGwLwpMoN4Us1Z-fuXkJo3VM670o5q9oXzvzapcsNPHkcPgonD8J0sblNDU3ME3hMSHAKvhmchZWi9q15ZM49cn8iUuE9MsMwY6MSsJ6g-IQISm4ul0PnLyLWpXbSBl30m-RkF1VD1yaRXHLgIwoBIxl0Pz4W6OdzI582kvR0ZXahSiciIidjLTud9dFgCdwHBdYs9iO3umK80md5s1OXm3k8dSx5UDFrza-zVzLhNmtMu_iBiLHFt5XkLkppcfHIXIh238GsXPnh_o8_2zrZAJCOb-2L85LKmucE5Br_Pwd9zr52wM2VIYBiIOCgwqBnbALPj3tU5HLdI.%26ch%3DAQEAEAABABQp7p5kzlSfgbfJi-9JCvOlHyV0bAdndFo.%26v%3D3%26pg%3DFH7T35M2DNGY3NOZDMEOMQQZAI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&datestamp=Mon+Jan+26+2026+22%3A35%3A35+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202512.1.0&hosts=&consentId=00fe56f6-61cb-42af-a33e-fc7ef07978fa&interactionCount=2&isGpcEnabled=0&isIABGlobal=false&landingPath=NotLandingPage&AwaitingReconsent=false&browserGpcFlag=0&geolocation=CH%3BAG&isAnonUser=1&intType=2
