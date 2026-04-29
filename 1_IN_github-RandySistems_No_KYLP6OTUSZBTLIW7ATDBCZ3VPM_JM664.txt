@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 15, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): japish45, Aditya, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKMEUWyA7YYKYsUpqsW-PslgVR2EBd_H55ACGF4hr1AU1-ajaa_eKr9V1Ll8UA68IOM5m8YO7zBoOk0z-SJLxUTiJkIcUmTfSyjzH3V-Iz5w-samhZBN0mNBd7aChfT63Qp4IPd49LxK3HFI9_EegrXv
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA3vPnf1lMLgeS83F1CRUFn6P4r9n5MOnTGBJu5xLz4hAkApzTDTx11F2cOLB7a5SrpC4UJAJcuAwqrRQo9smJ-iDfDwMZ-d_DT4YHzKTUDrt8RgJoiXRQWR7KfHbUQGRubeYQuFoz39zvsvk-zFXPUVMcJ9duOApMN22ESzNVh9IcYBj8QSWTgAEthoy9mxtyzC_yMnb0JZvsjlzPqHk8J2r1QtSPGrU0N2Z_Yv54EZYGJWu_Cs-8dHLdUTlQtJ3ppvLYY4IBBmMXDJbnZls7GbmRQIDXSzDZEOvEQ_brd6WEasYgI8FuTVOIn2Ynhg5wVrbsMpYSGsYEMtg3JZaJtqxuSJt7IS3LtYouWEuWc99_PRNSlirdaX57XtQparNQwPP5hAQ4bcw19LkPwhaCcq4vWmmdU2RNN9brjBq5A8AfurD0hWXWyrYJ7HGAv0ox61LVdNF2X6HsLXYK2B6Ewn58s-kCvt04bFGt8nNBreZwWfM2EhesduIh3k75lvPxOPXQ15NGpSp95EqKGO7C-dux5t70IfLjEr9fpjWaFmm05tHyP61r0BYNyMHXBiwiIWdOTR33se2askeMqfj3IYik07DypzAtVsnj7UgZxOkMJ-eBnB-xm3Tz7jYPZDQgjF8Ku9RWRgGIg4KDJvyxN2JIhPsYOv-0Q..%26ch%3DAQEAEAABABSNqo8-KMwLUbVAzeFvAQcI88v5Jb1CWTs.%26v%3D3%26pg%3DKYLP6OTUSZBTLIW7ATDBCZ3VPM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRusEwhP4FZhUK9zKh7-AEYhEsQATN5t0.%26dt%3D1775145790842
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+00%3A09%3A10+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bef09277-6b24-44f6-b343-811a9d578377&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773560120071&AwaitingReconsent=false&prevHadToken=0
