@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BA
+Plan: Premium
+Next Billing: May 28, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: €9.99
+Profiles (4): Nera, Nedim, Tare, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKlVxB0r4wcnMEBpNNSY5ylgXCbryJUpjtDmelR6JYhB3cIQRzdbW9YEb4744L9fZI1y6ZUFyMdBOARGKi03SszipaXUK4_qklrnFQdzBpEXBjr7U5TisOcdU6kftf3KwGFtSVVqfGl4-GnlPIRn1OpL
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+18%3A07%3A11+GMT%2B0100+(Central+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c52d5408-4356-42ee-95b1-bdb9e93fa937&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKBBIThEysnYzybk4kkuazYIZjJRybYy9N2mIdh1ga4w-44jF2kBfvfQQNJty2-oatStCJyz5-HQfwHWODFphyx7rwgdcnSfDqVhA9OJ4ElCNZqRCGRg11jOeGo4558h7vv_rr7S-m1pjgz58MDzGWMT22jIgLpASklANs6to4GydV4nXJuAglGszvI3bKH80SATUTJBN-SnLN0vQPogLt5W-iXiXpGtRPISIR-Fbnhx1vP1HgdEikDWsvkMw3qnuV_m0R-GO2HfLqYLuIh8tLDvAHNtgwIhRz9d53CDiiw7nAdF7aCXe_5x5QvCbqpQuTgfwKD4Cd7YiROu1nQAqoUoPy7PJo_rS8PiOa5FvfB8JSvWEpW5vzst93e7XcVHoQoF-JBjYRSmVYH8WXYmy3TANDWaQpN_ZnBG1UWNUdjOl_ChRmP2WHhDSTgYC7oQAFKCWXv5GKR9zhDmo1sjxTrB1F2DF24U-oH8tgtN6oLHvii_EyXTk5bNXeX4-ODk5ITmIXu3pbL_nbiDtr31ttCrhtQEPallzjkBcXLHrj5MfKbRp3DDvVEn5Ba5n2V8R8X1Xd16UwjrcbfnrItqwDb6DVPlX0jEYiuroLtf9m40u9-RpAb9-3t1C8sncNe1m1vC_uMw4d_y28fg4IXM_RWVleRLIPSD9wDqsvwV49geYsQpxgGIg4KDNxYbSWmVEbXxwhJjw..%26ch%3DAQEAEAABABTLOx-rhgL7FOJKWm9Bwc6PfIqC9mV9g2Y.%26v%3D3%26pg%3DO2XMKL6OOVFXPA4T33HDFPTFYY
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTj1ECU8GjblGb0juOissMYUS3H1OlVAOU.%26dt%3D1774364414174
