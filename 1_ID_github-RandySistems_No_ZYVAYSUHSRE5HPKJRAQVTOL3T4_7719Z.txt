@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Basic
+Next Billing: May 29, 2026
+Payment: MOBILE_WALLET
+Quality: HD720p
+Streams: 1
+Price: IDR 65,000
+Profiles (2): siswanto.boby, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEC7BA4m2xGbxjnI4MnngcvtgoHnnfIe1GATg-dQnhQ1uH1aQ02KCVr8ZAlt0jSqi8KmlGuEnKYENA3OIC61iNHhgDSK_inVTjAHM9BfOjyqvqPkn_F7oq2S1qrdu32s2PexNQvoRBiYF3Du0YT_QpR0O
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+06%3A11%3A57+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=748bfa9b-9ac4-42aa-a8db-94e3f776fdac&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK5A-7vp-zVTc7OVxX8VDEWTbL-UwyZw9v13q_2934h6Ka_g4uwqH4WbdH2_C0-U0ydZlb7HZS4acuqwVmA96fRWdwlZxfYkxhOnSjgBPKijpmIY-fNv1LQ0a62FyynPYdC0sZPYUNIz8ZorSsGOfY51996tukDMrHkHnzo8Qk8OKcceMyl3qaJgcvF8_Bgm4Q0dNFQZzXRhcLsH5XWzqqBZlAleg0Z03mHRH5eYoMgydIpp7SuIIV6jkdVl7j3yAgXemFauCX3oupBqcq-D4bLhxY_X2K4VZoxefR-kTULSM4Gy4GKVAV_L_DyvLc0LUqRwE5A09tMT3TT5_0Kv03j-S8g1kziOJ6AlOZ00RLvB11SDsyaQIMuRtvlRf1-rz2oQMeQD3wl7qAb4uHF67GGm3tbf8FY9AWalkLVVnlBS0oThNr4ilb21LcfG9_G8ZkFH42FeiA5I6LJVIIKjUe2V5WS2GodTetZQumK7nbmmt2V0pbrbR9Vmd4SCCSUvKu5oTb-F_i62Kig76eWGtN_6qVQMj_9Hw-gL4x-SOVbRtdaANXZw3hOC4-MLxOqcC20FC_U73RTNj1y4BgGIg4KDHklawR3mYOUZjd9tQ..%26ch%3DAQEAEAABABQ8TZ0HB3a4Gfktf1FZrxzuGA6K9azoFqM.%26v%3D3%26pg%3DZYVAYSUHSRE5HPKJRAQVTOL3T4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT1dLflqxLCpCD19nM74DcUBO2qYOfYL8s.%26dt%3D1774313413603
