@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IE
+Plan: Standard
+Next Billing: May 27, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: €16.99
+Extra Member: Yes
+Profiles (5): gillkev, Marge, Max, Ruth????, Zozo
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEK2HK9kFxsqYTLJIfP3hRwpgdp8y8zlAhdnhBU2lXRitMml3IIxThWa66vj618ZmohnGLBHTAvtTDZf-kYJnQkGrdb4agLs58C35n1RuTEZj7Sqei9MSyZEVI7lHszEJH55PCDrFfTMqdANW7tURULFL
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLgA3Jj3Tf8C2_IsFjvW2LHAOq7ijWFCbYzykxZBXaWZ7wulsM9C28BmTzhAaMwrnEvhVPO34nFk0Q1AKcQhzHhDw6oo_k_WXCGwfTgIaUyqwYptprkE6npsO-Q8CR1nqPWLenKmlEEeQ3ibeKAPwmEGZKEwK_gFaQ_3-FB2jm9kx4HWXlI9B-wSQI_U2mR8LO-nCeY-wrbqPFeCbmBnS-ll6NJl5N_MXcwUDMJ5Xy1wwsqqAmSihQwhB3RCpgUi3klGwWol-1EhKmUi1hik0pVnVNn377FKd_8EPAxMbW5xVyNjw_voroPlb8O6rGfsf1tuY3VklW4rKTy0mTOzwH9EWqOfgN-hbsqO2CFdKtGLn9NRZA3Q4BygYCsbgdS1xNEixX2lzSnbZbwOP9INa9_gzaNqeQI-tbBOoKYcNaw2VACJx7ncvL3jfDxHzxBfs3BUozi0wGobmzV00e2HO-dLhnw5JsyYvadGqH6yFoayiXeSjuWvGdqQ_b8yLqqkUTaxi4hKtSUV7LFXuroU3y2epNyXcSvxBKMV3C62T9YIS5Q1Kc__TgsD7Oz9H1-eUmb--B7mfxheb88s8dYqpGfmH-gbrW7ikY8M-5JmTkhdIT-xgDJH5qA9QkrpCqByOfQMxgGIg4KDC5L0sDsM_n2U9twxA..%26ch%3DAQEAEAABABQtoGh4OUxpUIK6YgesvGNXdBaXaNWICM0.%26v%3D3%26pg%3DBLOUKHSGMVERRDXBSMMBZO6PWI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isIABGlobal=false&datestamp=Sat+Dec+27+2025+18%3A17%3A54+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&consentId=18966401-b9d5-4d8c-9eea-8abe18995f62&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&geolocation=IE%3BL&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&isAnonUser=1&intType=1
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIh0niVy5jT7VFA-bEgnbtymEK-P5hhY4.%26dt%3D1766859473232
