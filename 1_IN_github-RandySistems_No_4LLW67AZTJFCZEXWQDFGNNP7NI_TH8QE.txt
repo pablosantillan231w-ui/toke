@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 16, 2026
+Payment: UNKNOWN
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): nitin, Mayank, Rishant, neha, Loki
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEP4KbkmbnZWPTEZHFOdmVdBgK_pjFho6oR6aoF3hTWeYm8o4oh_Jjlirni-_gJ9zDjnNvQ03GPBSdrHFbjEG1x0F2C4roIJJlhZXtrY8GdG-G_5NGV-1sLT3q_IMcYq310eR0soIoSkRnMCYlriQBP57
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLqAx2uSPOFCrqoBaN-SJXsAnxQJ0WFbZEVm6KUtiQ7Y5iAPs41e_m7b4FQGhzn8KVd4zdNajLmmdC1dxR7XPKh3aNFAPiFgIX92uDNceU0pXHyjjsM_bNDFreKqfTpQy4Mh34EayuxOYb1mAM1RRcdfMmQO0eMyciWHlQTt7CV36D6JEQ7ipHPbBAewsmVgPjOYlCWfPvmDK_ZkNNNJuJFbsjAPkOpxRuSOGivOebqkNKM1nvlOdD44FrRGVYk6qebHlitE-RLEC8tHK9_oaAIlIh9RV6f7A1XTpMsROXVoFzslQmeyKP0eYoj4BLdMpilvnyYp1pNa4UAJtoRFPWSJGNBSo0RYCv_nt8Cn45_nnP-n1fRef6n1V_QzaPxXD2EkFGjWap0uLVJY2t-jZ9vs-0nbr7yvstOYSivR7UDFAXpwSCwIPA9XDhsqgOI9q-0nE9Uk5rXUTSZSbP6haTSL4TyqDk4lU7-AgWlrsS6GXs-bXboA3CWvBl2iLMraNJOcGLqn0faTikocaHvStIVkc4vx9njIscDEqmYqApRZEd5plFTHCRRSB1sqE22MgwFQykbKfB9yU-V4MgsX2iFezb7wk4LQLdmc8Qs80M1eWyE0hHPZ1iiLQthEjYxW50bzUgXvtuPcNaIntwYBiIOCgxWgFE9Db9Q8_O2pck.%26ch%3DAQEAEAABABSCnMyqpAZUWkxU2R_HdNZazwdDq7SydYE.%26v%3D3%26pg%3D4LLW67AZTJFCZEXWQDFGNNP7NI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Sep+10+2025+17%3A21%3A11+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=335a25ea-63a0-4f31-a120-08bdceca3980&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=US%3BOR
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5H43HsfjfUdYhHTiLmhnFRba66j6AbFc.%26dt%3D1757505070256
