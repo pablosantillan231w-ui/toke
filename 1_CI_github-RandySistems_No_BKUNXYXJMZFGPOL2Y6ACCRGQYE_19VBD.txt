@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CI
+Plan: Basic
+Next Billing: UNKNOWN
+Payment: CANAL_SUB_SAHAR_BILLED
+Quality: HD720p
+Streams: 1
+Price: N/A
+Profiles (5): beatricekassarate, Kassarate Béatrice, Kone souleymane, Machata, Leyla
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHpG7z-yjphb6ZIBtuPrHIpgHTLJbEDOL6wDJ3wrJVyfq7kyFb-rlPb5Y1ZrUG5CAosNSSkBQuGCywM0CzHk0RbRmhn0QJm5OwYtmYTwPz-zH5FNsUJXPjmUChL8PWcs6kUwMacJI5TPnDz0wkhiwCN9
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+10+2025+10%3A36%3A59+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a374dffc-00ac-4c24-8a68-e1e90068fe7c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKBBPvZg5q928rkHYzG9sRikaAFmJFPCWcfUnHvJDz1jEP40LM0Zj9jNBLjyIiCJKYxjj-LI37wMehb303O953CqbK_SIwMqsLI-8RV52n_lNBinwRlS-KSoDuIWJNB7rSOau5wFMjS52aPyo8e50z9DtYS8i08lgidnP3Yej5jq9niUaDObk5EdFn5NiIFieO8qWXPbottINJjfBmPcJP2o_qUy1z7F_hQ8o8fZGwCc6EdfBRpWhE3P9J7-OiAwrtbcSrwSukdJW-xelOVOK5Gd2b5z9moEFOvHzwoTOgL3CabDdIeIbpj0pGYPb0kkV-QBrRjBiMsqJ-U9ato_Q57T4dcQk3GCZEuj18l4HwJP8mrwUTYcZJJ8teWyJu9lbxPiTIR6ZdcBLdzzbX0xoMH7oTXLppZHz14I4xBprB8jGs0zQk90Ha_I-EWKB8WUfUHdcarRCpz0_QAz-TEmzFcLU6Pzfje2jFZyzt3otjNlkga1yVUj4dXoxlWPRM6nMJuTEQsj9y8toPwDQY051ZQKBvpu1ZjGeRfRnQazGl_xWCgWJpb4rFRqwqDH2p5xQt4jf34Jqsq5zdKVLdOtiTNlCVeK4UOr70u0AQ-1eR2pigaMewJwvnU6YaKdlelO_-pTu6iQQLIWH0JAX9wFZfLoD5j0PfS5193SKfpzePV_TvHTBgGIg4KDBwKZioLT_pxONG5WQ..%26ch%3DAQEAEAABABTpaYr95Aayi7xp1ToXKeoavAJk2p56ILQ.%26v%3D3%26pg%3DBKUNXYXJMZFGPOL2Y6ACCRGQYE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQM_I6usx9OcffVKnEFptI2oW1I3fLR0vY.%26dt%3D1773135371522
