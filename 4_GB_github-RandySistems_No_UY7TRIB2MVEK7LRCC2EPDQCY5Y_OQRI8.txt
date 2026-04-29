@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: SKY_UK_IE_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): amy, Malc, Ben, Jamie, Tom
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEK62nf3CgcGmcuyw6ST6tT1gUWJ8Fq-ci1PBmMzuSl4j_JJedHnH7A9q2V-z2RI7y1PoXcXbdzMHN4E1DesoVUOlgXWFfxUisW-2kKSsLnv-ybimGSzUB1hrlZ-W65xtxI3sfB2hNY2L1uVhdeSwYu3p
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+18+2025+18%3A45%3A16+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b040ce8f-a20a-4209-82f9-ac911f722546&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKwA2V-ihuuf2JIokMnXDLfgCo6SmfhbYyAIO-BLfRzkHX6HHTYey_lI4dM8rxBAzYGNCIKNL8Sss7anP1oVBGc5-MJKbSdQgxJEIq8iq2TBzpWVeu4e2iAtSKkJhpqdKy00voo0PueBHZ43CzhrqJO7gt_GTsOOS971pXkTNgyHONYrafRTc9SjpgfQHFDH_9HrJ-puioLmFCA-UgGTaknTOIDhgYw6Hv3dtrNsCPb9DFewdqARFIMIheG2_7Cy6Chx__VKwjEiyWEoLm8nUyIck_8jbljMjgWbkZoRc8UYzOs2gcMZbU6J1niifCb6iaadScqnhm0CtC3dEOTvbqqp2POrBrMJQD2pFZO_f2xBPXSJN2f7nXNL8-h2MNxd9oa_hjsjAC4aL8Q7bAdWNz2T23ouDZEs_bgtzPZK-BOsi3r4xpKk9r4oRFZGQeMhs-mXdbKV6R268m0eZgBVcQKv5wOFv5ZfWNetkmBUTk5N6HZde_jFOUQP6TwsHc-cVD9yfVvCsnOgSUQxZ1aepyyQRd6PSQlM0qiteVFLUk6JDxHdlcPu0W3eLcna_2dLDgimBgGIg4KDJydeNP_vX3ELTKL-A..%26ch%3DAQEAEAABABTQhYLeasdZiDlIYheqVqPNOBSIIoTqweQ.%26v%3D3%26pg%3DUY7TRIB2MVEK7LRCC2EPDQCY5Y
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQpKSte5OjD7gzhDdbx0v8WIwZtCJXyyBs.%26dt%3D1766235422346
