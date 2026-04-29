@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: May 2, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: EUR 21.99
+Extra Member: Yes
+Profiles (5): Laumond, HIHIHAHA, Oceane, kizami, Pls Dont delete
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMJBZZKVCBAxmRlgxkgRQwdgDin9I3MBGdrdVhJm1qcuLSH2Uee6PMFde8GUt7CguS2OCT5ZDcVH_DGA2AvO5WvtrcegY4XzPb7rEOKf6vKZN1WKLwBbnd7dYdbJ2Pe6LqsdeoR8bKH2xpdajm-py6Kh
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKdA229auolwLkEp_1jgma-ONhFMNxFK50IBKfGVXXmKmYLH2QSn_nNNwbLiXKCsJrFwklfC-AmkBPvMCSolG6xLFmX1m22rj1dvgFYfo6AY5sP4uiC-QZseEIk39qN8Z3GuFp1Fq1D6stffxM7UyIu-vjjOA4mxiCaFYKv-_xZhfQTY21S-3nLPjZjkfLlYBQseg_lFst6SRq_M5t1Uw3mTJDq0mQFkVlT_o35snW13REVjumPDvUxq_CrcxPyObb_5gTxfytUlBRC1MIhO14tMEBNBaHp0FXprP0Orzao6sZY7IJOg6DXcZjTwQoUNZRdrr5vQKxl92ddLRWwMRomV59j46kwny6A5BpZg8CR_kN8BVeC8t7qY8rElcEePqWBbmCYdqTQkAqTERl5ldGsrueY8wrhA8GsONEu--pVXCnIuFilbqed5XL-JnJ_0Sd8OkgwRfZ_nRAPE_18dD-gG1jDfECOgpuAAsIBjuHGuX8UAzZ12ca17PRGjl3YDJ1KVpeDju_tHXhDHIikF1Ne69_9g8Cth-Q3Zp_CaF9pGAYiDgoMoMQq_UbVxt-LG8Fw%26ch%3DAQEAEAABABRhxzhPYSZe8zRAyMCQ6DQwrmbo8fBqrPA.%26v%3D3%26pg%3DDZLK7YXSXVG67ED2574VJ5HAE4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRdFjvWvsc1JU61k2wLe7Dlx5DbDNWIThA.%26dt%3D1771631474562
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+21+2026+11%3A09%3A30+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=47f4f66b-157c-4c77-821d-85949057b0e6&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771586220020&AwaitingReconsent=false&intType=1&geolocation=FR%3BNAQ
