@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 21, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): Nova, A, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSWH0BDlAjHwZtUNmD6SgC3vZbXjHB5vP8.%26dt%3D1767690626387
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+06+2026+14%3A40%3A27+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0ac9942b-7069-4747-b438-56839cf914f7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA3BzTQoYTRf_7NLNhHfZwMQCdvJiGYfJFfQrRFRinq4u10Dn3DcjV6WhNzfBy-kG7bbJXgM7po5KnNPRShmtx2S9xQPQnk_vxyzcGYfoPIXZSDugb-Zd9aFiO3PYZkEFKdXXVJYeMEkI0XmtP_uoGRQsG_1_IeXau5bcKUt7d6PZi9v6mEJg-ZMTL7_BWS9fxIA58_7Vg5Kw9vZ7OwzOXAI6a5GeGMs9YS0_147nP6sSPP2Q4UHxz5E1uAwuepLRPhviEOpoSPaTxPxtVrMy-aB22MMlSyZ4T6k4LA_Lh1fiqwFDpkSzsftA2tQb6Zemnl7neEOWWL-3rYKTRW015eLM9XXme4Hl_TteVQuBVGMU8kt_9fH03vqqIgkvLRg3miEDl60wRyY9k4BHyHPQln4sl01f0UWmqrQt0qwub3e1oi3jsNAD5iZd0FhMqMMwY6tAVODN6b6Psp0lvL7g42AartCNjD5tWGOCABvtls4g-0qjJ1FZHELgpR_72o-ofRgGIg4KDG5Neok6dOhm1ceLvw..%26pg%3DLZRUU36EEBHBFMVOD4GYBWFIKQ%26ch%3DAQEAEAABABS7Yqr4Dvx58tuo3Is8VI96GhngSiwBIXg.
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEL4Dq_fz9sribtMzhbKWZRBguChzNBKR-G99IVPXp5yO0mi8gr-_vOaQIq8wIvkj56AZTjLhtNyqfeUKlPfSmK7G1bFRc00lMiERvm8NvPCRhbbhGZ2kq1t_a8qocScQQ_yLiHXUlvntjUDYXRGoupCE
