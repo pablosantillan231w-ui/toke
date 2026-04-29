@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: May 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379.99 TL
+Profiles (3): Samriddha, Joy boy, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AhGll6U-CLaneNVnIn78nu4GPB6MpNtQz-ASsugpWkE9JqwXMuaLEhyTLjH98OUTOASe9dObXNI3BES2sAt-tb8SktfuAATMCLmJuEtx6qSvYYkhpZW2lfu2CK8YwEwtys5An1CgvJH83bnsE2U1yUHIgFRS56LeVja2q1YC3-2jaeejiRiIpkJ1FylSyTyNx_I5wJomX6mA9OCgkksPpbTyMO3qcA5qDZoCt69T3lIjrgDSaqbJ4Xn39eD34O_4NwkctFpA2FupKI4AKsLJdfZWVFfS3prtX_-KlZpUlbh8RaJoX2QBzWR1qwgFOUZ23swAuFUUQ72zt7AzgeLW_pdfSA63w9YLwcKTG3AMubDs1fpeUi6wDT2MblXppfbZu68343H_jbLkRIZvLXGEsARKa2uiKwpIxzt88xL7MA_c_mzgmz7cSAuKCY6OG-wwTLQxsw6znwbbjRyEfRcLYsG-C_DptSMNCPjVy03nPzYiklivBi0NJUf9kl5AnD4YBiIOCgwWKfcW9ibep0EnTMI.%26ch%3DAQEAEAABABTpV2DLLUv-tzrt4oFpJ4HJ556g3-8GxEU.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+08+2025+23%3A52%3A55+GMT%2B0300+(GMT%2B03%3A00)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=83ecbe84-f34b-4d34-baac-68d447ac287e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B15&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZB-BGzyroNvzVk3eSsrMB-7KZ_3ZcfrM.%26dt%3D1746737570487
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEELsw3D-r6RioRWtenRL3Ldg5VXvPE3ohsGBfwy4eW53W9Qc4FtFJjNypu76tml4jaoEQaXvw8R2C_BLtTOImPaoUPgjfN4j_1C6Mxomx8ZS5olsfopQr-dsfFnl_kJs2gIwdq--vCNR_bibyzPhTY_B
