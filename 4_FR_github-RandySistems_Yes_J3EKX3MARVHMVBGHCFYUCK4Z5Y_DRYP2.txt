@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: May 14, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (4): Giovanni, Gabriele, Giuseppe, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFshfGLouaanDwoPOZVxfKNgyH0s6Gvy5dmr5BBaB5oAq7Elh-Pc2oLooX9lM4VfS47MBbdj424lvLBahTRQfR4i6NFtAtru1__FiZx68v7ng444yj9-L9QpIxrCzN7ZZmhIfh7YnIKMfx8iJMcqGd6e
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBGeXQB60Ivnp0hNkNBnu-NqoVyWQLKYor4ZFAIL2TTS4Sk8dROUZkPvaqxRpdKxmqHzcLCXaFg8fl7nrcEr0Cya5aINZwCL18HP6_ZWcq4z9ZpXeo_hF1pDrWgSrx8QFpN3xuJ5RLsHt3-tTm9U9eYT2y9dsNzycoNLMTkADzrOEVJ0hzAsmIq3MNo0VWyEDsio_SZ-tT_-QzI9xu3LNsgjjXEN-UrMsiyDQ1_wumj2cMtYWfzENTmvGUqEKfDKFS29dJCzxqkyDSVuzVBHtZMVUfSYZgE8007RBXeki0NqPuPX2rOeA0paZNfElUHB1sGG_OanhMRY49mo_nKPP29Fn6L2Cyv7hsCPAVPyOk7LRlOs6DkVBwXdSNctELtDLFgjjZKsRt3BFHW2MEEK--BQ3qbaffbfvr9TVPmGfnZsNfmvA-4QPWNiRztAsxU3VDrEDhDbUnTyw5GwSj7OgyshyHpYEW2spJCIaih1tEnF3t7M1P1TCePSlBuuqzL1JgW9GoSLp7dnYxQMwv1pGQfLyyEONaiNYY5eIEomqdhrCL17-ufY2A1t4v99v2Jsfoiq60MQ2UVXFhj32y9XU1yV4sbdjDy9NhT9_p1kwJ2GFW6dDFVC1wJRVNoFLS0ctQ0dpqAAkTsCvsyJyO_4Eurz-Qbon_ahkHNB-pNiPn7mpeqIYBiIOCgys_znV2ggtFBXQGAs.%26ch%3DAQEAEAABABREyUPJy4Rr63zkbR6Qcb5b5jayghgAdwY.%26v%3D3%26pg%3DJ3EKX3MARVHMVBGHCFYUCK4Z5Y
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+18%3A45%3A17+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6d5c1b95-9267-412f-8ce6-794e11dc3526&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=FR%3BARA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTt-Crh0PG-67BrzdnuFZlbY5xD6U1brKo.%26dt%3D1774201516846
