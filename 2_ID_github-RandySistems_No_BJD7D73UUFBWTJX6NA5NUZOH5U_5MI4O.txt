@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Standard
+Next Billing: April 30, 2026
+Payment: MOBILE_WALLET
+Quality: HD
+Streams: 2
+Price: Rp120.000
+Profiles (3): jannahsofiyanty, Dhedy, Halimah
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIXyGwMf2DwlbCy8IuL1LIFgr3-Teh-lPGmoTK9kTRRCfvXTABSEI7dIPPqrpKa6TWKQ_KUQMvqyHfrpYhOGh65sf8W5r_LGXeoeRNzw1hhYEz6U5Bm8JRCwJMC_RCpUJoWyrqO4CVhht01oEWjvG3Z2
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA6sCUMQqzYJ-0JaOKYbN5VB7HYwR48dSWXkfVQHvtcTxV4H1xih75w8RncoKBreyc0XEcyylh4Cgz6Mwh3YobpxSroZcQW8e-ZV86jl25dlIR4oHKo-cdUb8rp51ntO-v0F1lPAsYLO8yc1_Ac4t_neU3BzrR0Vw13pJug1Boo2Hm9gXMGkT9Oe-ocM9Aj8ktDrKyrhktkBYLnJhymlIJdKeUMuAVbvFOpRaB8FLaVrGfx5HAHqWWxZwL-iAR5yNRXL7kINFUnDoYv1bwq08Bgg8FJEj_kt5ODek2yEs2fAT7cM4SVivVMDkAvB0eMKFIf4EApobDF2YH_YoEu-wDjJPMF5tXrJlUNOhAqmjfRftYCoArZkZIdFG6Fr0OH6vS1jkkffNa7ait0Xfn18OzCLOw_kVHcb_UxXns0K3a6GGK2ovj9V4sdQn9QuOk22NyXF77Oy4WPM-3AFz7mOu9Rm9sHnae6CCw9cLK-73Sr9tVZ7uirHb_AP-3HczoOGl3BDNv2Lp8JwDlkUv4eM2s6oeeRISUKpiKSkYBiIOCgwOfS7xmjH5p_gsl_o.%26pg%3DBJD7D73UUFBWTJX6NA5NUZOH5U%26ch%3DAQEAEAABABSOIOe76K2cWnSPIHaZwQyehw8aImg4rBQ.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+21%3A28%3A24+GMT%2B0700+(Western+Indonesia+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=97f49eef-f35a-4a6e-9310-5e5e4b0127c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773657835016&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQGEdfRZTHEhZpr1jZmkJrQcwfBhoGnJiU.%26dt%3D1774621703681
