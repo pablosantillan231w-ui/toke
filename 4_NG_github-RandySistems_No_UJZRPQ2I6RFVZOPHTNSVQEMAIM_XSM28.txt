@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: NG
+Plan: Premium
+Next Billing: May 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: NGN 8,500
+Profiles (5): Jeffrey, Sophia, Steve, Plutomania, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHpLl4wyINChawTSaUWdiYdgtjOFmXtwgVhxtTfAbryMrvg6QHwwVQie74bXCnGyF58n4NwE1ZvoEBgbUaUCmQQ9aqOgNEsBXLdDMcLpVrYc0UXqHMhLEkSPmGfq7RrPNYnReqrcERhK06reoUpQgnEh
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKUA8tDpGQsCExUGPpZ-m7Lyigw8C1hFaSVOdVB1vmQ56BQNtmF6DIN_jC1HbGWV9k5ORQCoaUiTQtQzzSpLtyA9nlGPXDjM0UEZMmtD407wI9Jc-rQX32r7LW9HNcLerO5tv8Zb0qoio8OmPmBQH_xehwBBPI_w_eubD4XXPk852GcCYJtuOhwllhyocflm2Z-qJnp6mTZ69ywVf1kqCyOymbGa3z6ERPJd1Q0Z__s6au67BPlVbNatSROAFhiNUscRFKlGssUndpSwQuQQgYX4NgmSyAPmJ0wv18E320hEda9se6-QfFHXnH6f7xrygEBDCgGsV7zc5o5PhkOtblXUTBv_JGKc2h4TONs4T4Jxw0rxSYdajXEQeGzkhSeZjRf7IVE9bCvhV4ny55kuf4fxl-a7P0cLMSKhKKE6JYAnxvRyIHxOnFl7m35H1hpNJiD7MwsslOREgSd7EvB_c5du8ubKBm4Ppqck4u0IZss6YDxbj1zABgiuy1BYrSHP6-mpCiPfwJRDb_T5iSn5WRj7REVXEEHGAYiDgoMRpYNONFr_DIRPtdn%26pg%3DUJZRPQ2I6RFVZOPHTNSVQEMAIM%26ch%3DAQEAEAABABTwhSTExm1AVYsO7khsLhgVNf2daxxvKkY.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRr5Z34vHo0k4svM1CfplYOhRjhxBmxqIc.%26dt%3D1773416479969
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+20%3A39%3A16+GMT%2B0200+(South+Africa+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8f96332c-1db0-4cd1-a3aa-9f2d000ee343&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
