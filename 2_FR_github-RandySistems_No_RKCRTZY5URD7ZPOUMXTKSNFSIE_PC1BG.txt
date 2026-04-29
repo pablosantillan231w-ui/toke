@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: FREE_ILIAD_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (5): Aaron, Alex, Ivan, Noah, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHbLnSVpB_YlH5XGUDglq1xghMwt2EBHFGj5Q-PJZrx4BcU4UFMm81Tfps8FDfk-ZBgZ5dAWkoECFlg0JuOIzJxlwCOJ8A88PrrlY6zj4VsC0B_g8FGjxjvPLD-MpIlImQjnac9UKGbdvYwQZ2E7fM4q
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+23%3A31%3A23+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67a3a210-9328-4e11-9305-2ee7c6de13a3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773875366135&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQa9eOgrFNkfKx5m56bdjmCnjL4cBu9p8I.%26dt%3D1774608445349
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKOBP3LrYOo0ZSEvxmdlQPAAYcz-9OmXEdTFczSVe7nlQxzXi8uiuvythaI9RQH9IhykddVCPffliPA59Fhja6ZE5jHVrPNA7Oevx3OOlpDgVi5b0z9YnEVdrkoLY9SQetmOTqA4wQwVRZMEKR4R02IY3kB_2kPEJosXvn0eoTF_SUK8ucZIsm8gnqaxL8cJVJsmfZRVACbwDqbr6elYBbNYimz42jfVEDzg3OWD16LsZIlEw8ei9iGLlg-3mVgAmcpn7owbFwYTkCJXu5ZuhIpi9EBalOKj0CfdpVcxG-KwVzhnO_yZfdmm2CJUfC5X5UU4Kkyy2LiMLEoivgJmF9n_3tkOZf2Qww8Hoq4eiSmxADVtl7tDjhhSMhoH4l9ypEn4CeODeV6dK3cSmr8pojxM7TPrBvKlC12INJDY21KK8CbFyxQGEHiSQetSwVQxNwqae9t_43R0Ix3wtGxxPwCDeMGaUYIeKCLFiONSFDawqCzTQarA1I_8I7N2UgTd6u9FSilS2C8wbdyx6bQVMvGwz7Q6PXAIITO5eRk-20Ve28yd53Cr_-dxW4lBv1wbttmLqHB_f-wfW_viIBxRIvLHissY4Im5kr__hbNxW1kG1IjW7_ZO2c-ZyMDfUn8nED-FTKOLYRjhzYouFbl8U3AEvLrmFdY39V8RXyl5kbD7iw6QxcKy7kH0rb7wAvuh20YBiIOCgzQckHtHPJKkOgTP90.%26ch%3DAQEAEAABABQfqO1Q6ZA-z4wWADktA7-cc7Fmj-9gksQ.%26v%3D3%26pg%3DRKCRTZY5URD7ZPOUMXTKSNFSIE
