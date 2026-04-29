@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: May 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$13.99
+Extra Member: Yes
+Profiles (5): Esteban, Shanelys, Bertha, Cesar, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELtEaxnQ4zeq0hG3Qkaux3ZgBXqXMNvB0whIRUniABLbK1HsOUBDnmI3hXdiW_gHY8nXXAmGveY4SJx9dudGjUfTI-XONgOZ0tFk8Nw4fWzsYOrpIItaIUeShb-_zVtt5WGILd2QYfscQi-7ii6BUwVi
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLwAschkV5mOdKhNi7feRXXAU4dZPZtpgi3i9K4yfcFSr_g9rLdnmK3HSnMGFLzEjLb130jdaYM3CquBf6Fb8r1c4uOrcXGgM_8aScHpDf-Qek_6oKoo60KXgvosB-2g1prmeOVCy2nHrh1kOWa7ZSllu3pW5JDFYP22RaBZJyLVBPULT7xKkOseezjEOowahM0h_yUe_mGHwlSTJlndqludbO6vDX0nJDAZlpkNMmHRx2JDr4KF6y1gky9valvSVw4hkxyOOMgeiQv3WQhBMTe2n9G7d79E9764FMO_xQriY_AClk3YYYZXtXw-FqrwnTcUeD8y52rmdW3pkTOmOl7NGM4Q3CwVWEUInfbHPQvojM83IuukCM62zjbMNEJc_bnogU8JrTT0D-xd0i3FY2PoVoOoiUCApJzal2meN95u9n_5cx3dhpxNaixI7-gjAeEnZ8gVuE_0kA_AJAfjRCwpz0KwQf5KrHtlI5TQG2Tsy-3GAYiDgoMNtPloOjrIiQEsxTV%26pg%3DJYWYC2M4SVGLJOUOST45SCW3AE%26ch%3DAQEAEAABABRK26VS_WnQWS1ba57yW0paHCbvyO0OUns.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+16+2025+10%3A13%3A53+GMT%2B0200+(GMT%2B02%3A00)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d9257b9-6e64-47dd-969d-ca71974a1f17&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIGl6-p-Y4itgL5SE0l1b_wKW_xlJead0.%26dt%3D1765894280821
