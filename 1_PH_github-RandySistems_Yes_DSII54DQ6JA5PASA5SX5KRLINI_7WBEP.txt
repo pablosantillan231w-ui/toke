@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: PH
+Plan: Basic
+Next Billing: May 15, 2026
+Payment: MOBILE_WALLET
+Quality: HD720p
+Streams: 1
+Price: ₱279
+Extra Member: Yes
+Profiles (2): Aliw, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA8PVJIAuSyCfU2ZkUETIYXTtTyn70AoP4P8QpAOdnekRRSTEHBexwGw8hL9u3oKYGHV_uP4fLJI3v1fTz7UniXR3ZP31nvXfR6YL5egZvZHaevz5o-OLPLwy9jQYDP8cf6DFy3Qb9mNtNvYhO0HMp65WbsyAwKxtkpVLgLOyE8DlTaryB7o9bsvVTmlDC_K54mZqQCAg7ln3cqgqcXaOGIt-xI1Nc9XovQ-4A8nUIGiPA_hqjWX3Xpf2DNzmPwisW-khzaqUB_rULFuuI432_ef9bUmYsbOQx9CozpHqd5aAByONOfZePsAjnk0tfk6QdHivWkZfRJ-4NVm47TXLWaAxcHAZOLY8PGUT_i-jy9zDA6X9RBvn6Yibq0PRuJsGrpf1IkOZHcYAK1l3NU5xcA6_TLbQ_5OkbAU1OCmGM8YGdbGwMEu2rzie7DBqXbS3T_8kOLD1ZfhQgfJCfD2qhXKOi0OLb9qcAU6tNNwmSzcEpPr1TDo8QCEjjcN5xyo5FldVFxeY6_oR5Jsl4opNST0qtKUaiaqnlFM1MEKeT84PsBgGIg4KDC0XZmGmP7Y5dc3R-Q..%26pg%3DDSII54DQ6JA5PASA5SX5KRLINI%26ch%3DAQEAEAABABTm-y70IB3qaRb9bQiChBY0yOjWgEaz4qI.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTb1Hs2sUzVNXZCQnVuXvlIZpRllwdlP-E.%26dt%3D1775303408177
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAD61Sw_P5ITG4A90uZJpmFgFpmC3vHjJOaXTMnt6GXx9HNAhqppik-nc8yVkznVuaFD54ZhIRZn6uVVlI33GqpCraX4EQHM98i8U1nEmT42-o2deiNJWDZxD401LIMlmScGqJOw1YnUF9BYkK0xnH_Z
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+04+2026+21%3A47%3A00+GMT%2B0800+(China+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac14f040-ef13-4356-b098-b4ab3aa6054c&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
