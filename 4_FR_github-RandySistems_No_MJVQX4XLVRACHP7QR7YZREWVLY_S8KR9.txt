@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: May 15, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Profiles (4): Aurélie, Zac, EmbrouilleÀ La Villa, Rumi i love you
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELQJmz-bX4Hm5BYJao3ZWQJgxqT3Y6cy082tIZYokF9SdMe4CKkD9HiC_dpi6orJQtX3YC_8E5Mono8qlef7CP6oAvgUzcsch-erfy76a088QWVpwlKoVYmcO46XyR8hFyIF76nrq5WYLL4Cf6oXsuo0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKIA5Z-EF2VDhSE0PuDmoM7ySAnqcpN-o-KflCw1wezDuCzMaNKfb1EpXEwuP6IyJoJB2wiZelq17yUz3UhBArHk1zCPfOq8B3qOhhfi4VhwOmoVZOZuYvofXMbX09U9yXD3IKpadBFTtLyeVOlURFgRFDs9ptlQpkMg6dsv9uJ4X8p-apxeBaYeZNj6y-PqjyBzZM-4w0Fw2rpjrX9hyW2fQMIbP_aLRCMK9Zpc_hEUaKKDroftFTb-dRwduzgxC_cWVy6uZu7f8W3Jo-hDH74sbgZpk_NiLCwegKb9pizZ4tTFMZQCigBfZaZm-qzzUvIkOf4k1jh1nzeBfH99gYf7yylnfLOxBkch84q4V4JNP41aE4oC6nr4SpKeH8lPBu1gu0__EmhZqGT_NojKRrWOD3DwiyTSTGE1s4hViKs9I4-S8V89kBbr5Hpq8vBlPYV6pORO221ophfrJj0pkmeO4kUY854yXY8Bd6fF4y3YT74WzdSsYv0PEWu6PhXqS1yBiwi0zPg-RhMGAYiDgoMCwvj07Yk-ypSAWRn%26pg%3DMJVQX4XLVRACHP7QR7YZREWVLY%26ch%3DAQEAEAABABTakV0g9slAsfd9Bv4h1_aPw4atGcQJqSQ.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+06+2026+20%3A15%3A30+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11a64d61-70ad-4cf2-939e-f42759bf7ca5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1768683334637&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGJOeRYJEQV6RgFcgt7YRuH5_TR21Lbjc.%26dt%3D1770405329399
