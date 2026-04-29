@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 30, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): atharva, Gunu, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEB2XXCzOHrMpFA33Fi-ust5gGzSs25xYp4Q1_GLut5XJ6j2FdrCpqmJ2SKyDo3xNJlGD-6Y_9O801hOkbL7zruAyKol85zd6hLlPFFEbegSI5lQuZf_0i2dET2okWPOyDvNCJOCAdRtq15sPuf04BJJf
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTPcs7rOcLW9tj0Hjg10SZtkP443D0B3PI.%26dt%3D1749588200595
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKoA_O5JL4rTgsLuWvNQTZStcYaW09kh_VxsZ3OlBw-bwgXm6_KZpbzWGWzZUODu9RXIGc8ozoMPjUHhjNh-nP9nH1fq01QPDEYvWRwu0WDcq3qFBLfdzrotfeu0AGsjigsCcrRYYp1CT8CYkVC3_CMd_nILfa2Os1m60k2SQliNtsJBsSXE3iUXfkStCPPMci1WQcIf7fW8ul-DZkIhdMPSeLQowtgwqoARWx_Z9y-LEkIEYsiICnwoyQqUkIU8F2JM8Yig98ZU8n7qaC3H165lgKOyz7g-HNevPuyPk23d9NT29vtQLQOACrN4TpK92wv0p1R9myw0ldrDy79JfFNnzdJe9SfN7Rymsv4YrIOxShY2-IZkVWE3Fa0N0hhDxWSNhlh3_CpyU__vvK3c258TEjM920SaTT-Yp9jxF9JGogFGDbWn8B2ltkH8mMBn65Nsia449dOtWTM0IrEG9iO4-oZ_CJ8SPZfE6HCLuxvK-1Zogw0IQdK_wLGvo-6XGZ31IaQXjCHPRHc_DXvewBvsWpaNcytUXcGsDJvluHZjHxmVmeBTqERBpYYBiIOCgyyjaOo3hh5P4xKgo8.%26ch%3DAQEAEAABABSk0evlJwrlsLdWRNesNOameXLaoCExcgE.%26v%3D3%26pg%3D5Z5WEDXTBJCT3HZVWB6DST6VVM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jun+11+2025+02%3A13%3A22+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=661516a2-5102-41d8-98c9-7fd2915628c1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
