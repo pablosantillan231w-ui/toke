@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Standard
+Next Billing: May 9, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: £12.99
+Extra Member: Yes
+Profiles (2): Chris, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEuw_hKN32R2Y6hXmfAIsS5gKNZ__bMOPUDqNnsvVYboqHKkKW_vSTXZm2j50Mg1nMnvSMYIRgAXNoZ_v-V-MlS7qb324XDgvOP9Dn7IyR8r-ZH17eICUDJDDqDpzkCWjz0mCu3ptbBYea9qpn45OFvw
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+12%3A00%3A22+GMT%2B0000+(Greenwich+Mean+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=438b82b9-f594-494d-a137-7bd5c8c50e73&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773032778053&geolocation=GB%3BENG&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL_A9fVPH3rcsK8RdHcdlwKL8Wf1tgepggOwAqWL7SAnjRVCpGhCVSlUWrFKcrdgXCk5Ri3pNYL8JK3BpLxaVQweITcHxLUXk5knc4F8izh9UmYfYe3CqvF0VrVsMQ3nuPVDA8tJjkZCqRHZj8GZokwc9eB3ujt67khoRpi6-iymf3cGzEi8fDzgLHdBp9NVzBdwASpJ_lfjQ9MeudCKiUwHKFh5kQLr2XaUl56HTIrZMg6vkMIqypui34LuXyWT6ZqzKgS6tVhusc4xkQI2ahZ3sXfAM2ozzgLjCUTaXeNQmLhIupD4pe8RxmHuoPgIMDMBFWnh8KpsqRWn-cIfFyNYv0J2g8gOum2IT8QGFCgXma-X4OsvKgXCN7f4MVSouslXqal1Gc6QGMBgP9X03M7phFPI9rJfuDw39dZ62VLKpD6A-7wMoN1UOfUtn2QZ0vyEg3sNjwwJJMdvmka9WUqn9WMBG9U9KNQmCGiXvFvPboSJVsbQV-MHa7qIAy6G7FzvIigK_ziKFqkp72_VhGyTaErXOFAqi8Nqrl5y64P4Bs4UjEzfBOA2yfjY-4--Dd0sa8tQxvm7ytzy6EYXVPAzRBa31Sks8Z7RaLWd7-PouHAb4gL0_6FWNxpoZN5He-yaptMGEQTAIGM27YsMSiyeiRC4FrPE7PahmwV2YEukJIYBiIOCgwdjGUx_C_enkJVfkI.%26ch%3DAQEAEAABABTryG6jnj5Lybs0oAIHTpw8stz8c9apMF0.%26v%3D3%26pg%3DQWSQZCNETNHQXHRFHLTUBZ46LI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUMy8Tr5oZEbDYhuClrcAaoJ1C2X5OOyw.%26dt%3D1774658437068
