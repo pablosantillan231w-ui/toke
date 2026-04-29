@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 13, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (5): Heer, Vrushi, Ishita, All, Mihir
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELneykpTbg8uqESjY_fSmZZgE0IrR9vvAw928i27XfAI2ybavbyy3Litx0D9rhyUN42wEPRK2Dat0OZEWkv1tjIUA2Ws993l8IY7-nI7RMdMUSJns930RGYrSm8DeZniU34DZu2SCIpRMlbBojvsSvzg
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKEBEDdeQY_a87MCXDfzWqtCsHfZZ8YE4zojMktgocTDBY1M7ZsYYPxQ5eJNdFF6QlTxX5xbqjinQoT0I_HBFSuFCMYtE_gX5ardSAtoIc5Q5qAknqSNAegGmZ2cxzqmwiYZHwVwRGXcN4lj4K5SjiWmPibGQBvd9tD_3ygZvKJfGfadU32F6McAnz-iMkZAKzd83lAqtYrH1zkqmU7YbQEp9zDRMt7JMU8dGCj70xQixypwRQQhsPnupgDN5BcRfozK3J4WKilrzWpqNhGkEyjzcFeZyxtcjo92dXRjiTR2CKqe24UKFc-adhrNAtZRLOMsL39LDYWVdwy7ibeGrSnvJ-ibvV9HPXeX22yZv_Z8vCZogUBE7eTIrUCub5x0n14m3VuXWjMfXjx9p7CNmMY4vOB5JGixzPMcemWdXQXyJOaTKcNAdKQ7GLI97fBXE-ty4ASx11lTMJmVTGdUdrRa-B02ZgY9BVMa80QrOLpkQSq5MuObdagob6S32g3XpS_QdMjgFAte1zDzWkiIt0XCtLITQMcW5mtnTt9tatRjWYoDUBBFCgCTplQvXOHE597XOr5IDqufeUT9BslO6YE1XAmwNkLEs7eywh3oyF_cA8s_L-OT3EbMInKr53lQ8mbiVIXi4jX-6CspSRrlkldXJ3GQqdpLIl5-lYrlX5Fvs3MCGcbVBgGIg4KDGeQYBh-SxQ586zVWA..%26ch%3DAQEAEAABABTYKcGCve1vc4s8JHWwY9NLARz8SJIC4v0.%26v%3D3%26pg%3DLAABJ4EKEZCXPJZ4P23ILO34IA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQJGV-me5eUd-6f5HJZd1bVvjpyemAoYVs.%26dt%3D1773608512754
