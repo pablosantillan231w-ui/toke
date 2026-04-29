@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: May 16, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (5): Ayşe Dağlı, Ahmet, Mithat, Reyyoş✨????‍♀️, Halil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPa9Q55G8VccqhScBw58GPJgIhxjt2S6e-vPczhGE9DpMKJFgUH6DNYidiLxXO9anaUcpRhgVlamdYggQVLuFs1UQG7Np1kYqISnBm5E6ZnJXVVaPlNlUD4bzrC72rbY7-ktkPucqj100LGZtq3vB7gk
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+20%3A57%3A39+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=22ab28cb-a3ba-4a0f-9551-8ed4eda26c0f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1775471663782&AwaitingReconsent=false&intType=3&geolocation=TR%3B06
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKUBOCv9JryIIkewYAg8p3VunBRMnobzfV9pg9UmqVNQydAqOUHytgpdbGPlwFB3RSVvhQPG4bd-ZvP1gFjXaDvfJzWKwA6ndnL6PLwQtqWs5pbHMwctX7Yr1q-LWtTpQHjpKsk3YUCDHD6jHcH758lwrKVpNcW2yM6TMpWJa0aycqVZC5dPmYj6i37-lr4U4oAmEnvhEGoVMT6X-o6cV4hDPaWq5--Z8aVMEa5AhL8QmqeOpZy8OLY0BP0KjnLOZTYH4zKcFVSSIf7qHeww0UibFufE_PAfj2opJoqV6GuOP_QDtTtKDY5euRoQqFQRzQGFrniEtdC9UPGBm47tzY6eSPPTMgamySDqjnN5fHKYB_Loiio8EflW7wzJWy8GLQgzZEaYVaXTmjCRonTvqepDu1X8E7hg1VRE1QihXRlIHv3K8EI8pcdOIrbyNk40YqXNwNyqpys17SGLMH3895AxZNTff-8Dul5oVCRq9acOEBAG7ICIxmfHeOsm8p0kyr6D0dg2oDFen9EqOy1dl5MVV8wKe-EnloxHYO1-QpMRJCUrbZe9ZuTeRSTDbD56F9rF5G11FNEldKOxuFt3LbiQIZMWTxiuYaDVujL7dGb6P8_resZTeHBxim3JrPCEzcwBI9FDRqj53ZksfvutJm9vcrPpGain5_7jEUZq42WPgSrCJ65_4UK8OeNwZqoR0iSWu7axksYBiIOCgwEgFx4V7qjRF-bGB4.%26ch%3DAQEAEAABABRvFzf4hLA34WgwQobuvqIPoqZV6jNqJs4.%26v%3D3%26pg%3DDOKORGW6Q5CSDIV4TZ7OCLJSKY
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRYiNtu3IJol3rk03EFTu_ultYGResCpHo.%26dt%3D1776148881578
