@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): elodieboulinguez139, Brandy, Onyx, Nicolas, Théo
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHqAa6PWgTn9DPnfqVDXhVdgPrvhmi2kjr3zL2ujSYQS3u2hPbxfW8Mi7vUqIeCh1uXQ5-u5Uof3mDjyhKiXr73bhUbVbAk9nhHuH8cyHGiouwYHJzjVfBHxM9xwB-8x66dcuCNnBPsXGsGlLTY6rvm6
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBEIGcXSdZpWQDQySGNg56fUUnwuEs22cr_CsmTdCI--Pn4YuXtnGSBWZU2Flb0ZK4nN3Hzdt7abb-WfqOETHNlkarX6g4veWvOaaGtOdPx9GAhBrScqJL9xS2xJw2EbiZ7Ua-uzTvKRTaCj1T3zhGhcNoQPl9Rjf77QCowQwM11036dZ3c2ZeFzXUI8wSMsU9NmFS3ILNgFo1GyLTrbGRwh_-4HjxTqLIx7h0klKcRPThn3wyMkhbVI9cTelz_WDedUmSWccLzQO-GSfggXZQnHcV9khWIXy9uAJ2UfGytAaLiLSgAbOS2JLvrsrukzpwvyoYEvfErqZmcR5bwkhfAQ4vZ29TTsQX09zOS5MlHzRWcsOEO_VIXwTpyYIJCjLSD0RfOXHAUT6gppR2yLymWGJLX57gqr6ZBgd19DnoGcjGpOyrUQ7ulf5ZXOK544XV7jKKcvOVmcvpcEsoTXh19nl9hEm_iLDj5bWEMyq-oWQfteqCRudhibgaFMKxnBJb6UoVlHaSYpxPlQXXMZ2ZbxXVfeZgtWnpsKGE8Q5FB4NPeWMfS-4Tq4O4ZtCzAP9tjPC0x26VeGS4KrXj6_A52Hy3r2SpMSCV5HVh-Hx7zotwviyZNEjHu4Hj1e2yr4kF3ZvFpomPjXZCIr2iJJ-8cBTklqWJBnUmh6o8Q_444MXlEkYBiIOCgyFyBLYZatCZCeMg_c.%26ch%3DAQEAEAABABTiPozFg5uUGs3Ys1sUyElfF9Ahew2cekA.%26v%3D3%26pg%3D5H6CHAGBCFHOVF4PQOMUXDKU2M
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+08%3A41%3A47+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d2d5ec9-1bc3-4b19-817a-a524fbdaf8a4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BBRE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpyVAi7AUtNlj5TqaLcgEN-Z0m8mRAH2M.%26dt%3D1774424502141
