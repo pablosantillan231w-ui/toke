@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELEFONICA_B_PI_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (5): lucimaracaetano2010, Yuri, Mara&, Lú, Mirelinha$
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFAsOSjtdfB_GKj9SJXptjVg32h5SzbWg9n3P5GUzuXzeFdQIKbmx_IBME-08YEQlMGI30aWMJVtyrprqgnarz8-_hUzFhU-jYs9g2hQ_sghj1B_rZaYbbwRQ8AcQfeeiO6mZ7ydKAZawOgmyqbi40uC
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKIBBlY19hxV-odvbKe_2Vj-XsEpd_HDzeRUfgmEw0av1ypJkEwpOc7pORPrI5FiqtY6DTlLwmK_zCcHTfc4HQ2t94bUotjKIB6cRaK1sW1m8bh6nCdZAd4VTBzvcZgdfxcth1UMYqKBximJOydjI9sPyRZGSWHJeW5NjCJc5OYS6SOpn_9D7T3fVEsWvNtMFHeZGzwZJu1W3PQH8RkRSpFR2usWQUqAqQqy2-1Ca0dmXDbp64vQ361FWlasbgkEZOi3CBrEgmzQAek_New5PaOJf0RnSYrfzQ89YGlzRsJtIp6nLicLljoRuWzLheEHJPR_Ik5q7Fts6hP94sgnMCe0v78zET0xS1cfZ_qzA04kUnei36OUWq78Z0tLrOO7xAct6GlAEaDd55qYs-Zh2w1LUMwMdzOfi3d5Oh_IsPETGwsvNMtrB3DmxRBuplObdH8UZfVMl5kOXPCtc6xIKR2C_agDLsBYs-CQ5ZE8ZxGKDhc9CQGqFHIt3XEXbRvvgJb2NN4itMfyumRcEhSIIAa_Seuc0kYfAaB5Lzvu0cdGsa2olaUAJdCOvTMy_rZWQ5uONYOsz5Ki6OJy1dPDPBirLeaj4uf0AERo773ipJnLh2iu24C1WqQzEB5_kaGl8qVJCX_rmIM7PmveCK7ppE5EeERzjiM-mrd7d4kD0boUYUPtRQEDnmWNmkYBiIOCgwTZFpS5iPfpRwciTU.%26ch%3DAQEAEAABABRLL31tzflkKMCk7eNFzAUblLavAAcj-8I.%26v%3D3%26pg%3DQPAQ2BWBHRDF3OGAKIPDAYLW4Y
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpIkob4sY4c6ylDdu4ebIInoJIgEQzhus.%26dt%3D1774709775377
