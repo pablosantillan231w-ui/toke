@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 7, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (4): sravya, swetha's, Tubli, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELeTudueiDjCW7j3XOXdZ-VgMi2l7Ic_9nP4KDTZiNaT6PdcD4DN2LR4lSImfEgVhfxghWAsg8YEf21hcBqANAcG-4Mk_y_Fo8f8muvbgxsnDXu_Hig6lxeUwwBlcjUUn3VdbOA2vtKmjVcg51d5HFW5
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA3DKQLJyjpM-Zo-yQlcc7_uq3-rmq-owa4s3BFwrguPbcFaYPshFohtsZvUNTapCRvzAZVUrFraVNd9CMXZSK7jGZWeRyPw-cGU_n-RKeumz6-ratUetQFmAks0hBilW1FThppU56CGrZFMMyOYgFT3j8-AGJl0_930ibw-3sZBHUcaFTtYRYmNpyz8ISfi5txevK2IdNFeHuIfqz_VAgBmg18cnFbtpWuku4_i8SMnpZrGexBS_GtoVZ_CNe4LfjQzXeDUWiJTRwnkoHEpIt49TjtQgrYDqhHeXaoTED8Ld4P08YDvvynw5gIyWXVH0b-b9wVsI9NILo4G0iGXekHM924nClVw2713_vweOIuduMkdP5FshhDLO5PyzvjaExpUDQSdSYmecPF0R-jy1Q2LFHfM5GaLdqIMd4dcj00BhMRY39mdgvmG-AyX8o6_rSicp9T1Mxe6LdN11DISiHOBd7xE0ZusOcjTxnaQhZZMWkOMTxW8f0GYnmlPX8d-R8RQ6bBfF_2dIK1NCuklagZlsENPuiZBU4dIXGAYiDgoMGGEcyVvtRKqeP4oN%26pg%3DIZJEKGDUCFG3LGX3H2FHBK3MCE%26ch%3DAQEAEAABABQUKiab-V1jkPZqJkabRhxL2IQ-pUxgInI.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+22%3A15%3A51+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f88c277d-5ebf-4d36-a560-a186acf5b702&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQLlSZL1QAZ16azL57yWqyexbG_xMC70kQ.%26dt%3D1774457150324
