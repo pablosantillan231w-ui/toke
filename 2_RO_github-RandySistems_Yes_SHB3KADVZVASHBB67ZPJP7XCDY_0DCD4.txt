@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: RO
+Plan: Standard
+Next Billing: May 12, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 10,99 EUR
+Extra Member: Yes
+Profiles (4): Adriana, Radu, Iari, IRISși natiși eva
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHI6Ob_fQxods8A3Zp2CLLdg2r9Rg7jsCHvpe9t4EyBchTw0kbOY7snH1c6lZCZtKjcAsWOPGqcswqqDNUIxg-JzYyr7HOqt2QQw1j6wOFZQs_PWLKz689fniE-R53cTwQ0UgNttKL53_B61zZmWDPrl
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbAzIxTyYJ-qaVJpH2k00AvBQ_PhNSyPMlmz5HrRZRZa1egM_s9RmeDqyOrskDM2cqtNswGPx8eBPBTUMSwng4WLR81yEto35ty6ynJMzfZvWn-PlseGqRdN2V20UUPFZpVEbnuIvEZmp03FS5l_JXCGVafH4pDb-dmgr_rY3ZFWXnXwKGhJ9EZQ4HLunjrAxUQaDUzukjjMqbEJw7bqU3SMxFqc6gc1K1TqmVMUGLecntOlla9y742mZR05w4Cd09Gk5hqAM1qeLPkZXv1Nt6lrgkD1e5r7VAFqslw4_lD0WEJKGcNmTDUwBgIJ6eMFRBOWvf2-gBCYz2KNfmdVoSwHN2MqXCj2_vj9JgbaBwZSIPy-OvwfMnGl6jKZOYL4IWHPLJSqyPE57PZIZPefn7XFnCmhpgPUl7tCxRzjx57_2vsgg8Xygyu8kVv0XwK4Eq_7-qfl_ufnn1q45lHjL9cEaqD8qgJ1MKH5erZK6dbDMMupqvjjIt5pNuu1E-D_cMMpbOFCNvhmRuPvYzkffCKhc1SJ7Pz5EydPOrLhgGIg4KDBef_DWHg5URwCkDXA..%26pg%3DSHB3KADVZVASHBB67ZPJP7XCDY%26ch%3DAQEAEAABABTdxiwRJuk7LZ2pkfh1v8l0tAqJoTpQxjo.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+02%3A54%3A20+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e217773f-824f-499b-858b-419da89da958&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=2&geolocation=RO%3BSB&crTime=1771716829190&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSUOnhjHMky58vb4ygx9p8Z64tVUwaMHTY.%26dt%3D1775001259458
