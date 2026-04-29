@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: May 10, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (5): Idxno, Elise, Warren, Axel, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKrA6mY2aXr5GkqVQI-EPvFgYc13ldLKLhINu1hHQXmzkaze70uTkqcGW_fv5n47i4tT4IWHemFGqg3EMpRFyG_7JPfqFJcoV7yN32dllcIAD1GCarTaZJcUMPtIpjOcBE6NekEVVFghn8b3Kgz6MsgQ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA4KpEaoNnMGXhWbDYpinAInx0RbE7yZ7gzUJUo6mCVkNt0ObB2FGex5vW4-xovhUl8EsVqXDP7hY3tbzCC4xJF991qhWmyxnxZho317ZIPDM4v6XhpOpz_5N2m9s3JnIulGGFXdQrH3kaAvmDTS1PBk7aUlmo04bb-S_Imfvs393cGw8GUtFwA5HWnWjDrZC_oHmtVtFE6OK4yclRlP4St07VOhsIm6q6co-CSGIke_WcM36apylXw5nySD8nFnliVWml6lBNeHBn8EAG_03mLbGdcbmrTLwBS4DII3T05GHWZ6DDJ0rBtAxaHbc4okmFbrKtj9YcTNzSskdYX9Wam474AIBAGlDJ4iDwWFk_M0WMbVDMmYatcYxF7Xc8Qu_ZGwtupZZetNdIpDTj7NruKlgDFb9OToQ8g27nF6pALIEB8S4OQAA7AxFHLaoMRPUWkd6NNfN25FN8pVQK-T9vMzWY2bv5hNGDC7o2aJdRH4MZrf1zKdHTSH2Y5xpuyi6MfwK62ymBfi_kDXm00FGWr9D4RlUgEFhs8wCUJKCD_B_bxbiuibK-AQgxUerW2FTc5j2XQSkfQFqW80ohesWU-5P_clJvv0Hp5ZpJI14eKSxvU1LQ0HNfaljswdnJ-fYMQLNFeRdmxgGIg4KDEPaiPpQBt8ttfmB8Q..%26ch%3DAQEAEAABABQZLvyqv0sNJ00NIcRhlxUNVeLZ4uw9Xzo.%26v%3D3%26pg%3D7YBNZ47PLRGSTHLFXJ574CRD3Q
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+10%3A23%3A37+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2926cf0a-d693-4583-bee2-78bdb1767e77&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1773347479665&geolocation=FR%3BPDL&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvUf2qaqR_uE8smtWYTHVor16F_KgHC9c.%26dt%3D1773998614716
