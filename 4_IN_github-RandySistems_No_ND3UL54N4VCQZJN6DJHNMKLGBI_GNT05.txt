@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: May 11, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Bhavan, Vinodha, Israel, Badri, Joshua
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJCaX_fYHzgvOIoUSCW7TS1g1TqmeQ20gvzk9uYXlE0PVTFKRESm7ONYQ7xMYIMOn7OvcNDD2PcjeIpE6uovCj2bxrhOeBCgrwl4g0BaPW-Fr8ntAGSnd2m-vxEINU4pnCJ8HWua-fXbLnxyikMqDFci
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKQA5MftNhNna4313P96ui8B6JA8vbKcnik1hhPgqkiVOr45C9q7cHQO-Vga_IcqwrNYDtQx8uSfBLrtfG_5Dqs9OfFKPtc7HRYkyVbuFWaO3yHM4p4RrGWc0LqZD_RGJ5GR_CTM0HYndSo4dkObvz4HTwCOSLsGM5dxsufTaibGTJvJFTXh-5mDbJ_COCYiUMhnvk2Uf1gz2Zb5TEM7pcg9NNuQmaRAFxW9-cZ8TOMcU6TXkTD28zDKDZJ_IFJhBOcUHviJTyBHbFkeXEPKvKcwVb169vdG-F5GkwBBe-9seWbNHwn-c10C4V0lTjDqRO9Ql6b-u7H6BMjoJQUzxUuFEt1sbyh5ie-4kV7nNFKgTf6hWD8Y1ZlVyXkgdpvzdZrwqB-HCFJetT8uu4D_lq_4gMq3_xNqZcXirO2VWia-YcF2Yvnhkkt5Pc1Yd4rOSxTGLpN2DHegrHtrqw433I6tj5igDX8NzRLPNJJU_wWX_lPfj7lbQrmncCz6JG-B3shVk0MPd3sDNfwGHLkLoe00ksYBiIOCgyvF5CEcjL4tqK4DJw.%26pg%3DND3UL54N4VCQZJN6DJHNMKLGBI%26ch%3DAQEAEAABABRZetT97-egtqCIcD9mJhswABDHmogERME.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+23%3A12%3A46+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=62609868-38ae-4042-9acc-e045f555bb06&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT6N_pIXYX4qasIBhnMn5KcLEa3jI48LvA.%26dt%3D1774546965839
