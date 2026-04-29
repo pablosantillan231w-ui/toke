@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: TATASKY_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): ADITYA, Tejawathi, BRUNO, K Prasanna Kumar, AKSHAY PK
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDqIDQ5C3ske5qaOK0sfyTNgRwOojEDI0FTdJ3SwRV9D6mXaOiMYjx7E3jPBVXgYs3aszjcvES2vP5ScTVzoN4ljOCzFZqw5lJi2cNrQFOyzrBpUSxRqbkCgRrm_Ymln88v2wv4kLfyUx-BGb6JU7sxT
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLYA3FuIz_2HppHMx4lRavVnK00yO0UveqoeuMQz3RIUAN2n0-wB7V8IffKr8LoS5J0_ylhowV-SGInVjXMbupB0DBQzt-NUpCmbeYf9vHmvghEF9d17BhcR5y2cuRrqfDBOtwlc5z0iVL7GcjfGytW9xfRWJ5JfQ_fW8ZPk9_3D7rui6vlPgsMFSDGoqOfzP9FUQwlGV54sdDZlriH3PF2WsL5MAf96a0phcXq57alHvr7Wig1Fp1h2peGiS1Y8yjNY0tHcOpwwL4sfeahW55PiCDzdQw5RzlObY4AweDogdsdvZA7x6eyjtIXAV8QqMZbhvcoz3kvUrz-bOXIGHTRHgZWMl9vn8SvXIAn_5SoJhFToEZf2A52oT_J1JRpBTJm40BcvQ-woqvo2Paz_Og4y3MD3-0duG-rppzk-VMisUdZn-njDq17OSqBdTkp-9cxe152dxbaT4Rqet2O_81qVeLuawTW_i-INELm1lgrg1T7GWwRCljG3L46n8LM_WlszDb91vfRhIwnWIrDePegaiElUC5iRz1qKpN8BwST6iM4Z_9rUxvvHODlP4U9KwOR0iqRDhyXheICGILkVh7ezq5oU8pQIc0IrbyEg4qooptY--hVXQxtzzcYBiIOCgyS1eVMDAHTtsRs-bE.%26ch%3DAQEAEAABABR8vTDZSbGML19XgSBVR1FYw_VEzdKUZVM.%26v%3D3%26pg%3D6JQOWXQPKBEUPLHR2MBKV7RXBY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+14%3A22%3A31+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a87f17e-3d53-4996-bef8-b56e308b2230&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773846763556&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRtdmLF6C8eMbcQchxxMH_QCDZxB3FNjHg.%26dt%3D1774687949536
