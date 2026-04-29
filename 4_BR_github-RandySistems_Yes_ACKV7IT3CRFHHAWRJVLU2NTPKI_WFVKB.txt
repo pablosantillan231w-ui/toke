@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 16, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (3): Vania, Lucas, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3AvcCdQdVjfw6WqDIM52FaGuV1e1zKk-sLtPmLSQjoKxYgVuWh9mGozAnhgGOG_wmSzLcB-8Za6yeM9gylyDvDuLfYAMBHbRJL1rfX7NbQWuivcRz7Eh1hfkPJPIUrlGXvYnF69pTjZfwX6wSY8S6UhNZgl9WYNX3PwioZBXpx9N9T9uH0xi4Cdm-aEFhXG50tUYNz_F6E20GrsBYm949aFHGX0hDKnqdMEa3J5__A0ldNVuyNnV2JdMTpqJyWc58hY5fYuz9m1avOfF6K7gxFCoRkQTlxNkIgezaSJYK1oMOLyeYxUbJQWyVcQXl9VO2mYZ7z-_dx-wnvZUqZQiMGL2mK27kAJ8084Kchmf_fgYDFjJ3xZW_4KaSRU6z0QmqywQFYYAU_2PoKMeIXPtd-gV3zGfnKwlxGAGrvd2UBxmvT1K6ciLpo7q0e0F5I9cn9DAHtKZpJxPJA5DN4g-CthAYW7EcCJBPxGf3NoX6huTv7v4Mk4yXkRgGIg4KDBPypYx3ug_6vAPm8A..%26pg%3DACKV7IT3CRFHHAWRJVLU2NTPKI%26ch%3DAQEAEAABABQmfEiKQeIdQSyPFAOaYyYYR1GCnohCPGY.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTFh7JiWsxODoMFHOLGLKOC9exOEtU6zSg.%26dt%3D1752294659637
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIYqybO_LtuSs9aSIgL7E3hgC8RvRqPzhFb8nf82unZouP2JegWUtgUyKJ6fK2HiGmQoG73mvYg8127fw7ONtjdcAaB9vSDxcwmkadp87g9z9U2iA-szLkl4BdD3hZLz_ZhnJepec5Dzn7GWd_I9Oe1_
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+12+2025+01%3A31%3A23+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d75119fc-a4ec-4a86-8961-36bb250fe6cf&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRJ&AwaitingReconsent=false
