@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: GH
+Plan: Premium
+Next Billing: May 5, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (3): Salami, Kaakyire, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA8G8aLYcpFClJ2g2AvbPnUjvCav8lEebnSFV0pJHgsXhLNWncj2CC67uS-AEOjfX7Nbrtg9gKyaBS4SxhZaXedPI7woGTUhXQ3DjXJamHJ74-_4v_aUk5GCLxnFxi-M3QOcDs-F44zrRpZuJxU53HQVhS1-5_CIYxJYr-eghMH81UIC84Oh3JKJWSIA4uYwb1csVlmlHLoVBgmYIGYP497OvrjD_jbaqG9yQORsFOMEX7Slwrd_ckuUDeRLhdeM_zQAzesl33akoDAlkWxwpDApS0klmiVAqRZDDJOZL8Jg0ou-DpP3ffbWQ1FodWuxDMfnm2a_utnhlZZJerC0Xm02NyoRIdHBhAXrHGXiNvcAnOVKHwEaQH-BgJlbIYa145NfDjxAcJFQOE2bCvjtO9ZaDAuvpFpHJegLQPZSDDWJUG2aO3lJWf5p4RKsYLGf3kK1CjHCijOf-HyxIzal5FhHHK0GrEaWKncDivaXEKmSrDN7pxhRKGE6ibkYqDFYdH_533YZq-MF0nujbT7-Cdc1XYV-pL0Cs6qFDhOhov_sYBiIOCgztcbF7EKpNCBA5b6M.%26pg%3DP7SX5OUHWVGL5KFW3DYHDL5CM4%26ch%3DAQEAEAABABRcTmM7ph_LK2mk5IZgF1dppuXNj0NeFrM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+21%3A19%3A00+GMT%2B0000+(Greenwich+Mean+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d8411bcd-2544-443a-be5c-d06bf251ee06&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775251086946&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoWoxITferQHfmTxIgHJuIdI6CW1aPWDs.%26dt%3D1775251140191
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECrQ50blN1grgQSRGf0AZ89gXk_s6dTzSeAaS5IjtlNFZ0NGqUiZtgdeUFerjjqICtAK9ZWdHrYVoalreABgDshWFdnuJ-xA1atZTvA7K4xbMSg7awLo9OmrMDvGkxYIs15bvfsF4A48waNOqymilas-
