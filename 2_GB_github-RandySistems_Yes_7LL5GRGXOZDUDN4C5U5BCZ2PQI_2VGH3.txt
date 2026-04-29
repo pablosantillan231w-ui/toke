@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Standard
+Next Billing: May 27, 2026
+Payment: PAYPAL
+Quality: HD
+Streams: 2
+Price: £12.99
+Extra Member: Yes
+Profiles (2): serdtevoid, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELEn1vpZgUk88e2UYREF1uBgzzgJfaNKzH6CdiX4tuhgKe-0rEMdsz99d7a0e5IaQ9DQvoLx1XFtkiN67q8AwHyvqoA9A58tR_Z6Zw6xyyx1T8IuFdMJIkUwVx6p8xUfh-FwGUDmvdUXNPycDcD4FBfi
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK9AwFoZRC8W8goNEYW3tzpajh9O6yu6G6Li57q8DriBx0v3__iqDFwlgpV1A9c5wvaVdcQ200wQSIzyb4caE3D_t3HfTOZmQvyOjgoLSjYoUfRm7BJhDVj9VA0k854rIFWnOhngYe-tRa4FHI0pqIUtZ_PZLXwvXrtB12OwcahNEkT-vZ3HNBXv7vtLZj5krv88qwlCn-8Wy6QR0r1mggbiiTsIc90FsscpjqEPAGlEDCsbf03U1I6dwD6XkY63AmE9KS6ONYwV7d1jb8vpAGhraEgy_ZfBc0r7b-vCePZPKOQjsYm47Jdl6AC-wJNb-TpVYtrzjK93bG9E9b93YFTitDVSpOSX8nsbs_Av8palzRTe0Ee_ToBJMN-u0E864jtbFNnEPATTvqlXj6CfNEPhNIyY6gTMeEv-yat4aXC78fhhSbzrHqqiDCQHUwPX6eAg3HhQZNHXw3bSvmXrlkGY6731ZnXDyFbFa-GPnnFUqS7hVgB1t0pvNnp1KAZNDrwDBL-AzSd89ZIP4M9lzh8F6ZjBkf94MaW7_HOIYvNw4ZzbYRMdcJ6FqrRR1s7bIB6-CLLQlxVD3Roatwq7PkYBiIOCgyxloPvexG6FZnUps4.%26ch%3DAQEAEAABABTFUvaFTS0aocxzkzQDYdAw-mU96R7tqAE.%26v%3D3%26pg%3D7LL5GRGXOZDUDN4C5U5BCZ2PQI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+22%3A06%3A41+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d9c879f7-84bd-48e5-bea8-ea9084f2a2ad&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1772581106219&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRMuJgCerj8qTKDb_4tBBvihYE2vknbe4A.%26dt%3D1772834799609
