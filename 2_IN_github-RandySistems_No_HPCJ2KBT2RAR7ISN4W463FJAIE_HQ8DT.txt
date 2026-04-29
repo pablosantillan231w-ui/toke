@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 5, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (4): Itachi??, Sasuke:), Niv!, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEC57yibHoHXUq4DPKVqesBFg9M1hnhRp7_x2hz92y-ief4og8iMI6UTXFVJtpFoDTjKWDilL1LfWJMbPRkxb00vAjPMhOpZuxc97jnkNyfE-rSZZl9Q0NYfxXCLk-7waxlMetBKUCEarJoFNqHCBjHmC
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLqA8EM7gi4G98JE2MvfeWIo6EIt-6UaOXPgWbdmAcxdPDHHT1WTvpoXtiRTgcv2k9O-g5YoaSI5VkIFdrzVuhNWDIXcCMZ7Kdk4nb8yuH86eO1Q23LUt55suFWD2Dnva7xYMEKV048UHBRXaCSuYNWNVHnvIIBJ9cGEygEMaLL4unUtRe0eNItgc0HTcFxFFic67RHjtZqz0dh9CYVFsrzz7ehxJ8LsxXrFhrTNj_ZzPDzI622iBGGSCk8YExUApY9aJtdvGiFf7LM7L1_PjDBfGrztBnrZP-Xy8swu7ZAbKnXe9BAzlVvVvhYH5Yy7SdQVqsc_WnnptoVwSwv8NEdlsVKDKOKqMM4RQwHj54RkTxmTzseDFW9fLmjkQMAIOVx1JwGuQnrD1pX2V7QMRs0avxUzfNJcztUYFnZON5jkidat7iPhhjqwm8EkccjwmPeqTSPWkXudt7EOQ1IQys1Tf11qKksz9HEYepzotPBcefmbXsfHTydaSsRXSzmicDOIHYkvvLxJIaXKmbNuJfwno3W9Xv4moMhF0h1r6lYxLYh-sc9z9GmBRZj-vGpFsfpR9LQKWD3JucVwXKV5AKRlv85Z6Mwq693n4zbDnN8O0s0HzLU9LLKOeQx69jelpUF3cydyI7OjynckBkYBiIOCgzrOVxLAlnrrqgbfP8.%26ch%3DAQEAEAABABQL5JZX3s4wYeuYnlSwk_BlRY8zRRl5Nv8.%26v%3D3%26pg%3DHPCJ2KBT2RAR7ISN4W463FJAIE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ8Diw8tUoPr4qhODjUKXQxcpl6o8C-2Io.%26dt%3D1774333315159
