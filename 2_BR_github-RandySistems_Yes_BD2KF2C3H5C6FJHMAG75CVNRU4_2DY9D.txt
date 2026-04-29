@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 25, 2026
+Payment: DC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (4): Gabriel, felipe, Fernanda, I
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AuZug1jI_lFNS_69LA7vaUmSoaP38GZoZ2T3HJLuKAlP8gmpOXfp1Ob9OohNCFbUVaWhEUHYm2S0LEimmOPmg7VN5hc3wRaEDSSdeWajLMjJ4b2YyUvEgHnjP4d7nEEY8c25akARAlNmxXAoJLZRvEuqoR4ftX5GbjIzYQLzp2rsdWgrv979BfxXank5Gvl-f25nFzHHN0NVd-PJmHl-Zl8bAZKSPa8FpvMvpwKUpypAVFU9gW0SwOD6_b3rE14LgeUzaNzNRoozLpyUD-SwT2Imfxzkd-TnlIbNgzNLl6C2HnEObSClR7fHmT3gIRNQMK7QSSYeAHKzDf4RE17ZiRaQAz42mq3pEro_9foxFs128Kv6VW3ffAMOeBNEiddClmKrHibeB5plpjeq8dSEY9SPhgGwsv45ZHhqitc8TQpN4jO9bjr98lKAxwv2KDqN4_q3moS_7RJ9BYbuFwUOiduRQE73otD-afIv_j4xP5sVt2i30njZqtIYBiIOCgxWMMUIRL01SHUDXcA.%26ch%3DAQEAEAABABTmVClGBjYVZvI30mDiOPHHTzUTSQdg3TQ.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+15+2024+22%3A25%3A11+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202407.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1d1335c6-4b46-4e9a-95b4-e5402a232fb8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BBA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTD6u2Ztt66zPX3SDnuRQidGLtiM4YxxKU.%26dt%3D1731720273132
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENtx9uY-aAnk4GRbPkny9Rlg1h-SAcD_XX9YxMEOHILuf7rg1YclIcMByqI8GR1SgeLHPO62zlGZhdC7bcTt2sdBT2w7wBPTgSd1Gahs-iACYowfKb0CU1C_p44zIuA-jWf2CyT9Zq-32YknKX8Uakqg
