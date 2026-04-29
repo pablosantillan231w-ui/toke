@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 15, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): deeprtm1, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHNlEahnYWPQrpG4B4SpQs1gfkm41ukYdClA15x7-SdNHgUIouM-jY_PGVFbHWcWB5BIEaBht3dlLjYxpCZwoNgoZlsUQ_x5qC4hcZ8Y1AeE-MkbOhU_6bBcF72yURS8ds3R5-slWCiR_aO3rKkScTml
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLQAyA-E4dWFc1e5xlmS0VcSzx9UzZb-3jWh0QJy-bHltWgId2FWliXEg9JWVwFNRu0vbSyl8dRGM5hQz-fNmSjsDqB6hmv8zCa0xt4i-R96K55PnCdsRK9lRMPLCDbiXYeHVPH6EqrUsP_IHNYadVjEpQ8Cq4vR8JoxQmnpDQKICJ_Se2IVqUKCNlByLrf-oWb0TiiWBWjuYPrQGE4oBhnRh2-IsVDIyRBcqd7jaCA17Jg5kKVpd8I-Wcn1QvUPXl-WBXB-8hK--LujUO7u6BJig-rIeYdv67QnmeVLrK-g3cf_gJ8BFrwe-nG1D5VkMAhzSkMFHAzAc_Va7EETT0joQDdqpUc3yUljOSaX0-CGu0SdnTBQxvHqEYnG7EJ2tj8Jt1DQyDCNPOOOh_1crY3G4HJm5mIoo9UvLY7WiC3BggvYklNtNQdCjWqfKgBZGKVrnWu8UaZdqfvbNwkQ_bPQ2T5fVIs_6b-LOcDEAYfyJe1QIRhSCUBa-w8l3JyAnT2XtVK0e5FohzU69YwhaCmz_0Lrcsm3nuEeP_bL5EhdTZirD_C6yuzw0qqS6ZkFWZ3jO_YuArZTvnMY1iWnYtL8qLNRxG8rdB0HzbtRanlw1IVGAYiDgoMaicsCODED3yTBgRl%26ch%3DAQEAEAABABQ0n-XduhpZDilkht4CkUCV2dcnducA-fw.%26v%3D3%26pg%3DVMZLLRP6TRCAXKQ4LQS5I556HY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+00%3A12%3A37+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1bae7065-7ba3-41a0-85f6-37e4462b4b6f&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isAnonUser=1
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTh9-V3mKrbNQ4GhiIFj4DXTl0jEyjxERE.%26dt%3D1774464154011
