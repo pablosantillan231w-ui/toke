@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: AR
+Plan: Premium
+Next Billing: May 5, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $ 19.999
+Extra Member: Yes
+Profiles (5): Andrea, Alejo, Roberto, Bruno, ALejo
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL1AroUjR1dEOfirEPeJP_dexfXJxt1JyQtQ-gr_iSu8VsKK5ftlbLMmWtBUjw1dJeeEveU81W_ojq6Ngv-4-_suq0lU22W8Ae6kofZqHPDhBnJEctGPl8ko7MnSYKzs7fkPoRqbceXEYgs-kP3c4rU550gLpZq7kcoMeFM4LpzScBmUSQhuG8y-aoUgie77SNQBpjZaxMOWz3FdLK_IbcyUPtHtvXhXtaU5hK7ASodEHgvZ5qblCINfBr-RaeMW5S8uVCXke9dtmXHJJ5MlsFOIqh47sDZbLxc5lzjo9wLFhep3xIwnYBagK9dYXeheJ85IVSzKD2Sf8ntsGssaNqOvzjjBfN5bG0lqJ6IuVlD10V2J3unvMDwqvpuXCjE0R6cAXG0HbeLPX3S92dQB-bTEI3B9YZo-0s8k_1sSO2sMRA6SmLBFyyHI6GbLsnBaPXqFjzcV4SN9lhnN4l3hbPfRVETt6lYQzV2hNSmwCnHGyc470sMlZEYBiIOCgyfftRMW6itXxTdm38.%26pg%3DL5XIE2XSLZDAHIDIBNRTH64F4Q%26ch%3DAQEAEAABABRmAEXZFExp-eahn4FGtMahSz01HPcql4E.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTvGLObBCFBGAYcxkPbukpHakBZhwVV3GM.%26dt%3D1756061629184
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELYnNnzrLXWpVBvnRHU8hvtgxRBj5PA8c8HHwcLF5j-IfToTwbCCWaCkaQBzBFCNWXw318tKyoAKaPi6zJb7HzT_XtUwt8JAznuizlZwAhfNCRS52SaneljHqVliUVapFn9QfNTCV6aAZEa-vAa6xPit
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+24+2025+15%3A54%3A41+GMT-0300+(hora+est%C3%A1ndar+de+Uruguay)&version=202506.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6d325bf1-3a55-4b72-8e98-717e0cd72e7f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
