@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Herik, Bettanin, Um, André Lima não mexa, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJm8ENHgiIoLL0Ijw6nTSMVgyGS5NZcmbOF96wr6PaVOTRON8uWMiYPzT4YJh-rRHw7hbQq2Dwxu3mOTkvS0mQ7CrMvfYY3POZlz_qRK1rKOnlDWf_vzhXS2-OLpagHYMgnB6FT-ciSyblk6r8WKyGNc
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKABA0ZquDW4OFJtzfVaknc4rvXA2FZ96MzCef93c4IvTz4RH-p06tGxBVY-268cziKZWycx9TBNALkZ-8z2vcGtVkTokknPy7o9ehzjT9alXb5bAdcNEy_TDKmqWDWLzJwdlxEkuOpmEE61yW7FYgT8Na412WAVXRxmbrG7pgJtKni4uqZj2J2iGt3ZcXYscp-9W0_lAFmfpalAeqHdFMRbkNMWuA5PaCP2k6ShJt2RjrHDFJqXQeuwEySTAUJwysXfa4iv34x2VtFdOesFx2i-rCzdt_F33SpZxdbB1GULv3ZRBmZdlEhL3cdFO5Lnh9jdCDExYL9dTnNR91w3Cdu7tilsdM1a0i20Zg_GERgJOlx5TvlOLtG7bubKs6yos-lIhS-Be2mrilcv0dOj52tAZNBcfQc4R1sxCMfBZtIflxrskzEUC1-hZOH5_VppendduUv5zXR0DRpMopNNNsH-3MIIp4S6dMVSFKsTGY2xlRm4Bl0aG7tZdzP-axlJBvMW3AGzHYJHFdnyTZ9VufYLz7QOB3uOkSL6MJQIuxllcSZ4pBN-qDd0aoaNgD9AxfewZYLxHX1RyZMiXN9ye63Q6KWeMq4tuubXW4h-YfLkBw0rWkgYByklOtfWS9ZMzYEKKzY_taEUITtCkXwJLotAFrytJAmEhsFxZ9JPENvFO3hGAYiDgoMyGJTG1t4doo9E9BW%26ch%3DAQEAEAABABQ7TE6LVmSsSMC5p3ouzFEIkvcCJjQKmXM.%26v%3D3%26pg%3DFORRAN2WV5D7TI3YXVTBXP2N4Y
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+15%3A17%3A12+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f6c86cdc-9002-4e1f-801a-9b86869a8540&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1769717981270&geolocation=BR%3BSP&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHapjF2aUBFxXmyiS8GID-YiYwGyCFAgw.%26dt%3D1775240211601
