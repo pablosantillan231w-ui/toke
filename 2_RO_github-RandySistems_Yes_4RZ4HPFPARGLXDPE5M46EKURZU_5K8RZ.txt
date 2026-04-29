@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: RO
+Plan: Standard
+Next Billing: May 28, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: EUR 10.99
+Extra Member: Yes
+Profiles (5): Mihai, Dana, Matei, Mateiadult, Nelu
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEYJ2Ng-jY7-08B-efYSIiJgxxj3vRqHmGoX_RoJuHPE6vPKC3YWMLPSaOGhh8exmzPfj146qo4Vm0cvLzeYD2hqU-5xLUzvIJXFyP8JxdkUdKcNpjsNlUUj2mUet8f4oJ2WHKBuvsi9BacgiecLLP3y
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AlTXdzhaJdTtIBJ7mSgdM8yqHlsclMhUXpbG30WK7TJoXzZ6aDshrea7YesFI-KHdKvOZHswxD4wHXWwVMW16qiaPHtqYsZufFQwtrRJ2qnR2iMJofq1iRhnYNoCJ48XPX5kHH8U808P41qu8v2xTPjymRHhantwzj6D3rbOEzeqv7odz45lMQUAXNso5CXUn1xKv-ZSKx4nzfp3RChnq64xIbPn18gzrpi6K_ErwOvmgcI875LjA8Bi_lOP2w5BAU-UbTbPCYSHy7aoGETS5zNQcGJS1rytiqnIQSm9EcBhEas-QHocCTCffIJYMrS2drswswTERYv7AO9CUsr8nhDPKDYohEZnCMNdfPxxrWaPPNN02uheMJTpfZtQfCSWvHfr2EdI-TfEhE6anCZgiSBNVD7B78htQ1XsC5x_uRePNDV675cVV-TSYu07UQlmRkC_tZ8Fs-Q_fTL0vJOym9zyrFoPtNwBRDYn90jcFh-4mYAbTBNtzypCk0CoLLAYBiIOCgyi5-EKDbne13P4BI4.%26pg%3D4RZ4HPFPARGLXDPE5M46EKURZU%26ch%3DAQEAEAABABSYOUdCWsFBLyEjAcIh_wiUcs73_pcOpf4.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+19%3A44%3A25+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9fb8b280-2c07-4704-83a3-ec52236e7660&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=RO%3BB&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRcUyRIjoaUte9TtQ3LA44sglZFvRqXF4.%26dt%3D1772387060281
