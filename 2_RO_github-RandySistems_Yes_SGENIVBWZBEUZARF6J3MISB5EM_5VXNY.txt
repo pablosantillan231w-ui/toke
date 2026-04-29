@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: RO
+Plan: Standard
+Next Billing: May 27, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: EUR 10.99
+Extra Member: Yes
+Profiles (4): George, bibi, ale, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEA5D2fJoRIQkmFasmshrbSJg05G--q--zvjc4Du8Dsj3PatDo8Y6XyO_4NlDD3Cq0-C12Oo7uipNnGvZD-HU2xyhscNMgORmMDNcYVcQLgTwgnjH4EeFlzq6BsruIwy4IikzVHmB1TRk98EAmcaog6Nz
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA8qWvTuQIk-iPtOb811pgiEUQlGcoQ1bDvCCUQiAxEjd7cf4xwkyoSxHrlqt7ztYL_tOEbMeHptELt-r-71OXPEZo1Og6UscMTuh0R-gA5vyQBzhEl7naQ9oclHZjJInbeMIfxh8dpTwzfrmHN0UNa5oFLdq1O1cUE0Z8tf_g_UBFV_SEHtDj_YsDmwVkNskyMIDY-Crfk3o82k6eKkm0cKCivNJi5EhSf4PI0HW_uWP-SlUASfTSFRTxL6zZEdpMADP0rttHGS7yv085VGtErjyGkk9kHRIFsm8Do7M5aaZOzARknnv1hE8BINmsqnlRrkmqyL6pKuq7szQH9oN-nQRKNIygh3cUAKkLnE60Csx5vZ315tPgA1ZSwYUlUMg4fdyHn8YIDXr71vX1NMVzJRkv9yvcYCI7E-AgeLzu9UtHP79hG-IaaZSzm2uXOIJhk521ytSMCR05QG1yu-u24fz18EsnU6zqOnm5f7qYQespqo8A7RxQCV9Uu0gZ2ve7V6DbtQL0vS5-wUj1Gl18a7pEKCztLmFF0v_GAYiDgoM-cR3xS6ZSWrRfeCW%26pg%3DSGENIVBWZBEUZARF6J3MISB5EM%26ch%3DAQEAEAABABS8OmZcbXUJ0Ov5whq2S8AeKsijKgZg-t8.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+01%3A17%3A35+GMT%2B0300+(Eastern+European+Summer+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=9a83dee7-c098-4815-9d07-b35a18cf0922&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=RO%3BCT&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQx___EI7qrVEd5OLrQq0bUMgQ8G6xyV00.%26dt%3D1775168255227
