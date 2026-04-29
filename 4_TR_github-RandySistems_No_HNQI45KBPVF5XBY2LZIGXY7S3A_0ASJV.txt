@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: May 24, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (4): ArimaGHUL(gülmira), Savasnebim, Leylanebi, Çocuk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEImcKKadEBQcuWP6Nkgpv_JgP-oOBTtDhA4X9SmHBf3P_J9j5m30J50fT8mIo7531klC-ip_glNtse7Rj4V-SkK42IqJv2gRfQCG7YjiNFggDro26mDf7NQUcITpZQi3ZzvRpfY25pCxEZJ-O1mBr5dC
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKaBMjWFPGr_ucjllA9sxxtOTqcCRq0odscprhC-EJ-5TBMemn74l7xSV8MeNcIIP5ue8XxG2Dr2GdxPPXFEDS67OSNbU8A620Bge1rc9yWFbk4zzE93cbO7G2A_bu88iF3BwFKo6uLOwuljfrSIIYm2xgcxgZhCBsDZwRWUamraROIPd4vpjKkY8QQMZgn2bKMVOMDf3mGjoAqlQ5dqVEHlvA0ybzWbcqdcGafgqO7uy1aDhc0wn2gTM8WfCd7pKB5uGWjzssmt54eEk8qW9A6g4dKzd7GsXdRdcEYvQrekUxdQUYhBkpHIL8pJBDMbFuUqhIQEHk-g7qw7qSuTDsBH8VTiaIG4qG0vYV3eWvrkd9oU4FeyDq8H8y-j4mLFlnp7pVrqQN15wA-3SKVlo-sifBjPMscmqldcaI7bBHmPuNlb_L6ZPFR-jEm5kmQnwTYvnRHk8xRlAkQE5ppFzHj0JFZf6iVF_PooYYwhvANoIp6I8Sw-QdiLVYUnOucXrl8k_v1jvx_pQn9LiVwK9qNO_jUYqJRdZn9mxuonTOvXKgnTeJBCHIjT3EevRKkUgTp4HuQYDmeEhZ7l4VRM352JAsCmKKsyQLPeBXDSNgF0E-ByAnH1a2DUCJHnc652KJ5ZhQM5Zvu5jhBwKB0MzIMh-O7eYxOINU5ll3ZB8BUcGRHNjPYt745pKr-twz7_yLisZV7eaiEjWpEm9EYBiIOCgx0cUs7qtfmKwUr1Ko.%26ch%3DAQEAEAABABSiPbd8Cn0afEUe_-eYIQEWidA7GkixxQo.%26v%3D3%26pg%3DHNQI45KBPVF5XBY2LZIGXY7S3A
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+09+2026+12%3A01%3A41+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5d4cebb7-109e-48bb-8d5f-edb62836f1d5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&crTime=1771070950382&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=TR%3B16&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQySRCfz9NoByB-OZKTk-0f6XuSj5YveyI.%26dt%3D1775725300206
