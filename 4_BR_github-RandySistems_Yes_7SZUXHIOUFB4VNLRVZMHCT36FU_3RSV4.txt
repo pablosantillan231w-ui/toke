@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 28, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (3): Maria Carneiro, 1, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPFzW1o3L5FyWx2FCzJw8WFgXyJM6LPSMGk_hAVGuaI7J7zPowsZXpDN1yGAKiLhUJkgN3DE8dplpLruFa0JFa1dJY37rvSqYvUsl6SFB4P4rUuuWYqQwDeyTulDjlfnDMoq2G8qGIpUcDLzQEEDuIpH
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKpA30r9GNbCwDOZKzgMqij0sSTWubOYnKZYVdTy7hETFCmZoRY5bAjGfXFZI17QIPgSSHeziFDhq6sTVs1f2I5bFx5h9pHV8jbg2blgUBDFHpbsjj8YWQF9MuMwmgQhoZZMn_J6pB2s6EjEyw6ma5C_sJtp4xJKecB4U3Nx2YHji6Xsx_xS6uB2NHG2FJ02W9DmNTiojD31j6jvaq-M67o98AbcFWXXGrABxa8kf0UUDpItJX3K0ymWfur9kqnsLv_phkQVqwFHEiSvxxT426CbSifFdGOWxjZMz4wkFYw32VOJ8IPdQZ_EzetJuidcyaZIe_Xd8bAbgJO4V6R1TSGDSU0-bRSNOhYq0quAq3MIp-PSWbqXQqtPwMBcIQKz5znvw5nrS2jnWt2kw-MOBKmzw6pCC72G4laAK43Ox3qDuO7x1NcrOuoP8wa0f6MLgREJ6WTaTaBazdS00s4VrSyyxRIef-HkRU2zEeh4C4MWN7zM1wncmxLg2_kq-jG_YCQqiloFQi_360UgIlyQOFyZniuriTlsIILF5kaWfBQd2DF_iBnO-u_zIdIGAYiDgoM-bEgmQ4hJQfPTO-B%26ch%3DAQEAEAABABSX54AyYbrKng4F3ycPha5WDGU1CNEwArI.%26v%3D3%26pg%3D7SZUXHIOUFB4VNLRVZMHCT36FU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+26+2026+17%3A50%3A30+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dae6041d-15f1-490f-8b3a-7b839ac16bdc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BMA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSAc17kb50RdbMslQ_8DUP6irVNG4DvuV8.%26dt%3D1769460624912
