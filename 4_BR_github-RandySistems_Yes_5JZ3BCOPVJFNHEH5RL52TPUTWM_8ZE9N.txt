@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 18, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (2): Vitor jientara, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA-QR-w-sriTp4O-1woHqQtl90DespJp0kOl5Fwxf8te11mzxbZdihHjLhxjbv3LFZ9fq-z1s1xeH3Hr0FHawHPFRNdZlmuJmgO45jA9UNcKs1khHeZLfYNsDHT7JloUw1N_QsYCenl7rX3yMupzZIajAg8SQZ3NQ7raqOlmYKbHXMUIkF-1CdjfO_R7VnUbidhvpJIdBZBZ7cFGEkG-CO-4wY2P8ftjoQilJ3VkurcLuRQIlo99zb4L8gGx9MmDigCyH47Iee1u8UIvXXTJyMZtgGMhrgAlJjIvaLcQ1nsQrxxjV-pPxFlJ-9TGtK-ctfFRo3h8FKOz2PtFYai1CBXcCfr1lBpPPEIaAzP5cJ6BvPXk66G6rzDsHla9zdoeqEiN__gwRmv88xemUI_B2JXyhRotuMj8nbOeLAouaXzX0BClTkOLrZGTnp-WoHgjcM1VvSF-EDZ9derScxVtMQb3yt1ZR8k0CSJreYU6ztDAejVS97OLlDO53iuv6qErbnIWDEYbtNAQYBiIOCgylqDQ1o7nJ5Q5Ql3Y.%26ch%3DAQEAEAABABRpxbYEZ6TW8rg6jv_yH26K_3ytBRRk8qk.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+07+2025+23%3A21%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=95c494aa-3da9-45b3-9b5c-33a36dc24326&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQS7-yC0MP_DxMxeC7ny3mOx-tBclpWnx8.%26dt%3D1738981264890
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAE1mjxsDwO8Mv8sEygRTEBgjSCH4x72E0_yccMO7AxHEy-P5ssYOUZr_ye3m5vc0jXlShCSQBI91qtddLJpvU2coieKxP6qytJjtGfPEXjAmBMq8dAm1XMbT3dDlDjSniytFWstPlbt9KG-JWeX4XC2
