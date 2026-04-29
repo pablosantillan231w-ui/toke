@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 14, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): snehalmagre, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEH2k_NRbTJf2OzXtpHU-s9Bgsp-FeSSbJwuv9jJfs7UR2XCAemDLmWIoBh3be40ibMtI0Er_rRYyY5EpPNJKoyP9P2xJjuOmYtWgVcUDl_si0Fo7VSke23qdcggofULNc6U-jExLP2WwOm5136dimbJJ
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+16+2026+00%3A31%3A49+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=34ba0be1-d5ce-4fef-8908-1dbd5e65d3f2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKOBLFI4u-3W2C-aqk8SNIvLHu88HmHdrdIfuDNpzL3jV3AN8Jpoaz92bJxhNYEjcdFXvrReOzG6fCeUvdJFUiULedYkwhqACXitoOcBJ9lF1jGbQR0O_0pNKr_1kZStpzRNT6wQ_lqH_tOrSJKVBq6uz7OM5g-gVH0YXGlraSf1sRkIr7BiB-PUQs803ZZMnCr_GRU1w2BFiaRQtNB6DXPHLEMoVE-4iizsyOTnzNgAzrZ5TAQeKvVGmaFPfvuN7rJpNbVB2G4zZpOFO46n18EXV9DT1v4MDIFscPgpzjGnpHMBgejI5AckZ61RPj2N39o55ExyEOTtRfZ7LxRbbQzD0H4UwoZ49wpd00y9NEykWTdgXU6i7sTf7WEacjLZiPbJ7CaS31BIZwYbZDv3b9JY4gkux8xDUhMt2ZAzzSlAmSQOHFcwd4JSfxo1l76fw3ZizJux4KrgmdD8hXW8-iYyyMF7BSno3wh7ZlcWYxNUJKY-MBw_155z-77uuUXO5MtLSAnwKkTYswFqr0WKKXZfZ1QvN0GnA02jd3jsZIGQH0umxd9nwr4Wc0w2sFkQABYP4BHMJaa24fnut4eFFhbMkiRStc8vBcz4OmMrrwdkCCHLspVpFv947mt7wWp6KNr30zmsX1fmpW1w9BhhRBxOvpxUhsgFM7FHrH_VWxOFuN-Tylt7UtbRB8h19tAsz8YBiIOCgz3DfEIbFKs0EVLgM4.%26ch%3DAQEAEAABABQRShCHXRj14lujKPXsijOPvigvy3G0Ey0.%26v%3D3%26pg%3D5LPR372N6ZHCLM6WMRATA5PVQA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQ4Nkz8yzBQKJ8zG_lKrzVGl6sS3S2oxU.%26dt%3D1773687089924
