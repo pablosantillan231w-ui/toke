@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 11, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): kartikgupta.ldh, Kartik Gupta, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJIkzYVZqeKQQAecJJ8EsTxg3YYa-rHVAmi3FRBCm5Vl9riKd4lE_t6zQWPCxBMaU4tTWGPogi8gm87Me2JSJBJ7VIAkctPHUjYON0cw6p5WMXsikyeVHL7KHGFsA7yJDldLxM62z7qPWFzT6-0DjXfT
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKUBEQZXIY20PsLKHs4SkA7q5qUojUi9noeRayyJLA0iyeV4mTPk3VwSRZ7oaM8YgDX8is_XWAts6HuEmHyw6352pmF1dfawpcdfTeGfX5V3oibtJ4sx0uFF58SUKbM-DcfqK5BiDXv_Q7kby59uIua0DIXTCkb-zROl1lMqCzneBO5AzTvQbVUivF9B-MTJ0sRdpTgOq66qsUsb5F5R_c0jjx3zI43f0c0Aai7vYV2CeNf-SnUU1a6dhzTug3gr-zGKMhJRETWkbW76-kgk9IsF8Rqrygbook-Ec2M9_Ss-hU-4EyOW3VKOHnfmpagU7I1c2Ym9UWLJjCLACnsbpjatT034EFYGpHWyUUrsEm5EfHRK17HT767t0fdL_KEKSH-p4KeUBCSOV0ip7sw2_0iBi4m75u6C45Aia3BVCBJm-sJWDu8hmI3gHAHwdyU3Ue4vEw2x8OxxPAV0zXyx8dyeZQ0TrWoqDmwWSylOsgRD4AUVjvSysIxSFrzMWBaxMpcXo1W7hOzsinIKAYKpKCpNgaQmcdrURqr4dKHybPHzxQxXwuC2JEv8SaiTlLVC9JrulOuWfCTgjl6dSVspTn2oLTFMO3qFrM4znlQGiO14LEDBtKzITMbFMF9Y2yQt211kdTCmbWPsqnWBQScnd9wf0RjmAUSpTXKUeBoAMVNvb--_1FHv34S2HJFwHplaW7ztHz4BnQYBiIOCgwTgkvN6gAWb-ytwXE.%26ch%3DAQEAEAABABRwcFOKtHw5gJP-eSwQa146-zVotoSyd_o.%26v%3D3%26pg%3D756ZIX4ECBAFLH4V32Q5NT3LJM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+10%3A08%3A47+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6de2b8c9-ae79-4fb7-a865-77b7caa0e42b&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRXFqzzap7EBjikTWo7wP1i2XND-OL3PD8.%26dt%3D1774672725137
