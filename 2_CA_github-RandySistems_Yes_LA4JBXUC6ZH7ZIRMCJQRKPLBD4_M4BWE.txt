@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CA
+Plan: Standard
+Next Billing: May 4, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: $18.99
+Extra Member: Yes
+Profiles (5): Boga, Charlton Kwame Adom Appau, Ani-Bety Animouyam Appau, Mrs and Mr, The Simga is here!!!
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKyXrUslbRyuKu1aL08Z-pBgjIh4PVOvqWTaHKM-LJkMPcYDx6X_M8AFRrpIYdYLN3LUxl8hLCPuW4J7f4ULy-xBM2m2p5Duxz99R1FlWNXPKArn10rTrhcyFcQfCU2swCZaDUL-2mTv8O52BzzltiDh
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKCA6xtwCs--y_MHc-Y7M0iLIk--z2q4r_bdGfCyWsRx1Hk6tdPeJbdqefmkw2YsYGnecSqxWitPqChkMkapscoOTLkSGGf48KbAjeeBbcxaOTYdm92kYSX9EN-r6NWd2PBIVN7zEqSlhviQTYw9GAalEDtU2_hRWcdb-7o6M84kMeAOQVNRh6YTCPaZrAZZSFuRBkrm_PhoZry52YImERIQ31lRjRajO4iJrA0I5AJyOUfoYLTAI2YVUf0-1uYLVGwlaHOdiNOwhEXkKZY0tkqPild_ANp7JvJ1Hc7sRyi7d-ioajEJqy9lIBzP-xVdwIJUugnUWRrb7DgvdyEwKAVxFwwVkgsZU_ui9s0L07k1T0e70QG-WsoUniPuduwTbF6ayNz9_I4lASh4zbWpOFpZlk_-LkbcwQrfSQsGc9Lst09ZU7vXDiCQWxyzmuIy4Q8EdcA9Kyk_hrVr1CqZbAVRmGIEXJ0Ble0TTnWLSaRlVr2hrQwZ7SphqdUFdSLIdYgKPrpGAYiDgoM_naV_ae886jqryzD%26ch%3DAQEAEAABABT_wQVKZ9EHHFWg8VoLu95RMLAQs7eP2ZA.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3kD_jWbZX_spZns31kAg_kEOtCumXf-Y.%26dt%3D1745361843707
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+22+2025+18%3A45%3A57+GMT-0400+(Eastern+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3f50226-8bf2-457a-9d93-3510221dfcb4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BON
