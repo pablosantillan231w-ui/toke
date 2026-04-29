@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 2, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): Sahil, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEB1Qn3onc1slTtoAdggGwJxgkIKBlwrUFqH-XTSWc_8D2QW9YMALnbmwNXkPT06vMnRwt03bu1GKSKmIF8zf_tR2MOr5avVVYt6SiLlF_iuR6K1-6EB8wRQ8eF5TQTfBIXjvON8U1ei0qZWKBlXFdi72
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKIBPqYwPsFzD57ePuQ16vMJJvzZNuHa2k2AvffWPOLb-p-3wCljKqUzm8wXoxlQNJWlFKzAzbvqP-1TTPuM6KtFFy-iZlNcZCsDcpxR1Wj8PEWnTxdT48aMBTv-OkwJDyrHZqIfYDI9D86bh9hoyDB9-n59m3zG0-v-dAqA9jDYlqgY5AOQKPrXC04jK9rWFyPYwxuaAalZSo1EvkvcBzLmb4k5a7HzqgZO5q7zQH0UyKhms_ezCR2qmS-N9A5fNy7jhdAecV_ejd-MvabDNrHu8zNxGkc7E5MOvH_l7kc3PtwU3mB0j6Iq4a_VjqOtbvSfVgO-fzqj5XxblPog1HFBYxrffiIdHOiQVZFpaecD3enMoJbfngThRsg6WxejPfscFqx0IY0FHAOSCzPjBimbR8E3pED81L4l3Besc_HrTkIBcm92WzTGuIGhQV6QHWakdMFZ50ta-l_331KAgdefcEqY60EB9G8UfEg7zm7X8oh53uwouWfviKCX60iRFVDNhVrqhRX8inxnvXX-BCcIaw7yTkjv5CDG3oCD_LDr5tfpZFmnnCBxb5sT0FgF0WAsuwK7iUWfljdq5Jwm8N8ysU_gXuhyuhDrt0KnEyRPLL5WJw3zguavfj3b7_qgnDSiRGTmoJDFxzkrAAD5x2Ey8R5QSlDwJStLvNhxI3PIbMg8cfDPYMxg50YBiIOCgykKVFaFzwrksAwpio.%26ch%3DAQEAEAABABTwTxLQH7rOLSAiQp5EwENq8Ene9BgA6IE.%26v%3D3%26pg%3DJHZB2P2CPNGO3PBPP7MBYN4RVM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTjFCCNp1t4GokQKoR7sLMxC2DFbpbyfgc.%26dt%3D1773121065611
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+19%3A33%3A54+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4db59dd7-ea36-4398-bb83-7af209cbe6d1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
