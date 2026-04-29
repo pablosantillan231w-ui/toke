@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Standard
+Next Billing: May 27, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: $ 29.900
+Extra Member: Yes
+Profiles (5): Rodro, Familia, Laura, Santiago, Pili
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKsaGL9D4Is92ja088AiWtFgCh-0f-2GYQc2htY0LYv36RSOYF1jziuSbqTKVaV7QHGWvIQ4vOCMU2z4IL-_ECzS2ZEa-he5UCOAuG5bRWWRFtoifYkhkaMY-zVfVesGXdR2vMal7VXSSQZ04m_Upt3x
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL9AzJVaB7QYeBg3JUeXgAynMA0AxwL4gcwwcKOLme4hV7JrBVK9rdeaElNYymtxG9ssYblo_ZfCVErnBcMuoSWgNgip3ZqIz-WiLahvhwOszgEwNmMz3AuJ0epq78Minkq3bpfxILNzlru-EBsQ1LMdxKsa-bnu2i93IxeMVi3Wut3ro7FbKQ7bFv18F4YAaBDFZQml3-OiJKbvCgnVY04xRZ_hHY-f_7D4XyBQsiTJwjT1jr3WKpkpN_9rTBgfasGQMFJrh9OtsgrCwSwN2BtYuPRbLSJ884QaSZHbOitKDpl4a21qJ8dTYuxNwjA3N2djm67Z1SXtvb13zsfUUdoru_wgh7Tb3CldYkYQOu8HyQzVOdco8fvOhmkYRDu0nyq7fFDp0Tzo7kHAC9gNu1tsZ2K1Y8A1cgf8rAWqclpEAl7sZZaCJ2h56ZNjJzJ-uPseQYlKghy6SxV4jRtwc146zdugVVchHxrPSjhCkhnsZd7mBFasVViP0CqKoctIEYc4cpazl3G2ecYk2gFrf-KElBoWEPDm6kB7HHno32lLidUgAsPnYdiRlV6CEo-1htpfnVNz1HfwvIDubKbSycfOK4yXTC53GtKT9jKWLH00NGvT7gp_BQ_c8qYcO0dvCXD35Dd_s2Hsb4kvD9r_iiAvUzKuwteSsrOlhJxwwyLGAYiDgoM_iv6ETrLmX8pvi4b%26ch%3DAQEAEAABABTjA9I0NT-1k4IZbxKu3xQ5MXjrEeP0CxM.%26v%3D3%26pg%3DSQHGZGNJBBBDTKE47Z75FXE5CI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+01+2026+15%3A58%3A58+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b6f71d0d-d141-47ca-b1f2-c9e31b9cf3cf&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSHXYYgztb1o9vIG-qMJxAAflcXfb0dbDc.%26dt%3D1772398786863
