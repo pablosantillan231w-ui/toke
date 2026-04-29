@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: May 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$13.99
+Extra Member: Yes
+Profiles (5): Vilma, Ale, Papi, Mami, Isaac
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA5kQuIO7cuUxk-DCHbLJ1OF79lDgnUMhsOe7QavzjTIOiVuc3o9XKWR0vStPvj9e2F6RjScWbHJBtkmAd2V0jmH8Zko1xEJ4pj2bsK86Hi0Ivx1JGtsZowMbuvNdJ965ehCn3H58mT6B0PA7589B6XtTY6eHJJENUQyEZqJMtF8L1TBWLudruPqkdltTlQhcm_63GZvB4moLb8fdohLcxPD5l_he00iq4bYLA-Xs8oy0AFmJQ4Gx-vvT98rn0_JsSNjPyo2emtqkIeLVHoB-IPjaNMYn98THdlDGseW55ciF38WikkIKip-n5rjQChRNfNLB5PMgq-FMvHFcOC9YTREfVV8I8DQBDYQfKflkknC3P2elyMuI_1v7nNfZAmYrbIWme4_L6bLXnPdq6hhVyb-HhTQwlTnDLaxxTQkB9RZ3Y8DGjTAcDyAA3H9NGJCbAd_Mp_DBQyBdgqr0zcUcC9Vjml84r8L2GXVOXuRtBEha5P6fDVPerFJnEeArqc9jJQhb6Dhz1jsYBiIOCgzv-Dfg-WOcIUNfkMA.%26pg%3DNBRWLK2E6BHVZF33ZQD2YAR6HY%26ch%3DAQEAEAABABQQK6bTPVpSgJgkluDK-n4AuJyOuneylLA.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxpTiOhueLSkDvsiltDNJT7drKpXoqWJk.%26dt%3D1769476073796
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPjA-Mw_sFDuKhdBy81K-UFgFz4tyXOZMUQKNwjYE-akSDuhZttplJfjC1E_7meW7apGXRQPMg3Psg3Gc17VExSCiMtUy6Nj14rSTWEk90JIuFGBVrAXXE91aivZ_nEkkNO8-jQC7EeuzYf76Eq9go5N
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jan+27+2026+01%3A07%3A24+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=19bc0bb6-ce31-4069-8de5-4f1cbf55c301&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769476075362&AwaitingReconsent=false
