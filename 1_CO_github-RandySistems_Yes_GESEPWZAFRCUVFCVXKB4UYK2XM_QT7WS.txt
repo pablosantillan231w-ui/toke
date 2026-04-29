@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Basic
+Next Billing: UNKNOWN
+Payment: AMERICAMOVIL_COLOMBIA_BILLED
+Quality: HD720p
+Streams: 1
+Price: N/A
+Extra Member: Yes
+Profiles (5): BARRAZAKELVIN6, KELVIN, Eve, Harold, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKOA2kLBePcNfnocgREmtTzPFqR6nBg7gV2CnyHsAjMNBrZck0WacBwPzsq9fKxeSxTE9GR9fQXXDOoC-LNGzhjfpPgc8mJz411OQbELTwEI1d-7yShrS_zdzt1zGwvNmxmTLY9QNI6xEIJRnaJS2z0SktyFbKho5Uxa9m_S8h5TcggLPQr4vnXJ4d-tVRCd7ATvhtkbDGOLBjvoOj9ioivbwCHN3elENEGIM1GdufQi7TopCCedW_ECDHjEjre_Gbyymr4I6BJKyf8fN-7f4LEYsbqOAof6S9tm8cu7ulIVn76t6KaYvHm-ubiY83Vj4yevZb1hmwn1zj1_a6bHryt38vs9Y05X1nyMG_yikAHWqGFvQF1yy5Nv8wCVLDHCDKfhJlBXUp0EhLrqdlZR9FQKitmE5ssI7Vkr6RarHdcnaBhXbMce9Zo5sGmpoHBs3iXqKD5IUQWURI5TK-bpq8VcSNJR_-ZDo-Go1XsnsRBMqHaP1i-4u4hwxUluz2yq82Xn8WJ08IpREuDMTKWMWSeGAYiDgoMfNDqfwrmvxOvQuWi%26pg%3DGESEPWZAFRCUVFCVXKB4UYK2XM%26ch%3DAQEAEAABABQhYQSydzLCSQdWT1IqHhRsbNhZpZNUXL4.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+01%3A44%3A56+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db9f41a9-3ea1-4903-ba86-ded0316a36c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774282242118&prevHadToken=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT0Z7edW0MXJ1XZf_s9cNCNXmwnhF2CbqE.%26dt%3D1775112294861
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBKEKTgAl_TckfQyP0oHhw1g108ne_Ik3oiTIgecwCZtlcIblSj6UjkMrsIlKk2YU_amjFKwEkp94iAZ8RADptOrpF17zM7IdCStfLhsqNYRRvaIcGmuWA4fJqzm7j0GBTZmsxW9GG0Edk8YhcjMC9fM
