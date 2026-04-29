@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 1, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (3): Maverick, Neha, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAw48R4gSDi2N3sF6Kj7poVgRZLaBSQkDtHtNMQZf-oE5_61R0cgn3dEj7f_rg4UwyAnRZo9ZTcHSP95_Qqxe2RKNNX50V6P1ahvhrpy1-ZMqocRj6TIIoVQmGVj29wi3BGHtqhEPANSZjYKdy8YvMQq
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKLBJBuCgj43-potQohqQ34EJlYjX30GQ0EBnQw0SGtgBQdqD9haaOo51CFXahfMB95qfG8XLBojKl7_T_M2bIl884n5oiusZIVkp9q0wpzN9AOO-6wM70qLzRIHz5fQAOoD_aKFeVHtzgOHJm5xny3xCfZe42QcqJik80JOvIYFyDg4o9WSttb6ucnvq7JDe-fbwjl4hwifxImi0l1txlsRvToavNK_ox3-p1RTpNKlYgY88XEmF7_8lYEhYVAixOq_UuUeLx1nJHa-0afKyFYuquleelZIGnMRlmzUiioWKp2NUmL8vDdAKcRLvZwOVI7TpImzGbQJqSBK5ankdqsl5HmctIDWEfMz7XJ7aqQnVIVKxg6hT5rieRWUw4oN8TRoobU7SPVUYiToXXwxl7u6ZVuMv4LMG6ow3o9OzuELi9VUTireVHoRo-FTMd0ov2PrUnrMQtqZRdKPQBGadOyrPh6WNMYPg5w4TZggIz089WOmfrJ9QxlB-atclcMouyz3jyWswJNaMXSHJ5hHifZQKUq07rghLSBGPWj0CDWCBk9gbyN-708yOZEneFXQOtniJvVMSP8dw5ls0yVTDfEZkSBkjV1fMg63yPCYsVSsVsfslTzyVm1UNGhkIc6tLWGFwx1JYGFrA6jSIBRM3pSWPE55psLUDC1clD8PprHTI9_77v0F-rdfj2UJYwYBiIOCgwXlaby_31AjakYiSs.%26ch%3DAQEAEAABABSrAIZ2y18qokUtRaoknooGuN0wh3F0QJ0.%26v%3D3%26pg%3D22KWBXANPRFHLAMEZVXD7TC6BU
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTDb6VRU8SKt6hE4Sm8v8w65wINA5a6XKY.%26dt%3D1774856293981
