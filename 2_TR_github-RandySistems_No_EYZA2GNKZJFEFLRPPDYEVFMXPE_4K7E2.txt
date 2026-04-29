@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Standard
+Next Billing: May 21, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 289,99 TL
+Profiles (4): Emine, Yiğit, a, Çocuk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKjAOGK6JzIvt5QR0_muJlFgGzUoLMATvHNJlIEzlZXg8MtPu3kQp5sGgV2fdnJK5qCr9h9lBdsgw21FkkwQSW1XCHPLWjrIPa_daRqgUtWW279qBLVWySLlcfQZs8475Zurhc0P5pjRHD2A3Xn0xPaF
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKABPc_kuGpdi3CHF0dkcDgXxP7JBqkh5Ma6n2PS_qVik8ru3I6UXSsOYloca27mIrH_BxwQhq4BQ9m-LNYa3oI3TSI_t1UTEsG0k-1CKQ3MiZmI2jo0eAhXtdyktQ_EcNpG2I11P0znhI2GRHKqO_UvhGJ1Y0_4fdmDrEz4-SaT4MLqbs8_cHrFkm3lobje1XamdnV9k1iSnhkN1MUyOgkRqN4FpA4qVr3umSOge2RFCA9cbGaJCtc9jaYXFtnSO-Hcv2-dEFfBGCIAVkIhhmBEt-ZqjITTT99t0NvWElHWckwgexnAkuQQs3CIwqARkpxw7mNAse7g1-4EbI6KCxSELDLCo1TsTdfZgzUxRLVRjFEGR5guONxhYGtDXeyJ_taLMuzY6mYrm2oEBHjo0tP18POFaY-as2WYJXWIpL-IrzLdQIN-nt4PUVjMcircGV1JSjrtfhm9Q6X93ovMu1CZLJg9KnVqBt87gVNQQ0CGd_17i0f0tq_4uDjMS_Jjq83Qp6s8OKPEeWcTRE7b5JmULS9DQKQfT3hZG5fPGklWYjDfmGVif25DvLsf-YWdf0S8pCR82N82TE5eKiiC9c8VORHwoqSUrSHNMW4xAT2tFWKv9l1M8fClh_-crT_-NaEJiqqf6gdzXn0gUXTeZXfbXUNdL1vgA96yPrU1-0OJHyLGAYiDgoMXM4nek1Exh1wSWzh%26ch%3DAQEAEAABABSthS2rHgIbxvFsXchD1eoGLHNC1RJWLHg.%26v%3D3%26pg%3DEYZA2GNKZJFEFLRPPDYEVFMXPE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Apr+03+2026+18%3A13%3A24+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3657f1f-eaf1-4de5-8ea8-2ba2f22d9387&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=TR%3B16&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSpFkuV0PgF06rnuYdkD3O3_GuWp73VAYU.%26dt%3D1775229200739
