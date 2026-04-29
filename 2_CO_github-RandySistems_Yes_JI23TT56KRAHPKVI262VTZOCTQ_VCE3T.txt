@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELEFONICA_COLO_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (5): Paoropero3018, Santy, Andrés Juan, Janner, Mencha
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEaZiEAWG3fQvDseLWXBoeVg7PN948qjlBUr2TeEwhiFT3V6kjzDpGtU2wDCwsABs69zBg3dvYX0BTyfM7kpqb2bGkvLsE_WnzzaNZNc6oPbATNNMmpResdSov0p_BF90MArm2rm4dO3l6AfPPmxWTN6
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA4necOOOkRC-WOb5_29OGnLUb25LGJyrX9UWqiQXBSSPPS_ROUvwseWGZ33NtunFXNjorCrIf2WoZ0nHj_HeMTFVJM99vcFmOzJGEdsToU_EfcihwCeY3x2qwkAPNheHM3AQZNX6XgKtazh1nHAzCYr6aRkLH0NDtkjCoO00X14HfgO26_N9bGCmYv8YuL36sW7qazlNmiJcLW47313Qgv4-bOosgpgEeZhpLA3oKY45R3BTeZxkGpu-Evn2MEpAcdHGD3yXAQTqAHCr5AOgg_VL4DrpPaEHUAQJk5Huh2I7KQKlca7KzFuRLfw2g8BjLYAyXqdsA5do96WVeGO1mlKalaQN_HuCVrWM4e5JM8v1cITc0mK92igVhaJghyVVSi58tfeV2jJLG5-mlMCA_LKIG626bcxHyBMPohaH8_HMxwidjG4tPCY2QFk3oCmjxF-HunUWatGInJnae0arOvEtOQ3iaDxODT_O9iPhr3ZEBP4vNmp5iZrwUwp3NawC6NknMQRfV-RxznfiwQ6upF_rZajsmIEbiB5dVd0YBiIOCgw_r57ehkXDpFrDSSY.%26pg%3DJI23TT56KRAHPKVI262VTZOCTQ%26ch%3DAQEAEAABABT_bTKRRR2j1Ld6RkZFYYZSeCin9R-CnPs.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+12%3A22%3A17+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9c0f99e-8820-4c5e-84be-57a9d6457e9a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRpARVUdq8KSJcAk2SMrPRaYL1-SuNxGeI.%26dt%3D1774632135508
