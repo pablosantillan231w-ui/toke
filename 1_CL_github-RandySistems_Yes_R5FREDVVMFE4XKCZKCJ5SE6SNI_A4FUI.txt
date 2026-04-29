@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Basic
+Next Billing: May 28, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: CLP 7,190
+Extra Member: Yes
+Profiles (3): Mostro, Cristo, Richard
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENMcTl1LTfsoIi6DKm3Nv2hg5xpMg-g9ROpPsa4tV2lUJJfijP67oQPGMjZPypYYoOJhK6Gq852xu4dan92WYuncrmg6-cwCH2dr0FM3Ysn5-9uUtBJrH_r8TvqmqMgvIHT7MvaeaoXCGhjsCd6Gm7qh
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+22%3A41%3A00+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b0690648-bbf3-4609-a0c2-a2d0c4783f4b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKBBDxqh77ZVxP4-KdQHbcT-i7j2pgWqEJun3Ol-FqloVG2l0WWcIdKmBJQYE5evG7j5aNR9AjvnQPBiLGXFBjA2zgqEVirmRapwsGyaM8dNwiI1jOiKmtYLECyK2y3sHBT_Y65lNUSYsxMr3x8-esdR-ws7TJE5HZB4lopVJPZaGW6Jkt_au1iO4pDC6KUSuPWKS9HSSjcMsgk8iuDF0dyaYc3rwm8LavxLO4vVeZqpJ9WEU04xDSgQjZpNJZcGqgBYJR5tvdyh3tMs87g7BAPZ8konPJhzkKlLgZyetbYOeP-N8p2kXfHzGRvcQiEBtBMrbgP5-AhNHvRtFDIRuABgDy63NRwTDELN4a5ArVmoNfBwq5-W4MtP83vLwQhTBr7kBQf0MHSB_gci5GHpGFho8OAWtysKiMjro_CoXU8QEyncGS29oZKTFA8s1N1MmrW9zyaeh_6CUI1snwO29IRW3kD1Cb1JDAeHIrmhWvAYEFemEyHrNW6BkFpDS2ZtbdczI5AaGiARrf15bDsyXWq9w4XYUwmqWxaqdHugrMrLBD1Nw7sVqQom800_EO13fF1nek2A59D6ENNGiTalqMJ1SW-mFJ57DSNWaahegmo4lhSfrc5LjnpG_njmYvafLgutMmGnL-7hXWwOYddcJHFlsSI1XYYqQkPxqUVJtaL_LOXDxgGIg4KDG-zfAlE265SLxvz-A..%26ch%3DAQEAEAABABQy-HEQp1wEmJ0z9SoLwaXEHwR0XAY9REQ.%26v%3D3%26pg%3DR5FREDVVMFE4XKCZKCJ5SE6SNI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABREVHPJzfU4iEExdQowGg5azCVAvr1afPU.%26dt%3D1774206479825
