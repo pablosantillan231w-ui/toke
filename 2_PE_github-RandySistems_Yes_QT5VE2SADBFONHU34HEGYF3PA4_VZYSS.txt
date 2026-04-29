@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: PE
+Plan: Standard
+Next Billing: May 7, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: S/ 40.90
+Extra Member: Yes
+Profiles (3): Miguel Angel, Rosario, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKfM5mab9Qqu8IEeiCzDpCVgpEYkTvYBUJksnuCj0638KqeyMwJgo9IO8875oLo2hot6-r1eOoTHSsTHqezAJ3aPzOjbhpc5clMjsw_UgBB53Pxh-I21odUl82h1Yo1zD3gch0OPPOo2vt8MbMMlL1VO
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK6Az1C9Qgixm1uBD7UNzZ84HwCORUuVe4wuV64s2H_iSilwo0Sg41gCRhU3E8c3_Ot4g-MF82DokevxkyVlPlLz6SF1sNDO-QoRB4URsmhqSs4x8Mzh4Dm_ccbmwJ2gJXwHcc8A46EXM3-Nfvf-PyOZ6mq7lyjuKukJHW3eJA7B3-eLETd6jiDTfMtE3u_jgZRbY5yWBv9hPyBBjXQcIRhbVOUtj3oBIJ9rhe5GmovASlJhwB9LLBJwQaJ4v8TzvpyUeVTfKs0JRpg4mNG9uuSAaxR4_ViUvTjcGNl5VmUNtT6-knm3rr7kCVFAiVCjAC-0DUZVCnERNeKpdYbqYkQs5AwIT7XMweWwFBCwxQ6abTvPnLrhZy3mq1mwegh6CbzfY1HWO8b4nTCtboTuAH733c1vfZ9QKMMHbQ8jqxpCtK3KmBOyja6Z0xQJzDlm2Cyg_yOnEsF9ARyICg9pos3NSGljRKlUpul_Oj64IitIUDxJFzOx5i2pVgBQu6VaRUS9GWgqwgvvmbp4fwkPLwLTpWxXLy_scvO60BDG0obEho7lC1hYlrWaXPEyI1W7pFeWhje3UN8gAXZn7QYBiIOCgxmTqnKucoNha22ZZs.%26ch%3DAQEAEAABABROYfxiGQfvxtMOwTtyAlGCyPUi5B_q4Tw.%26v%3D3%26pg%3DQT5VE2SADBFONHU34HEGYF3PA4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQP6ctEyjVroI2sLeEuQgARZKDDK00Wu7M.%26dt%3D1775137391903
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+08%3A44%3A13+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3555ad84-dddd-4ad1-8227-94b272389dd9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773448291615&AwaitingReconsent=false&prevHadToken=0
