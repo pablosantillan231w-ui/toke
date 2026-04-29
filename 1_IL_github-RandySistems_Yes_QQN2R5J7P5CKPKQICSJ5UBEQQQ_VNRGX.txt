@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Basic
+Next Billing: May 10, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: ‏32.90 ‏₪
+Extra Member: Yes
+Profiles (3): דיאנה ??, אדם, ילדים
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKAYak14mKNmcdjGlLokmg9gMtODySm2fl5dtuq6PFJ4_hlkaFbeXlInmsZN00yO_aEkWTSX2r96wbHbjAqPse8zy_8yY5ZvRZpsU9KefxbmRfhMPHKHFwTQfgHTdoUIjUMdHs4iggAzKAH6bpLrj1E1
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+06+2025+16%3A34%3A13+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4537df6c-49e4-4dda-905e-0e7679885b89&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL3A1V8HP_QRTEkp1nTh_ZE9-XGYr8GgvCvlEsKdJb0ksRzQ2PdFURzw7y2TYYSUp8a_dFGBxjuaz_URE9WWgGTPlPw1nD9AMvESEwZogWiGcUx7kuvtor3HSt2Fup2JhIxsl42OksJzof0dfg2TkItSTqgHKBnJHKeDjz8HCqcuEGf-sZFc8aS4pFywDsn3GanCwii9yYRRbd5WpEmpmUakEOcy5p4KyZR4LXN8F99Jr0U3958cKYqvKgyuam711F_s-e89PNe-v9zOVhC7eoeYvqtwYZSG1DMd0GRHxiNDVjgJV1tX_UPo1yheela_vGv5WHOF7FlGaJ00IQcSxR0C4x9HaUD9SpxogBWZZl3DuQGRO-bW5rFR4yeWqsHtEHOQ055JJhKoMAE52GIqdA3ZM7L-7I7-0dFTtDO72aO3AJWBAk4qevAlFRoSe3tzHs-9iQJeBUUIPQSGFBsc6A7jppPxcf5gqyRu7V2wv1OPaRVRmkQsp3U_fJFpq3uBwqjo3ojo8Wxt2JfBnh4wc-xPRqiYgR1g_qCq3USER62K082TBJRqXPXOpgNCb9_hghY4o5R0fJe6dcwF3Qm2QACYUpkiyVla1PittqlOXZgwbO6FTYnZu-8n8ApodRrySGQz54Vs6BJ1xe0p7KVWYQgY-sajU2udNzUGAYiDgoMsA12imE65Qo_4RAE%26ch%3DAQEAEAABABQsbvtJm5NdH54iyGUqwEAVIdgkiORcb6k.%26v%3D3%26pg%3DQQN2R5J7P5CKPKQICSJ5UBEQQQ
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRxnvu5EuzArARs4w2u0_vrkYA6-uBIG34.%26dt%3D1765129124217
