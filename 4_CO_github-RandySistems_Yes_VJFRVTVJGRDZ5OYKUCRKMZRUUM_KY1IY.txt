@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Premium
+Next Billing: May 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $ 44.900
+Extra Member: Yes
+Profiles (5): Marisol, Palos, Edwin, Pollitos, FlorezTarazona
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMo_mR05JswVIm289oIsfRxgyWHAW-DwpKytqscBuTJQPl_bJKUuZn8xbAW1_ASYvo_mS3CzU8b4FHoyuua-FpOLsid4g5Lq8rdcNNtmunJeuFw4kKKwo9zgw_n3w_OnDwsJs622Svx4KKHLqD3SpWI8
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKhA4EKKSbRlM_q7c9nnobKYKpM7t3i9qZ-qbu9hlp4IsFck4hR9uYfhaaMQKTlbzIc89bLgq4DfeTUtbKKU58_ntyT1bQjZBzsCIGaYM6hHZaBDq77VERpczOIpeHJzrHn9lBTHAl6JK8zpDJoDvX23Tb-I9TYf1n92qYaRb9mrMCzwkwzd9o9wySWVhR0rUpuXGxYTutet9TlweGu2Nq5WtEI3BNbK9EDw0V6gnojIL1DxydDkTf6lGo9noCI6h55c7zVrp4uSfkFS7oEK2OJ2eH8k18Q0cv32LAfVaKXqAH67-ulO8Y6hhQVpjcfX1k75nTYuWhvUkIiyl0P6wKWCEnQsNfyMC9JKpLJ5-UCd00I7ohqazGJFsrBOfZi1Hz838uCiuvGkv8TynR6VlRKxPGG_JL_BLMtx3EAisWProU3VFHAc5XFqnpghQycqMMli7mlaj2lHawyG12P4Wv2_lRaz1ebgsOilmU-lKWZBUuul-R9r7IdW0zOvyky2ZZXAcCy80tb4f-ZFrbJhwJblPH_K_hBz3tB5qFnBq3W9UXQ0hgGIg4KDCKVEAnAL-gH1Zg8fw..%26ch%3DAQEAEAABABTWR-K2uiBT9QFdPs-PotJ_ELBxHubi6ak.%26v%3D3%26pg%3DVJFRVTVJGRDZ5OYKUCRKMZRUUM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Dec+19+2025+15%3A38%3A05+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eb90f869-3a5e-4018-99b9-505b79c773e2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSBhg-AYwYTGj0qxeLZG9RS-JC6US1U31I.%26dt%3D1766176684361
