@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (4): Tiffany, MAMAN, Rose, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJiwQqkJKMYe8K9S6fAvS-dg4bzyZf_viebA3J6j-pHak0-Wv5xBi9n3u2jceXEM534OBUUgXpDVHZbvbRNg9RbEMKMvX0Pep4ax5Q4sW25j5fHwy-U0YyNCkIizU3hojz7Ez33OKLAZuu08ZfnVSAWG
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLrA08UjBwMhjB37naBFp3taY6djSNLIPzl15VLqTxfipjuNJqO-l3EHRoUjgPqC1oT9GkcwJ0mUKnHoaDUs8yCokVnDuiWYoSYgWmq4K_APUNOW61hFnP4rBcTMv5qKX0ifKeHluvt7_eg6qGywJ1j4OjhiFvxEvrdZrQJ1v-Nt98uRvZD92wQL4WTASrf2SM2GcQET5cEZ8RH7bEyvAI_mRPKd62CmnmkEVjVTKE2yE3mBsrDe1Zlg9q-ZXrQp1wEOlABsQNolDsdZG9P9CDwP_G5s9qLW_2lWuScu8ZGZ7qlhW_M7oG4His0NVAh7_5OF8NACUXstJUloWzlsd2kTVREq0J173ir3peGm9BarA6m2udOBCIvwKDWD-T_ORcENwuzJBSX_GfwqvTXaN05J61MZbXlll_arobuIivugIBbJ-w895fNmwcDb_t219Csk9X2ihtV2g1cPEKNicXh5Bflp5QbjLtf2f3uIEY7IWQAvdTKCSfkQGRLXFmBaPS8pmU6aWRLyXDmE-mTaH7m18u4pMawoYN--2mABGgXfS8Kgtw3uVVMZGA_0iWSEY-pHTtCFOqovUuSMlHtPl9lEzCvp-6ICuWaIUV189ArxMLq7D-r5q-L606niEE_OCJNYg66Brkx9ARxSs1rGAYiDgoMKN0V4CE3eO_gKCVu%26ch%3DAQEAEAABABQm0Z33AgyaBhn5Urp3KcAxScJYkYaLz-A.%26v%3D3%26pg%3DNYTWW4L6ANDHRBPYZMPE6UYNF4
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+19%3A28%3A44+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d2c40e8b-54eb-4e75-a4a6-1e33b065fc8a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1773507423081&geolocation=FR%3BGES&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQEH0Ki16HW90a8mS2vQ6oBR4chjk7excQ.%26dt%3D1774376923223
