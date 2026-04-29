@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 21, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): Veena, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJUqbUeXIhOK59mPFJtaq5lg1a4unL5XiDgWFJhJDyGr3D2k5V3YY5TVw9UtvsywLKGxXvg6ohnGPu1ga-dTol_J75WG3Ti7zS9SxPntDFAliPjLr5s8O8zA-0-UYba-UjgsDWHcrB8T5xKAmSJwMUYO
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKwA59mhxDyZSiDxPgSZEKBYWCNdXBuGZ6BGzTcDtWFTzQ8ndPM7m4K89J21-qtOxke5p22VEGUxztR07zkadjfklVBRmNEleQoTy8G9sI03O76SXunKpp77hu1JQEBYHtjhwBIUlKituCX1Ag6Q4Wucm5BlulB3FBQnq6r1EOtwWMb0ZFS5ob_XF7lcvh1GDQs_Qmk3JTyYVqrMDqCfTaa1WoxO2x1tx_5Xpm30AXUjAlFMLkBdHkJ4VA2caLDKIZLmmAsOqWYr2XogeuGT7Z6rb4YoNYv-UWOalVmNLw17mcU4gYRmzjqIp8mrguHKXxRWOvY0bX6tWAbbwAJfhxYrFRyhghq9XjPHTBtsTy95kq60FHSlmEEPCIzu2PFPK0LsQON2iAQjN2fsHxulAv8JQiuF0rRgcNQUB7PSUrxt-nmvtruooaSnbowdcCDIb2BpMcpVwluZp-lJJisiA-q3vGx5uDKRFHwG7SbiXL2U82slYk4MrJd8zB685PfyLbeBbVo-GL0umppbMCzlWf9bHwf8OfzpIv5xyDAwbw2DFMcsGDnSFlVBFCcyQcaQYp7SBgGIg4KDG_dWeWf_BPQQipVMw..%26ch%3DAQEAEAABABTrUWHG6Zi8TKSf9IeK-nGrCKzyO6KRZj0.%26v%3D3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRuFTyZFo4PFWiwczcVopte7MxKJh67EFU.%26dt%3D1739021440112
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+08+2025+21%3A37%3A49+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5f3a7ef0-1c8d-466d-9390-a10383236edd&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
