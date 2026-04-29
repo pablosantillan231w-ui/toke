@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 19, 2026
+Payment: DC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (5): Viviane, tws, Jorge, Henrique, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJVOKfrh7h3W5xfQQ-q1jS9g5UbnbIdXbhkS5xYLJ4FIusGbdQcGA_xWcQvezG_uJ2YQsrsU_f1c8x6d7SvbFXGEt2-_rJwjeh0DkSBkcA7W8bRr2Omm0orhqiF1NAdI_Bqcfnj9RVq6ANWSia4wc_mp
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcAxjiCfwbM99V_bUPiLHc55RNsbHIbNqbwa9oGPM82BNaZDiTIGjHH0iuCZAyE_klUVLOy2OnlNgx_ndJm4iWZUFNJUvwPre2guCPYYAv61Ej8a7hgYbuSr6aphvqNLuC_NYT6GOYfbf-t4BqV3RJ725e7sdFFxXqQCaIC-PqTn91Yryw83FgCs2aI9ylJERcdIFSFoii7ynS555GqxCch0w4sbmK64toF_tdr0KKV7Fq77bDnvWE7eQAsh0B24XAjL5B6N0mLpnp3Btv6KvYC8F4cw2ZWCcECqQAwxVMz5jyHy3FmAmYgU_Xe691ffN7I34NQcCQZJtgqDf6lmigqgvFFvm-HR7Owozd7PtcS0AqknDpBvoChz5rN0uHsvCsTtv7NoWlnvFy4Rr9LedVvr00-MLZZld18QwbvYUMgVMAHu8zteVB843Ul0KIvywLkwZkqaNaMAAyn2cewFlj4Z69vv0kxSguhHWvDO_1FuBjJvWJTHvcvveYTgL3Rw2Lae1R1qWqTYFCfKxmgAzbG0eT722Q1j4HhqIroUwYBiIOCgzlA42N1yBqbU4lo9Q.%26pg%3D2ZQG5TBMFBAA3F6T5WI7QYEKRQ%26ch%3DAQEAEAABABTZVWHqd4i_jZjp4JDZPlTP1JcecbuasS4.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+22+2026+13%3A42%3A27+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7abc85ee-160c-45fc-b87d-492a3dc01b69&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1774197544308&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSblFqyEOguDw8Ifup2O7lvSqemUpENjTo.%26dt%3D1774197772933
