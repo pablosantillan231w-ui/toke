@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Premium
+Next Billing: May 11, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₪69.90
+Extra Member: Yes
+Profiles (5): אוהד, M's, {liem}, ליאם המלכה❤️, ORIYA
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENqUEIEHDyQtPNW4TxsYd9JgA94IAG_1Mo_3-z_KGSFkiHfPjPfuOtcg4VR6znf5EQzD7D3AKnmUYx17M-PICguq3qfie3619C5xwKLVVfooYyEF89MAUXfWBcu9jaGx2FkxopC5TD1qoLXK_5iKG2u2
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKcA-laIiPYk4QasVBsfQS9Yqn1TOEIr5hCQkzOi5G1BZSiFcFo8CfTEMDHLJry-crCuOFtPiY45-ImzDkhOgMzGRVWCsPDIVDdJvN20InYzrNYN8CARjEjQ7tbg0wx5YrTADoBLD_KNQ60OslIYI5bQZ__5XKtCyI2jbiaza5PI982rCOCuJIUapV43WpYUo4p6jOMZwWzV8JOJqDAVN9lFe2vpk6wgq4xdjnw8ze6Sito8KyChrqcjg-uZLF3z9agmUcU1TwRHDhjU2-uXP6EYqb9Ftvj1DItcth4CezBWpKXcnbg8KtzZLalu4nCYMR7MCi-0_gngEIKWvrR9FqWJraWpnnqgIecDMgkrJypCBTvDVSDOKhJUw5MdQ1D60FG_YBmy4vyS93rP2oSsqHAz1-4KOQkTCp8N-Ws8CFJ-7UQx9h5-PiNROOe7-vuBaH0_jayoSt6SA-26oKFZ8HNmPiOn4Jf5Iq7gm1uOMhFqhkrumq83vmFWtGllvrl5_yWGFkaJSsXCljY5kX3oJHnlhN2r72925VqFK2UdsMYBiIOCgz4Gmx6Mj0Lc3faZNw.%26pg%3D26GA6KTAQNBBFLCZHDJL464XAQ%26ch%3DAQEAEAABABTTt87huP9-vmcRbUf3l2zAaj6qzHFzPEY.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+18%3A36%3A16+GMT%2B0200+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%97%D7%95%D7%A8%D7%A3))&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=654186ff-a0a5-452a-8ed4-adfdcf261e16&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1773935057395&geolocation=NL%3BNH&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7V-DQ_e1pFR6MlU7Jasat1cmocCBTtbI.%26dt%3D1774542975077
