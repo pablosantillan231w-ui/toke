@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CI
+Plan: Premium
+Next Billing: April 30, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 9,99 $US
+Profiles (3): Falle jean yves, Les jumeaux, Carina
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFOvJHax-rxMVIexXmG5LxtgjJEZt8zJCQW48QTJxgQJakYRmtcj1v-l2HPX9labigAVCB2vi6bUbHgFBQW5KpGqCYlLz-woYpHcXTL9-_SaY0V6QR7Ui0Ca-LuCDTJkfBbTeZjC7_3-obU12oRTFSjZ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLXA0cAQGIoIR1ERROBZawKad_IqmT9AcbMfn_Iy8cBNmfgXCFoiRXIV8F269tOsvZWFcX3_KDNQbOWGlvo1NUItmP5uYPwdBSXILCsWcIKrIF6E9egqJU_afFCJqZ8-PHzjEDOvbd-vtmkZTSXWHqqVH5AV91_ZthuzCRfo3aFNiToyDxFaXEElX4Qco-WZDTXfyDsP48GGo6DE2ZQEfHlBiaVIcP8ovtere6IiJS2pUieZEH9OlQtLe-KHTgYXc78r_P3ktVGvlX-7AXj1_g7M7qZCL_FuidDJxDe9ciUWqhqHWlEZ22UZKN6GFgkCZXTaIngzFKPXDYJn-Hou-DM0HGj0it9ejEsqtPZJkcbYaihZcl34aWNYaBETFGrwcQw6BIeFvlniblo7ncs-DliP0TV923j1Dppwv4e8cyVokw_t4DyfqiBuoq2wOBu4jF9Cd7FTdMFso3RfE2ftFkTSDmK3uT9mm7hYK9sTIsYkGeauSuBQ-cqhJ4etojbH0FLvSjyr0o647GxdmJGseXNYImHLDPXhYUar-DJF7XULFuDAB2V3HPvkVJlsMscXjB2fZL7c9rDvkLf-apLEi0yNL6q5a8wf7eeGbCEuVQiMe_cd4WLY7O3uRgGIg4KDKFz09icJ2_zW0fIQA..%26ch%3DAQEAEAABABSIx2VDS7aaL9YNEbsg40xjU4en8qmcFqQ.%26v%3D3%26pg%3D7JRR5VJ6G5GJLCV53ZUCTPMFTE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+02+2026+13%3A44%3A33+GMT%2B0100+(heure+d%E2%80%99%C3%A9t%C3%A9+britannique)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=df0601d0-8451-45a2-8a61-b2e26a34c9d7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774438952003&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJa9SiJwpReJK-ILXMOSoXALSI1QObF3w.%26dt%3D1775133872253
