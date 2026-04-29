@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IS
+Plan: Standard
+Next Billing: May 10, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 14,99 EUR
+Extra Member: Yes
+Profiles (4): Nikuska, Patrik, I am grot, Jerry
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFOlDZIZ0mk0aOJIdxSQBVJgik9R0ISpCRc9vuyc_sS-6r1O776442qJeSRrp8LK7SDRZq1mHPFJNFcejDbdsZ2LvIMBs59Wekqz2u8ZecpF0jFX8D__8kh_Ca_f5xxDfx8fJ3mvPhoZa2rAlH5yG_Tk
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLsAxjVkbixEmQIsXj5STFAiEBUpHbey-oT0nVstMIKMi1lwYoPSaVZKx-E_u4Zl8CD75SK2XKN1xl1QGeKAGb7D3lwBijvbaviyEQ-SAc94IWJRzYw0wq7qQKcBkGcLosMUVgEAJnHZrK3UIPZ1fMvYWgt9p8xFwp9nNMAoYFQ3iR5aiWawzB0Ut53w3-DZkUpcmf4UEYqHdDu9sIp3Y8YnfmH2U7qEG1b-QygAWZTPN8z-Xd6_Kk6pHpUZ48O0Hs83Bep2XBsw5Q7qa4HtQJFCN9Njnqa6uq3QWLfS_vJR_JPEw8FLoioEE-HkuuDvzdAmARkqMo_53Dcv3WCZg4552wvURQDWMYbnSR7JZVPY9TwJ5-UUewze9dxyKBxNrxqjVy5jSGWSoP6lys64t_umioN3JPwmJVyvpSElMEtbS4umenZl4zMSl7B1B9rKG6N77GEvValUPwGQFM97xrewu7ApoCLZpctuFkxPTnV2-JDeYxe5lzRkMEXM46WGd05zFaaS5SZoE1QOc3uuxXydKrFwNuAugZUhgib0wt-TiY-cwOdo8NGszKLagkQHc_gckpHK2zO8dCVZMp3XpolX2Loaf4EpYsi0nqGpis6PquegnEnVd0BmzvLJXhHuJVDJyZ95-kgqHCm03O79xgGIg4KDDxyvPfoDX0JV6Hfzg..%26ch%3DAQEAEAABABRwn0Wf-_n-JzBoECfAV3Vnhasi88RyyEU.%26v%3D3%26pg%3DIFHG5UAZUJFMXBAIMVVRUX5OKE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+19%3A13%3A51+GMT%2B0100+(st%C5%99edoevropsk%C3%BD+standardn%C3%AD+%C4%8Das)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d6c4c578-da63-4010-ab16-2d6110f28460&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=CZ%3B80&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRgYftvdKXIiBtdzlaJ8RHshhLNYuATKtg.%26dt%3D1773512037346
