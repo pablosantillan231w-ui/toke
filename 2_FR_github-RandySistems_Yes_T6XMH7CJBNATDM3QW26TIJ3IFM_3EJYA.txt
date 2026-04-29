@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: May 3, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (5): Ryn, JJ, Kiri, Mm, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+06%3A46%3A11+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e028d53b-177c-4690-ae8f-a6d11df3ad52&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&crTime=1773812650779&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPlqa8jHtDrBJfcZZiW5NNtgaFE9q-xQhFyyfvRZoi38UM_eWIWgDedmZZL_LLDhwWn-ZSPWpcqMlJWrQkKmcRmb8_Ev-dlkiq6wrq-_ql0glvwsLwBH5Qw_X7fLzMIEk4CHOdZbdKbA2tp8Gej5gcqM
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBE7knWHlp6TVjbjCYnSezYFndHeb7I7IfabFrPoxwp7bnJXIwYaHkOrztY_4QZZ2C3Gnifjgtlt9OBoEmj7tte-Sf9mV_V675oHKMXN-z-YNxTpEhYGaTw4mYqA9ssQnAyzW1v_JBAVpYMRf6_DZ2ZIWeaW1Bp3ybXe0Z5tNUeB09I-kOkA-tqSDPlM52c6ZmtG2SgXTOWSprJU-EtZPmURacGXGPFh0P1LKuNsPOXmY8rTID_DMQtPL6XmCn-8o3CuV5ezJzQijmvVZs8ZbIjA4908NTfKH8Zx_h-_Rud-LWvtlSpX5CQKFIGF_P6r6JO8Q1hTtJpDEIE6XOlmFDgpSEUP6-q_QwxYOBgMgBAtSv1_l_6kUOKNohZyfLaAilAWDMnTH1kCIHpR1CXL5PrpsUmM_-IiEGOtW1_fbOQ0vngTlmLlBBnw0GVtHriPOu0fwFICtQaGItCPv6oyf2KY1zdmyagu-vjjvKncVpOJOOxQ6GgvoCdv7O4OGCWUhn0P3meLUs-8M-Lc-Q9Rn8v5EfyJGIiixJg0yzByKIcbW3V8AU3UTc0auZmdlQ9osUBnM9dkQqTnETxff-dtQP1PYfmADKQ0hr58IPsWxrgOW53DQwCb9L3D5uLekcGEjhc4CQaDLeZlxP2IWZgdi-w1rXrFC2HO3o1dyDuFCjO1FZaMYBiIOCgyqoYUCe-7U0o9c7GI.%26ch%3DAQEAEAABABSVFAqOagIa29B_76x3K6cMq58KWk59iZM.%26v%3D3%26pg%3DT6XMH7CJBNATDM3QW26TIJ3IFM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQqEDDzuqGD2U998OmsnRcuczUZ_o6bVhk.%26dt%3D1774170665739
