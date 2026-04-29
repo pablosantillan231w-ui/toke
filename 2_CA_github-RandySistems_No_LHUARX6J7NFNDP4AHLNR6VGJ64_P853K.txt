@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CA
+Plan: Standard
+Next Billing: May 25, 2026
+Payment: COMCAST_SHAW
+Quality: HD
+Streams: 2
+Price: $18.99
+Profiles (3): bradley15kirby, Main, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJjLZKkKQljq4ze0g5MAtoVg8MY3JrVx-ykL20cap0q_Q6T7wzNIkv0MlmACReQkKKmAijJHYKFv6xx-aiOVhfiiv-ch8ZY-mVxAnaIXedrKaQLVrbIPveodIsRRCh7_8HRYtdbrCvPrODCSmKE0KxzA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+11%3A08%3A04+GMT-0600+(Mountain+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d0e30dc9-8cf6-436f-b1d5-c4196458ff88&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773896862542&geolocation=CA%3BAB&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKyAwnjynH4k0SgwnwRQyymC31-Tr0AKG5AVctnyy_zEoC2Ume5p8Iez8ik49IqZFS2V1DjacV078UYjUOUr32Yvktn1nOBQGZtEY3hEU5o6tuvW56ul05hVi2EKp-a-6io_Vn2Pty_R6b8NegJuuc5hA_AUKSK5pxYQdogUqa79hw4MeEv-G2YnqvWyxkKuraKXUU7QvWOUdc3DdzJwgrw6TUc2dybjVBQwVxnM0jG1VDQ7_x-b30tAhGZlIPtkrhwryclE41661nM2msW4BWbViu08GXnsiZB83L8hhpaKQ8oZwKbR4CYFxhKuhKoWX4ZLM-8fWyW4t5YjgYHefm4d6IVvXh8Jjn-tWXKGEmOXPuFMxmz1T_l8s5DbQPVV-gjOr2n7VX00FqQW2XrS5zKK968KOQ-owuFUs0mxUM8zX7QmQNwtUeS60X3CDYv5PletNHkccXFB0WpK9lCYON84-RfuraQrCdIDGzCfrL25u4lZbvw3R3JsOGmFAyxogq2kPfotvTdGUxWhGpae6GCE7Gqm7K5qpSYkGMvOwIdQLMviN02qEcpGvIXP5jScR_aWTQvGAYiDgoMpPdBiyt0T0NHeVbz%26ch%3DAQEAEAABABSwkEpQPVJ_JAfVyjLrVaS5okN-OwuKJBQ.%26v%3D3%26pg%3DLHUARX6J7NFNDP4AHLNR6VGJ64
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTardzCGbyl1-dClEXVILu0FHIN6rMOOmM.%26dt%3D1773941915347
