@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: May 14, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Azaa, Mummy, Daddy, Marzuq, Ashu
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMn3_R-w0pk152CAit2Lk-1gT5CYLEV4aNvEVLvHt_P1JkdR_0B3vSdT22c6v_f_HDUvsf8FFYmiAs3nPXJ4rs2i6bZjwBU1EGW0Z9qvmfmEcAM5eaGVoVl0N4gqx365Wo0HACiF3Whl7SnRd2fbv2aH
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLnAx2rYg46GPr7zdjjXiC5WYragujzUNXlfgwqAaUlkOevkYz3NT5gVrg4vhYe_9xFXKJcC6VQriyopMadP_azk3EEr_6s3oysUZMv4GXAvfrRNqPlPgnGE-NBlOBPpXYKBc-jknkglA6052EfFp_UGIKjNc1k4LuY8DhqBSNa0LDZQKWH35FHpggT1ponMjTiXOOqQUumdLDU0FFx62TBVoHlaal9zYy8ij_1eAn9LcNNz9PjaMqlB56R4Bgmlk6c8gQOakyOy9FZGFHRQBQU4mE0iyc2oMT-HB5YP96m9bfmYgd-vK-9dwI2JypGsR-QA5ya90MQXjmuKC_VM-mVfCdaTHzgfWvVEwf98P_jIJM5h7fIYT22MEEyNmcYHujCG6qCQhG585LKEmCd6SvnD5stVyj1_cxRj-sw-L1oCZRSXhc8skAR6H9LoCgIO6bFO61rbnh4C2dYqbVa3SfYAtYHKkabk5lYmzaqyy4JuYyGtPHYrKkobASyPz9lyQjB4UhzPdxA6FgmTgoyiZwVE0uoSet05SPAjA2_o5de5zH86tQDRpXb6GU25MZDS29coH3dGvd8mvDG9YGETGSme84bMn7RXUon26i5XVDynARQClmoqqoHlDSoT9rRuRZhu6Wz2qxHq4wYBiIOCgxyE17i5WNurFwvPSQ.%26ch%3DAQEAEAABABT1GEpITDFXrz_7ZYLrL0WMEzBYjdRG2VY.%26v%3D3%26pg%3DLFTLOPM6IFAEJPFHYAWV2GHBW4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSP7QaB6GwGw9w4JY4qcQxcLTGRkxhLv9w.%26dt%3D1770468278557
