@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 29, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (4): Amaan, Ayesha, Csm, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN_8bxhwE3HzfDf-LtaILSRgOJFjpRxmqmkagrJAeH_Rzc9RAztN1KbWkPK0uCBZEL5K_MVCTiAy7Dl8rXgFOa0zd1IyXbV7R0ThbN2NeWr2RJL_stqE6c3bTInz5g2cpd0D2egD3UGGLl5M7x2xAqbK
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL6A7EjElLOrbST4Y-LW2T2HUo9mhuu_tALlha_MFcni4qNICLQIQr3lQ8NGlEqXmw5WwoLzE3TYkoaL7hhxjvcg4K-stb7Raq8QOiT09gxC1GbKNB15Hf0IPUnuxsd6yFbQbgwHplOEVHVnwAHyBTVPyrO-WvYbZxCbhskhlNt_kwCTI6OT82FedpJvsmi6hMeBebCJGWSoMoBNtbn6WQHt04lo7s8btuxlfK1DL71ppzxesHII1C0adIfmFwO5DWNOe5mREYn7TNZKRkAKr6S4kEF6ktLdaCPzAmzVNGxj4kzbowIxxplgIOWq4EZUuVqXB7HcEriVxWnu1okZDzN00zd7EBWwiUJLf1JPgBx-lFCStOT0UJLf0v4id-1FhPMYC__jvQQD4Ma4wCXuu7xFy-iRCyVjr2ADCR9ihm3UdkelfgCayWfudHHWtNZWo3CWjHbthk7BMjpuMnbR-e_dRX5_EfczywfVkxpYCMBQejbLsRMrCid4psMhuwCyx6TH52tFVxfR6v6Hr9ttSyMw7LiyJtCzgDYqRNgzo9dtBAy6C8-iQHxAvsj1Ob4Gy87rxWte7b3cVHmG1WbqNpxwlCfTMWFTJlEVlcj202sM6z_t_HpycD34XGWoI5fJYrz8mWC5bs_GxCVaQH_kX472P6mAPw1ODmA3X1aGAYiDgoM-3Z6ECNczMeE0X--%26ch%3DAQEAEAABABTJ60uESIeuo8U1BSXs7OodRb3n0x8Gnhg.%26v%3D3%26pg%3DIXVC5GBBGFCPZN5NOYYXIENI4U
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSnapYUiQjMpnokJimrtmxjd1YgRCOIBN4.%26dt%3D1774110158542
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+22%3A01%3A47+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=007c8b84-52bf-435a-bd67-3040a69f0331&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
