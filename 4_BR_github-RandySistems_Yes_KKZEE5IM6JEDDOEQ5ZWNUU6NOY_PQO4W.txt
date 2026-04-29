@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 7, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Princesa Rayane, Paula, Pedro, dona Helô, Milagre
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKAA3g68m2lkQaVsXaYJo6Wke-rqazdh8nUZ7cOh__dfTRQjeOjkxJ5cHsYLBFzg9ZVSa3nxMqBfTgV4sGZluqoyPLycwfA5uQsGytSO0nGHp88kDMEK0ltuSAdKmyQs9F41tLMbbQGxh5Hn3AS9mdoBiP7OTb2KLSyjQgjD-2SXzEPQ3EWIOpf8PvhAbAsa2J6ZbRA0KlXc2jdVJeqLdeZ6a3SFxR76GjrkqoNY5qQwrCtH4gzwnP-Nn-AB0rSBOTCvKnXbavvCxxHWnJNH7NvZBMOtR3PCoVqyQImNRBR7iHVWT15nfFesSnS7p0E1tqksdkBV3NkcHg2aSE68oikvZG4x9VrPlKneGLlrAO6W5ZmVM2C_sLp8CHMVOhiXG0Oupt-vZjn0Lw6YP-hnuCS7jNMWIqSucoNwVf77t5XBvsSPYWq45VGMrwGiUUy9hSuKpq1loOMe3BTmEcIDF1BpEQ5RuqTP9dyJ4zRuEmgtNNYBMQB1aTOvcqqKvI1aNedihgGIg4KDFEubdxfanfPfFwNgQ..%26pg%3DKKZEE5IM6JEDDOEQ5ZWNUU6NOY%26ch%3DAQEAEAABABQI4YNc0GR1ax74OMzoG7prRtZTDZAZM50.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSXSTu-ajRzwstaik-7LmTYI9Ipw3svgfQ.%26dt%3D1773966023813
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHWq_Jnxi9J8gead8Ej8-3RgkvKkUJwUNtyiG8-o2qvEJsNMtRtNzpCRnHGtKsL4CuSphk-JeiOO3u7bOQigV8_vSn8oHLBTrCL2lQl8Hdgrys2viuIcvKoiWEcn6TNiPRsGjK-lTdo6AD3ND9BFisB6
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+19+2026+21%3A20%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c886d53b-d5d2-42e8-9588-8052437a9c4e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1773965913846&geolocation=BR%3BMA&AwaitingReconsent=false
