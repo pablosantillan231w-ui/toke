@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: JP
+Plan: Standard
+Next Billing: May 17, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: ￥890
+Profiles (5): 美喜代, 郡司翼, 郡司祥幸, ゆい, キッズ
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9Ag7nCU4KiTFEAkEoZ3VDT1PdFrBUgYxlM40qkK-cPWv26AbmFJNhI5UY83T6NG5V07DXApKa-wjOlDIYPkE2nsfP5F2FBbvPNkv_5O0PiAZgJZ3zRBBcWga6LyakoU-wOg0k-ZVDRtsgjKcePPEmoQl36HoZckH29XRmPoK1D-PltAzSLkVsvh3IAh5bO1s8mEe3idSHfAfIzH6C0Gz01AoZDeNFUhDDcL4oQXcSlZGKGmCxJQX66nE5idhkuTXSkP2HD2d1u-rXwhbgF1WibDwHIdDbOSiAdUI8olGHin-8aBgfubWmaUMzF6gul-tx7G2bLt-S3QLzqeXYuv9fm0BVF1bOg21NYi8Em8lw4h4amB38aC455dWJR6X5sZ2nFMc_wXyunhYq6qlQOqJvgyIdA0xXgXUQWIxHsnFmQ3qlbMnXcrsgcGGH6qkLxV_M2ZfqEsPUmFCozmIUhrTxBNyibK8ComuGcl95A-u1_HoXu9i2lEypfK_pMyu_YhgGIg4KDO6l9OJdLLvZecgMfA..%26pg%3DARVNSZMQX5BRHBYZBWFVBYJV3I%26ch%3DAQEAEAABABSBftlxPaeg6mDIBOb4uiyyxQeKex95eKw.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQHqJSWwBDfUeRgaO8bnoIrtway_MUYVkQ.%26dt%3D1767958466890
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIPoKDI0-pZfxIInuvL04qRg3QiRMb5FUf3OojWUl7PV2l6anwddd2Mh4M7ann-UrplhAfHKnrUbBirGOe2kQ_PtcAQ4Nq4hFwp5pWJ4fR2p7WKQfXAtxt9zcEWOeqzkgBgzrgd3hIoNJziDpRTEmLJL
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+10+2026+01%3A41%3A05+GMT%2B0900+(%E6%97%A5%E6%9C%AC%E6%A8%99%E6%BA%96%E6%99%82)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3496e1c2-1bea-42ff-a2e1-9cba123d9d05&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
