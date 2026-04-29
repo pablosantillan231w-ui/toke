@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 22, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Pratima, Abhijeet, Bibhuti, Akanksha, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Dec+30+2025+13%3A48%3A23+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=868dd86d-70d6-4b1e-abb3-0a6d0203efc0&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGiabvMF8utNdajwxmeXEHZg218FrSejwgRN0aV5Qk2RTqUl_Lc8ixBct809X9bVjwdqwpaFagsW3toNOWv_zOgfJd7AgoKEtWOGpzswJf8QfMZ0i-sOX76pv59rDZhUR6hPcwgYXNDeocSBi1dOKhtf
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKGBNUtyll6t-SMYRVy9noW6lxU20RvQPTvJW_mAHnJ0EinndWeXR_PZ3Ag9vu_51j-99Umx647nRjtRz436q9UiDLSEMWL51BHJxtDQo2q0sRN6wPeT8cDYVMc1PcfJDGx5tTgUlaCn_h-damrGz2oppRf3FAs15jShuStln9j_WwmDrRIvd-DOzy9BJrQnO6zF_ZHpDJrJJfKWRP3gAPLaF91ARWyQRnHD_a7y6DnApTGhrvAHIxLCCjaoicoXjTYlyA2RjES4S_TV-2T7OwoilYO_dZhYbGipyz2KVadlaUkEnKhLMkNHdy5Ss_1Sh8dT3E9zO9MJRp51llJxjwQ5kvS4Kyz3vtc92dZapZHk-rFLbtyuG0WF6dqDaDJVlfxjdM_j5N1iD1kgoJhqzWDALqcy77GGLuaE6FWzvXyycft45V7heVrPBzTxt8A94tCNjtC7kUakTzw0sZG5ITWfbAU3h1K2li0OblU23k2Bc1JGgv2tiGaqC7fdrqbV29lOWen034ps5PZTOg464GTITHjYny_HOl3nwPcZYF50a77Opln3a-7Wm2QibnDj3hUcutqwKWeqNjH9medVF8bLUsUnRzEBpUw3AOEHLjqmxK1EdhNT7yDQrMbzQzsYdffBqGONe4HZBQUNwP_b7zYyUYwgAgey0FclPjoHArEyQBiqwOOqzp-GAYiDgoMK5WjY35iurjuebS-%26ch%3DAQEAEAABABRUjVBDRV0kjcK-_PuWCFS-MxJFCKoniNE.%26v%3D3%26pg%3DRLSLN35G4BHI7JDG4CN4XWRA3I
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTpvx553EiFXxouhuy4asrbk0nzhlZvddQ.%26dt%3D1775142784889
