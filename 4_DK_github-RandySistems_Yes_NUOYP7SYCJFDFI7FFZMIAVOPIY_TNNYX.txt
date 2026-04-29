@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: DK
+Plan: Premium
+Next Billing: May 2, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 169 kr.
+Extra Member: Yes
+Profiles (5): pia, Cody, Chie, Destiney, Evelyn
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHyurrAC7VT2c2oHDP_skXBgLweIlB5IPpCyntsPBOBpjiqHRP_-6gdVexqgJ7WpISVhB6XMr9jJGTY6oUg0VLrUS9QLnvWGuFxNLhiy_b-Q4fVBYQGI3cfShcIYLRAlafkElOMrXHxGJcHpQDkJ2j_z
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTCODimZdbNUMbx-ZSBb9vXUYDu99_JJvU.%26dt%3D1774688283443
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL8Aw4iz7A0omJJWf2vbdWqO3l0Bg3_g_1fzddxzc3uxh4ovY4OiSB5Bwg6uq9tuuhsB9v7lSmDW04mezDb0ADpFWUaQe2FDhLqOxCASLyXN1U78JxWGqi7vKKxFvHmxBSS7u8ZuMeFQ4YY7JUZgVkOEA71F8r6BMQ5gEXBuvZKkGdrncDzr1O8gI_SOeclt6C3l5-1drNt1O7IC79Ft0IiSK7wn3twPGYbVFd3_4XIA9BG_ahRIPuge9o7ty02x2vbwUHLGX1PqmSyG9sblp10dtKPCwbo-IiYSc_PfAJDi_K0OcTfZE1K1r752u-w1M-ns-kbPYcAO6HY5BY1VSgzGBAz0rv_QQPFeTx6J2OYQrHu0Y6RqpzfqHFoLY_GQHPUkF5dKrlNoi792-0_IOeHvN_d6seeiX9k3oKe4sf1lCn4nap7qbHjeGDZU7Opn4JsO6AoeQywJae8rKq6copHm71qdNjp_2kliTHkgCePAe_fh5kROL-1dcsZpDc1sfpkPruVhECT4xXtobOomg7Tv2KZur2mLoDENAZfgRpf4AVnmPSZLUElhAI0i-JQXXlYpHZfc0lhOiaN-mdLqy5CzldrRrQKMebkPKmUcX1kCuGKvCbIdtlU60fKH48kn3NmR6WDJnZwv5a7KthbCd3TTqI-5foJCdVSL3QKCo8YBiIOCgwYdZpEn9Hjj8U0Swc.%26ch%3DAQEAEAABABSpUPSzYqZTuYCKzBQVceAvjINEzosxWOo.%26v%3D3%26pg%3DNUOYP7SYCJFDFI7FFZMIAVOPIY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+09%3A59%3A22+GMT%2B0100+(Central+European+Standard+Time)&version=202602.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=2afaf7d2-3f5e-4924-857f-86a78d444533&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DK%3B82&AwaitingReconsent=false&prevHadToken=0
