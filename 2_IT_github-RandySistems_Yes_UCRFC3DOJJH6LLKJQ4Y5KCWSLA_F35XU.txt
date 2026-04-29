@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IT
+Plan: Standard
+Next Billing: May 21, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 13,99 €
+Extra Member: Yes
+Profiles (3): Matteo, Mamma, Bambini
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AmNX4z4xAF8voQCg3nbP_kFZ07Yg7WmZUlksPNigZPQhyJ0Q0ZEp3u60BktZi8yVT80dgbsFtBiOT3Vk0LWDjoukEtPIf_huXPRogAloOdzk-1kDAN4CGIMoCVE77jXXDnDzOr4oAJ5gVrpwSeJ-AdSH6UPBVLMD6jbQ2hSUgn_ZS-IJ8JWSSUNudFLNHvwLREHfOF5PDlby2-1_0SnuytTgxGnJy6HuIVQ-QiAIZFEHKd9qATALvwx-j9k9Xz2cSilNaLMsGdGDhM33CuAVopI_TOQ9_l0xcUierZQ6xgZmEfXCY-sMMSRhglC-6mGlj8g8B9_Yn2GqKfHoyPXabvMh4g65m2oSqPyZ8uDQfJMfcUBwC9Q_iwEobhDpdtj5v7F9eUy2moCVyAPTVZT_MGR6KaZAjWMX80JlhyoH_pQGdtPP8JrqtUdfnZYj5I0kxl2Dm6Y1KUyTcl1HLeJBqV80jyY109gkqFZl04GaQjprVDyai1_u1a6UlXD9qBgGIg4KDBwowiGreJji8NGx1g..%26pg%3DUCRFC3DOJJH6LLKJQ4Y5KCWSLA%26ch%3DAQEAEAABABSUrU6i8qiH5x8gJoOwx8RbqxyjevAQJ9U.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+02+2025+20%3A49%3A45+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cc3a3318-349b-4374-8025-0dbb0fedfe23&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=NL%3BNH&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSmrqwn1RTPqUCyTNS7zNqw43niR384h74.%26dt%3D1756838985365
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBxcvbTXfUC7AzLzoXvNhaJgajF9bPy5fNG7yRMe-2hBQZxewDTvFxaBX5CLca0t-huT2ZElP8D6_qNhKnp-3J_WUBQj8TU6AwHArhYVmvX3vTc5Mpd-XlsLoDjfXNu79gG9PwGUi4kZue6_vKfL0-0M
