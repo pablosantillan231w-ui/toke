@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: May 10, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (4): † Beka★, Giih, Cesalgusto, Icaro
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELQBjQRoGah4zcd7Dtxr429gsFsnt7NWpvPA1Q7b50LFYbg1lYlHPZJm_Nm34TUwMjzWK3WIRXRzo4eZWNpWyJXgNXm7uqnwYn4Z7cM0tQyA8oWFXJyHz8ZxycTvPOSbSE6Avq9oeEp-_nJvOa2UpNv6
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL_A-atpldykfImjqdN28XUv-0tjo865n80u-drORQkcMeKMoRzuk2R2g9cuq2OHwEEQl6bUlnVHFeh4EdvtppdTyO3ionAPDr3pV41jFAsfXMFEDsaFsM98gI_JSL9JuTUJg6nUsmf_Mjkx_A7_Ia3pAKRiwwZbCspdN9gKSX1cbx37U1k-u7cnVDnnC33nbYdvK5cRJnnt6-AeGiiOoopENz_O0gKWopKXeqXu0w5ZjM0NLtGuSPUDC-hgxRC1n3c66390FSQedBkbzVK5R4hs50YwgJnF3JQPeweXMT5trxcBbfX6mS-UF2IkprOz6m8Ocely38uhrJko99JLZEzGrMAhEZn_h-d6enIDbHjopK_e0BBUKqNHfNO9atpMPlNa3uefU_fszg2t716rKMNjWEIRO5PhGAM9I87FhwukNNGkHLyPUS6ez0VlMpurtC58P9pR95CWrlzXqJ-0rQLaWQwX3ml4fiwAtHtG4_vLbEGugAzCoz5dGyUTK3ZZXzpBKxPt8nee_22I2Eu4LlHDjUNTkSBvTulhOTZufuiWqwdkPhkt9zx9v7_5EuaizFc-MFD1-qp_EWFpSyOtm5qgGQ1WeN2vcmH74r44gGIq78JPwG7NqQUAUdxs0b_vRSmr5mpnzZBBQm_4toCJ9BmAOCuhlMm7Cykt9Alr4JssaIYBiIOCgywZWfXkaacnqU_6ww.%26ch%3DAQEAEAABABSttI1n_lKFdZJzF0R0kVTcfOIzazT4IBY.%26v%3D3%26pg%3D4W2FT33NTZGUHJGLODJKEIUWME
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSvNkRN1PkBfmfuTdDDP2iiXpenGR3IpHI.%26dt%3D1774716861303
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+22%3A30%3A01+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4d8f3227-8c17-4211-9a78-8ce7d6a712b4&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSP&prevHadToken=0
