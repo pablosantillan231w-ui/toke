@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: TELEFONICA_SPAIN_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): Anadriel, Alex, Pau, Sonvra, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFTOgdfoffBkCO5KP56DT1FgvCBykROG1SQ73K9TcNqp7ExR3191-s7oCymo2wd-NvzDuYoQ-vV_3JuSuy7Qrjlcd5pb802nsPMD40PlAtxf9-5O_WabFvkPGt7Gxo9kTWyOP1UriTjfNYSX_rh8bBTr
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA3v-0EJ-y9qOV69MalbnGx5niYKWRNW1MoIwpitdH-RCQ9SbU5tDari5LUeUS-tuj0cGpGfTqEuakHGFOGF-WsQIIBWi8benA47Ixf3TBCdFkWP4aAdXfKM1hS94f5XC_qJIYc4uch8DfgsLWQBj20fpa6pBgHjfqPUOFsrkhveTNLT17Y7Rl_TcF2jrneDMwIpW63HgIWyHmYjz2yvNZAMMbGS6cUCl8q6Vqt9zby3wihnI8Aw4c4WRlwSD_bvrP0g5O3g-SL6rUfm6DKn0WQ8rSkRwIgBYL0d68aw8BnB4nylV6xQBHo4FZV1zaOUr1idXOL9bH4_ZHcyhLS56GQuc4hYT9QHSrQkkgzeXICRrzkLlpIeOFIdAU4zV8L1I8Dg4lRfRGVYzmbo1UTtSdCCTFBqrQa7YlIS0OoEJW8HIzlD9uyGW7KWrvck2WCOFiNljRZ3qKu_NhdgdCPnb7FGi0iLpjePlkoCANLpUpIP_vMyr6RjAzDf53ZYlV6gwlxDk3l9xLj4ztt2gnSg2eqWPmmZn7fxWmioYBiIOCgwRN4IoSEdNMgvBtTY.%26pg%3DNAOXHAE2UJDDHIC73L64UQE424%26ch%3DAQEAEAABABRNq9DzzoaXA4Oodj06GgZ32YP1otreO0c.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSTRZHpz9j1PAh_oNKZEGr516unw3zsY20.%26dt%3D1774693162928
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+22%3A21%3A21+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41a46976-31b9-48eb-93fe-733f560f1c41&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BMD&prevHadToken=0
