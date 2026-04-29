@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: May 10, 2026
+Payment: DCB
+Quality: UHD
+Streams: 4
+Price: £18.99
+Extra Member: Yes
+Profiles (4): simonhayward2018, Jamie n chardonnay, Dad, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+24+2025+20%3A03%3A21+GMT%2B0000+(Greenwich+Mean+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc096ff4-b05e-41b7-bf5d-356b8a8a4660&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BHDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEF-jwdhI79bvacrpsrVDmJpgJMUsOy8oGjKazWzQJSWA-jEjA9UHzKLYrffbqMhlgl2J2vRQrvgFKki5GSnYwyawT6KefcoEhv-s2EtiM2AIECpVPmoAieo8EjR_NyBT5r8YLZ43HuLht6meiSikA9RP
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTJEwCxFuGXrXOhw6b0YCiBo72Px7ySC30.%26dt%3D1772300926017
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL6A4n53u9VUMFTETlU5PSqTaZ0QGznTOVNz9h591Nk4vAZ5b7Uv9wTmwFlaCJv_DeGt4pWsh6YtcQDW0sAsC-MnY_QXXWXpiVLn7xRP6BPIhwVt-1TaJMvKejlJMzgvVh_cAvACvpfASi-0MHSn65Z1HW9BOOg19tAqN2pfjZKUFzrvKQWZQBUe5NrWE_G1MY3HiU8fdOjhiB6DlOzditBSjqxZPrx60txD0meSBzXrsnOjcN2I9zlBFAmvg9aL04HyN_b3bdRlnfbdhg16Nyl2MSe9g7qP_DwzsAryy41V1tj5ZnrYlZJ5gxrv06w08Crt9tGYRqMIZ3gFSLkvbrYZHZjb7p5MWxi_8qsVQoAvIPFEjLj65icBpffqIRpdNyV2-WQflLgVHzOD9CCpHEocnvsuemofPp8P2Suc-ERGRsnbSC-NCYKkIKF2U2TPnn8NXloggfbJrpOI7Ivo2q85_FW-MsDNAPrs6pi7_Q8fxEIHzTjghSjVQm69n-beqG_1qLVuAfWdurV80HaEyUg-IHJaHdzizCouuWPx63__XakIznm-CkCcYe5brW-M8ONq6AStIi0b4SmLY_UNedi93J98GaMeSmp8UV6EYpReJ-yP5e9yViCLj3BR6SlElU8VsT0VMb45t_wYtGHW93x4uRgRWOQvkCXsSTvGAYiDgoMhYKcQhoiL6fYJ1cI%26ch%3DAQEAEAABABQPGAUWSPWimAmBYDSELeAE3-fviC5LRP8.%26v%3D3%26pg%3DKCAV7LVUOVDRZDU7NKLL44W6EY
