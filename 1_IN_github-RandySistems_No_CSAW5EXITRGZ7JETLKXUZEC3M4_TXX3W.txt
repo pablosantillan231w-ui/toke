@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 29, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (4): Ajith, Ajith Tv, Parvathi, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECXQAxi6_UMoDIFnGdXzchJgorUXXihTUg0IYmkGjDX2jTn6PuCdrW8Mgy2xfVnVMXHsJdHba9MvXGumziP9zn4yzZ3qrv6h_AXVG_YHBxfERA62vAa3_8ydfWe-Ecfp0yJQ4uKtgmEKSUEpZaJfnDgw
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKMBNu2Bbb7nUyelW1UdjyER3pWktq1iRj2ZdrQrkHv7R4W0hZ3YKfv0TCswEkf9xv0m-_EKwWvG8dY8UB8GL2vQ_NOt2T-oAlcwqjwxqUdD9tgheqMFGZkci0l8DV-pv0l7PYRnT-P3RTSTDd-m94ykYsponim5wFq6Pd1kJRpfsQeaBhSyTWMi46UMYqQ855uWRiiiQ6nO4rjIvjgXH_n5Y8qDK6cEE5jYHhmQxzcOvQvJ-j9je_n3ugTbZxvDpld-dNqsLL62BEzYokZ60eiM1BmoesLLrEtxQU_o0jJ7k5AkxHBSZmLpHJGfw-BV9QZpL6P_ITu05wFWydX40xf2cVxCDHOTRihDhiKxqL-QuNYDeHSfG9oxOQ_ncp5L4fGnJB2eWWRB3xAjSrWRXqMpBVlgxYMphFjj8TsDy9t8ipXcuW6R5uojK7Qkz6Z99_Mcqk9c3-wH0quj7X-bqdmfKDkxS1xwoU9M_AV3vXe3-xj6BHc7RnHtLM1DSCrCIDEU3EJ5K37zenQvjcQDXeANQ5bhaCypcJrok3_SKPlo44mvYHAEmLzrWB5kFNwG1fJs9Rqw9RIT1wqtvODMj92J2sNRZUFnO11xCQm9VcetLaEmdaMC5YS90kFMh3SYXJgKiGrMy1tGA5s7YareEDWfh-KW9Du4Q1FwRSsWkZj7x9ijnhkmVecvMdxaVncGAYiDgoMIc0rLYmtiOe1e7x4%26ch%3DAQEAEAABABT3S2E-Illt--83GV9YMIPpCcmgl6ErYEs.%26v%3D3%26pg%3DCSAW5EXITRGZ7JETLKXUZEC3M4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQT7bH-fHckcAH9sXHCvNJ5sGxE3Ohfjo.%26dt%3D1774699437205
