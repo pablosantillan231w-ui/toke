@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: AR
+Plan: Premium
+Next Billing: May 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $ 19.999
+Extra Member: Yes
+Profiles (4): César, Gilda, Diana, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAw3hBZqEbB3gqGjRV8jV8NgDoIfX2jGNrr_wurhrO1AWjhjCwIvQzlChpNQxe7w_eDXuGLtojexohys2Qt8VPlp_W2PIyVuFS8cazy75X_8ZlWg9fpuoVWy5DTV5VDuDBUt2KL4gejC_h5stCRqUQLe
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTb8fEbtTMeLrll3W1C5BNxyeC9TTVLz0Y.%26dt%3D1774319540721
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKwA4jhoyPdlFqDC4c-Qv9cuHW1RVIe0II59YUBC1UWTD9fT3o_c8jhtyCUl9us-McihO62SOsc3y19LPNdUadfSu7TqFSuOYbHZBZ6Xgibhd-rbyQVGWbI9SIrHxTXKJ220lH8DHrl_OL7fYGvmY9dYy81P48T1JCVAR8_oN_0Yv-B_jLBGM1W0G5Trtayg-U1ye3JsIVDAUmZbrQPycfH7YscrLfRWzAObkqJbyUy_y94NCXDLnO97h2-UnucioReBUKoZYgaGDx_YLHeIACBnhOXQpwC0lsEHmvyj8YptDqjtxUbNyg4VJqkp62hJ5w4B3ZXGs8geTAA_7HbsU3jyc1gKKvqktY16OWRbdIwx0iejHUYBIyTrDNjozWsgvFgouRlR6Ynzch3bAvoqaHmRnX7BcDsZT_O7NLF-Nx11Tve-2qiDiN1eELoUihoOQv7UKkqFWkfiPY78CMlpKpnpyoQlyegDW8RzzVqSxs9ta6Mf-VrToBjeVFafd9Va3wt73RBiELXQmhnH12_5BxKZeQGUAMRBWFmOakEdDc60Vj2VsRwMXmBzfB144UeiWsEZxgGIg4KDK1mWXujyjr2uPnl0A..%26ch%3DAQEAEAABABRuObC9WVSBRlvH9lRxgoIxGr6impgEC4k.%26v%3D3%26pg%3DNCE7PRYWHRDTZA43HE263ZWJKM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+23+2026+23%3A32%3A18+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bfa25e22-c0dd-4674-bee8-7f2dad540873&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
