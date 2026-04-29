@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Premium
+Next Billing: May 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ‏69.90 ‏₪
+Extra Member: Yes
+Profiles (5): ראובן, מזל, אביב, לינוי, בתאל
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOOIlVeG3NVcrGGGQa-cvSlg11Svj7dgAllWJcqCB_krNKwb3XznxLl1IG4j9RATi4Tpyi1E4Upa243Vj2mmzsDECTXE_t0mW7CGTCOYEsRi8IcwXaSj9wM5ilSuGpvsLVWZm6zcbynt_YI_cQqwqh3a
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKZA0S4PbVgeKrsYy4fryDoiEsVsoCpReybvoWHdekcoevvuV9N3XSuhpv3yEOO-gagQ31cZ5LKwCDX232nfw1mDLdrXs9eRQj4thoZX67AUWmc_zBq2KwZy2MUDia9Rew6WrqnfFjH3znfuGQHjS8mI6jCMvv4mhmKrJ4vVvfGyWV9Ey_rhHfmBGU-da7TTVQKLghueMDX2wIKzkwx4kD7r2peuu8_flak3ClfCLYXWZhzoh1m8YT_C0-GgDT2-jPNI7JXq1RjnxmSUoIIIDjfDEGi9-wA6RJo77ZHA0SFYGiGYrNvkj0-DT9_W8XRskvx-H5tftaBw3dh1XtfirAhqpfZjmmrOAD_-0ONG0Jd836Mxju6LBgb-nU50S0WDJO73DlgYBL2R_-JJWtopcHP8d2ZoOznzgrauSYPHxyMpIEZrfHWZQAv5l8HssL5WEkh_Kd4LNHWsHgbZ7vq1mc0h-qFzEEdas_ajpKNygDE1iNOx0T3H4wPJv_f4f9sOlyJQihcPjVPW6z_wtpeYRGJ7DuMoqPmrargCQEYBiIOCgyIU658eOlnr7wQGj4.%26pg%3DMXSGDVKO2BEEXONSRF762JUAWQ%26ch%3DAQEAEAABABS_Mkdg7kyA2R-kxH7E8VU-1oKrjxo0JVM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+29+2026+05%3A07%3A14+GMT%2B0300+(%D7%A9%D7%A2%D7%95%D7%9F+%D7%99%D7%A9%D7%A8%D7%90%D7%9C+(%D7%A7%D7%99%D7%A5))&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b7ba6782-8449-4d14-af72-46b27f4a4dd5&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRR30OJ-lBoHsr9dW8tLHswKFlHqlvrbIU.%26dt%3D1774750034215
