@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: RO
+Plan: Premium
+Next Billing: May 5, 2026
+Payment: ORANGE_ROMANIA
+Quality: UHD
+Streams: 4
+Price: 13,99 EUR
+Profiles (3): K, cambuza, Brebi
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHJQS6zgd8R6r6iY10jKR2RgJq3pvGsXK1PecocUNIjPwM5GntVu3QqAG09Fdb0SBx96poNtEsRaP__3HhidcdJDQNLL-ffWeVlgGt5Z-VVYqExfkUrdXSSzA2G6_P4nrGQKMt_tVpqCaxzVO-lvBV-M
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+03%3A58%3A00+GMT%2B0200+(Eastern+European+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=cb742c0d-ed55-4070-8d54-cd1f9bfd9b3d&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=RO%3BB&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKHBBiSSakP5uWtzMttcCsskYJmcDJpmH6wk0qxep7JZrHSgrQwYQY1ymG7aJaMAnvS8F0xTGxl0a63cYnJaUO8oSDl_WP9HQcIooOdef-gnktUjHq68wqgD9hCw0e-Hwz7QyTP6WC-k7pBva5O4GkyoOXP5OeH_pL3nzcLn9GNpc1WngEwUkJlJiSHEAzhpNSq8xDSvesHGUQ7nZj37_G_Td-sVhXZHgdOfnuTC19ssGHjrIt5zLnuiRdx-BFp5ZaVFdpqAHLvnB3AFA32EI-eJFQqrqtvY7tF1OMU1CiQIMhcRQ8iEJbWE_WRJjLtGw0hQk64kml_D7Ot0GAuxXZgsGlqqAWhZprrfgWDvlgMoPxz-D6Yi8ONORT4Oa768xqcBZrBjUXKPi7s3Hf2WJT1Gs2PTMEyq4aHEFaiN-RQnGgbDNgaSgg36WkUp-T3fs1gXTHzvVK1PjTISE2LAZjD2TLyeTzkRXTkFgGzrTw0KzwgOlHfZU_06BsRk_X10zp6mbLq3f8JfnRzOv_9bU7YyaYLRRdYN5kn-4nQEVVXpUe5uGKdJ5IsTdBYrFShSIvCCCIyZRcpQnNii8wDiLaXWlRrqhfhOXO5d3Cai3g-rdE8JC8mLccY-PF2M_Don2a5QXyeXJ9zFJzb0mA2lmYvWXcGFK4E9PheSqn4NGhOorQU0E4ibm5RuBgGIg4KDH-frpvq5TwWUOahBg..%26ch%3DAQEAEAABABQhScDmJoJ5eXXZ8efGAkvv3PdYmyn37bY.%26v%3D3%26pg%3DT7VSJNGN6BEIROHFN4FMT3MGO4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRFioTG7YgRsiakDU4AdVLFQ6V2EaL0AEg.%26dt%3D1775038197743
