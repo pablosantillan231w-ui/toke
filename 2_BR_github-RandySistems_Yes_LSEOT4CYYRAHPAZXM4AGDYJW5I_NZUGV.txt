@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELEFONICA_B_PI_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (4): Marcio, Edylaine, Gabriela, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEH2k6VSghSO2_tJ-RtHJgO5gL0JYZPZNkYWASIwLjgr0MF9NOun2uLnpKRUbMXaoS3zX9Vi2jrHAJZjfJxFs1om7KsGD7ajA3SSWjZxyVqWcq6QUyyIHHC8IpQEln8lGMaC5AdVashw0W3TAgPSNLQud
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+09%3A25%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=eada69e0-6849-49a2-8ea8-d8a4fdcd1ec3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773165030696&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLOA4WUAJAwNX4LQjpnOYRdig2pPwZGx0Mp_GSE_YdqNNaddfJvUc7SRMYeLbSepARZtSIVB09cZMIGn39cLxiyxMej9ewrNa8wU9l1Gr_LUotO-bg9t4uuypSbW15hYSy8lQlQTTgB8dTRh3R5oqQWjLU7MGoZw-rflHlpE5Yl953wbfP3GlGkREPsAFRm-ohY_M9Kl-qMsM8NxCbdi-1PhmOmcOCS80xBU_xpUto6vopJ8grp6zdg22HZe-kIJPpZ8HzEeuVQpmeRbKTB1_TjqD3eVCrQUZ1LMAiL6hkLxeauPqQv3BdQtt8vJoFXE7fDYyF-3gxw-KXT8mPGXo9fEFhz1aebYHJd_7JgKuqyi6hNxar420qYb9JfFefRqnMKpjJf_bkv_OoIQZY_Nl4BSxgXdJbpTPYS734940T4cKYU3hXcxShT3dFKdw-TeZL1AMnJpkZDN8tVHaaUcUAnN4lIzLPD2WJP_jxtJ8OCfLx_X6arEX9rGnAf-4INFT5RY9ZMvDf_lfocytOpT-wxRYNeP4YvNY0KGqVFNELMMaWr_pLQM7WlJoq-HKZHqriYCIoC_aymiEJZKuTiS8s5jJha6rIpxxkrin81YifoTBgGIg4KDIeNQk20jhhoonHB3w..%26ch%3DAQEAEAABABSiTcUbLVf8x54rwdIa9LwdT_X7gPRgakQ.%26v%3D3%26pg%3DLSEOT4CYYRAHPAZXM4AGDYJW5I
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ5AZRtwoOlaD-vqQ4pR7216UyBrXIMmcs.%26dt%3D1774531028191
