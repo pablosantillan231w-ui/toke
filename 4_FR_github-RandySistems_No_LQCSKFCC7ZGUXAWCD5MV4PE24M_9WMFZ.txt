@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: FREE_ILIAD_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): Cécile, Manutella, Antonio, Maël, Camille
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHaxooG15oOV7AP5guSSWjBg_mnZo-4QEf0k025hKgh7uSL9vahMn7M6R4GZIkVqoWDQF_cAgY2pg2oo5fFbhwvtdGdSWwV5qkkvlW06BsupwRttub2bSTKGjeJyvqhpMsgQMVpUjJFg-QN8ZQfVF0h7
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmAx9vZqZcrkR3P2JZuXRrzgLNHSzGMi1GCqxbGNV2Gj_ky2EPvPe21hNItcQyCOYDP03fOT7pomq_dn1sT1JouZan_7V7r_aYYAmd6Z8A0nq_tE2AAd5SLijKdRadqQX1B8YyCXq1vv9JEoi4HRSfYkBG8ipIWv_LBHaMNRi3lf5h1i5N2IBa_4__AbtqQBF4QvhYHFJYTDoOkIdABwDZ4xbbo7YK-2fQENm8_D5wClGlN2wXRW2jbJppy38RcRRqBeUgr1QLMbYJrvralsez2IjMqBMV8oSExW26XAAfiYLzN8fsSFAEKd6_ttgxf_LU1rABSVGbRH6t9aZlgwtFz1cSKngK5AV18mfNdtVlKQPv7BDooHqxLmqjQN280P6kTQeazSZf0_hBV9VxnyL7h9Y-Ndzq-nZ3ZgylGccyQSIg2BEkxXJQLwuuYtALjX75wKSX0qpApK8D6Wq7D_udjNZYvkKSD3UhTu3B2ixQl9UDN0OiLqUFeo1WWddtu64v3pnMR9RNWUfgkdVrq3YH4Dl6Ih0L0DsOkQVIHwCi7NE1K18U0huqytM8gh7zdZQA2qETdT9sVwbs5pTsANeosOedmgVw84ZxIZW2Z700w3PUL_aalzu2-YG0N4xHFycFM6xJGFqa2hgGIg4KDOwM_uIAdJ2RDcjAvg..%26ch%3DAQEAEAABABTP1_PeqVMVGARLRfzIcPv8VQIFcVmVWQw.%26v%3D3%26pg%3DLQCSKFCC7ZGUXAWCD5MV4PE24M
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+08+2026+11%3A40%3A24+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23f3ebe5-9a60-4c63-8dc8-12f004fff514&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BIDF
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTRuWeXlkus0nvLN0kksz4uYxuRDxJw6iQ.%26dt%3D1767868823146
