@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: GH
+Plan: Basic
+Next Billing: May 16, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: US$3.99
+Profiles (3): David Akunarh, Dede, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJnfbadcJR_Ili8W8UokgONgSzZ6zw65h26RRtc3ETl_Zj824u_lY27Cdzm9ju5dLDNMgi150i1G-ONo6d_JvfgPKSQsALJ5z9BDrpBEMKMvRQVavliAGhAnvh30C9nMidFCJPsnvMIi66EADA3HRioL
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AgTNEp3330D9tFvFHcfPwfZZGMjzseFYQ_xRGTvhMZ7zm70GrM3trlr7d6bLMqwHEx7BUcOk9yXELgBFSIJ-3YhaCLgrHAZuXkROv3RgpE1BZbqY4_yroTRQNYG-Jm3PCw4pEDYXq78RYv4zgmd4vifFfAbXLqAq7J7D-hQRJN2lvvYuSEJFXTYITwXDnl2MICtPKlPk5xEkldVU3Xf8Y49Hni1l8NP1yHn6jokj9qGDLPqGBcEpCGzZTVjDOJRLn8DmSnr8AEa4Y_EmeWg3beYcfuRcEaT_LNPWkN4UCf6rqgyQ9qL88eFuCD7-AsO9YPBuzN5Ux7EilL51REQDLXlg32wJ9beojJRbFqiSxRUBGmh9LT5ClXZR8H8iFMSKWD6fR3CHEMb5-bXfKLijEFNakfRKTiyOC01YY1rQAMelRdxmO033NrPQBuGhLYrLBo32ZsUEimTnK3wnFkwjrO8TkzkMPsvFdKSn-ESugL1sM_E7UD9CTJVpxrjQIRyvGAYiDgoMpN_LLP3czT026KPL%26pg%3DXHDIHS4LTBA6ZHR4F3Z63T6EFA%26ch%3DAQEAEAABABRDWwhkdeYDwZd_67wyMv2ZpAA7kPn7blo.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTSQFCnAydvaBWW1Vx7owFo2xTX82EvkL0.%26dt%3D1774390631385
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+23%3A55%3A19+GMT%2B0000+(Coordinated+Universal+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=16eb5c39-ee8d-47ab-99a9-b0308b4f787f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773856123887&AwaitingReconsent=false
