@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (5): Laby-Lapin, Lorenz, ??, GROG, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEP0r2qxdfJhhQJKYURppbOVg0Nqn-8hXwrcqpClugCzAB-zsOSYywsy6FjjfyP6o-BnyvUJ6C6EYBE6sujxEIIjxi7vgT27zg_AetqQ-0atHS5LZwQp3Xn62-_Xy7jogai3wslp1My6JdO81Ki0ObokG
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBBsap3mUj3jElpLSDbx4gx5tuiNJk_JAcvwGsIfXQTRKEqUo_wdE17OZjLqIWe94OpsLptHMlMUpSwrXTA1gfDUp_tPIglnHReaGpHFvNS0whBLEhCUfDrdyjwuj3wunqeA5EQNBIW4SjEwG_60LUBf36q-DVss9BgItHijWM424FD9uUw9oO_yINGD0F9iezoMbAhUWoUbvnEVBCCoGuC9npatA9CDccMGHbQfzDJVyngWeKkJXlj48QrtBOcADyDsJvFHvnzm0kBpGgfnk1VB3nJvibAaYFOF--l2x3b48AnP0txK97WOoU1FDMyQ9-BE2S3QtAmYChmvx_88vlSEEYOUnj0EcfEl95o515MMlOLPa4zJyEKqKs80fJ_m6-s_b8ODd0uITkWZJRj4cVBJrdNxytSXtbVgdB_On6jFzSt94Oh3pQsIzQqOamvHdOhm8V2G3V-kNIQXxL8gn4-8j9ZcdcVC2yTtR-YQw8n4eWUxPXE7TqYlVwC8Nkye0qFPhjtYszW3cwc5p3_cvVwTTIX9BYFO99blUHlgB7zNhfsjRN_TWxJGwYdhIgSivSvxvu1KAeQENOHpdmkBjR87331wziN_uJ7vVlfG3Bqfo8CQoMExFiA9_bWNdqPzrfK09Ze6I3fDu_5BrgNuV0w7AfnXduciY9fphrfi7ixM2xAYYBiIOCgyFA6dj9oR9BwSoae4.%26ch%3DAQEAEAABABQnZZyYkQknnnONASwVOrn62SDMc9Pvwh8.%26v%3D3%26pg%3DKILNEHTH2RHGNFKWHBOLAZW3SE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeuB2Um9BwSWOcZX0u-_TGVn2qxPH9W2Q.%26dt%3D1774524233099
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+17%3A21%3A42+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=00873783-47c7-49fd-bafe-a033a0936d07&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BOCC&prevHadToken=0
