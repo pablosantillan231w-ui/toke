@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 25, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): bhavyarohit13, Jeen, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEK1PMxfOsrgz0dxVk_X8SlRgsIr2F8xYIOQIPTRK-VC0FwFaouWcATWwrUBMogIYbG3HfCMyo6IdXn3f__TJiu-rtEbCwPrekG3Ix-aUXAIrTC0JUgddz5kV91m3K-2VdtHi7MiO9IN2gx9EdOjzKBV5
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKhA4G-8iouEtNpeSUDGU5t7HNCO64W1gkK646RkEEE04BIyh1ofUBqNG1ysFqMfYJ3vbZLqVr3IM-dJqS-0Nz1e0uZm37uw6jPihXFaHW05m_0TqDznju0XbNnIFkjLv4Znp9KT-QM_7aKKgMfJrN2JvpSzcnyMrcGfQh3ErN3BkyO2RRgD-9Ves1N_OZf1lZmOrH5EpmoW8eGS2hFDm3T9E_d8032H8MaBaDGCL29v2n10JFfdXTBhsO-IEjojKTqo-IjDnKJggzmtxP43_bi_STmxXhgcJnCw6TpnOd4oMwlfJG4p9f930rsc20rtF0RocZn0NJ42V9j6R09Rw4NSnyQ-jo8EfccD7X9flDsSCr3AcL5r7M8VbBEjjvNPAz46L4Yf1vaoxAE2dqY6dHIlcdUvxZgv-QcZLRuuJfBbbbOwdnDUmV181veSD40MxNV83PopECYYX8dnWqugfUe8-yQIvp_YO48-vS9wFcI0mEtrCSLhWQOm8UKGR372iv_81sctLDZr5z7o9tarJyNNpPF_QjYXx8uBbGwN48p6p8hSxgGIg4KDG4fnmx51QntjfKLMw..%26pg%3D76CTHA73ZBBIFLVNHDUEEWMSEQ%26ch%3DAQEAEAABABRx9oavhKOGzs1gjwDesrsJP5TfGaTFtwY.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+10%3A45%3A23+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=bad4e2c8-fbcc-4991-8d73-9e8b7486a9c7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768402099500&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDiMuKf_ZHusoh8j35130QAtY1NfOnQU0.%26dt%3D1774502134004
