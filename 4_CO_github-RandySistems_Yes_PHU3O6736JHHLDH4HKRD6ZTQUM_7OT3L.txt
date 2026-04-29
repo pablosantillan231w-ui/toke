@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Premium
+Next Billing: May 12, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $ 44.900
+Extra Member: Yes
+Profiles (5): Cristhian, Emily, Sebastián, Lucho, Mar
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKDAw5tEYO5tkitZ4zbg9nXwUlVmoQgxiY4zCIXiMj05_xWBUo0Kas2HaiuGlC57E5zpp4-qgoNqgGKezHfGuvZJrVXoaNhCm8UIFzCPvjas9JNXEDf2w5qXz9hCrzBm4HnxKXtzz8CcemkpsL-1NnJwE5xpKF9Wp_MMYcFesoLcxb5TB5TfVz4OjP9JZMPF6BYr8-TKvS82mNBx5--QyPmDU9Pvzdzr3rMvbWJnvE85AkUxdTM4OV9ZvrOeRa9QkRmX3nj4mWyhnrLoaIHH3_ApVinvcq-KI1P3sQ65cN67I7GFYQFAfZXvxvrk271xqVhPha-vcpbLLllWVSRoNyxAGt11NVYVuHO_RJrEfs6l2gZaZH7bl9MD8CPTXcMK4rae8xn1UL4AJn1NuDsaGAeoUpSiIjM26plxa_sBRRMtuRk9REsfurSiasOdoseea1Oyb6D9HwHkJKLem6h8EVkI4wcuuxwxlEFaT4FgMIkd1n_YLwdJOKL9bAakJfXOsDjn4itixgGIg4KDGI6mSQGUO3NoZGf8Q..%26pg%3DPHU3O6736JHHLDH4HKRD6ZTQUM%26ch%3DAQEAEAABABR6WQXaarSkisdkUhaJxLFVm1WSPmdoAKg.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jan+14+2026+03%3A52%3A48+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a1c20c38-0181-44a5-af72-457b89c90806&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTKLWTo-ThC6A1zXEtBpVLX5kaFRThL4us.%26dt%3D1768380765952
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIqFyuPaI0nuD7unCVm3DVxg_JtD6x_G_HL1o9yTlWJ32e7d48HgE1VOk77x1ZJ1p-w0TCFwGAz2l0oiYluQiDCGp5YYugVJF-bxE3DNc54LFHsdt37Q0gzjcSr63NVBXVjBp1UeHmNMpuhUpewYVvhU
