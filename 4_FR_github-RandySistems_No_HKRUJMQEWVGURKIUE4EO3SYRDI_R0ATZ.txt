@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: ORANGE_V2_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): BayonDeGalice, Eva, Patoche, LOLA, Mich-mich
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEO7WrlBG_p70u7vhn_JRD49gjvm0JeVquqdStYOoIcEl3zp0cT6k8OMXTedMeufeMEyvbmOoMJt8X4U266G68kwFl0Y7lGQvnlbZtK6KWckLJyXkwmLD_feFwj-ipwhfk8Aj85L2Zxg7B7tUI3Ck_V2E
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKSBGKi-UtpIeyOnMqwxYd5ZH2rPmHwzTah9Sej_n1x9X-QZHcu8kiEqbaNPOqkztnaJlN33ndJOfkmCaSRcnopfLllDoY9N0DngvCqvnIMo3TcULDurY9v49FEG3AznFJvl8A3qEjQXldeMGlWFTF0qyPrnwbm0kXwDA26bVIMoyT1gr247e9rdhQDNSjFaNQbaF7AS4AxyOaAexA26Vl1RuME43R3XtAmfyWNLrJwxB25RkOA_AjudIAJ92ZF0aZE1Rn1vtpyNmej-nE-4UPvoDMA4wR1QLB-NibzWw1pfo6OXWS53q4tVgnHZIoHQXExgDVMFGmfQ82lwLDKEpfLH9Koorxl3gq5lxXp0j6iB7yvCafZV7n0bJ_obbzTKeaOzzU47jPzeHgLMSYyhJnJGS0uIcJBHHJXl56QbAUmUblL4qokqOX5YEzulBvko9FuUfb4Kk-CPx8XLzf3oXR1mNJR2jmUB4b3nU7na9o3Q2Itoh_kI6hhidPzBmX_hWNzJUoWhsZa9hKmXZI_FD7gbJANb0c5KS22Qm3CKtxmXxFDWqy7EhWyy6Day7t02USL3uLE5kdmQDbF87Blwuk2EGTk5UzUYzMwsHptrJ9lQ0gU8QWwt1ESIhOZIn6LfSav_ndICHYQHNuesJ5KS-2Xo6POqglwcimochI26V_KvxlFT8_6N-oQatPna-uRtvHGV_VBGAYiDgoMcZP2KKLGqW_b7-qh%26ch%3DAQEAEAABABTBta9QNtaUx3ZebMjn4Yba_oKXX1aZvDE.%26v%3D3%26pg%3DHKRUJMQEWVGURKIUE4EO3SYRDI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRUJTEFO__HPjImXdvs72yEQMqMhfzX_JU.%26dt%3D1774117085273
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+20%3A48%3A28+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=693d964d-9951-4baa-b489-36d50b48d51e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=FR%3BIDF&AwaitingReconsent=false
