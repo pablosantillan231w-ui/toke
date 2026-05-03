@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: May 12, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): deepupugaz, Ram, Krish, Deepu_, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGPl4cz1ROJ0l28jt_oL6mhgZbPnipxpMiC1DCX5wcbNtNePOWo6n0NtuVX-n0vn0Y32qClQji7uhWpCMTIHHwds8nP6wTmdAZwqXXQ8BoCbbAHhy0g9sDktft0X8B1FBqG9nE2KYa9wx_cSuGq7P6yS
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLJAyUEetwoxEhVb3LOwm-ZXd9qQMKPr3KOkfLPDVNgca2zOzQSTfqwz4j22mTVCNMha9zHwGzs5DnpgpAySct-C77FdWsYaQnZzPiSPGc8uZWjHhXnZA2FOvK00z9LWVx3jqHmRLdyagIkbb1eHBiYNCypysJj1FL1VVrmXLurzOSE9iZMPEWaFJaXO47caL8bZxT51e5W7HavHM_ktfabvsH78WYLBUILQu_j6GCNSQ_1M-ozRxvxqAaFbyrA6gU-pUl8qRANUOT-mVSbh4s6K8ywj_t2Bpr7buSHdEUHut4ioKTvw1b8mRmxW6tStiQtXbwzmWRV49nb9haDkmE3DDZ8y15fYWXlTOY9U7z-BXCpP6o1eeK6pX5Ecouh2f7UYJtWuJ1GGw4vIayx-OHGCLDERmuDcwXmFaEjm6z0fdZbey_mG0QEM--INRvls4e37T0MzTwULcN3YZ1cQ0EeNp1ex_DtH_8Sl8bOVbxBaSza0cTh0BB-3W07QzldyjTR0PkOpryMCux57Pq9f5TdtAqJtCTZSn8OTD0nP0oehDR7K2UIBOB5qQs-LSNEc_b3v9NpJdYvO-Qs-GjAGzhBn_02frPQm_bAXKoYBiIOCgwNFDJYV3GXHZiudns.%26ch%3DAQEAEAABABRfKo-qxNIkeQkcHaO7OKxsM5Ebqp5ctKM.%26v%3D3%26pg%3DAGQKCNN2SBGLFFHDCD73ZSSXOM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+01+2026+00%3A17%3A05+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f4cd9a10-0920-43f3-b32e-d16fd52739a6&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlp3lgLQqLPbFV-5cD60M9u-OtTq7kgVE.%26dt%3D1774982829528
