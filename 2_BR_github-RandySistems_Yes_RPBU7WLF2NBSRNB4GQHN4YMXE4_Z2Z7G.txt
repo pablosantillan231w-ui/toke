@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 4, 2026
+Payment: DC
+Quality: HD
+Streams: 2
+Price: BRL 44.90
+Extra Member: Yes
+Profiles (2): Leandro, Fabiana
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFjDQzsKbcRP5T5eNsqQI3FgN0TqBOwNaVaZAarO3Ec6Hj6haCfOozp3NOGFXQlaDzuU8njGAgw3OWuQZ0WM9RMwkE_I8nS7dMI7Btfpnlxy9CIE1EtgI_FcDeGRSSw1Nvu-sZeShr0PV4j47w1BzNur
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABToae2V-fS-6rD5mymDhanfyZtOuUCgF9c.%26dt%3D1773409950253
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK-A5YKWTrNuWp66juUdUt1bsc-CRKFSwco0jwncvhCLvVNIi4A02ZWxucYl2PfeKtsvj_8W-MhhypPT2151AyYp_nf-JJ4C3ijezJEYoLeqFAAOl7ghcVykK8Q8NZVQK-pJJM1L91tRSRukWkMLPSAkqxCGtJ91aYzgCNZCiyzk7t5Nrqa5mCsqTVL9NzMGSTx7HM6jcd6IwpozsC0lCbC2mWyhU0P68VvkcmOoUohFWBMWAJxdRLxrlQpKObfV7T04u1qr8V0l3MSt7cBU93NTV4tFg2VqaYRUj0cGPSMW03nYqvBRQYWeNwFIZJSd3yOMG--v8SwdPjvihqdO7P1sJx0iJdP0S3W9u43CusCBRVPTBEwWuIHV8RwvMB-UbQu0mk1niPWKN_L46WJ8uJmXfAN_PTMYNtqLFenMTP253jltd_tk7zQrAVe33qqvizjfWW78D8yGj8Y01rKRzbr_hSvsGW1bDxQ733ZjNow-EmcUD3_ucC6vN-3qDWBUstedMhnpnRxhiz2YGIXpdNiKj4hNAmsXHXC41JzXvgckc4DKj4-MiJXgjGJtp4JkrJyNf_va1fNI_8ZarIQMuspGAYiDgoMZLh2KaCQ48sTGRtl%26ch%3DAQEAEAABABTj4XxzdGyrAAnhvnbXH8urf-gUhjVHrw8.%26v%3D3%26pg%3DRPBU7WLF2NBSRNB4GQHN4YMXE4
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+10%3A53%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=1&isIABGlobal=false&hosts=&consentId=d28c400f-273a-4371-bae7-f2a1276966be&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=6&crTime=1773095715666&geolocation=BR%3BMG&AwaitingReconsent=false
