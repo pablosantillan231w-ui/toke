@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IT
+Plan: Standard
+Next Billing: May 18, 2026
+Payment: PAYPAL
+Quality: HD
+Streams: 2
+Price: 13,99 €
+Extra Member: Yes
+Profiles (5): federicomorbi, Edy, Matteo, Michi, rand
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMQt8Ii3q-DeCj9BLQTPUghgOI8U0p9xULKhmVpImk1HJb5XKIK4eyQqEw7p56kb_h1MS1oDtwKNMJreHF_KmyJtrf5kk0kLGsLEZzYEoYScy57wCCioKA4l6zs6RBa5_q74yFp9cFmU2jwO76dI-vg-
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLoAzK46jnr_sy9HcbVZC_n0pLFnY0WDizdPrXkMz6OFYB9fbH7BLv2ZZXPl7W-nVQp3U11J3LD8fRV8rwc-WOlfQbbjp3BTIbArhWlFOqvAB3C0D_cNxQ3QuDFw0ay-eIZhzHofSflgwC6xelUbcj26KhV6E0boQQa1oTQvIK839GrbUqu6oXb7yqtZ6y6YDN-lnvPp3PJ4M0fdEeI3auWltoslxYfKQCWVgvGTGev5LI9Xu7JAOsB2jO19cTNX9RjDLLX16wnUjCbJRC6eRdrwLrGbFI3FzdqsKHA6J5toHkw2U5hjRs-iMx4hhaqEOnOxAjTQYxGeq8v5PVMIEPBqpZI9YOrEdGfLDsZKppbotBs9MGZKVC9C1lof6TY0duWSj7eJsDPfCZRelhHKomqqkcaIHoQ2O5G-GDYY4myYYfR8_QPpEtGmOhgjHRI69wlIxE09E7XTtsmQWEK14JnSUkVLlKxAunPztsesq2oQOATPXdU7Oek3WSINhvbB26Evx5UD1dlmOBiQ4inHXB5mdY51cQodKcDCXJfKi6zAFsAWHn2saFfD_SApmvn5o60KtJEhUBx7WymV_gPjl9dwstqHZlfJiukCWBnZFS8Ae0CKqMwvUa-WuhAvj_KJ_eI25JTl9en2AvnGAYiDgoMFrcpy-NynuG7JL3D%26ch%3DAQEAEAABABQyD4D-CIW-OA3YojxdtW8mPgPOULuPiK0.%26v%3D3%26pg%3DBY3FOV6AGZCGZGMUVFY3OXVKEY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+31+2026+15%3A50%3A49+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=39d789c9-f058-4746-966a-0e9fcce08589&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=IT%3B75&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSY7i3jnnx9MdQfI5NhxxP3RXNH-WZB9ig.%26dt%3D1774965048201
