@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: UG
+Plan: Premium
+Next Billing: May 7, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $9.99
+Profiles (5): Ty, Dy, Education/Masterclasses, Guest, XXX
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECVWlqfHQQCL1IYp8GNhLPBgY7w6NYxrebkvqCJVRPFjvtxXt_LoKAthrle7Qu7Y8idJvHzNofAUPN370aRfxqIFk02YJhFZs8Ebq-5Zh7RcnEGIjxfmyhiGWxEBIT1PfRoP7JFLkp2GJEBr7k3y5Zf1
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRnyYMR650EKgCOy7F82Uns3SbTjy562y4.%26dt%3D1769941625850
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK-A5id-adwzW377UCbXVh2fuG8OUiCJxEHKyL2nPmI53HUF4twJlOFZs_Qnhvg1I-HtlhIv_tlgR6WQ_bDnd4dp_H4aXmRQFjcqpQQ1rRlnLC-Jl0xhNwkYR9EQU9NAcL0FNGPiSO0OJUEQn0o4n__VamKeMXWZrRcAeRXP9tnPEdLsL_oFjWyTejnxJWEbGu-KZ69LoGb1E0UMYiZaj2TKYpiio__UHEtQOGA1Mu9SVv50b7SmYc1q2Iik7JcCYgrEWI4AeXIplfEB0EqmI6RZHqjGqahbZT5GJZ8dFARL2OfQQue8w44504Ckrq_oHzNrwvGzqRrr8zJCWQeiz8uqfSQ6M8QDfgaXPqZ2FNXsYNqaUoeWDGmgwfEhYGMKnW9ROqh6v9yzYAsbhaSEO14uVCiDtddp4ntDVvfa5D05dknhVXCb2DT0NQRHB-O9Oozc7kpvRQXo27J0vSLh1aVpuEs-g-bhGvhzLslCU2-noSpwO605jNxY9URdE9lalNlaQeuBwspcSbeweVo8AyaSf4qfVBhQSyNg7v1caJbnLmqjPJzPw-_8NRveFcK8hMNWBkLQJUw_4hSLdUlhMunGAYiDgoMbGrMTp1eZCzVnDhR%26ch%3DAQEAEAABABTEAfzdPH7R1W4zr5p3jafWgEw1TUq4qbo.%26v%3D3%26pg%3DJHSIYZK2UNG4FFW5BRCSLASSK4
