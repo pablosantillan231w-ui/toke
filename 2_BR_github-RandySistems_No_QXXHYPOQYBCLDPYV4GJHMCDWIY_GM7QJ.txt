@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: May 22, 2026
+Payment: DC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Profiles (5): Paulo, Sarah moura, SLyssa, Manu Linda Maravilhosa, Família Nunes
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECJ4WiFi_2aOUfvZIkLXpxlgMJVAdOTji7ztO54m5DvlNQ7fWWXZ0KwA9BferB8M2vlDyNmHPxPhMkdPEI60TKdgxUwg4dAaXpvy4J1v6kkGackKCPV1IXTT_TeiUAEvPYFdW-82IVdf5dClz6Y1idOX
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKEAzK3BijR-b9vmuJO3BV_WQWVvSkOdyE853QtnTft-1gOuw5RqokFlGFmISdR3PAZxKcTWghpI4pC2o7fx7AT-NLnm8-c55jO6TahbgMfSPIy9zfWbi9rf5dJ-7Gr9jnVV9SQsH1IrW0TbVz4fPrv5yviV3dALNb3vt2NphZ2XbR49KKsRDT2R_oU6rZbtFqz3NkfaWSonmTcMobMtfEVrk9sA6vkGXaQf-xHlPSGzJqnGRldKiAqtKhtWO0Foe_nK3TMYgG_yUtZDM70v7DZmz9HxoorfXP91wIg5n_-0zfyjMCJnW_LgdR681b8Ra9B5GTU_VWGXmjop4CuwsFqr8ZfguxZW48CpmgJnuWdSBgAMfEz5yqhjkqbg5eK9-uusaSL2yo4wTaDS3FNdTXkGSDYCnNK0RoDkSYTkcKQwwcY-LC9lpP5_gLmHaHRXfUqcDvjEXk44AuUeXD8hrkFAERYDOoy3t_naF3zrOaqmCAE2sbCQHms7TGgHfMe1_JvnKB78AEYBiIOCgw0uJjG-WltTPMlTX8.%26pg%3DQXXHYPOQYBCLDPYV4GJHMCDWIY%26ch%3DAQEAEAABABQg8ZnPTOm5-dW_cafYyPjewnKhtU2VapM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Sep+04+2025+17%3A48%3A41+GMT%2B0100+(Hora+de+ver%C3%A3o+Brit%C3%A2nica)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4fb9e353-e121-44d1-9954-9c2bff913ca4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=PT%3B15&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSIUgXvRD6LjgFMh_b1D1VAxPlzmm9NtBM.%26dt%3D1757004515814
