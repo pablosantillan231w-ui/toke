@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: May 29, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (3): Shyam, Bharathi, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDAdPl7CMTe7m-EKTal46jxggc5FU5HCaA5t-3WqlTcytKSN6NHvfJ36aCZk_mXtoMFPuTI-x8jFHgtK0c81wEDkjl3s2AsUk9yDaCqQ4kWg_iLl5MWeOzlxcxbSiIWHzoY94S-iteCiGrMZXHdLeaoM
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKvA0utrcLhK1Jrj-0p6hn9qTVkjI30Fbgvzs_PkfYEy13Ob8lAsy0ACxNjJfoUUJ9t3b-ZU22ih3KYe5_hQJLsEM3QuIm3gD1d25-XqnJo94n16f16I858X6JvjmU-wE133j51k_CY3c7u3WMqwZXC2-mwGSfLdlOowTly_C5Cz_ytMXxO8vu4ds_eZDAyRbObsVz2sBmG_3EeLMYLdjE3c_dTD8c1Ceqy7ZqhXyfkyHDYbOdLBXbOpG-l3E3N0feqcLH8ccuyPSsiFHdlkAOSVrROw6LeNczoiVgzOPxOtUg8ofVvqDNHPLH_NgTahCiTQ2HetpxW4Z3XDastRq8m_5ir2me74G_L7YmUwxIWQQNddcz2vS0fRZxoqPlk36Z3T6HhAQ_vNZslFF1Ja148Khv8XVLU4frDSLwX-EO8Q4NejIZZe7GeDcWYhOpcVrExffYAVyQzLoFuP6z1fISy55Tid_YJjtgQAExQMLggkMv7wpicykD1tO_8dPVti63BJgZL2et5OiJ_5uJm6QXwZjifWHD-jf73NmCjLkUV4DQrarlTw0r5sWFkJ3ZFDtWCGAYiDgoMlk9Nlrhny31CF8_o%26ch%3DAQEAEAABABQOfjVdlwDCX7G0KOn9p1iU6ImzMkIdXiI.%26v%3D3%26pg%3DDKC6ZKOLTNCK5GAGHOU524KYEE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQDc94c4PEyJlQ7r9rI3pNsvXFSNNLpEmM.%26dt%3D1777093015458
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+10%3A26%3A58+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d87075de-807e-4b19-8aa8-0a10000ca336&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770713607617&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
