@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: April 10, 2026
+Payment: UNKNOWN
+Quality: UHD
+Streams: 4
+Price: $13.99
+Extra Member: Yes
+Profiles (3): rubirosa15.10, Yanna❤️, Ajustes
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIrqEfuP04ON0OeT-NOdF3JgCV8ZpwMOuiZBhxwVVpOZZGB7cHwL8LifVDxKVayD3gxDwOgktvXu7x2i8JUMz_V1f4rYpydYh_DUhIQzWQBRwtTb-3fW72PvCeJTi7PBuD4yEKp-74OsJ1AdydRpKtPH
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQPb2IJrsi8hv5nxYvlEtl6wwmGErJ2GD8.%26dt%3D1774529833023
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLEA0bMBPiOVor7nWTWIEmO3FLcyRNqKEMaTg1afweEV8_XF833v14HoOQHCD6VxEq5VJIQwk7LE4P7s0YOvNwqR9QBS9v5-BfpoNUliphBHGvqILjiHiZkydsDk4CLIyocEpJJwv8tn9D7F8lxmzkqlTwhuYqb32UPC77GfAdjKqUo-15Sxx2Dn70hLXSGfBQevJO9r3wQC8a05xrxSsAhQTCudMH5WP3RQeTnVYyzilzCejbVK-cJt87hOkxV1kY7M86u36W8ezLZVZfjEOz-9po-WoRGi8ZH4IwJ052q98RwgYdGUaY5MYktLc9KNiZ2vek-gmynSYq1T83VCq-zqiFXcRSlpo1ZE0gJ09HQSnDEYSiEU5nYC7f-rFbwomF45Fg2YyTYpN1v30iwGl1e_QLylIML-h3UGJrsXySQD0su59ejzq05YuYIgYHXvlQptWxg7u2hQHqTYEb1DDd0UgZOwF6yZ7SwCnqujSOAt48d8O2gWXMJ9Db1AkmY8Fe6kl14ti4UXnMOQvj10vgj0VSKKn02BfwzHW8o2pWCgI6VoReT1hQn6K9UbK3qqEzWAwJxSKqkSL8SqRyi74ZXExkW6MDoGAYiDgoMS4dyQQ2Ln4DndmOa%26ch%3DAQEAEAABABQ6DCX6Y7jttG2WHdnD1LquSm5bpLZ-PSw.%26v%3D3%26pg%3DZI6JP2O4HBDWNACNYYRLYNUR7U
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+26+2026+08%3A57%3A16+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0dd81418-fd9e-49d1-b3e4-be30510a8ffe&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768187289015&AwaitingReconsent=false&prevHadToken=0
