@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: US
+Plan: Premium
+Next Billing: June 1, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $26.99
+Extra Member: Yes
+Profiles (5): LilSpicyTaco, EggoChaser, Vic, Giee, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAp4k2RZ0Noxd2m1D-jcF6dgqgvPahUv0nis1_f67FiuH2E7654T76KqJGqwOD9hDOGBRm2fToTZONYzdvH5r4ft7nneCW1tt8CBw6QslNkuecNiYXL_uFOSICgXnJzn7sxzGutSb56kouorlwS1OhQP
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Nov+13+2025+23%3A11%3A10+GMT-0500+(Eastern+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=26f82462-4542-4298-b22b-067f0f31db36&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKRBL7hoGJ1iyQZNDleu_eseV-iDQ8JYgCBkkX5LaAuV6oJ87MGu1ueHXydvQG2K8GmHXxhjE0wN4u71ylHd6Ib6oPpDgU3unNUT47YcreiN14j8x9tPLosgdAhOh_SV0ulqa4qz-d1GYmWK9P_446jkhUIcs_dm1FPgdOraKeaDZ1j6F5QVhxoCHGlOa3zAiUioHNsBWchykkKtnlJ9G68u_kpxMLHYFbUaRzrwSjx5WJuu7EnJLXtmeDPgr3pT7YjG1_RpBIk2R2dKnWZLUe1ddMrzXz88Z2R0ezK6s7qE6X420yzLTOCH858wKsm7h5P-4Df1afxgeQISGFKFbrxQUMCJYb_Vkgbm4mx5HhOD2iv8mWprrX-WXlwLJWZ_7vc9SRAMUGIRkB6a83h96q00YHMDJ3pOgrh92JaD7_iiEWX6VGgO8yJ7-K7cMZLLHZnluFGtBaDVhyQT3Dl12KOVFuTkVvgYm2Kg-tRO0YKGe2I8vV14AGjlqmMMlhRJyhGZr7I_6qsb_RxLcY0w4Z74fF6ByJDEWxlN9t3VCKg3OKEGsWBAEo_NJaaWR7IwofoQdtHWuMl2U8hls24EvMKEZRKsEC9VKsTvdHT-ix_cj2aBrF3i9gxGloS3Fvc_7PwhcZqZbKyjpYV_T-p8sL7cORjsVoQ9zEmOwQ-PK_XpPg1Uqj-nPnsFMGb8NpxFZLZ9T0YBiIOCgzG9YTJpSGeoIHGcsQ.%26ch%3DAQEAEAABABQ4HVsYJcbgiSty3Db9Nkx9zbXMIAJONQQ.%26v%3D3%26pg%3DNQCGKVRAFNEMBMSDHEB67GZYGA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRHqMZ-C2Kvo96Oz8OSXE5o2rV3rq9jwFg.%26dt%3D1774254275746
