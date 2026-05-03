@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ZW
+Plan: Basic
+Next Billing: May 28, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: US$3.99
+Profiles (3): BRETT, PANASHE, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6Aq1p5GjxPQBFw996J34LVgaoO5oUk4hl2PVT4KRJM6zbC9IJT0tsV0B1PGFopSs-qlXC8BCoctQv-F56wLeTKLZ0PaGlTSVwk-GMwh5UbrRb3S7PrQ1IhdeBcdS0didfi_o2-W5WSTVoh8RDfOdE44FTmZXyj9D4eULwPaStzClOpuY9VQvuoRTp5umHdGTM-PD2m59FaRpPvrS4mNCh_xh66EbqN_pnBhuf9oG2P8ddmod_8hx0mSOXNLkK_qHrcPsdlGAHM_qYgJf7G_KFa2UaIVpc_oYNgXDtO0TLyQXXg7R7qhBgZtbgyIQd3C-Dvi2Hk30rjpy4wtvezzSITZSy0kTfUQn5GoU-VKIkKntO8J5Q4Nn3DHw94D7QVggixa9FGzifVXNsXWsPnGxotyucSV2CxRJAFwakoUksX2jdD0O0whB1e31v7DVa9fNXxwI3yz5Qe4g1VeCuGBMqT_BBD_6wwaJ52gL86zcZd9BJlxHeVk8_i2ma4hgGIg4KDHiwUS0ZlQSzWnf28w..%26pg%3DJGDBCGXS5BBFVMAJQ5O2NAAMUY%26ch%3DAQEAEAABABTCdDFEKKIo0_2IiSINWS9XT6Yf1jsrFI0.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQxuKtgaNH6A-u35lUA82vKIXIvIG_yldg.%26dt%3D1772903850842
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJ_5bN4a8Z8XwssXlSMZDClgwUuZa4af4D0nMg-_SgHBLaO7F0gemObzvH-bFfxKFnQhbJ1uRYWWx7CFwTihoiJMfKNe-nq8vnSLfcd_wi_Cv8YoBZJD3bIXplD-CazjhDaqBfPUu-Utb1kt9pDtTNbw
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+07+2026+20%3A17%3A26+GMT%2B0200+(Central+Africa+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7c8808b-2ce2-484e-bf05-f34ba3ad1845&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&crTime=1772907446501
