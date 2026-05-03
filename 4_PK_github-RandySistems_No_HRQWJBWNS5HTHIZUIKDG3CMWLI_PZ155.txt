@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: PK
+Plan: Premium
+Next Billing: May 26, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: Rs 1,100
+Profiles (5): Aafaq D Roger, Shumaila Ashfaq, Ashfaq Ahmed, Awaiz Gondal, Ifra Eman
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIVqDhl3MYbUM0M9U18o0yVg45ZiwoNOmJA9AB5mX0EN3zjNT51qjES2w-hTqbNd_NWif1ZI6arNcuclHpgT6xOmHI0TL5bR8DyQvKB6HUOTMYx1q7fUXKDtEOyrcAreeiBdgQDYs0OmG2QR3XydIl8P
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLRA16KnCA1b3g3h4UcdRfPRis3oVcvJ3st6Le9K_ffaHf4XJe9vVZsOM6pIgnlQ7shJhQKxsiS2mR85Sy2_Db-3TJtv_HXOpbWi2EGRGq7wnXq51OTtkE1DurnOYzDibZLxLzr9VHXOPZYLTTj4MPYmbpZiXRAvm3SR0-p5aH4aYz4qDVfqK6spvVEXcPk4JuupzLJalesHFwblM8xDuIVHoVwPwb3tKUxhcOBfRxJTiiYjK8x2HAIb4akaDwkgOYfd_Btg8F_IJeu0D3brMYkez6OFYvbqi7QSVDda7xXTdUNCQFPLR39v8OcxP1_k7XJpIMay_WMGEaabEZcaa1MDt2rDbe7fX-rVmCLXZFaaMQmY5AJa3LwxkB6F4RMcdnBluMvlE_JvKGuU_KHtn_L-J5sKwLiXsXUBjvCCfivhs3d39EiUig7DK0jm8RJ3XtOHfb7PKOFyIcXICpttOQlN3mMa5aG8KEu2mkjZPlmhxCoAm42jE0lxy2zmtQCcdEwbTOiH5act_VGabM_QwH7Q60eZzXGQkB0E-W-y9souBSSaeFOl1JZS67879r1djB1MXFjlHSxkaIRzRk_vDgbHWW6Rc3dzMNdT9vEcq_t6h9-wBgGIg4KDB673aZNMwGaX0zIAw..%26ch%3DAQEAEAABABTh5BRSZm4WJUPVS-leMd8-WsWTZuDbvfA.%26v%3D3%26pg%3DHRQWJBWNS5HTHIZUIKDG3CMWLI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Apr+19+2026+15%3A19%3A03+GMT%2B0500+(Pakistan+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=428d8e9c-5fad-4034-905e-a3b76c164d1f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1769087755547&geolocation=ES%3BMD&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT7aUb9_Yz_HJiWwlueBHigIJnKfN6BS78.%26dt%3D1776593941015
