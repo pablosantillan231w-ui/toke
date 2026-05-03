@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Standard
+Next Billing: May 27, 2026
+Payment: MOBILE_WALLET
+Quality: HD
+Streams: 2
+Price: Rp120.000
+Profiles (5): tio, han??, May, DiTzzzy, HDMI
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOQHgKicnYHsujVmc0FmtThgV9Q6inVU8ZZRK3Ngj5fn0P4hVlgyPqnue4y9KTT1ZFRct3sI-xrtzfocmA5tJNj28ilbidVttQlI0XLu92De9gaefKe4DOv3875OQCDjWzAsdWFPZhKbOy-8-rwNm6ew
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKFBFhSWY-BjJHXh_O4A4RKpAfycgpICIp6rVyzsGxLDqty46QcY3t3pz5XDSwY372BH7eS9rdNOk8RAdOOQ13GElixOZFlAb3-O4wjBrIjijLKEaeeYoGbSOUe3slujFjiIpD33ERoYT2nZMla3DCCKnWpNCHIViRy_bOeUnehNFljv7mg4KkO4pa1vAMtGj1SfCdn8gZo242FeB_i57NBnMg1nGvGrqK8WDYsBORIptb1CfY9feubB-dOKNor97_xbmpadINjgUT2OMXXGO1c42OM_EDRDbF62mPfZfoWXWbWCUZ6YzqLvqpZhyHKDVthpAkUDf14CYjQgUc0BNJPdGq4YrdGN_8KEC0U7CCgWLCfq6J0OHF_i7-E1PKI__aOFMLuVcTvFBA_R1LWsGE7TaJZwQ0wq-NKybpimZTCJA-wB49XFeAAWdYPD3OtaXxiCEH1McfGJaQWfLgKeARoPKbkQvMUp6nWg0bA_LasT_A_5HzC-h7HRHRDYa-_g-wqoeEBmKGBWK6buoRfzbHR0izqE5mnIEv7t64DlOZWt_-INqCA_fw4Xd7LL31p9FHjgEfQ_cDILBr4-Hr-TaGrW8HWDegJD2tenUMmyqerobmi_2xIWw0qR3HrjgETGZBrC22bbBfyerq03OHNuWYuxt38zreTcCBhl_Q2LtZxMPSq1OrlFyIYBiIOCgwWZBO488K_fSOmHE0.%26ch%3DAQEAEAABABSUs-p1JxmjyX9zkkfO9YcIj5sacjxC9tM.%26v%3D3%26pg%3D4Y3E6L4JSFCPHLSKSFCXNSIDOM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+28+2026+18%3A30%3A41+GMT%2B0900+(Korean+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dca1f316-a9e5-4fab-a6c6-639e6f1a26ed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773644263176&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeN0EMijySGc2GsafKFHe-SvQHjt0S8OU.%26dt%3D1774690287694
