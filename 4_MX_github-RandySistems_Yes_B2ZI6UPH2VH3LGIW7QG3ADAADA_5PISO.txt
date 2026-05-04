@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: MX
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: MEGACABLE_PI_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): Admin, Userr, Ch, Flavia, Zzz
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBECUjJJm08oUHCwqU4EFz6q5gZiTfNpAs9yfXbm2bfEHX43-XwLHwH8KkEASrtydRaiiX7MUixWloUpjvHx-3O69gXS94CDMFOfXIVLYXJXkeHsMTf-RSXiqXlS5DYk8i0EVFw5PWb1NszQIXbwUVhIGN
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLDAzASjrVV3iGBo1aB0tSnqI2TbJptWyJDgrTgCW8-WLbWKhQcFz8nkTRBzoVQggl05Ia0yc8jKWUys00cAARYEorB62ADQjCNUqmGTb6IjfNXYhkDZYVjRw9uqXgpK3id4qMIKI2yo4aEHHp2QlbCFi3syAtcPX2HqJOUZ12j036jjJpHM095VFV15L_GQYv8904Bd4OIzRYmJA9kQyz7JQIgsft8EoacI5xsmTBFAGMCaJzLojBxxwNhB1WSUooDZlPP4MPfVOGvdQ-MhbRkw5oeR8ELpGqdWqF7N0WOAzBoKwqMcRu7Ig8qRjM4jNMqVC7l8plVAS9lhlDtUh-cSQZ7IAkn2KGolkbwNNJXHEYn6as6vcY6puQ7gqov2DpTSQschNa2G_AaPG8XZFFiJQ2yAt4E28xvmgejorpYqmBHy-2dEV6WtL265HYFzFzT1ktjZbTZvVbMBfe9aLGKph3SuRJEBtNKvO1CPsMlQ0U2k96P-ecl-CNGNsGyFLjg52C-zqFvD3JAwXxYuwDugthAT_Vq6C17DX7EGk1PtiL1LweocJ1_BCrVGnb-BCoFzmbdfJ0pLUNs0UW0UXNtTzuVSV0YBiIOCgzRDlT08cLhDl3Jj7o.%26ch%3DAQEAEAABABRWpGa43SznT17-TWNtZVVSl9XyJUI1TWo.%26v%3D3%26pg%3DB2ZI6UPH2VH3LGIW7QG3ADAADA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTOsSX4IpWWUNKqCL6ZqpcgYVZ09JoJGxw.%26dt%3D1775321378754
