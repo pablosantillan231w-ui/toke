@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: DK
+Plan: Standard
+Next Billing: May 12, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 129 kr.
+Extra Member: Yes
+Profiles (5): Marcus, Lolleren, Pidaras, Mutter, Børn
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKbA2Kvz44bxO0kvZB645M8VRgLM6qbGDAiBl6QLhOsJGOyIK7DDFA_u90TOOsPSs7VVOeuuIZ366ctToIwnxpeiRg_3B74LXPYfj9SLSFAIT4l_iXZUPUXoCvNM2a07UaoCfyi8PPkC5j1Ex7DaswblkdFPREBRYzyGJyigH6pGYRWQgUfNd62pZPdntPj81vX0tK_JyJDqXzn10tFFyX3gCZW_iKLmCqcG6eNzBWya43wP8uTBi8X5u2M7cJNZENjdHmAshQswOynJR6-Vvnr_o0mzFrRwOacU3-f2Ks5zxOg5LIDD6hVbRfVt8gzQr11JBFMfpN9qQOyMY_p6srgLGWZezb4S9rn-xQ4KP5M-eHiw5uXg8yjpxUCfBsrJT68difs_8Mj80jg5T_sfKm_HvExNEYi6BdPqwinXMRBY_JcN9AyCXoEEZ1ZkqTX9Wk1_GP4Y-1VFBVEvFbIpOStVPlua_h7GJEH2rv3xrWBeOmNByjQC0Qy-FjwSeVUYRMVXGa69zb_BZiftnDafpPIjSTeM7LA89gYXbqy3hgGIg4KDEtIz7mOEZIxYJAoVg..%26ch%3DAQEAEAABABSAugBBtTH9HsPEnZqQvm4MOjNlaGa-Qh8.%26v%3D3
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+23+2025+22%3A39%3A19+GMT%2B0100+(Centraleurop%C3%A6isk+normaltid)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2d05f3f1-a0f0-4ccd-87ed-c8a39a34803d&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=DK%3B84&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQmcuh7iKRSnsJLPJVDLNzZQyFlNmXwNGQ.%26dt%3D1740346754004
