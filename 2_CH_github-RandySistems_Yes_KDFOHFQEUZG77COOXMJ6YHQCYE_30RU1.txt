@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CH
+Plan: Standard
+Next Billing: May 22, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: CHF 22.90
+Extra Member: Yes
+Profiles (5): Marco, Chef, Joao, Rita, Marco 2
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPYxEvfOUL6-L0OGU55nU7lgElNyKCjEM6Ap-hlvWJgWj60U9vqtvuPUIHpxExyOQn5jhUFMsvJkwWEY4bEO6A7AoYrPgaz2R1MpI3AhBkRARU6n4jeEe2zZ1OCcAklsk-hxCJRt1Lni2Dk__LqJ6tIR
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQyAll8Y5xYGQH37rZHkFzxLjBaYILvpoA.%26dt%3D1774615875904
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AhJR1wpM84XyP43vR4IY59v3ImJ6WZZTRPnbGPeN7t6ksY7L5nxS2MvFfVD7ifx1PqN8o2tXmmAIftmV_oht_cNzBcIcQQkjfRKWIiL0DIkz9Ebv5EaLzz0eYDQ9Qy7xi78Ao9P5YaZiVnXJhPiGj-oQKHo93pjUFG-ZejCaupCGTQE4BPqYHuXEymw5IY4N5DxTJrPD8eKSqn-yKybBuie9xyvhgqQeUENOBU3yM-i0-nhuIhMaFOCwXDQR7BYad4o-yHDkWy4ZKDza7b-wsFogO7nRhi16F3sZRcwflfN-XgCTTKtzQYvDLP_oL4m3GO6SRKWNy0ZCgZCmQz975K-6HqmOPCJ5ondw1r7Ar1Tj6m00g65nOq_H66Rfe7jfWXJraDFF8ZRAbrFFg6dVXhvHBooGDRN-AUAlceOImgVBq4ox8wlPhpIjYJ79AUHGy2rBJjqrH0WwufeSjmvbOhjN1PT-jsXhMSvR-BPV-RovNRDGTP37L6Pj9a8YBiIOCgwkF7TbIiMnF3Wy4VE.%26pg%3DKDFOHFQEUZG77COOXMJ6YHQCYE%26ch%3DAQEAEAABABRZrNPVBbMqlKvjqqCAR01COXSNETNQmnY.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+27+2026+13%3A51%3A19+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dabb7671-780e-48fc-a7d5-9e588237e571&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1774615879233&AwaitingReconsent=false&intType=1
