@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Basic
+Next Billing: May 29, 2026
+Payment: MOBILE_WALLET
+Quality: HD720p
+Streams: 1
+Price: Rp65.000
+Profiles (5): ibu, aning, panji, ayah, Anak
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELhnd7Z7ULumFL734E-HCuJg1QE7MGwDn1Hw0TawnD0MCNJ9GM_bN1dEF3f5FSuriWe_HX0vmdXmizbvsAPLaNr2zqPEGYL8G-u6CkXbmT0oUe0ddtrXGvZqwI6gzSet6_zcvC--ekVwp5vaUQjd6g-p
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLbA_0imo64DKf_BvDZq4Ia6Lqso0UpLmLasqJ_sckz-bAfxe3gkm0w3vadkxRFpBdCrkqycAI63F-cSQOsMw83367DYJJbGdRMB-O3GptlyO1GY4TjTPSmdlRFvLBo47sLbZW64ljhlwU6tJ4raujVwOkB96_n105o99mT6lfGjhBybhG-u8ccprb18Dv7B2ZkNVG0pR_hms5mj3guGXTTbz4c9KqjEyR7ud3FYHbOZIWG_cgIC3MWCfYsImRkDtoBgMpRLjSjYDk1P7tLWsCXVtXXSUfwzNYSxICSFiVxGClLA4QkB-7Lk6AkNdtlxs2Hqqr9b25pPEJRCdcJ9Lfxe6DN51TTxeI8Nn2k7zzdeZDSctLOoeu1tDH9cYt5Isbb2Bbnb9D4-Uf8oWfSRSx2vmTLwGzks2WuE1_Ex7JST3lMm5LVYOQD5T126SngDQVF5fS5RCk6lA6pVy5P8w1oJomrAOAGtTYMEtb3Sv0mGeFuwvPLxpS9NTLgd--QXeqyCRBDuS34MW7mpO3r3orNXtNTq5vrKnROy3E7JjHDJfIYN4UPzE6Mm2YeRo28dlPqvYNfcgVRVSwTgZkYX2FG8hw_bE-KaOGuUhNB02ffvK8wMVMmLkliT8qgcUUYBiIOCgwD6tETE9ExQIl-q_M.%26ch%3DAQEAEAABABRw6MJ7KPWgNOox8vjUJjCzkRekcMjqOBA.%26v%3D3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTeWp7TxnFIeP1wmsNURLlPPHDq8WYTFlY.%26dt%3D1739838926206
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+18+2025+07%3A53%3A41+GMT%2B0700+(Western+Indonesia+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f2859c55-3a81-4e93-a379-42f7c9f86a04&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
