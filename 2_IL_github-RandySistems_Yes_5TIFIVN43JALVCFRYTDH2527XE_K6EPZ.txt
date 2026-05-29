@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IL
+Plan: Standard
+Next Billing: June 25, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: ₪54.90
+Extra Member: Yes
+Profiles (5): OFER BEN, נעמי, סקוושי, סרטים, שחר
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFxlkja_LsYMHoBAkMX74Htg4lwrxBgsZU5k4r0TldkXRNTPxuI_MAuzDMjeFv9ovFMGFlsJns4ohd_jc52eMKsLZe5TkrUqwLropyekpUzx7IovSSoZVWtE1gNiwmBItHvlB2We0AO6V-jTqJFVabgV
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL6AnTcusffwfKb5h8oBBupX8IZL5bYcwvuKsTjlDm4okZ_Sl6m2BhGD14jozEp-ks8H6oXbu47Xa3FAW9yCCAbzSjY54WjiK-rIr4QhgjJTTQOw6zS5cYym_r1WlGMFcPU5KSRuvuZ7UZ_HuhFW2pET-vk80SDcx2APWHPM_bLZdQHEXXJPqDcMX9SFA5z-CulejXd_D38er1Bpa1hJV3I2aMuNRgBH474O-M2xyOh819T-HKMygl18y3wb1ranY5N64DRdbGJNEp1bL4k5F5eyeqdNOyl5mU9v2qbaED3Uca75QKnSEHS0CtY00rlFDALDYCuqWy_AgCRaC1drORYQx_RoKdZvHIU6rZLiKHPkMcfCS51yGUCAH9rYtUPqmr2wfD1lxZ3IPEmO5VFBRAM4qwwdT3xHZCwAropSj4nIdeE1_SiTp_K-bz37LwvF6RfcxQTvdpTsCtsI3nTlejawwag8npa2zVwujwVh5uowoK1v2Y3-2dUgr6CcxgGIg4KDOXOrX-8JiQvfdGhrA..%26pg%3D5TIFIVN43JALVCFRYTDH2527XE%26ch%3DAQEAEAABABQfyjHD7CqfbVXyW-NXSKTtI0XpLN2atKA.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+20+2025+00%3A35%3A26+GMT%2B0300+(Israel+Daylight+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=66db6c8a-1b0f-4531-8096-4fcfdaf76b26&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSv591oVhj73nDQamg8ukKZEfo9bJIsnKk.%26dt%3D1750368923281
