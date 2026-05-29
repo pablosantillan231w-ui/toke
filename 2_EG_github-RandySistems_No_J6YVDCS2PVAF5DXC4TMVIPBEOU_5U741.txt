@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: EG
+Plan: Standard
+Next Billing: June 15, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: EGP 170
+Profiles (5): Shams, Luffy, Bahgat, joe, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA6KhGrmH9hVDR6idoDNAedeMcpim4mUxdORvJbW0gA_D2KSkBrc_JkvBOcb7S247YaqV0o6U0gbd02xFVcTWMxavftrt5unodsFRqpE0Ovp8MPbihXz5MVBe08w2hIt_I8Ee6jpAiNa4Z1QIGvYEUBAzykVH93fWDP0tO6dw2SbPTGjwc5MdFuJ2WJI-b26745eQoybQhsGIX0LvtWymD60kKeVMm9kqAGRFiw3iBcvm0D4RqnLO70-gc0Y4aeRsYUZTSLjuyUWC5YmaqNPIPxacc9v1xQ8A55HWAh2WJ4NfEla7wf1eyjjNjlsBsncrBUhtYGsfTkGmaeDCO-yfETrQOsNR-agFIJDAsOEk5oHuAevoZttFhzCS-OtYeuiMQmhsueloiAbynsUOWoiuKX7pVLahotL32cPGABT8oMnyZQYEMYWqMOB_G0TN9azaGgS_92T-9b-RHwmxnlaoXJ8zwGxoT23pW2s7ED0VrK8F-tUPVfx1gMN1jGZ_8NGU34po9pkFGAYiDgoM4O43MxF-GKwlhjpa%26pg%3DJ6YVDCS2PVAF5DXC4TMVIPBEOU%26ch%3DAQEAEAABABRVNQrmcl3vNCEtLpAfU4ruk8lVTrDuOcU.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+05%3A43%3A03+GMT%2B0200+(Eastern+European+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ca1ba2f6-9577-466a-8261-f9264f841b69&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773114163568&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRIOdT6wmGsg9KPTUGskYQ9cT904i9x5rM.%26dt%3D1773114183602
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKqLxUXuWzsY-U7tfUBBAzVgD3ccD8cxwVhua3dImO38UH_mQ10Mvo9bcP8icSKB_9rcC_G37yfCYZXuvq-w6WXSbDW843BeQADnRYjBkihwJkTVNbcpCvhfm_TvAKGTLXjblshvV08gbSsBFMXrjSty
