@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: AR
+Plan: Basic
+Next Billing: June 11, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: $ 8.999
+Extra Member: Yes
+Profiles (4): Sol Perea, Franco Carabajal, Juan, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL4AsNQVSaoSBj88sHC3nXenb2ZiqlAz6wrO5JO6OQVGFTF6sUa8PRnPC_HLj-bvYINq31cwCy4UdCtYiOAIUy7--KiE5TB15pBDHRNHCGmQNE2P96tQ3Vp4Gtx2HR5cgy6BujafnZBJ5FlquvLqFQpCzo_g1If3fIRgXJ22Uc-26qGBT6vZcaZBLkdIO-9HDDK0oh2ckGDDcxRF_eBHhmPDmn1bUCl0e_4-hwfAobJKI8PO_YF2ErizM8Cof3M-hFgClpsU9f4-30yOZUBArufKL6xD6tSHbWGeGzTKxaXXAyNxvdFezG1vO1fzTnfO28aDVBULTvjXOZBvynIJWxbeop2j7KJjIily__jMJnBAXQp998n7l2DdcpiK5y32TycKbIWJJ7KEQEf8AWhMc6pwTLM6ecne1_SXHstzV7p48Lq5fvjffUiMiPFWJxKEMVJuTI06hdo6cxpKcsNlunsJpNW4FZYV6ihO7rLT4MHaVH796CMFPG_2EIYBiIOCgxrFL86cOwZpxJ1WWE.%26pg%3DIEPNLD7XVFHKRHVWZW2TVGR3KE%26ch%3DAQEAEAABABQKx_9plxJVtzb5vgYjlmCEUoSmnRe3wCM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+16+2026+17%3A51%3A14+GMT-0300+(hora+est%C3%A1ndar+de+Argentina)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58adb087-5064-4773-b03b-c16b505215e8&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771274514377&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRGohqNcqDtMub7fFwLverRBHuE6EGv-EM.%26dt%3D1771275073008
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPVsS7YSSPJlM2lfvPWSb8ZgLeqxJ7hWWzkqNsW3uJjqRKbs_BY2M18lpJbItXbAZQseJ79uFdyL0lcOClSyXj-GwFJs6OzORS2a16MXTx-wrAG_XCtxwXjcC_UwktH34A6-JWa6i7GN7RcO_56doEjO
