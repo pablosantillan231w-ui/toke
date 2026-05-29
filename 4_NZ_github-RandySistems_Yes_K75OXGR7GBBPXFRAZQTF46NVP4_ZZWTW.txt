@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: NZ
+Plan: Premium
+Next Billing: June 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $33.99
+Extra Member: Yes
+Profiles (5): Gagan, Aarav, Yash, TV, Rimpy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBYmh3e7BGEz6VtBtda0Q45grrvBGdnEtZaZDNR4JO5bNQYjHzN1cHmp1cN0YgmQxY7fOUgvk8LzR3SJ9RtYexduKiKoyAv5k-5sxUmro5uWNP95HEa7KJpiP0TgVdHcAV_8xXTYkfplfQCEixp36US1
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLRAz_ve6OFGjG3Xy2RXCAd7uhM4x6IAOxSH7SMK5jvE3jxT4wSIRQdCGxP6OmrajuG3SOdTGC3AK2ezIbfE-01XYfOgsuGaet9u5dtudcyDqwQJSJcI5MA4qnwLZEroiiWpce3WdU9z9VUNqSUBKKHTgSvEwXzdO7Rnf4cSKyg9CGmDAG30t95qZKDNzUrAgkhaMXDOJ_EaDH0pkFqMx7CnfQK2MjWiXDnOC3Mu3_lrvhvf4UPkQ0ui0QmIVhDyLHZauoSMvju6acpmSShoEf2dr9gbG_HylGSXnlOoUJ-ZoHD5VLw9TVZGX5LT_IK2zbkouY-0W2NXOSi_bXVtrL7XdrXmbbcSTyNR0X_SP87M2VbYEBX64ldj7BHLkuIg5iT18vpWbQWLjMDKv5yjFgzBsxMxcSI9thakdwqseUmvhZhotfPtxj3IJb5k5486q2Q2_yZ91KowFhtZYW2DE2Hfb-G1Emlu_bPoOJ2yiekvJfBy7ZOXGmG72J0lI8ZzMR3PlR3aWh1oqTL8DBWLAryhktS-C3Cz8BwbRnCaeIvKSADkMIAn2u8EV_QhI9DB6ER-NIzxcAGG2GK2sY9Ub9tpe36PxgVcw9oXKD0c03-cII6cxgGIg4KDC8cPlZt4gmAa1aVRA..%26ch%3DAQEAEAABABQr0CKlotoGP2zW4MMmfuKMTs4j9p2PCpE.%26v%3D3%26pg%3DK75OXGR7GBBPXFRAZQTF46NVP4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXgg1-bQlIZNX2nRnUcKH0aNMTImkX_ao.%26dt%3D1767869446287
