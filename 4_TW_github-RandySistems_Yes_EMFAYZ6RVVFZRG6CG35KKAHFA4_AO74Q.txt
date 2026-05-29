@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TW
+Plan: Premium
+Next Billing: June 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $460
+Extra Member: Yes
+Profiles (5): 黃淑芬, 老, rano, 黃如烽, Emma
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHGLb4BH0KAm-mmGBcCKnMZgDYsBsvKic4gY4EBzSPJAKQf6HHpReYusk4xcTfK9Wq6py9BHJWjo2jf-SVEQVlYfz9m7X5N9q-x9WLJoRydFikxy2Jz7mLGOi4DLhqFNzlzunSoz5m7qnojl06apLFou
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+25+2026+21%3A09%3A54+GMT%2B0800+(%E5%8F%B0%E5%8C%97%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93)&version=202601.1.0&isIABGlobal=false&hosts=&consentId=322811b6-7b29-4182-a974-bf56e7aafaa4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKFBAf_SjXEeIS_CcyRywdsHx21bl6Sv27f-rcGAoRnuD7vXSZlvqeClS67-hdkjeAPrE3vsNe9eKhWhEm-GWLxcYUJlOSnIvCHMoLt6EqOSTrCf6Q8lmcjTNL1WDLjhw_mfwj3qF8Ss-LHsLC7XOjNGnyE2kox1spZ_ZgbRzAEopLeX2ub7vRWXerUel5BpsLWA1n1zzt7BftRtEhb9tfCVTx7N4Ln6IhHiTG3hAYBbXjwtgdKcCI3UHe6lrKoY8u0o90wUiY-oG1_fOJAqvK25VRTf4ybM-RgTzd8inOyOGtyXLeiIeGO_rZlN1CYHhsdiVbPc9GOgHEMIerdgAvD6mXVohiRnWJMXVJEirQBOwAr6wdK9w27S7nMFTaDBQFTQFn48W7GA9CweOvp9a1Y5yleuMj9O1WQkJVfoUxvDlU4e4FKMboPgUnCAeBimcva-HfMPIIBomaNg7YlcfW54MOGWZ5cR0XoXBRDIKunROwET-StdrFlOnrynp4JUwgSoL7i0rMPxz_Zxunje-OIpPj0xKoAcR2N_6v24ogK8rnmBCBNYpqMWv9uwBielE4M7ThTccDYT5JpO-3NIkUv9jxc98mkcea16shf_ZSZ85TblQe3sa6wOV2k_ViYsceOnIouRyrtg4gGys-TKe2Bm7lXP4ubDGaLOFRepGLZI6MFFOTwrIIYBiIOCgxqD4hRKbr3qnzXYwQ.%26ch%3DAQEAEAABABQ0AW3WgY9-nZnWdHBSC0fqh9tPiIMXa7I.%26v%3D3%26pg%3DEMFAYZ6RVVFZRG6CG35KKAHFA4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS765IotBSNDXlO-9dYkHPnlo0JiEi9fE0.%26dt%3D1774534808449
