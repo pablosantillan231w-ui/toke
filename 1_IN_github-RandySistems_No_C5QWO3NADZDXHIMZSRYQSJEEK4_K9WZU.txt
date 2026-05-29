@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 18, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (2): MANISH LAWRENCE, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEG_o8K3HGmw68H8ANGl-oW9gYL46u7czNgJGVRvvdHs2R3CCVnITqtF8IJM5LGPmj3n2o4o0TlzNk05xyOVbjjNy1mEauszeMym6DerjEkicWjeolC9vT3kwe76HdrA-oCLxcHlYsJjoHQ3XRW5AI0kp
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Nov+21+2025+15%3A29%3A56+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=41324598-08b1-4c47-bdb1-58f0b585fcef&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKSBAJ39Cbo7tjm5038FFpZYd6UirJiRobHX05ATXUpSpyXY_pxd9UE-mEB0roJm7--v9Oz3x3sa38ThvjnFWK_XEBlLcJS4-KyFHrXb9yyjqkpN3tVyQ9oYmWn-iacLmldgMdyBpTA9s68fBHIb9IGuqykakTg59v7TVvMP9jPH_4k8rSExeO5DsEKEOFvpN1uXvy1jLuoitgymXbFvtHVlm2in5TVptf0zGxPu9DgJauvCRp7ERakaMbA0A-NOoBjLKPlRddN9f-29wL64XmPjhjZqAQjKaYUiFpdAzlXZAmSxnGqjLMhCqi16cozMNhR6alKIHAB41HEXizr-j7kdqmixbrjLD-Cv9lA-UNgwDRKgGFPJvXXabSfPuA7nneNDLajJzcKiFtuGwi5iVeYDAcKOg8t588LUx4d_xRM-_f-bi0UatHNLXxW3eIk02Wa1hVoMmJ4RVO2MP-G_X7Ou7xAMTat2Hv-SORNSB6WlwhQHIe6jyXyUT7Zzcqh_j-W4TuzymBwOy5iLTeuXyVIV-FwISQeVo4jF1Jq7C_o3-CyIrdP1Yrp9kdF06B5bPlJOOHDZJ5yMAN4lF1WmyHzsaM-QDRCfUcTNczChrswg-kBSvnQd_5VrXpLtPH7M8NRsYBs3YZyf_ga5vwIEpOkEse3lZRPa-Yk0Zx9hF5tsKQ-LuCep_1nhjpeAELYRS396ec3GAYiDgoMVq_Z98spxYYwVJUL%26ch%3DAQEAEAABABTPSResRO6ZXNDovIhEfr1JzzDEldN7HcA.%26v%3D3%26pg%3DC5QWO3NADZDXHIMZSRYQSJEEK4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgpw6rkG7fnerqRuD1jnVrP8a-cixQNxY.%26dt%3D1773068171381
