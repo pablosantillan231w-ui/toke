@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: MX
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: TELMEX_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (5): Cesar, Cesar Antonio, Rosa Isela, Diego, el niño
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGxBVBCTxFconDQw0c17B3lgQF8R586P3pVpajakHTp8QxxvJONa5if-CSej-f4fwQUO1EvQmrYmo8F_u80pQZq4-oOS2KXfayjGGkfBo5n5zw59KlDsl6zCDZ0GAWrUR2eBsTtpdWpCbx2widoPilTr
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaAxetulGu_f9M_H2P-HSCUMCqd4QEYMjBnNv-2mvbVB2j6rcAUnUCePR1zlPk3DD3WI_XWKQf1LsEpU0EADODzL8CZvDcrYPb6IP8PKGwWOaBstHti8-QcQuqGCOj8VBnfYwoqwUiWGzH6DCxrcd2yUouGDckNxi7njD7ndNvHj0n_slmz0aqm7Du-_ZNN_0BRRRQVfsHhH0YUwfInOfkyy02W3Hr17xYszOOwAPrlLmEw4nNghL0j8568-PL8urEPLxqNYwVvujQOFj8tBAh1t4HrlG-86xgQH5jW9tAHza_64wrnjH1EpWmM1WQ0_KyG9Q1oVngvNhjHHIwIbeubHlV2E7TgEx9m0EBdbu-sPPqyg8vRxYD5tezwk3rERHTUWA5nniDG8MeMy4J-CxaqbK5lKQyWo87w8c_Logv4cHlWUUdnM5wPLWilDjIwVgHl0LhhwUk0GDiPArdwEocjYrlIXj78th0FQ-Q4qa0-GuTQGRKLpFtCnrwMMqMK-jprLBzjazSxjzny8Y_mXOKUYB1sw2C7C8I-h-qGAYiDgoM47y7DsyPMg_rTEit%26pg%3DT26OPDC7ZZD5VKMRY2L2ON5QI4%26ch%3DAQEAEAABABTUjg26slKGKSvbL_Ip0A-ECetHxejNwlo.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+07+2026+18%3A31%3A17+GMT-0700+(hora+est%C3%A1ndar+del+Pac%C3%ADfico+de+M%C3%A9xico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fce16813-38ed-4af6-8968-5cc5ffb1ce6f&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775611877981&AwaitingReconsent=false&intType=3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQbElSICLU56D3ZxqNlLf-a09FO6xrmoEE.%26dt%3D1775611868488
