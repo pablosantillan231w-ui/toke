@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 30, 2026
+Payment: UNKNOWN
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): sanjoya, sanjoya 2, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENkKcMhbT4fAqZdT6684Sptg8D-fq5eGvEzZLNnCJ0YSqGOTvf_-PvDxFXB7KLSp_5xiEINm2Ij5i6Gbwjyi8q27EHadyLE6mKwbHCtQB2IjRCBvXitTU6qwQYoa8V20B33TQvlcQzaRUwDY5WNk72cD
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK7AyTGXXcMC3atzaB8YuMQlIp5qSlI8ELTBdoOco7H9y__69k5QfnXs9nzmBJTP8c0qlQ8XzLe5p2gls1Dci4Xh5c-EysPfEQsxL91Q8AScn7kIiK7eJB7AjEuS7_cWe1x3kTqTVUL384vpZLQV5mPrHUHwK35zsSW05DsMplQlOfa_O0NOSPGmp8BT_JBAYJpAHmq4TuULcpRl4pTZ27NB16kbbQ97qIHqV_V9DSyQHJoRQBkMyKl2C1M0R7hpaLwKDJUyUe8QIFPCUCs4YnYH8bjd67_zAlrzk8ey9fulBMtRPVddz_epa4-dcilaJQD2pHjjZal23138Gnn2eK19VFsBeSUnebYb_I7XcAozBAMRRD8zBSqmWtk1WAF-pw6M7FBcph-FdjUNQ0A7196_ILhBBgEU-o0HSym9iLChUfwjeo8IrXX-MEFdHplc5rOUZquzFTvvmJM16Ak8nT47ShNd2W87T6g1kaLTvQMe1cunrcYvJ4zlUsBjb8FL9lfp2WwoZNgAn2Xo0JV57Fh-gOglkkozWz7a4MSvK_JMPUnTvF2oWzBxTmB3clm-DRBIsaZD55KblQ2xrwWGAYiDgoMrwGekcwZb966s1En%26ch%3DAQEAEAABABT2CerUF5K10TZB6Dnw-yIYGGmbaK1-rFY.%26v%3D3%26pg%3DJBGE6VU5BJHWLGOY6LBEWSLAYY
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSQZaZA4O61dF_3oFmdqI47AIV5_mW-TfA.%26dt%3D1763146605207
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Nov+15+2025+00%3A34%3A39+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ae598871-9fa2-4823-b4d8-b6eb31beac5c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
