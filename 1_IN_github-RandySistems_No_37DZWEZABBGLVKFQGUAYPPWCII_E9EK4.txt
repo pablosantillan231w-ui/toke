@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 18, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): Dhan, Raj, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+21%3A03%3A53+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b480aecc-02cc-41eb-a3d5-73a63d6f4458&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIt9OQoPm6_zk419nNVzej9geQpzL0Uz0kRIFvnTFzQ0GPVPEk4zUYoNew2Z_IqA4y1cJTz9sRx1ppeXhkVlinjPRpuwP2tYDOqZMUDxRNB1BKqlRWHxT0mFlWxFZ30sLXUzvBHl_K-_iKYP3V3YsCJl
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKCBItoo1VM1grFuyZbaLtQ7OAwLzEGrnTLNl_utAoLh8lOjLNrXnzZI-ov8WXgrQu-ZLnmvkaVliTNlipI1DSrdgt1rQeO4UQQM2eTR2iY0eXcJOtQMM7qvmBJEmUPDBwzNj2MKa2mmw3gVFIj_i7EwbI9bU5NELzf8N51ew9mkTB21f8KOJ4P0kG1vwRhql3E6E4IT_QM084DmjqHnSM6S3vW4xEyx_JomTeF2LF3HgFG9uQs915zW8qjDZQd9RI5KZtn7fKxSWW_vIq_FWIUy7Gt7PgAtCSXKGg27VOZ4AX58GFXS6YBzZ0zn2XXnN9CtorUJ5N4x1bGFQmfzVAjJM0ItsVRe2Qx-1FGq6cZmPphBy6J4ASUAxx-fmb6NfmbjOYv3mgCASj1-f7kqvqPtXGFFG6CUUR8cAA3iTX2eIckz_0WLCg4idWTgRMJseNDSCWg-4RdhpXla8GFJl2d4pO8OhAdFyhNtH8QO6MRIdyU7yi6UQusBT4X1IWxUHrISTd0OmUGKJQhjylVmR0aV7oO92CHIf3oAd1CN_EG-tibmEPpVk1IlARMBAFCPWcj8v9Mzt-Mp7CpKkUmit4dU7jwmetFEsefVeo1oGCIevD_xccgpN26-HzrOEmcpqUa81XtHZpTHwyS-uwtjyq62L3NB77OFh7xquTgSxVlLQHHkd4YBiIOCgzUKXDud68NfLw7U9k.%26ch%3DAQEAEAABABR_37VnEtxngjRpPuT-D36wnPs_RioUM_k.%26v%3D3%26pg%3D37DZWEZABBGLVKFQGUAYPPWCII
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTQvxN0CzEdt4Oc7NbDvTvcGJov611v1HM.%26dt%3D1774091631828
