@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: June 13, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): keyur.akapadia, Prativ Panchal, J, Snehal, Vidyashree
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+16%3A53%3A15+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c84255df-64f4-4999-884e-875f69626f15&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEA9PXBjkJwU1dhaX0FVQjHtgViF42PJjc5cPxN26ryd4F-UhzHlhPZLEBDXMhZM1RSxmQSu38Vq9y4ablJD_JjJm885TuuGQ6WEr6fg4jId9Npj3VonQJY3UoCavAIx6LkSDMwlrJn6cO3h9X7vIZk05
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKMBIuscBk82BZSA5P9xCY85x-6OF24eM9t5vf4JfgIkli5bZyuhLMln6qg93xhJdDr9bfMGOEDCT1uKZ1jvYD39PrIxzZn_jCHD6LA6FPRu-lMbI0lFrB2ojKQ5Vh4FYNFPI5Q6wLhgR3LLsPq5nLzH6T_LV6KHlSPTicO4jUFLGAXhtV7MFF4H_CghOJn200hqTq-_AGv6K3alO5kYnHnsh_9ZC3ynlZFBRs2Dpzt6ZsPeOAkNkVKQgGfVXIrJKwo40gv2Ua3zZ5_Cn7zJ1NbeUENCaXnoEswWTaEaC75EfHxXk863Vd3DPfVwJKYcT96GwrdF4o7AEj9uA9HQBEcfPVknHJ-3ZCihFIYX2A23gybsNdrrYT-KsJ3P4PNH78W00AKhGowC_smXd_25pOOdA2mLxTGFI7BDjtOdhTSQq1vctTloMDPIXJCfv1Z__aK5KwbyHGPA2g269xoxYJJPkspNbFix-fOu4B-9ruQ9F3yBHnvwom9EbadGByjIQNg3l1yuP9aM-B33-8mOEw8hC1BdBXEIYdZiOK6X-nsAZmYhq2O40uk_xtYHe-j4JlTtEtbbwVdlrikOmKpmUdQzYUb7BsCMiZVKS2F9R2AYHfHnUOOCEOKev5l8DKTmBxqQo8mrwHZ-4unCp0ttL8tkwf1pHxSQUk5eL0WTdF-Ei2OR5Uk6x2qcy52IY7IGAYiDgoMH9RaU9XzxQiVZYxf%26ch%3DAQEAEAABABSYwDFulidutQ54Vaca_r2ukDmNwX4heWM.%26v%3D3%26pg%3DOP5NIGH4U5HE3BWPXDLTG7HD3E
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSX3iwbrBpcL78BIAZ9cgo4_AH5NIC4hjA.%26dt%3D1776589105921
