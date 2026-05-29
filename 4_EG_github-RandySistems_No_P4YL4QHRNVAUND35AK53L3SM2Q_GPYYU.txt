@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: EG
+Plan: Premium
+Next Billing: June 2, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: EGP 240
+Profiles (5): Safaa, Mariam, Ali, Gg, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMz0KdNuBQ8as8sbmUZi4YNgR7nEBbTbH1lcKZfzwOUDosGYW2EVIPBevO9M_ZKtS0I_k7q72yk5vnsFO0FebNfvIpt71vdl3eH2cxHfNDhgKwELbzzHCA6X8c_trjRygMHDcRhmyghkpEZ-uKy_f8os
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLGA2sMqNTL7Jl0uE119VjV5qi9jDsSPcN4bdvy07PLEOsoqL6caP7mlKgkaLW5slB6670OV1TPrFg4UTcpEGi8dHmu5oNFmYPuLIk65LhUd9FSYYowssi_JBaRJ7cvef9P-mihrOFSAd_80_aiJiBlpxLyf_GNPJsjRHkuRoPqnRpSGUcszt0xeNMKHauoyShxjSdTgwMI2DgEKddl3D76kSYS26kaRrLKRqxLCyo_wu5ZC-J9Gx5hDKpW7Xw8ZLn2QILuDlqarA5Pn680E7ffxeS454UEr7oR2HA6_BBZBI63RrHet7VPbqvX8Jd-SKmOPWBzyjoLfo3-yqtFxBWmWdOPQoR2wOUs7M4A-RlKki6FQYxy975LFjxvIXKagBS-h_tarEjewmXabC02UzGWKTLze_u8sUMDZq7bQGQ8U1ZMIrkCUStVwOVBB5N_PEglJlG6Qe2XRuP05G7wGEICrPNF54-JaL0hKTtwzu8nzev3zZEKr16BIOtuMO3OCNi7DIuOIql4GK8s9qTMiQ-TIKRhUs4oiNUX4z2PQO_rtgdz1PtoO8hnL6Refxr7b-lH6GsnNZPV2zIlfO3fzVrgj5rirmoD5acYBiIOCgzWVNV6aMwsysmipe4.%26ch%3DAQEAEAABABSk1wnqgru-Cd3xwM9SgfTH-saZzTE3S7A.%26v%3D3%26pg%3DP4YL4QHRNVAUND35AK53L3SM2Q
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jul+17+2025+13%3A07%3A51+GMT%2B0300+(Eastern+European+Summer+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fd86829d-424f-4294-a8ad-a656e784c2ed&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ7z2YmcegBTk_BwhZSCFXvRAqTp613mmw.%26dt%3D1752746721777
