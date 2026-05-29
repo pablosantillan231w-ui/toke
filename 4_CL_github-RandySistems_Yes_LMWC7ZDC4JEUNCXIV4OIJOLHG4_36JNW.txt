@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Premium
+Next Billing: June 1, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: $12.990
+Extra Member: Yes
+Profiles (5): Floki, Murra, Ñiño, Josefa Lípka, Caro
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDFMWTByVLjpGsxoy139m9Bg6nlGTWe84esWuvixBq5_4ZtM7FVUKYvCVLv8aWlYBCZNH6tBXGdmf6Y9OHIXntMYIAdfnTwrTE8IrmBcldZDIoJ_Tn69_9h3PQhaQ0070nUGMuVViMmpBWcHHHdSEaAL
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+10+2026+00%3A00%3A06+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c674d47-b24b-4415-961e-34fbccca292c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLjA1hx5tzFdcn8YORBQtuf08af7GD4QDAwX12LpxE-nWf8BB4BaNYv5f2KGKZP62vPzRQUgbT47shy9-TBVfeU5g879rd6MCu1MFBk5_HOkb34sUTQj1LrKChqlYJR0jLCcVh_rvpRTIXyHbcgMLawYn59UQZ0KfTXTBjDaQ5eAB3SqqEE6yc1WN4t9UJcMCKSifSu0CZYf1faYaYSYqdyznPNoC7X3s4T5cMBte95JLlk-69LFwfBfUWC_-UaQqQHe0f86g-KpwnYB722K3kNicNoHs2TA2fZWps3ciZaE4izgyY9SCsK6j8iuV2GoD3tvRqmUUINYAvgGSCtdJn5zLGb5CDEMfesvoSbRAoi6lm4mDRo6HAQpW0x_2VMXz3q-zgJ01QntgKrJmqMIi6zenurn9RKoPhGsOGQEtwoKMj81nZHFvtILZQa7SIx016zEl8sUV3uydMbfMZzIXgISvg_uKiGZRzYWaEdZjjkGi4aNimlNd8LX_TVbpnR5doIuW8ciZENEZ4AgWxhFTlLuPSUUirw78KggvEjBO7lnoLV-nYhRCyHLvbTbzrf3EZQI9g22sL9D2bO8koYKNEfa3lu9abJOGv1PuSABA4AT8BjIHreiaZkGLquM6VbIfXGOltn8BgGIg4KDKYR8GLbQkeIwDQkYg..%26ch%3DAQEAEAABABT8XJ0Pg9CSnvNnn5QZBpxoxkUAfFH5OPU.%26v%3D3%26pg%3DLMWC7ZDC4JEUNCXIV4OIJOLHG4
