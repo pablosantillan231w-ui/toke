@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: June 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (4): Manon & Thierry, Fanette, Firmin, Émile
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBEcGrDvrc0qf2qcNnwVEqxggjPXSkSzQR3TOlJuRBbQ8-QDWKKGkWoNSf7iy5L-OoK9MGe7Cj7btTqd76eLqaH1Snc7-pLgtZ5soXLuIiehkc_1xhEm0Tptpz4GpKRwh9tA1UuLveFLqa6sYvpEs_ej
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+22+2026+10%3A08%3A07+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68c524fa-46e2-40cf-96f8-a73f2cea8376&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKQBE99uEW8lb8DzAP_NTI_BPZeRg4B6NbrAzZaORgqYdAZx-9_GApulmrkUImiXelOnVv7CyuFGaJEoJlohPN6KiSlQjmKPwtsJ9gZ3ZaMNxxrzyYgYELl-19AAqJamh2RAfXeW6o5ZddksWEywjS3acwjxWO8OnqnQoC09_7kANjwDaC5GBGwSSC4PcRWPkNs-2ZGNksopK7VIaRplNAjfeygg68raxdTsIWxFqV8DPUAQIP-DWPt1vGwktVevQ7yCykb5FbADqtZ_NhDDNbhTm5TXi0xxhiOocpVd3OC9TpiUmlbAAKgt24ipP5RTotnYY6MPnYeJgz78bEkFZapQeVZr4wScGRPW28q2dQ8vVMb5_XBxqjHJn9DlUyrtEC1GTTftlKwPWV6c0GHhm8hlIgDJgfmybQqvanO1VRJVfRdFILwsUL3zcBJ3diaQaeY4Jod-svUfJmu9F_sknjOQBOxw5095X0Hqq9PGJ2IonTk8mEj1_GUfvwEk0t8cNFHKg5DsRllu3GRe1JmEKs78vszn-2OggmeZXfWBUvdswLApo-_51lpeVGA17i2G66Z8Pk8GiB2rZn1XjMbdUZUGPnQTkPUBEGOBh2VoL4l9FXbmWWW59x-N7y-F9aafHRXbdi_aWOJc_h79KwVudQFCLAWYGlvJh3ONjihPhP1hs3yU5AOfmA_JvravzSenGRLmxgGIg4KDOqiCL0pjxNTUoK2-w..%26ch%3DAQEAEAABABSmXSmS36UQ5r19JZiUtfv8NfzICL0XM1E.%26v%3D3%26pg%3DKQEP7QDWY5D2FO4RTJNCG3BP4M
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSoMRLbVcdzLQl54EafS8GkIuD-rwy-wio.%26dt%3D1774274254268
