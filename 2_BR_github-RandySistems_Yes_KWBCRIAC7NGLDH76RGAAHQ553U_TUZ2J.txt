@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: NET_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (3): Christiano, adam, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFOu-CSOgTqPQS9-H58_grhgcojnCt6XSl0a5hA4IxA-RyyAkl_EGknMnHQAs4KDxvxNcpf3bGZC_YMAuGnlhXDVai85rIG_xw0-uscp2VkQUMLEL7AoHDtjgYdSBZe6xWbSGWQ6v57DbZvdNSUBDo5m
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKzAxknYUXABl5aaN94lqIdd3kR5ihYueYH8D8LcWx70iQG6K08jRX8B09v-cXyJlDmwosFPrY73zIM78ooAOmQvq5UbdufdIo5UxdWdYZh__AtFksKZgXT_g14UxDlK7MMedIBClSbKK1rF23r9AcVUmJI4UKiHcXjHYHx4590PYiYdTP9W70ySBtdh6ena4p62LWi0D3nDsXFNXJJI8hQmgA98vFywJ2pKZ5rKpFN7cVFS9IeFaqkv7eU8zcZ3Mq_bEIwLXCLC9u1xNDMfDY62gJRCoQMN4jnMZPux_Kty3BZVA0OZPI6HiFjPAWqZNomibxWbonniqD0fLy7stY-ocHmj5teRAiw8SFoLqnk_FvjEX71YWQMBDwId6kLWDXLsOKouXHp4U-13Y4O7j7_AP0Di55rBiV_7hBrss4FSP7VE51KnFdcnlU3J4EjSCbRE8KP0EIvHDyD1RJSnu-GZr3kfJ93FiGgp6NAbvaL5Y-QENdYpkxQA4_7_Sy7uaW2hAn9GF1ymnksEO4db6VRIjOBChze3_-3xo-aUhNNVN5_2vmki9kpha1MYaR4vksY1Nc2yBgGIg4KDBQfev6qNRfuuKKCQg..%26ch%3DAQEAEAABABQLnaQY8VD2joxjHQfHzEZSwP4fvPEYm84.%26v%3D3%26pg%3DKWBCRIAC7NGLDH76RGAAHQ553U
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+19%3A57%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=da17cbb3-5aa8-4569-aaf0-a609bced83b3&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773787499327&AwaitingReconsent=false&intType=3&geolocation=BR%3BMG
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQN0fPO_wZQVsmzaGiVDWKWqAbxSTMshtI.%26dt%3D1773874640944
