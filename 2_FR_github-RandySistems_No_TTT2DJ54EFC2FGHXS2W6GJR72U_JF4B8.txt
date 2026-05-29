@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (2): Peter, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIU29uuHDuPXUfzQvidTr8NgqdCAb4PexHOwytoxOOZvrffherjLfYWMp22QmcW8dgsx-zC0hL-XVCvSIWLOziCwPu5nNjEH35kJjxQOHJ4JmT3a62Mavl8S-S7i_LLp7I5PRZSbo7mw9Rz2LqqKdHLo
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK-A_LmB_1_vBISe62gNyQnA9tDF_2lVqfgARqqM1daI_CP-DILYCOt1M-zBRP2_hyEuBZZOV5sAXTEpUrA3Tql0goLDOgqjAKRHOjuqTr1_JHVSnLlur2yGNLYVd-aJHpI1wOmjSCIGUzoLS-YQnifyd1Oo-O0mwRrbvNi6G9XGGMhtyx1zyHQDN43TnOd7wc0TttVPF4o5q6xkjmCmop5p75riJhQX6AzDVkcJX4a_Z7Qld7lPTlKD1xD4QFkMW7UqS1xhAkWlJWr6aYrH77PonvkYRa0ZBQfcs2l0428viGvgxOJ5_O1yRQ1YoMchetTYfpoxEE_4HuxDX10SufBiFCibDlYVx6RaRUQGJyuHW-HBntWso6OxRGTL2aCPXTdqnVaH7IvsObizKVnF69ipYVl7pI3pJEoxh5L2nfA8lP5cMqxrrxXMUEuwSJBRyXU80Y22CcgHOzkdWbm_qxy7Gp5Sod-_5NUojoN_31qJxitA4lyLZk7fID-7wk8oTaL6mbhMQJqClgJX7pz_on6iqZtosWN2iszgYQpqKsxAY8xs5QqzQu9XRnX5UwWiWsnKXpp3PkyTyOflwR5A-5gGAYiDgoMPYu9YD5j9ahwcoh4%26ch%3DAQEAEAABABRKNCxGrP6vYEU4GLf5Plgh79YEEszYKeo.%26v%3D3%26pg%3DTTT2DJ54EFC2FGHXS2W6GJR72U
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Mar+15+2026+00%3A20%3A47+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=61af2666-5b3f-48c9-a553-47d8eda90373&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1773424605368&geolocation=SE%3BAB&AwaitingReconsent=false
