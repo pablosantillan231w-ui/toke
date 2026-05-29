@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 8, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (4): Putta Shanker Vasu, Anuradha (Wife), Sarika (Daughter), Basanth (Son)
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGJzHXu9tCwRX9BBE55JETdgIt-HnHf4bO0MkP4Nyu1iGaFXg-NmX_yoQaBfmU2Kv2wYoCK7uzu2Ljyk2X_R1q6YY1pDOgXjxeEdNreAt3sTI8jT_cXfB8HdUD9kQjpFE4tWnRb0_MLbPb_td98fwABA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+28+2025+08%3A35%3A08+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&isIABGlobal=false&hosts=&consentId=6358125a-6f08-4dd4-8d14-f78dbe573c1e&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLjAxVp_AXTaZUnKHEI1S2NsOpQjD3CzrbMtVUwbzpJhMZzr9OO8B36ZJfVM6qSCmiUYXVxtkeg3YXx3YRKmnYFuGVFRzs25M8QACSv2JcK06fSLhCl1eMSvNW6uNIEUzOwcLfI361EkqSE22E38-aMSi2JvfpE1kuqnHRGE4Kb2goGRCgqwx96KE2_Z3vro-OPGxYdO_uAuUOoaHh1ZJskcxy7kSnGUJQgRaFtLfaOp3Af-i7UM3ggAwHm-v0DDjTp6AWRADcDx57u_hCqUPYn3XCLIxYrGjRbuSVp4Ent0tnAqoL2tKsggWHOtVOAgBMh_V6uYGSjdGOXZ9JWzx5ez6-jRlnmKksa5C22xoRqY7bJwaX8C10HKeUTEsBdxk986ijZSRAWqmDvTod6LZpEbXb8Hcs5rMT0X0VmJGQVCj4FV8iDy3-Sm62SbCmoXni3jQPOSz7HuJrR-JbPvQEm6SjFo_sijxmtvNf4igdzyshc5wemsyuHcYL3ClwIACdLuVFtbdlCE2JHbpYgfzRJ-PyNTXg-4nt4CFAGzWC3ypHAlntjJH5rMOHGWSn9zCHJ6qUar6UMajaSpGYY5TD26EmiCTo0b1B_H6PQyuZAbJdEimkNUPmvAs4RTp-FZ4g_P8yx4hgGIg4KDHE-ZYVvFk27YuiAeg..%26ch%3DAQEAEAABABSo-r_kHxva81qqlNTDpk1zFuAiEWk_4oA.%26v%3D3%26pg%3DRKTT5TTH3FHV5AGQTVRB3HZCHA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRoAIcGRxl_rQlONb9yFwcUnaMLrnAaYsY.%26dt%3D1754393458546
