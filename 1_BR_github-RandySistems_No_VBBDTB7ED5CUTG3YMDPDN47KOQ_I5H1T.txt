@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: UNKNOWN
+Quality: UHD
+Streams: 1
+Price: N/A
+Profiles (1): Priscila Zenkner
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKsA28ny50u9CkNPZt9B5WrOhvgimR3uTB90p_A7WDquaBcYgcERgww03A5fFTf8FsorDCJHiQAmeOY3AU7CfIWSorBV1e-bsuLm0KXOfsLtsfP6MUZVSupqru-sAZagwYnzUc-JVEi99vZtjCWKD9xxBVwwq5MiK5RylSJOMIBKXFQl9tKvrij5zz2YLXSK5_bhejVd9EGdiqQfTph_4-bh7LCpaJ2nt2tdffTGD38U03i5hiB0bNDbU72JR1BerBtG7p_hBgjYZ7Oca5qn8C7UtS2sExS_P6lTFeFGEP3NzJcHLlBOdAoIBAZmtYbZ-__87vRmvgtiET6FhF43Ni6dAdGyyua6Tg1RouHBLxN_s5xa_HJPeBGDsIbSnCcigTDDUTdkAvW8e_2UjOvuw0sQdtZ63tIK1_HyTraeGuH1cF_rJgs9G4mmG38lZOPX9U-5280jXzM4kY2zNQCXQe8TdVwOhQDymMwWZbot3jOVupvjzK4WH2DVQ7BY2mhm98eyaVeRvNIT9aWlLWTVp8rQCIhN7dy4z5hjiExnbtzVcHaaLp-FY4suXk2i8XnGAYiDgoM0G6LP_pWUh_-6kSr%26pg%3DVBBDTB7ED5CUTG3YMDPDN47KOQ%26ch%3DAQEAEAABABRMUshDLuASTh0X032r30GVe8CO9P_l8u8.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Mar+18+2026+14%3A18%3A33+GMT-0300+(Brasilia+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fb662513-e180-48d3-bde9-dfb8005c9863&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1773854195117&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEO7LBjNsRedHSEKrFJalkV9gOB2mecz_dn59VsOf-WePmV6As4mf39IFLUbtTdcNxo7ZvVNruNoH4FLa-x8r89P46q0TE5nF9gzlAdVmGBB3jC2AhQSy3ozgBzzNbNwFqxQTtY8Xx9xls_bmLzYmw6ou
