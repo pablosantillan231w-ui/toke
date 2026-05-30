@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 30, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: 199 INR
+Profiles (4): Sandeep, Sandy, Meow Meow, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEKTSY5FqDKYvC5I8EN2Mt-xgBh0d4CS9McuDNQGpS2epcrWW_zkBqXl3JOnGpdIo5Czzh7PuEkuJO8yyOBKCRc3yhe_xLCg8N_085TtmfBm8UfLQRlv2JXI97OshK8Apa5m9NKqHpknsAY2SzZnyKPZn
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLnA6tlYS3qjJmt5hR0ku5PRekhmEvb259inKSccImFGkXEhzg_FqmtzjxsTue1zOlJOIPgiT7RtE6JYgtHM5-Sk479DELh7fh7cVgsAIcqVwY-PiBtNCSa1OZvRrPrrj8m9suwBH_PIrDY0qYBa5s7Km7yyK-WU7MWaBTGzEWM5FzToCp9_KEMR2HCWhH7ey4CVQsK5Fs_6yEXTd9bG7XW60jXwXRi5TNOj1k-PyHEUaUdPof8RuCRGq_45cVOU__Ffanye5_rRv6_iPB0ps3JCXvk83bB5xENYriAzmJ5zS_xV6q-pFNVuxK-gMRTLDfyhOWsGl7a3lhO_P_PXLGUJF9C86xxVDif1bVnl8olbVJv3x5tTQA8K8JUZh0_9V8on_bZY0Qn68Emsn4G56282i3D7IDEvSD9Gdemn5MG6nIe2q6OqDSxyNsBLFXdJ_4jtS7Vf2eXia2U5gWSg1BmRBvLHQVI9NVUtRr53ACucNirzkAPrGXhMn62YPWbpr0clzTwCW0c7ZW9cgynTaV7DG-uvVGG_P_3tXQVa-7LJJPkGnM-jX564sYsyz02Q8mP-Z0NwF8m3vbVJXdRtO3Pa0-OTJXp1SmmOYsDeiYCUONB20719rXXG_TJ31_xtn6EB8mDLTKX7R0YBiIOCgxETMGz0tsbGSa5SWw.%26ch%3DAQEAEAABABQZ5LqYWgAJ7tdxNUBc-lEFTbTa7JEPNyY.%26v%3D3%26pg%3D5RG25VS6EJFMHPMLLVVDW53MAA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9CKuBmDvnId2bw13yJgOGCQyaCpZU_IA.%26dt%3D1779783660469
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+03%3A24%3A40+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=68a92b49-6cfc-4de4-af00-31062af9da4a&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
