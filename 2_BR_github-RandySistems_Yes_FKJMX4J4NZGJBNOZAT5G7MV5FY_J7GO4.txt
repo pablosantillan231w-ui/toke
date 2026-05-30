@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: MERCADO_LIBRE_B_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Extra Member: Yes
+Profiles (5): Mac, outros, Crianças, Amanda, Diego
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEB-uySLrhGinwL1ReHl9raxg8LHAoYRTRopuQ2ZvrMtNqzERIFNbby8BCX3PBZ_WqKPwhC2Rm6QCwCe2c6gXyFA1KFJGp3kI6JoabIOk_RArqxK3AOnkC_jw8J7IX0UUXvQAG01cTiiOvgUW06UxQ7nu
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKYA97ZkDmRcCssesU5SEaKwIImG6xdLuud6yXymgeKKDklmWUqGE9CAY37h3JBhp161iHp-CPID6pqu_FF2D3D7bXal3XTF5oT_YMwvUENP1LSUTRqOQLHeOfBhOedN0Wm6wREoBO9m-o-uaZqywrsq_tMJreC4IfSQQ6EWMZbbrJgR5g07fLRRvSaDIrjNLBFVoDckAhuC2j5eYCRO6BuSw-BKOQhQzJJ-v21OGbcTO-qhyTFP7CUV4nRe5kLHtKZNysYpPWu6D52UDtMRH0sPo5ClAEqX97NO29pXu8uFvS0ufgG1aN-fGgfK03EWKkxTGv9kbApn2WtLmzCC7NHs4SuJtfd_tt9QQq74E7d8KjH7ppXP_PMAB2j5wNuWwvJmI4IZLn_adSn-3KlSf0Nxs5A1sgMm40a1xuqIY-bnb1lZ31a-EkB70x6_E7slRO6KYgquZe9I9U9hc60N4RUv8r4qcqrJYQxpLnz02uxblGx08h77QqntVrUE2Ex8jRO0xNmoOyO3iOkpXNZjXTgmGLmN7BdEG7KSRgGIg4KDHD9EtHUgFsZc4oKHA..%26ch%3DAQEAEAABABSI3-xGGlYam9Txn74xHHTQ0VcetyZQ8ww.%26v%3D3%26pg%3DFKJMX4J4NZGJBNOZAT5G7MV5FY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Sep+13+2025+20%3A20%3A28+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7a4bc45f-8946-4183-b784-00652f178917&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQUiTEuvj0PYw0qXpK3pL9AQOwq2S6veFk.%26dt%3D1757805871496
