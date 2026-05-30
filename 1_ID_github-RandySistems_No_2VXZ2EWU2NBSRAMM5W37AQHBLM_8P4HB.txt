@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Basic
+Next Billing: UNKNOWN
+Payment: TELKOMSEL_IN_PI_BILLED
+Quality: HD720p
+Streams: 1
+Price: N/A
+Profiles (2): ☆ミ, Anak
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMkxF7Frmk0Edl-eGG_PWlJgGs_lfv9i7hwyTZjcGHAvSufjSd0Sisz11HnzlUagKGyUsYJy7dozWNvaFAUxGNqqsHxe4NMXKagXRRbGRaqEbGro8z7MBdCSAvS8IfwWDxmot8ZSVRO-LL-4rRelz6VK
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL3Am228qsi4DEfnecmXQA8uOX0W8VCWbycDxtJNPXTkqjsfIMsZzvV-WTGxIHdDtXAfx-lMYqMeS9ZgaWCj3GpHg9u9Rel0DEiozynMlCHduYcoOneRIvjqJFWY6e4R76lwS0b0UrShHE4H9NAMRfQawcJep2O1YrA_1rWXiozuHLBJVPG3EIGd3J7UMekj9DRwcnWdWsamXkqIC4Gr5JQOBtFzsST8zmK4i1A3uFiFoXtXQvbiTcMsGKIop7GZG3s7W1r59N1j6VTrCidwpce6iU_Spa6qyu-P9IFDgNvCN1uhTQAWZuifcurBNEqS1s4u6A4YwDjr8yYN-FELw8mJ0UW-AHCpixw5sT1aic3oIX1EL-lqn07vzKC8nL1WI2ChImjNfH9D9cE0-dHTCRPd6QvxTmPUZ-tdsVzEEOy60xSPuxbMP6XGOnS6za3hB1aUwYrOwE01F0eEZC3cvLy6uCnGyY7o1Z5LnrSAyvBdiZhAQm_QrOIXBgGIg4KDLO2PTfTx_ig6RdolA..%26pg%3D2VXZ2EWU2NBSRAMM5W37AQHBLM%26ch%3DAQEAEAABABRjiFYFiQZ91G2i7FXpABTGXymBk031Zmc.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRJBOx7rsV6LizVVdgLD1uBEXHMKn_5wjQ.%26dt%3D1771858564226
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+23+2026+21%3A58%3A26+GMT%2B0700+(Western+Indonesia+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=23661c2f-0d96-44c6-ae67-d5567292b501&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771858559969&AwaitingReconsent=false
