@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: JO
+Plan: Basic
+Next Billing: June 9, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: USD 3.99
+Profiles (5): KHALED, Bana, تلفزيون, ª, Ys?
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA0OH6TOTGznv0RCg-_3pjGMa8ZdYWpbGonUFT3V3FSqlCHM7nYV6tOUZ7YQbo2DQFZ6C3AN397uyjAQDmve3GavR57xvJqigckYHu7MoBNrSQpwBoFI4aKUUMRn_-3gtgjFc6jo72LU9aeahx9NlwbZAOZVy3vCZ9rH6-gS62gRPL0XwiODWIoaffHeLTjcpQbZV5_ltt82VHk94TIGjzGcxdnI59Kw3ir7OEEPdQn7VA-BbmVO9fHzxTiHTr9hJ1lQ4IWfKjrEf9RfChZTmu5LKHvs_SgvDtaAiQ2_xJCtnFHyuXCqGTogjRWd3BWomQR4s-l-F5T5a3UjIQgDAjdi7YXhpXJPrpKd5-LrFDfTXQNVDKL5vJDF3_83RzUQLfz68Eq7LFrbQF_J4r7j8fST7t8NRS3hhjmjOJlM0NI6Wu9GOlTTf74Pf9wdXoTlqLCvKg5VgzqBfAzTPsmxRrnqaR0BiqCwNv7bDznKHa84Bh8sYFPwtXD38CqIpT8odA50jK5Ff0StCSdTuvzeqZM5BGAYiDgoMTLm1e1LOlym6Nxvz%26pg%3DU7ECHNQY4JGRTFNKLOSM6QYHFI%26ch%3DAQEAEAABABTlUz4wYp_7wwMSlTC2jtCheBPqqrpp2Kc.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+09+2026+23%3A32%3A17+GMT-0700+(Pacific+Daylight+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=baf52373-fb9e-45d6-8eac-e65d7d27b907&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ4VLywuGNpLklrI3QJZxCBoqVZbiVNBag.%26dt%3D1773131530971
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENo8QEjQmLeBNu1pTlk9G7xg6VQqGGsVRQuVtxaNXoH2Stkvgve25xF6Fwo5yx-FzWKmHt6BPVD16Jmr3XhDoMr7HL3m_lvVqrpx29RYcTvOQ_eXYNV2dLmV3_qxFECaEDCaF5hsY-DeaXDgKIpfVSRI
