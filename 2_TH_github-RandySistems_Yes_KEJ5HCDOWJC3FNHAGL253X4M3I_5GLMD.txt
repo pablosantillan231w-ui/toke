@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: TH
+Plan: Standard
+Next Billing: June 9, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: THB 349
+Extra Member: Yes
+Profiles (3): Bimz, Home, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEG7_JDmatXU5KkoieH65xGNglJhhgUMi2-DmW-JmT2bFFfx5nm-aKWHxMAZuPeJkeY9gi01X1WU_5QzBnuuK91THrbM3QJG8aLS3X5JSfNogVksBCHiJXkMewAXNDsgdteiVtfup1t1MtGCqNMvfXr5P
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKTA7YUjlu0zerfp5TDaYm5wjtizii2l0X4e4eNFUKiYQhR7i8XGlE0HlqlB0G2z4OMxmLxFIbAnSLA2Eafzkl_grjlzFWwiFNnutqlgPTtcdTU7TgPgL5kqTPlh4-mMfQduqZFW2RBRHuB0DuoK23NkwCW5CEzfIaoTS0BZyRn2t8j7SKE7i--T68AumoH2PKujLo0L64Fm3rZmsehAcHom_5D44y4GrzImcFjuv0yN7L3D450daw8tDW21AMkpWjgQhyPSuwzoStTkm9CwEuEzPO2EycY_AN9dDaKnx0gjBmZsEMn5ASgAvCPXAHWbsRN4nktxmlkAhvL19WO2eJKG5IFwGiexKQM-AP5d1zd9t86gnVESMFeEpyBMshf7gsBo0si9eJ9yVsrsGCPSV0IpXfgRR9x_kn9FeoUzDMxnF42vwqO3PCi58LemLi3mL5ED9Q73ZFkrZQTA4-lJD5aNh2YDkKs_JCInWAo_eUSDdoQqcFijlODV-UWYg5lEnXTlEnZZKxDxiTVAbEiuQRW7NNqunYYBiIOCgwgZzjdwJIvphcFSmg.%26pg%3DKEJ5HCDOWJC3FNHAGL253X4M3I%26ch%3DAQEAEAABABQh2ZOIwJGzrdjUZ6TAGi56srwLwgeqwVs.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT_shxL3l9eWa0LqMe21TdF99lb22aON4M.%26dt%3D1777044706583
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+25+2026+11%3A01%3A55+GMT%2B0800+(Singapore+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c7c806fa-ee6c-474f-be2f-a7dded170618&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=FR%3BIDF&prevHadToken=0&isDntEnabled=0
