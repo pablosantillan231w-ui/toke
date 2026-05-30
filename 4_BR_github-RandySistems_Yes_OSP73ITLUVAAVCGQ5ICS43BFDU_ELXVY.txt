@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 25, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Andréia, Fabricio, Cris adriano, Cris, KIDS
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_AjplrHQfHkGGchnvGE907E6RHK1Zd95pMvAccyJbfTGwzTaC4aanfBG_ndQpdMs0D7yjs8b_-Dg9F5Lg73BH0Qh5zCb9AkCh7zqwNp0f6V9INmm6fi9ahfzgbIQtloOrBtnf63u7pdCOHA2jj0VHBt58Kx2QX4Y3lRuKvCCG07UDtoYMUgpP8di3W92-IMWD0lkW2YK45bahRLYLWRd2U_GMZK3smpIEnFbvz64aYe8JARqe2hFO0m0k7WMo0i_8rMiHL73DP4c7Sxt7qp6AYLkmDc3MlwGydJk2ei-xGa-BMnHVgpjZF9z3Mz8nb9hrrWH5NMdiP4IxfU1ALMSgCC7a0VoWDw_M68cKiWCW0KfQhZe3LFIO3x5PF1EPvdaI2na7ORosWiaoRiFWZsKGLz1idJg1oZtGo2vCK0MS9xHnn74pfax4tifb_q4ukAX3iZX2PYyCbNgtCyMspMq6r6RZw4Ec1L1MSQImIoC88-OcNA6PZpJUykOVxnxFORDeGAYiDgoMdd1rZs-YgzGwBxwu%26pg%3DOSP73ITLUVAAVCGQ5ICS43BFDU%26ch%3DAQEAEAABABTFSSGuQPuXg2jA3SQ39en8Yh_MfbTyEIM.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+06+2026+21%3A23%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11398e64-8c9f-45be-9257-e0765c16eb26&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BSC&AwaitingReconsent=false&crTime=1772843002622
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR0TYP1zUZXZ9xLzfJ9uzz305Kdqqvhq30.%26dt%3D1772843017357
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHSwxtNh6y9_-uQbP7VjYT1g-kv_YnP8tZF4CPxYZ7BEQC45v1mzRG_7brpH9DyMg_ZDbTeciZmf8sYSxobRnxBxq83UbvVE1d0Eq1V4u28aaewXAWwLK3QAXQQP1M-JC4KYgQ3gBD2tduXBjycH3_hS
