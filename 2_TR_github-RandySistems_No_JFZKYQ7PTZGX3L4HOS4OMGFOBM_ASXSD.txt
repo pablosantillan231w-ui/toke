@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Standard
+Next Billing: June 28, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 289,99 TL
+Profiles (3): esmanur, ali, Çocuk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPZ4qIHD9t_nr4w9EVBE0sJgSnhjxXAGm5dBKqwU29LjZWbeBmrpQO7cpbnWx_CvrfbMvBtr30s0NR9Hg_4_i9jBOSSIF3RzwXUxcwo-ll40Rgt3SilKi_5UEFzexOjJj0GvHFSDFgIWVVIfP-7CcUL_
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQN6exBkxvoaTJJyhPvY_9Q8C2hDwlaj98.%26dt%3D1776041298145
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Apr+13+2026+03%3A48%3A16+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6ecc5c82-0f08-4a30-ade5-e456aded9fe0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1771705660455&geolocation=TR%3B38&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLHAwcWMRT-PSdeWN0tyEw6c8w0H6fz_VhIiZf6lFe4lnN3oPJllpNGQTkdz-77_KYIOeEPplAmS_vq6UabE3oUfioA6vrnXdMEvtaQdGYmFsFqdyMFWyQ5ELUVml8RhunvytB3aRA0ux17Itvboae2a0bb4zb-5ah1VT3NAypORXx7UnZJ0uEFqpHKUnpka3_r3IS8gATxNVbq_FCDSTliU79sKHVe4XYsoInxiyAOXODYY1LMfWpqLJ1XgCaQ94IFNjdqYEjM61kMu4qPsCKof_yNiRkarCbBHCSaPJ3CMFw8DomOE9boV5IUA7z6jI-SaIOGUzzJNeNBgW7mTvaOApenFgHO2CE2ifVJiJpUnDdeIOKB8FYaeYfybcG9gtHyf9Mb_AqeMyMIK9N_as0cf6OMVskCgZy9b6ZodA1qWbUodjFw_PtxIcCw05Xnld6jckgqyEX8qXsnG0RdNUAtACYLRNYGtPYuuBgNa3sxFxnLXSwOkvaqFk3NtVFVDqgNR4bVI877SYqNFD60k9T2FaSzZIQt87bYzRpUF3sdp5m1c807qbsw27x-cdMj4ALZ-lo9Wbb5DlpJhmbOQh6p1-2czH5_9-eMGAYiDgoMUyPjQ-99fXrHuYok%26ch%3DAQEAEAABABRjRwTx6VjFU1shP04FF1Xv2ramvNVcXic.%26v%3D3%26pg%3DJFZKYQ7PTZGX3L4HOS4OMGFOBM
