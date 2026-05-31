@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: June 29, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (4): Akhil, Shreya, Cuchu, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEi7_gDf4X1DEGNW3-3W5zNgpozX7GUhQ7ZxpuOAocnDArOvgCTZ6nznjUMpQ5tWoRINC0YwAmcgqHi9qnzSsu65r7ac36_jn3qUEiI7VUZSGmmK1hRYqZZC6ECWOQ01ywT2lUUoPicmJPeLqfbCZTXV
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSl94ITrDEbEGZ1aFuakaoMxkPU6VVp-3g.%26dt%3D1778080870662
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKVAzZVlXZIDk2nGK7qoscPAUEeTFMiUJ8o7ADsGyT2ykCqnEJB5R1UMwBnP_HJJ279KZz3kAUSo8O_MJJHrdcIakAlFbX5t8s1G1wabi2g2tZyRynPGK9IOqZTp6qgkte9icV4JMBPWfa0wYK8rOqPn5CY37B6XpfocMqbTk3gu54M_v9JMZaw1RLb0tzT_Q-rME9NedDb6s05tb2pOcKU9gDTPYT5EGJQ3P64EBJcX57WoOQljwMNARk-ceiGpvuc5_1Pvi803stCgqiKLfs2Qt_htsEYDavVxiCJUuzeW4CGPdY3kHGMDFRCDkiAif7n302hxlEtE_mPcwhIaxQGexlI-kIZVpbiaU1y2Ud9EBeCK0Suh3NsYwyL3xIkLHX9a78XQq4Mje_Is4S0yA6vc8YHfWrSTGchz0UgnkgftW3DcQFDJbM0wBiNeNEs-zFvzJP7-2GWWVDyKmmMg-m0l2d5Qf0zFxd7H5mF0Q6JYEdorzgVJ2OzveSBZojG1-YltprN7rqIsNo38oPPoGg5i6eVoc5DuRgGIg4KDCCJYEB8cjvxZvsfrQ..%26pg%3DWZIKVZYJ4VDMZOYDBWLGD7ZKVI%26ch%3DAQEAEAABABRS54dwAIbLYHC2I5BZXW7qEMIaeb7QcFo.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+06+2026+20%3A51%3A13+GMT%2B0530+(India+Standard+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ff1ab415-746f-46f1-8277-cecdd9893983&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
