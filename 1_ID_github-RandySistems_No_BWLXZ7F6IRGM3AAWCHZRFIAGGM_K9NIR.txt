@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Basic
+Next Billing: June 11, 2026
+Payment: MOBILE_WALLET
+Quality: HD720p
+Streams: 1
+Price: Rp65.000
+Profiles (2): donimaulanalazuardi, Anak
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEL59smLRYqIk8RNnWpymT0hgjGsAXho0D0zsuFDn8ZI14rjE0uvTNTgSb371d6Nrwe9E3BJ4Fsg-bzXwdfTXI2CVJ4LSaYRPDezSgw2IQrbBYsLNyKhX8c6-U0Bp22Wp25iorKo19YlHW0NzLxfWmjqV
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKNBAl5awt9zUL_qm9j3Ak7vPEJoxw1jQGyhegVKl3srj-lNZ089rKuL1403jLjVhglhIz6ZA1D08pxGvNIPaeeWY8M_rszVaaqBJyAMh7Ihbs5B6HQpBlAeLxulLsJ6S27-sgum3EIaahFAyURxiS9rq_i42xPwOjQKyE2UGrJs_8nXZZBddmVcKikEDSwhFJHBWQdvglhEFKCgwicsV__fV0g3eyTE5syaq7r3zeShR7qerjg3uJa1HnJi3nP6DWcbYEkGJSYuvz5bA5xfRWukcLgiwrKbUKO-Rp6U_zC03Vx3kZcPJAyhDihZm0LZojqr28VFdUnnhUK9B9D7OuBUHcf0VEiint4odmjORbkoYppDxaG7xtSmVoUOzebMSqzDVmeEoASJdzBXRHA3jXB2Ot53buU-ZzWMY7sz5Andt3Bskdc2K3tU5ZPiYumQgXo11PpEazCiJsAC_Ccb1T7p3Qj3CfqklGg4C2NEZoXpathZTipl0vamW8tENOyMjZvgnS84XoLOyB1svKx8LdlMGxkGZciRfYy_Wtgv_Y7GDvE6NrUp6LwsgOPHs31DO78i5Pd5JdYAkHoRlRMixgAY7lXoDaeGOqpFfaGYKV5J6_GR3tv41-RBGXv8ZYyfuYqec4UzbLqrxou34MWkqljPa7PRhTrpKIo388p30rY4GUF9jEH7U0SvYaXz1Zc7BgGIg4KDI8Iv6FaUkg92jXE3w..%26ch%3DAQEAEAABABSpqOKzrSf-RYBJDNIkHI7liiOFzTzD53c.%26v%3D3%26pg%3DBWLXZ7F6IRGM3AAWCHZRFIAGGM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+16%3A40%3A16+GMT%2B0700+(Western+Indonesia+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1040cddd-17b3-4a10-b013-d139b0f77aa6&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771297019865&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
