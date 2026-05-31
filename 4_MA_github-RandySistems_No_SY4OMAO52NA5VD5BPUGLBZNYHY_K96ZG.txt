@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: MA
+Plan: Premium
+Next Billing: June 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: MAD 95
+Profiles (5): Freeman, Frimane, soukaina, Youness, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEOxRTZur7Kw1dK7eiInRNtdgIaMHQ4Qo4Q0K42VXeFx-de9iNkMw5yuwSaadZEu8sFc1zcpgX5X6ph9Ri7vR-UV8zOWYJz_K8G5iquenSBcwoYIW-g9k0iM2_TQMDVAuiAMYg-KMiwmjNcG5VKdEHxeH
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKOBJzgE8Ipx1w6JyIGAS4vmTWdF19eltLL6zbUneh7r9CBdwF-CQ_aYOsM7tm4GwYAQTBXoGnIEhMvtCQLzE_DJTjUd6rFPHds8ZLww7Zaz9zjgIuDU3ROhlNlSOrlzeHzgeCSvuVQD87_5cFgd9VJyI1jUD73UUW8V-Ttd2KRPQE0Xfkt7itJwVmXeDQ3qTM5WESEBcVqQTCj4v2TqDDC1TmUm8GW0WRt3MFF2f6az-1CAbHnp-ZDTh3YncELCdkDD800JV4Rr7D15IVsTTRKDhwCJRPkVXsoxebWV_42ZeyYGb2nVyBXsqI5aUXFqTyuEO2CaNSK_utx1kah9D3ihh5akYTwQ7WtIfaVBM38B5mZyLQWNJ4NfxTZ9CKpORXpMu17EiuG32FSjuc_Pc4jPIN-O-MwacCQIdby3yGCFF4MF-az7SCRkXFMZ3Y1m6kGKjhpTzte3iOpvDSrtg9B5XUqbfEKPDc1UB0Ez9SPVHHWtqjGPrhkISNeBFREedvPTzJIHsrfk6HNfObN380UyQY92zsw_QdPj6M45OYLjDIzPO4ULVcFVCv20C8zoaDWd-14kUL3HTheAq9_PbzOI5QJB06HLKjvZ4j0C5y9ZxOILxLeCCNLl-Vn6HBj4ft_r-Q2AYqbgQUy5fZr_n_qj-e7k_QpYb5pytILl6W7Boe2o35Oj3TveAzy-Nv1nfIYBiIOCgyarB59h5EpZRAJMAE.%26ch%3DAQEAEAABABR6TvkVmxcvjVpu_-5D2NRGZj9OJezAuYw.%26v%3D3%26pg%3DSY4OMAO52NA5VD5BPUGLBZNYHY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+02+2026+21%3A32%3A16+GMT%2B0200+(Central+European+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=60dc1511-2d44-451f-80ea-327f3df9f9ca&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&crTime=1776543388129&geolocation=FR%3BIDF&isDntEnabled=0
