@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Basic
+Next Billing: June 17, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: 189,99 TL
+Profiles (3): Dilara, Mustafa Güler, Çocuk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEJeKlX9spiuoyTESwTqxmyBgGOyOf73SI1nX9vNi6NIyw_YA-tnhfzZJBBExj73pkXPW9uK1ZosDE_Nj-haISd04n8Ap97_zPkM5FwNW6RxYhFF0PQWHv1Z-qWWJekpdXlqfVXKXOTyeKtd6h07aZGjz
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKaA_pnd_zVa0ZP6dFkm-qzoetqTYngh24HkRU9QmACYN2D561g7TD5rPtpuu86yAGHyQ-HFV94RSIa9Veg15Ody9aVvxW2DQnEZyK4imPdneMAB78ON_a6YkMVFTqU59DsOofqLXzz9uxglC_urqFhXO3Wl1Kg_277gMSuxf-piD0TJ5kz08yuqgevx9Q0aZgBjsaTOpIL6ZPVYoGFfQf1EtTxB_AYUDSv8Gk9rFAnLpQmXOfm4j_7ok6z2YRrVPwcJYgaODkQj1BmDBFnDjNR8smKF1ohscDPMvv4TNksXThXyxGFl2OZ4SNOz-pxqk3wgQA_OY6I3gVOvNN57c-kGo70rnDwF1eEPey2D5ynYLcyfZ_HZxV30f_oMpIEs7cjInEVCk3nwC7QSm5C4kzzDJ4y12UczrlLRQ4TEJPEKoKaEgNadcvSQzXsQ6t6i_5EK7Gq8y2YRqtWFSd7Vd44VL_W1dRmLl0vIJIBZ7ILZag0Y3dgYxjXWWnOmoJDfSiTYRFXdSETpqXfW23QZKymLX1Vr3z5vDoTcRO4GAYiDgoMDPsz5gPsj-Sj4Ryo%26pg%3DYLM3QAAHAVD4NLL6C7VYPFC7JU%26ch%3DAQEAEAABABT8h8CEqv9U7-uBynM16bsS744z9Qp-FqA.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Apr+22+2026+11%3A24%3A03+GMT%2B0300+(GMT%2B03%3A00)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c2357ea2-add9-4927-b7d3-52a6fb2f6b8b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&crTime=1771327319741&geolocation=TR%3B81&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABThX_WFOCibp6Xt6fmYAVUadmFsKpU3T60.%26dt%3D1776846238977
