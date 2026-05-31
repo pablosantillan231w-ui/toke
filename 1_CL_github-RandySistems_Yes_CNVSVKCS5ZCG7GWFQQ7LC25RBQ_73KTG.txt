@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CL
+Plan: Basic
+Next Billing: June 8, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: $7.190
+Extra Member: Yes
+Profiles (4): Alex, Majo, Mamita, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AsqbkiysQG7x1MpPataCks8EtCfcQR0O_vZamGvpKfzQ1CfgGj_iRxWlzj0PLU9Y3jNlKXVi4KQX536_Ffe6A7VBvIULgOlckB4FiV9oZRfubAtkbIT6ECd4CvcoCkQiJfn1y-HYm02Zs8fWD66frYF42Rd4SkFR3A19NRen8dYMcGGFnEUnnoYO519W97BhlqlRtACq97trPWUHLW3obV85kTV2IWCIjRD_LRIDW92iZAWH8yzLw-hv7J_MTca6vvnG3nN0lMs222KmmmT0PpvaNF0aHZcQuizz-PGnPXA021IaMlLr_BYx-Pd0fa5OwLh45wATQ-6MwHcP1JmbV7aI01-eZWJzUIIjZs8XZHcAF5cxXpvjrS3o_uRKkT2k4XJ2kmpkw-F-EgjXckCC-UfF59NKgNA0i8Rbux0gC_hOAO45YRsqB25vbWoWC0y5ABnnLwZjTsKe7jRhKPS22vgI_nunRxEkvFedW1C60MS7FyykBbJeYQ5gZN1VpBgGIg4KDGpgR2KKDlnKY8GJDg..%26pg%3DCNVSVKCS5ZCG7GWFQQ7LC25RBQ%26ch%3DAQEAEAABABQnCrJXFaygIdLlorYa581j4XoOIJEQMiI.
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIyCyIrNUtJd7BldLS1qve1gID2OJ6Uydes9QTMHr0k1wfeAxnyQMPrnh24-IYFoTGa6Uhvn51mphSQ6hRk9fx0W_ygO7vUO6onwHMKI-9WFY9woi_b3wY7X2Mpdha3MYMhdEFcA2-3OIlE1qXr-XGI8
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+12%3A59%3A26+GMT-0300+(hora+de+verano+de+Chile)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a920a8b-fad4-40e6-9c3a-49ef4be44ac1&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771343790985&AwaitingReconsent=false
