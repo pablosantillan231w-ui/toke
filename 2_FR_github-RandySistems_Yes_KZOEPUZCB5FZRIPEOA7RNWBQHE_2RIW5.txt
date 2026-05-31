@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: June 30, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (3): Maman, Rémi, Baboune
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLjAyCcq_uTkrn9ReJayvQxnta3H1nTkpRCmCQQg7M2AyduN11ZadxLPlz2xsvdqrkEdB-ognGElYthn34t2h-UMz90T91fvcV4eRkQXVFqB5BNTlFGFaC92FQbDTRW91w0agn7zpi3gmDvhVYbnLXPoPrcQjQlLgjd-Kp_uR_2HfgF_xfifjalOUOVnSbugB0YSQokL1OpBQJWKrHAzTT71uoi-fUGoU842LXnDDQbHO8wY8egsOpYu1522t2_kyputpjNg80M1HygCe7WyktEclCYwegw9I7Oo-nJY9tc-TtftDCMzZ4iF8xV8COXHNGH6ZZEwQU9MuX4XpnO20cMmGGX1pvV-LXM_fIryi5ECf6EMSuL2lixnylhwmoliUHHZBIFI9UgB6GK67t8am7AuzdYTXXDtc6JT-tkG9_B6GpjhHffUPD1NR3Au1-THgc-zQhMjxd5xPHP6L472vlOIbJ4U9zcV4BLe64jKy_mXTDYNSbewOFL8ZcLiY1NFcAljpBWsNqgTpH0rLusvCSUOSr7POFXlF56Aute6H9JYE6kU9wGvQ9AaqjBpBP9V5uN57HFA46rqArRyOvwEUCKfenY2LU2bO94oh2EV18RnBLdLvvGbESND_v5qnUz3-VvidH5UBgGIg4KDK5SnA0GWlAYzSp1sQ..%26ch%3DAQEAEAABABTiJ3DFltOwwMcT4UQiLQLUSXtviMYZO34.%26v%3D3%26pg%3DKZOEPUZCB5FZRIPEOA7RNWBQHE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Sep+16+2025+23%3A34%3A22+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202508.1.0&isIABGlobal=false&hosts=&consentId=ba40288c-f49b-4a56-a082-b2394fbc031c&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&geolocation=FR%3BBFC&intType=1
