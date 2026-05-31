@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: UNKNOWN
+Payment: AIRTEL_BILLED
+Quality: HD
+Streams: 2
+Price: N/A
+Profiles (5): sjhajhariaobc, Seema, TV, TV 2, aushu
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIeeOoN3BxFk0qT0CF9eUDlgm6bVxL5dVB63A5OVwu5xtjSySJjq95iAJLMVCOu8saXx0OvfkotG8WogRLo1qnh6EOSFd1ReQxLiiMuOGRt2oSkoIbz9prMjfwC9PxYDtkgC_IVMha4v_uaV0nN8HqX6
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Ah6IhFfpv6o7awgV8rUSsJkVpMRRkVcSQiNJwAGH1Wk0_MJXJJwa2jyBSmg5RR4xMsHmzXOUvCAWOYvkVnpFhFqKhf9z4o2GNg4u8-yhrkt4_1o7XekF0TtMbuuG7xj4dZ3VDBOKBreO65hjMZBnltS0mep85FcOKJRNYjPpfU--sgTAv5bt7HRow0SMV45aOX7yWi93NUSWlD05cN-Tjqi8GvF4F_Cpsw64Ge753OGBuO3mCAywyYKs8zeK5q20bCzFrxqQeVVU18Z1FJslqJXRfGVENFfdCCf6NyP8TynEo4Oajk8cED0kcr5N3eLBrBZNSoQyqPM_8ildya8esBNrSc1S8KayXxT5E6JbqxEdDngbjcs8dnav3PSJy2Y_fJgVEiorQ0-5SAmEgzCz91sfWl5WtEPzlJ6FF_Gj7NRLsORpxUa6jgdFlXOU0WQhXf2MivGydkcjLrc7gGNuWEJO62z3-M_0K9gXZRda4zRz9nd6EJlvZoxn7M0WGAYiDgoMquuyAd6uQTuEzPEF%26pg%3D72DJI6TF6JG47MKBNJUOZ6XC4E%26ch%3DAQEAEAABABR9oGwUoSky_t1-LKGnTf4KKcGmRCc8JHU.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+09+2026+22%3A05%3A32+GMT%2B0530+(India+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e02407ee-ebc1-45ae-9cc6-50ca49eeed56&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
