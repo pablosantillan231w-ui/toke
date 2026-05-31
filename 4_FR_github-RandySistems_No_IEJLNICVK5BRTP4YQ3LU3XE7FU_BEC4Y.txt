@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: June 8, 2026
+Payment: FREE_ILIAD
+Quality: UHD
+Streams: 4
+Price: 21,99 EUR
+Profiles (5): uveyis749, bilal, zeynep et ahmet, Zlanko, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIPVH5AY1mq0K-Er1h5hRPdgXIK1zja1et5ttJ9khp7G-jrXcZjK1HGhYIsV_YDQjU2hJV3VJRdjji2chcg8NnoSVxl1cuCfLE-crDn6VhxNy66Xq_HMfC6u8XJyzLZlftpEDpfshhPHtvW0LysSlxtJ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKaA1wakSA9aZS_yGSxa-GGZuQvAf0FQsmQ-Ff4XBiuXykYgqEo8A4rpKQZuHSu3wqfHaYICVyGwJbmKFwJjhySccATOlzl8p7qY2i93GxEo-z5ysiVl44r6Krd4idJzoDlRJoUjcyJfiMYnuOGPi_CfQRhol0Al4-Y2W0oxtZPwJn1KKYVOPCf3ekP_RUhKyyCaGuuifJrzkHfjUlMVhjmxygpZ5VJQK9eaNQeaeqcu9kY9u6lmjvv34GYNwQUZLEKEEJL6bqobqgFtsTO_p-9v8kJPOiRHGGg0v8BloQDweDgq6P0_FuBleSbRtTCx3U6WGcVyCaC5n3E_u809wnX57JCSUwsvzXOjPcN57B1KWUswFUMIScDBzpLcu-Rqa_hNS_MOmgN7YmSoVl0ENLIHEENEjHOC4VhITkXUDeKdd0K5qyJgWcUIGk0AoALfwnvK3jiSBbg-x9Jw8h8bMUymoWdMSmYssWMaHDOPPP-4QIfh6nOV_j1rhs_XHNX6A_psKycKHYjlD1DLfnfjZ5aafGFemUfMUOOrQKVGAYiDgoMsgl7v68FqTMkUbO5%26ch%3DAQEAEAABABTM1CJ3_BtTAtDEiN7YiNFcVoMfUJxsZfo.%26v%3D3%26pg%3DIEJLNICVK5BRTP4YQ3LU3XE7FU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+29+2025+23%3A39%3A40+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=b021592e-3e3d-44e0-bb27-2c2a717eccfc&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=FR%3BARA&AwaitingReconsent=false
