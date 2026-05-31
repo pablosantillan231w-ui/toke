@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: June 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: £18.99
+Extra Member: Yes
+Profiles (6): Miss elm'ó, Miss elm\'ó, Izzy, N, Grandad, Boudikaasßúñdå
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBED4sOpaOv3TrXeiiEgOUx5BgseDZw_zX7nLKytpgTaVaEB9ScZG3xbKaEavpxszS9OB8LEdCqVrLTxhvSnTkQPUa-hty7judQFTnBWcIRWTjtl_z4OBqgFQubhOxijLvlbJ8ug6aFLc09bmO5AH6G4XF
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL1A6E79z3twOe5Tue_WUWQ6Ik2xpjKHWTzpX6B5AGGTlMNSIUXlf-Ahc4G-GlBWIKZpkDRueWqtWbWFtofBwV3YjHgfww4nLYQG0Ws6kCwayXX8IY849Jbnd6X0HZhtvGI9og-9V5yPFL__vqiEGZV0TW2yIs-T17Qrqb3BysXg7WbfJmns4m9vRF8R4H1OL-fkDhtrb7bxBHw1aBdbBlciePb9svZWI_eNzd-ihrFrS2HSuoGGYq6yo4eK63pMiY2Jn21MPcYm-HL5iBXQhBCynT0UHV6sxE3waFCeRTm0s5JYrzUjPlQsU8TlVhsNle4kuJDp-oo1iTDA71if1MfidJWQ-StLr8W5x5J-l-orp2iR8XQ7aRHIWQzaRyFzyGSA7VjjvxgJggNEJDh2eSBOkBZSumPqGZacC2QOT9h07oHW3DgG90sGMRHp8Mmwe98LpqCwH-K3y9Yc0XY5Ajk844kY9yNzS5D9XGIkiP2PV-F3PSh8h8pthyy-ByvyH6UAktNEDYwpw0hCdx1lhX3vOe1HHwwNTaypWKoRI47KrBWQLiaMDv_RPGICWraAAyOkxkCXWnQImcZHrp6nJ3ke0ddmmOiDPSNyYCjLHXd1_P8_LiYxHpeqMKYv9nadnXSv7LCUyo7p37l4yV2TejFQvgrRCZzXhgGIg4KDKPcR7It2TdJ82Wbrw..%26ch%3DAQEAEAABABQ1-aZcDBr8F8EGE3uP7N05oLkKdW0n4Mg.%26v%3D3%26pg%3DAAG4PGWUPFGQZCHKH44SAUHKYA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+08+2026+15%3A17%3A02+GMT%2B0100+(British+Summer+Time)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=db594ca3-5a60-41da-b491-ddfc9915f82f&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=GB%3BENG&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
