@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: DO
+Plan: Premium
+Next Billing: June 19, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$13.99
+Extra Member: Yes
+Profiles (2): Sory & Israel, Braulia - 20014
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENk-hQo5v_dZRinsj9Lsg1pgUsjA-RDzlpdeTPjM6MXvcbIFUESp5Fg-1seo3xpFVy9wX8lPiBDeYbPTvFPZW-ytBHLucUu5n6Z8SXVrVfP3GSbrVtuXY93QhjjyTtIDcbQ7XeOsgNElZr7laVOPucVU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+16+2026+19%3A15%3A37+GMT-0400+(hora+est%C3%A1ndar+del+Atl%C3%A1ntico)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=f7e6885b-539c-4aea-97ac-9522f5f88687&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKOBEWj5hx4AVLBHY7ps2cqtIwyColoYoOZXsdeG5El2QmaMdWmdPM50Dml8un1uKzhKIVqooKulHTk2fCRXWrLlui2ao_ww3oA-dpOOEsm6dtI-uPp_VKnlPj29q5RnIjKVJJq4mX-ihZFxQRrcqqLregoC4dbRwvY1blmNRzwwwLcdJ_mqZTWZEb4gUPu_ITQxt55T-wBY6oPwfjYJOeb5FOO8taPq32EXzyuxsiz8uIpNRL6k68VgtqUQ87xJLMeL2mZcWmlnAwRiykOSqpZNAojTRxmWGdFbBzCrxfMqZiJbEoF_YYgX1sb54tmoBVnhz_UCV9bPwPI2qSFi9ta7iCiSx8UCTjiPWK9ariVu_bDzu0923Z-yAOdBitz2NnBIcgDtIdlukuPOO62nFBiv5X_ZmJnr_m2gke4Eg1PsswtmCrVzRQKsGaPSzjp-OQtIMLuG9Dm4SZ9ooooM9CapcQ4WkzHTnmZ1H6iCo3ISpfPcJv9HXJy2XNKZv8QX2FKtYQk_HznKYn5kaj7D-78Oq64MznSHksUthYVRV_VrIRcXbqSAyn5nifj6q-P0NE6t7PxMk6cZe-ngwzZYMgfmvkjQtuLJ6c0aCm06PA_9yH6ltpkuwjDmrqFpcMV01c9ny65MovEgSi7nG-ULuM2B8bBFrx9BkQMcM3l3kmi_nCs6dhUi3mabJWLRppGo0UYBiIOCgxLf71UnVGZ4ycuSg4.%26ch%3DAQEAEAABABQE0qnwU-GstAJDhLYk9eKhCaoh6P0keC8.%26v%3D3%26pg%3DVY4EQ7ANC5HIBK5XXUZEEP6TSA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQB2wV8nfZhIRecINBCEIrjXmwxDn6VC90.%26dt%3D1776642164443
