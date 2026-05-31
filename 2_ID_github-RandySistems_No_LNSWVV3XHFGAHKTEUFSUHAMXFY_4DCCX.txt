@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Standard
+Next Billing: June 5, 2026
+Payment: MOBILE_WALLET
+Quality: HD
+Streams: 2
+Price: Rp120.000
+Profiles (4): Papah, Mamah, Max, Anak
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEL_r2b5eNncp2UNq3nlT44pg38pImwtMSJl7w3XGmgHgcLsRkv7B9eXBw2NKnIzFC_hNlP0m4sbNOrDz9aVBYdoGiOvfu1CHLp_ecuOzK4nReX1VRH4kjyRT9qFDx36sUvClXxVBz45C_dcsLslaQjEf
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLqA1ZWu5rJj4AgS8Gah576waYdjAZjH7tVznHXL7qGo-cTnE8-GimzMKqXuLrECVt85BwscBzNjHIhtygRthNtWFFFyJIUUXVv_0kuigW1_hxjpdp9KWQ7WtcwSC50PD46U_0xcXXuaefBTgUKtibHtss1aFsKhJd7vXCtAqnnMAyDQx2xU3YCxMylePe0AL2APi7ar-o8BwDdoZQqMVhoKYaJO2HH6TNj7yPab9xTECZLMOx0gJD4oS4xa29dbRwUkHCW8z5iT8_cx0jGQzHqTIHxW7M9wnQYiXE9v8uB292MEdXaVRgDyh2PTe4sK-f_TJ9k9rQLGnMqqA4trtUfKWHGb78gVLmkJvW6uy7i_tgz5fRdvs8z8qTmCQGibid6vc3K2Px0jnDOEkXEGgNZ3qMJpwuhVsFYAOIi1y2bM1BdW4PLw2IGSoRIZIN5mWLxYM-7O56R0-QPB_zMB6NstoEBpaFQlAzvxsJn8W2772tx9glZ2LKPFLf2vD0c4T3baceO6ttipvZ3wfXCoza2Tcg6MboGckNleSD1Aw8VAAWmrfcvPVxlOuPYto4eeFMklL9YMfjQly77zBpb2lwSUrpxqITaxVIzl6uXDXc9T-RUtOBju2AzkrzMjBtgy6P_F3BNnm_H_RoNqgcYBiIOCgyd3CawcwPmrhBoF6s.%26ch%3DAQEAEAABABQmNNyaw-QC0aI78hrbxaxP4LjgdTPF7vw.%26v%3D3%26pg%3DLNSWVV3XHFGAHKTEUFSUHAMXFY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Oct+02+2025+13%3A19%3A58+GMT%2B0700+(Western+Indonesia+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=37978eb9-cf1a-4041-b853-8f15b4fa98d5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ3y5XtQ2y_J32upW9vnlV0FFGw2CUDAoY.%26dt%3D1759386002325
