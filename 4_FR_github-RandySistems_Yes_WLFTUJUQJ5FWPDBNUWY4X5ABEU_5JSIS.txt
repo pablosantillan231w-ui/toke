@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: June 7, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): Mamounette, Ayoub, R, Mevis, Rk
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENhOIt1nBs8LRSi4aV0F_QBgEB7_YIriLO0j1S0Rp9RgJ5xb3m6SUmTGGjqPaVFsXlkWEB4PHUEujGkGCndVh68IDqM8uRGoeEv5PQzU6H9hpwMbJZhFWsIA8NgxOK_rMQeq2NR1Sjifx8cddIcYtujK
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKWA8i5Q4-XypPMQVjAnLnTXvxTeZvx3xzVvaFV3rtUBiTH7jvAqAPHaZHHOec934zlgKxq_ciInxEte51M1hRksoSRZPRBdeUZUKmsg8S3FtXmeEcbOc_JpwcIbJRARnR7fjkQtq99-Fc9FTlQ6zYL8OMa_M_OYcOrdPvtdZM5pPhvx6IvgoRWKrHoJIBRbcchEAKhdxr4By_pvZ0CY5Nyh-W5HoPR1I47BRYyLidFJ1TFou7n4W56SI37Dr6M9M6sPBqv3HpNP2G77SsUQ9D42tLKDURXH5e0UYKOw25kUuNfIHvWrla2tFzKlDeOAdeH-fokHFIZel5dofuxqn4JPi3-mQBnz9g8EW1AoIruXlVnQVFKHpo1PNWlKS7k2xA3JqpwGaTagw6jr067eL48oQ4kRvi3I9oWL5i-p-vgkx5TfTmjrxWdLE_Fb80tEQ-m2AKSbHci7U7R4Gn6nODHb5OT7Tn3iCobPVkAsPy_gxuntyF01FhdR0G98VK8nIgsB1mImI29k6pUuc3fzVf-MbDqG1xq0r8YBiIOCgxyJuMpYqBBaeCr_3s.%26pg%3DWLFTUJUQJ5FWPDBNUWY4X5ABEU%26ch%3DAQEAEAABABRbpVK9eO-KoIHYRZAd4xB5HRikswWQb8w.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+30+2026+01%3A16%3A02+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1b8ffb1e-fdfe-48bc-9e40-ba6e0c122288&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1777504518414&geolocation=FR%3BIDF&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTO6KDVnN4VEzLNSbMNSeb07BMZVYaVXrE.%26dt%3D1777504562649
