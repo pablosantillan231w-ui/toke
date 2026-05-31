@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 7, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): purvipoddar515, Hemant, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMnaOuLBP1zEp-J1-YoFFUNgu9gUpizR-B0HXPx9hv2vogAOcM38yRYhSPJfeslzOPa-JPmPgStVSwkQ_W0r5i5UplaUmQH6WpJdWjMgbwL2HkKGNUYvBaZD5mVRtBPRXgWeW1cvn_svXGel_g9P7Ktd
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+23%3A43%3A21+GMT%2B0530+(India+Standard+Time)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a7e01717-a858-46fd-9cce-f55909f7de0e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLCAwBvaqU4RqIoZmFvIj8UTz_dIu8gtLE1vhzemh1Gh0zleK_gDuoQRsvLvxU_sdxGtAxNZQUpJbnN_1ybV5lZGGMongPrZaSwiQIEcZOc-lZfWZQ7_2Y7Sfcj9cxHuibhtdH_zsLumPqlprP003VIlYlic014opSEIyUWIT-VFATbfz1EvoXU1_lVKuWpiHW6ezWIH-LgRBpXsO408Vcw2PDIEMpGeQJxe8r71b-y5R07aWFUlIjNiLoQ9Gpp1N64RfUmrhTjGsqgxy7AA1jJo3F4TndlSjysNjuRWD2CmZAkV-4IJoU_W170x1srn20GbmLzqflN0rVB-IadOMAJRHQjD8uJK1_CA92gKLsHXvO1UJaqodWEclSX6sx944EEVv34-WoyS1nJQ_66YTs3vDefrk_Nc0HxRXEBwDZMVoQgj8vIeMHV5tgGjrWzgf3yirRtxHJF2NiqJq-c_JWzMg-5O5cEEQ1bs0iyuCPN_RSm3y93vP2f8Vg9VxiFntC37ZMCTs-R_FAJbzDcLJhAE8P8AtGOWfwOkAy4XUnoslP_fMR9r0LcXMMY7R_1tCkJsbzdNrlEKF5qJtbuj9MX6nVpXxgGIg4KDNnMrJs9zed1LkiiTw..%26ch%3DAQEAEAABABQwtt4ceEdCMF7XwD36ZGb2AQQpGkl2FN0.%26v%3D3%26pg%3DLOEO2P7JXVFE3FDPEHUV5VADWI
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS36LSORt5Q9ODMYySlNC0N895raIRoOKo.%26dt%3D1767291186333
