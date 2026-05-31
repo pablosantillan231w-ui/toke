@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 2, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Karthik, Profile 2, HARSHAN K, Naresh, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBZjhsLiJxLuWjztmCIL-GpgYyzJnKe_gcYbVbzm8EOAomzrye9rz1NHAYcBjfOhGqjtUDyEeTAcjBcTKUqiq_B44LR7Riiq_wJCEsixr4Pf4fMIFtbq19O8UO4AaplRalKFIWBRiZkL0oXbgTyzTtSR
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKIBJ9xTiYVeG_qgFBrpJmrZv95D8kxgerI02LMPHyT-9wZCuAVFKdh9-PJLoCWNZqfnHTisK6pG-pUWxg2G72uUYxbDzsSZh6OnjAbE6MWBsORVHpnIemMUH5GRUUa2v9aU17JpvzEat2Vk3XfV-1m-dhoE5d0w4Bc939lavKSnstQZG79LW0JIS9DlLOdA3WwoXan9i5Zq3-rtkqF0AxHuU52KctkIqG7cblDsAWEZtBLzQ0zV6sIhrBxqLOWvurHJp5PazSEdZssq-SenBK7Xf05eGDgGREfYVJChzuIW_H0sBqEgf6d-3Nu2obD7XhG2fIB510ZWuvRiNLIVQRTbg5z44_IUt_vWXj6_dP67Brm6PkaOONixLyxLEORoAu2ZOK7xest1FjcDR2bLwy-5Kz5Von090Qqv9He6dEflf58ShMSVZk8OciWIYpVovFEtz-JnAzWO3ZRkC7152XGGV-n5MCKhqxVMOzkNAVub61yjMVtPb6mgYeRL_gy_xzXoXXRsKI_DfMVoZPiMAPwltVUGZowi1WjyDfVeaTuyUwh-eNBZQCmCZxn5tI7XQCOwYaT2706EWNuPifhGkVUxawDwE3KNw5hbB_SqqXNnBPccxsbT_m6qc1Ol06ynvN56ruaAxIDjSVfvk6qNZcRotMTML_UwAAt0NFDt-XlobT0ApKgNX9SALAYBiIOCgxkOjx9nQvJNW0yKRE.%26ch%3DAQEAEAABABQqXpBU387brDV3OYK3Q-G9c1ghQhs1PDY.%26v%3D3%26pg%3DCREBGL3XQFFHLORDLWVR5F6TYI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+20+2026+17%3A37%3A34+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ce7db17c-91cd-415e-9efd-cf91293888e7&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ2ArRz6wa3SMoAPuYu2vl5fBrPljiKwqg.%26dt%3D1774008452447
