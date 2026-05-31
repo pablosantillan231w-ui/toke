@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: PK
+Plan: Premium
+Next Billing: June 6, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: Rs 1,100
+Profiles (6): Saima Mir??, Saima Mir🥂, 𝗥𝗢𝗠𝗜♥︎, Jannat, Saima4, MIR
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Apr+10+2025+17%3A37%3A06+GMT%2B0500+(Pakistan+Standard+Time)&version=202501.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=https%3A%2F%2Fwww.netflix.shop%2F&groups=C0001%3A1%2CC0007%3A0%2CC0004%3A0
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBdVqQieItJ7om0QtvZpEgJgZqI3XCPYZuMgGb6XMAUCBJE3K_Tv2Z5KTe3jIf7bzUK6HDsh0rDeZvN2IBQM_e7O7x34e8cvhXvTxERQ23tK4nOelnWfMwq5jkveG4VNbCmw4-WBJzFH9Zq24AyGBgiI
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKEBLsMufTl5XPCE0uUjlpeXe5XlLO30RMnB5wRSFhXzALCch-jBfBQn4jQsnfKlnG-qq0E03IVMSTsffoULshyLwxmbWBGmEGkEB55H4IHspqDoTU7ns1sSXTu3mFWoiZlVwm4ZAydaJKcDQupArlh2W4mYEn9TLGcsPtMlORAZBnDRyhw7atIIgX4pP-ojEkpBk-9d4y5gpXl5BPDD6XPRRPejnjmZXcJIJfwzwQZCLphnUadsB38rcs-iJPHqF5wbDyrZfDkSJamb-2Nzlzww6MkVO-3Ivr7EBJjHCEvrSsJ98zSSUIjwUTtlj6_GohTNVNKAVsaFIXWd2M3ZYR7J43JfUvlSpX3qBIh3KCPu6aixQf8h43MuAVq7E_WR_v911I_M1DNOn9fuEwECABULk7_Ev9jr5gUmOwq2GW1_5edrxCJjQU01Hcb854ftwM5Rb55WAeedGJpIp5NydSmEVBK7Li9vKXcpLN1KADU8TATjtfB3E2PtuXe6wo1k9SfAE6kTMYihNXhk-Q1de1OWdq9-HIQW9_cR38n-FBh7aBOaTNQ5GpHvd9ugM_oLAa-5k_ZWA7j6zHZ2y6VgclmXNWs5f5v1r2gVk0ITjvk8IZIFfu2TvClGx3JBuCl_LUsams4Sl7clmn-1cFyKie8j_XAnuLnlLL3f_OxLZ3KPM8nq1OjvhgGIg4KDPZzqONnfEZgLgxxZg..%26ch%3DAQEAEAABABQGMuMx5u0xyuZUrff9YVaCyHK-xLQJaYg.%26v%3D3%26pg%3DGBOJ2XRNRVHW3I3MV2NY6NCFJQ
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQFALeAvAPNMV_HdojLNFBZw2OSN889lWw.%26dt%3D1773863727754
