@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: CA
+Plan: Standard
+Next Billing: June 18, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: CA$18.99
+Extra Member: Yes
+Profiles (2): Payal, Mummy
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDhMdltpl8tyw7wzkxrjG_9gVEV73Fqa9wqM5-eNFczBOTXH932L4SOd7noDFYIrmM5swtP5URDz4rPH4ssc2spL4ftUOMOZazfZA8sMsIvH8DW6gRLzHPueu9SEA-kwlfpaQsyejjScrM_nq4EpboII
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7Atj6sh5kVAdmDazJD1UX9sI4xW5OtiFqc7PvlMLgd27tJc7QwJVsThkHMekcbSa0HxLfmV0Tnj4cs9YS5uFD1Ll6V97UY8KpIu2SQylR--hWphKALVFjYKAi2lvMTm-QykLnSafVI9Eg0uNRH6L2ex-Pmp3iF26JWD9rS1HYXJ6GxGW8KZ5PzdR5p4xuXOmoiq_aoXoRgCnlZB9M1LnVa3dtbew4WdVkOfRYitQnrHYwSxvBT9fxP2_os6sO5hHkk9ULgwSXHlmJgWVsWgUqiMH2vWD5h9u8I9ItCI-dTaUzV99dLRIKcS7fDK4qdWk_x5oXGcMdWkz1Vm-H1qL6jv79KG-f2NEZphX9EUSWaxmNeyZNJwnm89LEte7Ebl6wJX1EX-7dTRRq0PJgvfZiSkij0mDrq91WHyuY29gHZqFgRWVYDne9_Bl2qFwWcmKfeYY0L4H5YuljflZpz_iPpbnUdecFvwWQKvGnaG8C9HJCaz4qV9HWdHdG7-oYBiIOCgyOkHbkc7we-xu-pl0.%26pg%3D7CECKYJIT5D4NIFLG6WJO5ZEKQ%26ch%3DAQEAEAABABSmdnMxuU_fbq_0Mrum76J8AuAI5qMINl0.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+17+2026+22%3A26%3A09+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=550aa838-e944-4572-8618-b63ba402f5b0&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=CA%3BQC
