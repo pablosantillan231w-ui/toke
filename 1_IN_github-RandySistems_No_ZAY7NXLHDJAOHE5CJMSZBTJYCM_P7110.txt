@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 2, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (5): Nazia, Almaan, Aftab, Aryaan, Anaiza
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEudqieIUf6N6SuSR0pS4vxg8LARXbXyj6vhNtgkd1f79KmRCOwemjpEFF2noLhN4KzgejLYF3D--f-fhGd1WS6sRAzdvJfUVNYn_3An1Cm7muH9ZjWc5x9pLM-DCs5e-wBM7eBvN21em-2KFTiq2FqG
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLnA4hfcvA4ckQRVDOqBHPkCqwubFXRxb4YAkKLkJqa42GjkU-WMBkS9xUxz9fYM1Pf5vAa07AjzMsHhEN-sq4crfu4_cMNvWU_hd04JrQThSLkcJUjcVNilZEaegi3_OGsHuBB5L7JpfzrVVF9V-4V9jd6ePXcAzanmKTLeIRrQ-ICO4vpabvzLmpphL_p1PyVifSg1vbgQ4_rRWSxFzVkp8VCLEmlVHBvyKBKw4hiVEGkiaFp3HbxgbwAHVQTSiaTKZvCePwbVH5ustGYIaKYE0qArlwfTDI4WKIegAqghbYFFvtSRkYP07WTK2u_ZilxdFnipA8UsdBH6Y2YW6zi4x-EtobTdLCKelcArYIfR5jh01ga_av0OKK_pILmLeScJEbALgQ4FgM-8CLCR8Bj-Z-rONM7WiXoO3-PttJ9BKIMb8frO-VEeXAZq3w2i5bMboBKetoIo-ypcK6i4r1A_CLy4tEwCCe-jnJc_uf8Qp-93iQo90HsYRSR3Fat5AZ542vVjOQkmVJ5AzkZ9DzfOMr9WhqqNLDgHAIeGMH6XFyAcfDWkREPhCCKVrGbZun9TuzLUPHM87pEub-53onFOCuGOaUc_3Fltj84jK55hCCLu8Qa7v61WZIpkJ28VSXITIu44bHm3mMYBiIOCgxGAVbHwaXEghOTrbQ.%26ch%3DAQEAEAABABQs087n7N1YZGtUVEIl7Na-0so2m39NCMM.%26v%3D3%26pg%3DZAY7NXLHDJAOHE5CJMSZBTJYCM
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ-TK-EwBuy531NY1btZ8ISHZQ1x6JL6OI.%26dt%3D1779873507677
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+May+27+2026+14%3A51%3A55+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d1ac8e1e-3761-4800-a613-c040b4347d5f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776849370442&AwaitingReconsent=false&isDntEnabled=0
