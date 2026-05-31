@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: June 22, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Master, priya, gowthami, Gowthami2, Raja Durai
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEGsbrhR3j1-GYuIptZ05l_9gMA9mtH43vdR9MS9nVJrWAxu1YUddhYKUTlbY0icxtxUKf3J-OkHIHxj1puK58wDAIZrUHF5lWtHNBGQEiZhmClHNXqcyhDcA9gKg-2IxzrWWIyEQhFAEqhul_HqXLGNO
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKNBJij8CAjh4b2yThRrwmKHrNzZpSnAkbLBAs56lXiIrnWZW0aEZS-SHYPHcBza-FyfgVu2mBPp09ECVHiA-jhOCFAL7Oe5sWkT9k3M5LerqzaivNInrMMhd5WsrTEEc5kD1qG4XU16GwZ69FcmGLXnUpZ5VSh7C2u9uJjA-g1y5SZjc_7xU2r8Iq94NOZL_NQpjqAWRmQyPFjEOIYPF1RYdc1oqGlrJKvQklHtOTv2oh4f-wCdsfiVbi1iza-ln066IzU5M8ayUN0pA-bg3NJbhbZdNJi9uKR4LI_5U4ZzBTQwqskNRbgum6enW6U8pd_nOFmB9LKY7s9MHaqvuHcoNTsZ7lxk2EyF3Gq3PJiyjDh_3jpRKNhFbP12mLJzNwTpiLXEkGJojZnIy4o2XPHJajT1A5IEHDo-9eHErovwHEx6VUuLliY9mH7ezw1ZAlKcXXkeX-qV93u1CYb_5hQHWcYp9BK0k0Ox1cWteQ7J9yYWihDIhlceDANw5aeQfaP8xz1eVebHgGuophM506SWKZ5pVI_25ttpUTvXMtVeAK0eObRkKMx2ipS7lDBxECLxILntgiXaXyrdEWFm2dxYLb6Q7hSDm7pDuZxeDCgJ00QphfJe__SY1uYJ663ZQP7CupLCgYUFClymN-dj0DQDKD0PjM6T_Mz3RmOKptoPl8mJy-YOqDo-keMTOFy4xgGIg4KDLH3k7D1bjnGP3fR0g..%26ch%3DAQEAEAABABQ4lyvIqR61MtiysHNIwak0DRkWyrdl0x4.%26v%3D3%26pg%3DJIZC7MAVX5HU3BCVA4D3N34T6I
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTXvyFLNXhlFjpEUjfm6LmIK7i2wVKbr0A.%26dt%3D1774816040409
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Mar+30+2026+04%3A21%3A19+GMT%2B0530+(India+Standard+Time)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=42266426-f2f6-465c-b56d-0a2196951bdb&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0
