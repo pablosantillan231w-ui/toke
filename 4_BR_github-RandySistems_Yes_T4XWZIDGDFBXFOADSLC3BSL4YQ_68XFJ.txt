@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: June 25, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): YURI, Marcia, Ruiva❤️, Kauã, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN-VcLJtZdkvGsGhJZB68oFgIFRFKSWO5x_6nZshtWDy_-Fel4Lh7QYrGyksdRgNPAgF-VtuuTeSHrKOBqv3rKiiqInsa0Pysq0tjbR8we2nMh9cRZSSSg67D2ceCXTqzILbKCXw6vRgptqcpvyXlX-T
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLqA1JUw-2RNxFM8VqzxFse3IuSVV6MxjNk5cvRyGOH-DLFWjSbdRjZJnYkU4Myt7rW5-Qzp67l9gIGUq6K72UYJHz5E-CvmR6LW1MM-rGXwRGX0pY6J07RsLTMrAJH6gu3SA1FiELxTrIzNbXTSN6EDKAD7HuU-6KYl5eSNZ-3x3qjcSMh8STyBFwb0-aZofCGrj1fxt9unJD-vEfoOipidMATgoHo3YO8qV1o10DqN1eCAEZMTLWN3LzHbOUw45hgz5z4DlULXQwgxDCXwLNXloUyjVRfYVV09D_ddTIUB1skAujzXu0jDYxztzoqYHzUx40MJqjuWou76NippCBZP59yMjX8-3587MGdeuzpJI9MQHU1gD0n3SiClVv2ByZL0okcZLHRqtsuk7sfHc3k0CQXBYAAuIPK0ToIQE36SxSy0uEiOIuS3sGF1AffyuS_QJtDi5WfNXAYjK_X93bugyxBGdGIHlCsWNz_kBA5yY6XvXOKMoyZ5g3YNeGIWGaDwn0GIshFOyIDoj12ggnbg92cm843vFB31T_E_P-m4_qcG2Y5g49aUOfkF86HhyaeCdACqje4vdkrMfJWIMdhCVuat0NVMaWkoNT72jGC4ABuYSSu0gRsVZ4zB8hr1_7aBII0j10krch3PGYYBiIOCgz5zd-yb_6nH5uKLMs.%26ch%3DAQEAEAABABQAis6G8Pw4yA2vRNdlFtSxcuT64x2Gzts.%26v%3D3%26pg%3DT4XWZIDGDFBXFOADSLC3BSL4YQ
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Feb+07+2026+18%3A27%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c0fc54c8-30a6-42de-990c-451c3033a811&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQgRcli3AOINRsOPdGWhJAajAXgF2S2RFg.%26dt%3D1770499629508
