@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 2, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (3): gurjitgk90, Gurjit, Children
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELQH33TgCYuKAonPZpL9LnlgjFnoULPUVnQjSBmU6TvWWBVYPOD4aU2huvzhcXsJ80L3qSdjDqAFU2K_25B0EqE9m7y_OIc8mKvb80cuTBDwXgBJRusSLWEzWwamH_rxVAT6s8fXWK6Lu_U6jsWqu2W-
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKeA2WKEI7GknRkFRErwq8KROpNL1NF4qsqJYBhlwEQ-_Xt130nyZyAUdI5XNBsu4HDeFe34hjj5rTYv3rPjN6-bQ3T6vhQ2idc7Q-bWDXuUvWzEZ8Kkv-hzeSUTbMgkvJ6f-6jXPg2LgOkfSdoh8VlaoqZLHGcZp_4CFA-FKHAkcyN9dGU4HzNo75MmHD-Re6xK6Aj1LXzNY2cpAh2ZR7n5qXQr1s2kjzOPh9pUM3mbdCwKF4t0X6kd_K2VyxMddeSa6nUrMOrhHheSex4CMxLl9SvP463wDc6mXBK2HahJR_DqlMxZsoXr5aMBqF1LqTwJYeL7KbOQul48AIxUAd6jLmjPelY4mGpEt-R3GcfNRCYo0G24s5uz67Ctk2-fnnNs0GL7UwnWVAk3iQug6sL_CIdINc43CqwmXgjxSorYqRphzwEXC9hTnmYUXolsg52ZDWOgCBkaZuM1BH8ba9avVAJfwLQWfn-gnFX2FMFLH3gnfKBR4b07zf0p3N5gCrsa6VQJVTXmp-03LinEN3Dd1CXzisjUjurU86GYUuxIxgGIg4KDOvgc9cHV7NY41n70w..%26pg%3DOT4GOX5VORGOPG3VTDQA4KOP6I%26ch%3DAQEAEAABABTZZiPY3WN1om4SPURy_BQzUDzgPoF3R_Y.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Mar+13+2026+16%3A45%3A43+GMT%2B0530+(India+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c1813c7-70de-4826-a6a0-c59dad3981b2&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQ9IB8oLN-iHDvypZ2bP1Ou80k09D1Jn_Y.%26dt%3D1773400539972
