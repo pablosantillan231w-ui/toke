@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: PE
+Plan: Basic
+Next Billing: June 30, 2026
+Payment: CC
+Quality: HD720p
+Streams: 1
+Price: S/ 28.90
+Extra Member: Yes
+Profiles (2): Chill, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHyFa-5LRgP6KC_4Z_XXovFgdsJf8VnMz5lY27siwQdbC1LJPVU2gopMAr2iXzYgQ6Zz6-aCX9kJ9AoEc7h71ZmYEVJYIp94D_xLyyXTlVon9msdFVtB4_2K6XHyTyiI3TfmluJbDVRteacEtEba_ryN
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLyA4stjGZYZBlkjcb2K9PK29uC4Y5gQXBzjjejss0WZ_Zv0huej71qWjw7L2Jnpf_cNpoiE_45raYBL63iGQg9Rc5J3qHFnrLsl8vM7Qr-MR-Nx5VP9o6Y1pRjzJkwPzSZaBCwVdJ7KArcYrhEQUqYS6aAFWcg78dxj6F0pvQ7MTClUHj83ge90nwRokk6db0TdIFJa3r9IiUxlXJXTisHRxoJBVVS8BXg3oVAWk8IHo-hLGix5HTTy7S4aA4gAG3cUnkYBPHX3SiEMbMfqXbWkzZgbG-vQHB7ES5uQJ6llWOn63cgMO6PbZvpz6iYGcR85woPtuJEyQThCBMs_l44zeO5FClL9ttCwPPFz2S_8n1dysXPLMGQu3TkhYwkfEbT06Xsz0pH2n2MoJ41sk8k_fNxnhgLzfJ-z7m3mUejxoRBBP4U3W9BYzZAu6DSie7ZJ1dBq3yoyT0p2keRQM8LQ6xykHtTvP8yNfnEJ5X42bg5Q7x_IcH2b5chz7i1jQEenqThFvgq26nvsOv-Feu0Wi8E5A9LDc67KHLt6knnfzJCY4k5bE267Mbfysc-I3MTpVO49huMKucbJplWydkuOZdViLN9mor8Cnhp3F5EnMfdUqxgt2PZ8UNie97jE5V5-3yIwTcSqsGqyaJGEx6g_lSUHhgGIg4KDJTTG6qaGUYD1s8lXw..%26ch%3DAQEAEAABABSzcIOAn2TaSnwdEFNn61RV5MbPu91ITPs.%26v%3D3%26pg%3DRZIFSBPVW5EFDPHXNBFFI6V66E
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Feb+10+2026+20%3A29%3A54+GMT-0500+(hora+est%C3%A1ndar+de+Per%C3%BA)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0a90a369-46d6-4b7d-9554-75c4135a7ebf&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
