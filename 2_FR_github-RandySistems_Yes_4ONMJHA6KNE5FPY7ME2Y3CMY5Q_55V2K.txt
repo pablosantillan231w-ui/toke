@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Standard
+Next Billing: June 27, 2026
+Payment: PAYPAL
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Extra Member: Yes
+Profiles (3): Emiko, Mitsuko, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEMtBOxTRWNFjQFCsnKDaytJgYUjU5FnxnH_a6xw_CJeASLw-CuDgCT64eAdpiPtIkSGPZQ3rnfTYYUODs__ETZAqvxZNM3SOvyUD8zDRFDuJCmUmUSO7fR2HL2JTsDpwXuRT0TDkgVs6OwRjagFPo5bJ
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK1A5sPDv9SiLFYgPvdjWY4xNUbJCab1bH9Il2GmiO75ig4lTvvgyYq4jL0N8isOvz08U5NxSrrpAoOQd6WV4OCRMvaWLOtr5KLnW76EymSu0dezb0U4YXe-R6vPCG2LXiRGZB4qI3WfwaKdjdOgcoLmGnbVNOi3ZnPF-D83x1CHpss946Uw5h1WieWrFFToSm8XhQ9WyzCIms-I6txo6VXWkqvf2SbWEuKSjSznKD4ricp-o8mgy7QaXJtBZLeDjY_8EeJ2C_g_PefMhS13I4aviubiBjRCIivmqXuK7nsYeF6MlxuUW4b35VipQkUd07GyI4Im7aJEGc_kufrAOgw2hsENyxu1egxzWizuIt0QweE6maOIvOa7Nq0ZlEl6Myvz_KAlwHDmRK3KL6FMx_Mxj8yRuO4kJHMQQafqoVE-7TkrUwWs0ybQpAfkmA3o_7lvZEOlo6ARpz8Vc-4sKDk1ZmX3Y77mWxRF39oxni4D-2B-rPY3xvyDxTt_HrmPQo5tugAzYwpHaNp8H3UInnd6vZad3JHV09wZAtRB-mxMHedu4sHXuywR4ZhgmxrPHS9jw90_6HyGAYiDgoMKwpqjcvRph0sNIL4%26ch%3DAQEAEAABABQd2sUcRNKh2xm7g8pdafXh-rwDWJT8nzg.%26v%3D3%26pg%3D4ONMJHA6KNE5FPY7ME2Y3CMY5Q
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+28+2026+00%3A27%3A05+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=3e93853a-0874-4f4a-8641-a30ca8e79976&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&crTime=1771711958486&geolocation=FR%3BPDL&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTaYqEMZiR8STPcgmrAb4Bfn6E3qaCJkY0.%26dt%3D1777328807784
