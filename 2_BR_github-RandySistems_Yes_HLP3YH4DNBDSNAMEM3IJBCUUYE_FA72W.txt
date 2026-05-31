@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: June 12, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (5): ET naárea, Carlos Cristiano, CRISTIAN CALEBE, Cris, Érica
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxK6A_G5x_FnJV0DTmgqK80GpzwfFvwKp--ir059G5WmQHa92uGMdXdbd8NS7sxU-gBHMLjrDRCgFVtW7cIrkocZ0rDUKKCKad4XrmMeCG8pWa3PzIo6KufsNNWIwLHvEp7a3aeMruGeVy9BMzDgqWnVysW5pxDHyQv-A1X4ODYLVpD7pCPX5VArjGgyqNDfZ-khfwE5MmHE9xaRRfTTbrj0Rgw-HKpMFdwjeZNbHZaJ-9O0Ny1ozC-ctv5nh4YocBkq1St8drwzcbcEEiEhB_4vFSmbUeuabXKL7jCrT6WIKGUYVvVEP9m2l6rQo7vcWgAZJx_rga6snfRfP2qiKtunjJwo-DxJxRRyCC2P6aa30tEWPM2pJokvDdlaRMVVZep2gM51Iz22TUTZ6_cagObOX58s4mLBnpn-iFJCTCD3wmBMtFvRy9cMjFQwpeqinNBPdCD1UZ6RCgpaP7WPV8gIW28ogT5z7CRNUeoSS4huhoHKjFCpjZlZPxJJebK9Au_QfVapPooKa-viVUdVYOUXHCUfeipItcuqGx6WnpJdBVQuasaRNYxM1CeY7zXgTQ_v67_l_LDqDFrmqCgYBiIOCgykSPpj3khXo23Rhrs.%26ch%3DAQEAEAABABQwNcUYTaMBP7YPoGvZCgrqGBgcfz1Zv-c.%26v%3D3%26pg%3DHLP3YH4DNBDSNAMEM3IJBCUUYE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Oct+18+2025+14%3A46%3A06+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2eab6895-de08-4605-8b38-bce0d2d09791&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BPA
