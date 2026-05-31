@@ -1,0 +1,19 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Premium
+Next Billing: June 25, 2026
+Payment: AMERICAMOVIL_COLOMBIA
+Quality: UHD
+Streams: 4
+Price: COP 44,900
+Profiles (3): Gloria, Samuel, Carlos Mario
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEO2gHIhh8GoEFX-LOG9tyaxgY27zcrGbr64cgXquLC-ciELBNlyFkzMQBa35YimDaXtvmAMfi78eZ2PXQvYRc9lfW2JlOHolBjswkmM-A10cMP9t6ipGFitdGthWvYpHlYQRtp5o2SKHNk4KNltAAE4s
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLKA9HNN-a57ZgOHJbUA2VSaFSffcYdF2_K62_D5uvBd-LtT1frF6dQVeVW_9wo9beRocDUE2H9PxLmYRi5hw8gKqymZMCvs0vazlgXQBeGZMDBDQjh8bCJWTKqC5ZJ0X9QLaUB0sfeL77bwhZiGsO9F0M7rNrZXuEBQgXd-Xz3UdU_n6oOM8EcMihjpBARZv8zmqin2o2hTF4m0_ihN91vZrmswg9mCOG-52Edr4BQHUEP_P2-nUl3QWfS6nQq7Afr1aApYVZbM83Cpig_pgo1OA9SQzYP4NfrMvzrC2cyonbygqhm2Tqet4cwlNlOHalm2XHvWYw38XXt6tYt8npfF_XdviZ7t5cpcbym4rzGtQ_Rbh2IfKlTy1tMeVrqksCZyPdNzdPmEvd1TL_CxD8YUthZa0kTFa0ve7_3HKw5Xi1vVpHKLM5if2fFQSUystUCPqwEwQ9ZvdGAEBYd7yZwwo5PcK3TGDxg8XpvU7SpAK-fRscBvvdgY2msAo1EGM4knWPKcWn9vPK3kP8lPJzIvdHydrGyzWDvrggsX8l_zi78SVru5HYOoZfISdTToX2lLahjXNyrVT-aY_L0-tVzN827rPZV5IXorOCZGAYiDgoMGecWP292msP-9ptW%26ch%3DAQEAEAABABTbNhETLWGGgkkhcar80BfQsaJiBgh6Vmw.%26v%3D3%26pg%3DEUG7EE2EKRFRLG5IQCX5LTQILM
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+20%3A35%3A48+GMT-0500+(Colombia+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e5f796d4-f174-4e50-8a54-5105c65d6636&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
