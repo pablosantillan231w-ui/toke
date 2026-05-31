@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: June 12, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (4): Todos, Neia, Arthur, JV
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENiJIcAdGV1uN571zS6LzGxgFa55p_SgrxTiDKmhtnYJPawZ6mTvAFjCzC-dTrfz5m7nnvzeeIoKPqxSVJn_783AzI0lydg4gWnvG3TJGQZtE8x-Gd_XC-hx04eNWSwP0ZT0a8jrF7uwTdu_PQYoQO4q
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLBA-bXPAun1sFhwC_zL4_Zu-SIVc8kHDbAxirL30JpW1odv-9SpjmMcRPEvuRcb6PO5Ut9_BYdHM9sXA42SHg8HrMCCmtZRBwSWRSwN8Xr9QeAayDlJGQ78yGIgwD24k14COb_6TUeruDzgsuYBE_8dU0wWubfKV_LcmXRx1H-bnK38twLTsfH1m75F_U5wtXninWQdp2nOHtkw8ND0j2Ifdqh76gx3m2dqi8sLsYekzM0fS5FSGA2EpVpQ0Nh3OzsMdvObkoNIrXhdSgrcCmZF51ihFRzHx-alp28MsLfFw9PL0ojpyowSFiCBkXPGX7I7E20aDGOTHy2t1LCXpgLq9lnQkjDa82Qzp1eUBzaem-sjS7PxPQ9cmNZmQRLu1mpEBxGZlAgL3SCf0YOIpjB81v34uBoCYjWEAhgb25dcDQGPT8SAkovceSP4G7iCkwKTYSbVytO895zhx7mY4P2NwluudJoZC35X-7DYdstUQCfUkeegvuoyqX1A1N4l-oCZbJ_PPKUVyrn0qAMY92oI9te1Z4sHglOzADfiBtiErWT3L5e6yGNv2Og99oXjVhFNLry0MtyGTj1M8_Pma_Q0d40GAYiDgoMT6Z2aGnp4DbOWAuM%26ch%3DAQEAEAABABQ_KyIv8TMXGpnklJzwL1c6g44w1BOZ3lA.%26v%3D3%26pg%3DQPR345EIRRDSFOYKMYWAX6HWWE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_L8chYCu6Hzpwyi36Gc8fOXyNn88pexQ.%26dt%3D1773516714069
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+14+2026+16%3A47%3A24+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8312a5d4-40e6-47b4-914f-00f5427236dc&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&geolocation=BR%3BBA
