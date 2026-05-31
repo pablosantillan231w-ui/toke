@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: CO
+Plan: Standard
+Next Billing: June 17, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: $ 29.900
+Extra Member: Yes
+Profiles (4): Valentina, Gladys y Aicardo, José D Val, Niños
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKHA6UgL0MG7hoWGqfsXlR6b64JRN4V5RgS3apajN2SAjQhZKr2AixXlOHxKmeCp1YeWyaq0l8vECtSJhYn1rxeKqAJd1lEAJ7RS3ia7-jgrWnyGqcs5m3FwwxXOr0eSy5pLynpgvkMyYC5Pu1rF9K2iHdaMdCWcCKfdzhpY6ELYsz_eZxRbNgbT3jy0YBkfWdueZFtQ7PEy-7UHeWKh_vI0osT9KaQxFjj3riznSGpbrcE9bPYOqCwNhNCD7Cz_69g96XOnc5FdBvLyoo89vrA0fi_tjybrqp-GsmJHP0Y2jJ1F--B_He323VhukWmfeNXRQEfMmtiPHA6KcA6QRPcppOjLT-V1TwUYK_Iab8Ri6-nARv4wGiDMeUtPbfih3vL2m_WU1CevH9NhfxKG596y4QUXMEJPT9sMgL-D_v9DkW2J1ekqy7FCawb-4bU6SXAYHJjhlUfJUWOz5Jvkh8M_4tYuOHKdEwRt3I4k9zyIIGbnWRDtF0XH9Dlejv__44KnCf2oKK4Xt4YBiIOCgz7O7f64ej-oJJNmg8.%26pg%3DZPYQ7ZW3RNG2JFRZIHL3YNRMQU%26ch%3DAQEAEAABABS7Za9lfIoxuO_xjLOU1UINwg5MfuQXuXw.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTZPz67eISoW1qafm-io3UDpevZyCiP7CE.%26dt%3D1771556749929
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBcFVxLafgM_RLf9gwgivnZgaMcS9XbOb-f5jfTbbI8lHeeSx0E6yczIKyvaeINUMNF0cClqLDzcmBd5bRsVckLyWXhhErve_uyxnE6smfi5VG9zFjnZVKh1KgrBELXwd9Imt_4rFs6we9bf0HSmh2nR
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Feb+19+2026+22%3A10%3A34+GMT-0500+(hora+est%C3%A1ndar+de+Colombia)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=08d10625-e8ba-473a-b0ae-6e696e9641bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1771557011021&AwaitingReconsent=false
