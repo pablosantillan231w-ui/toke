@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: RO
+Plan: Premium
+Next Billing: June 7, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 13,99 EUR
+Extra Member: Yes
+Profiles (5): zLeo2004, copii, Farmasi, Bambi, HATZ IOANE
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBpClF-JquOvs3pCDS8liKNgZrCV63C_JdAJvdeXLgWUo6OfH9uSr_4iz8tyfjWt2F06lB-IaEOP2Sjo73ku7A7YJlx3-jJ123aYgbob8LLzGbBXWNb4funshZGs-iKQsxV2xM3ffGIulUFkmYS1P_KO
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxL0A0MFm8z6cwG1Xk9xCGFoVkxX40hv_WRgC-x2mxR1hNGN4nKwIrY0AJ74KQ73qY7sayWIVGCsRbDar0xZzC881ucl8iV5lH2LTlxk8bwjETMshtXMpBMRxrNW2p3BSFgCZYAYpQN6d26N5ac-QB2CnUa9AVdq8egL_9nEVf-BmmVqGbWIKsOr0Tx6rM8UJKbhNLl8ONI9lGJegw_ceFCrYMfcCQHnX47a72jc_fQJwr94mfcmzdj_dMu_GXObUcSrMvT7L6UPyOii5IcW-Wip8RHiK7lx6_i413YNzu8MFKttKHENZaJ4BCj7rKlHh_TMYQVApJ0YL-_T-m3q36sdNB47aswq13t1kD-q6uO_tlf652aC362jbIGfwsf_qB5kb_cSvBcevnR7I06ZWUoQZl1WcEshsrzKksjFPCoKKHRyzrbS0_BCY4wGAVBG6QLplAsK3pQChKdCkC9KLG0TzF8XZUDZBdC8znChg7Kawjl3QUpCxPhdU3-AeCBjkxll3xO2qTIVKBbvWmhZBTNZQD2lEK3xoSL3UYseZiGS2nXywcdTPD4hTvqqJXMWkS-KvN6Tew78szfMCkQnEP-NDJO-F5bF8230soJxgJywZY3ytu1_rtNbKFNheJk0ewTQQNxPZJvWbu46pJzp2uoc2bdfDi-iGAYiDgoMUyxkCNu8o8Ro_lui%26ch%3DAQEAEAABABTdIeJBGh1NmEJQRIaa-_y-02uMRPiJDpk.%26v%3D3%26pg%3DXHRM7H2I7ZFQ5PAT45R7RBCCGA
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+09+2025+01%3A06%3A52+GMT%2B0200+(Ora+standard+a+Europei+de+Est)&version=202508.1.0&isIABGlobal=false&hosts=&consentId=0701eb20-d45d-47fa-96c4-918fc4e55182&interactionCount=3&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&browserGpcFlag=0&isAnonUser=1&intType=1&geolocation=RO%3BMH
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTfXEHFuWkocICeaVKMUAU-ilmn9NKWsv8.%26dt%3D1762643209972
