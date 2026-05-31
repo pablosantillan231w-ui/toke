@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: ID
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: TELKOM_INDONESIA_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): oemar1030110, Oemar110, Fety110, Khumairah110, Alwi110
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEHHD0DaI6bPf3_5O1pdHawZgiNw0n8gnjIvJYC1_KGTc_Zs4qZFWtZnpVV2pDCkwVf9wZaD5ebkI12vLEcHmcOqZyxxllIAWUN70xdG1ej7169WRDSO7XHFMbThHwWO437R-25vZLFwyt9MxG2O3KnLx
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Feb+18+2026+19%3A47%3A28+GMT%2B0700+(Indochina+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=00a3017d-d788-48ee-adfc-de780e2e4cb5&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKGBJLjTvRytI3JbLadPhhhbHITiKByLLnMlBm5n-3JkmBOxX1sGW3YqNbLbZTk1H1iHcf0jdAQoJeliCjrHTLRBwx0DBTp0iL7Wz515ns51kOYHB-wDyMuf0hLq3SvRaCwDqeFOlvMRAQmPXjEB1jn_HHL0Nj8bbbz1dp6UXqT_K24aWeQtB9RwR6yz-QrNl5tlXQN-E3jcYWFnkWgmXkyntpFu6a2EsXnp4sn6h6mpP_fQ8JQTE9n7LjZPrXCzle0RJBWslmocKvxzlNJNCOgRo_q3sdqPs9hcr8m0l1BhElRkqIX6pPMyeHZtcIWKPf9T7PKXpdPvVBA9E5T2FPuYVYd08ny3RzZmwGkMBj1gAEdHALPWmEsdCbIJ-GoCGhUG34W4hbEo3pwE4mTMrRsb73sVm_q94Nz5SX52hD79c5kF_TVkbObL6m2EafzxR0h_JGN2DNDvkub1tXd4ssMVITqcwq3Pst_JDbxxbuM4EuKurzhISySp7o1LnfXHqQ70jbDRXAtkAgPfIDn887U4fo2B-_DISA1xTxieEShMk8w9Uh1Fv0jsNDIQQ7wLqPMEe5tM5uUbI8edEhV6Ou3E5JJveFox_FRNivh5k_RkFsHeIig5K1NPH44aSo1h1kpz-wrY3k1DBhlvfxmYptj7nmCjjCyX53sGhJy2tpcOTJgvDmr9uAuGAYiDgoMdZ0rHs0ZKLmjX3Fb%26ch%3DAQEAEAABABR-nMWyRkzvTgTsiqWBelq5r55OhkouJKM.%26v%3D3%26pg%3DDOXTJKO5GBBEFLIP7ARBR7SN2U
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSRNiisN2Jdww02IACMUkgI_7Gdk7-A0cc.%26dt%3D1773191134619
