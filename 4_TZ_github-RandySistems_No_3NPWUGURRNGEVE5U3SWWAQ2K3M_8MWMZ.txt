@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TZ
+Plan: Premium
+Next Billing: June 15, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (5): Shazmin, Abbasali, Adnan, Chols, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEkRgrbUcQAEMjSxMi0yglZg601mowDgLLE_kOBi0DwH9KBi_ZqDkEs3oHIoQb6yAb1GnP_uZbiuWwrAkRGsouEG9ZAyQqQiz-M3EX208xa-7Er9WnJuwgk4mltpTCASDzORv6-cVHSqpDe0fFfwKvMy
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKBBA8EOw9-lFZ9nvRVK8eS9FQmlSz52Rq_eMPST_s0kdmgD8hpAHHnOPksIe78dEYfKEpY65gj7Vo4-VZsEr972IBUhPKkSLdw8WrGgw6XuQD5mPNdWIDmjcLJTC2WKrz8UKlP-f4PGWWveWbnWQS9QN4_086aqrOlmVaOGAn59UVkCmcWbdMua4amTSvHUEr8frDcV8O1xjNe7LC0UmJepCtYHSWG6F6wa-YCwrA-mLXxbZcJPP9Pwtdj3AsDpYX60pcRrwT4zKFUBlH8eK00oO_UKB6euTQnDSw06OY6l3RiZgsCZJ5OGAe1EM2j3O3s1hhMAvqLT_tdr6-ncaob1ZgT-kH1a3Xd1tkHh83jGf5SBd_S_ahtsWXGh3hctmCgNUXselod7aAHkGfT5UxpG0Ie-EFWAkGQ7kK6LoYYAMGEJNaFFnxQfyNJS2fNWYP1jqXRHR5Rm3rrNiJstlHB8gtwxkzdHwbLVqqAy0lwsbc_ZOLzw8FVjCEwvi2djQ-J3KfzWEQy-1Mx3AxbfkLdXcHGE10HfxN91tCdqjZIMBjg3L3RjeJLnwbbWNGgUCe5sA6ihH6LiPty__72mw02a-k1tUOh8cs9xqsqq4hW6CspY0cWw4Ez4hdxvN8HTQT61sNGYCKkWlD8HUVkMgKhufGms42vK9gg96uFVpvyIQMYTxgGIg4KDIk_qCiTsV-D-swuOA..%26ch%3DAQEAEAABABQ7EhVjfEPOCd7aIOZ46LmGk0LlpQPn1qI.%26v%3D3%26pg%3D3NPWUGURRNGEVE5U3SWWAQ2K3M
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Mar+24+2026+11%3A50%3A58+GMT%2B0300+(East+Africa+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e3dfd51b-5516-4ec6-83f3-8d836550dac2&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQlQJplfQWOFjanCja7jWZ4l0J-T2kR2Yc.%26dt%3D1774342256336
