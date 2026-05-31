@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Basic
+Next Billing: June 9, 2026
+Payment: UPI
+Quality: HD720p
+Streams: 1
+Price: ₹199
+Profiles (4): sonag29, Shelly Mittal, Anime, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIzF8bIZhT0U7fw56B8zpSJgoPEO7VlByLbMVQV_Ia6aKkKMJKWQuM04bGNByjVpnEiPuetDtujNBUNjqGGKjvljSYrMA88QmfCbRGuzz-QtAp71m6C-UnSONvHBwb5fpkRq4d9m6EyGbjuzpHfXPlAO
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+02+2025+00%3A52%3A00+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1f1e6448-e3c6-42d5-a9ac-6568e30e05f9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTTF9URDKxLEgy-nYf6H00gZsxWIcxWy_A.%26dt%3D1762024914205
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL_Am1e7Kw1pfY5yFVW5f6ogG7yo148tnoAYDl_NnE8IowYhkYSPJWc5u_8tCyu8HLOlVlrPc_S0dfCeQ1sG4_m5ALIc6oKM28hD1mblfwUfahd3Ug7dItqJjuHZ4T66_zuzOXNtnoZux-TajiSupY1xRugvz8mHK4UIMoflhB1FsbUdf33aK2RqCkiRpUAgN7PHNeeC4o4jgekLwpw8qYP-jOTIQjQv9iwu7vaCJZVI0_RgZcc1e9k_rJmNuZ_4JOjS5M3oBpg-UDrOnIFGqzcCvTLKswzklvmXKv56VzyNsoCWS0X90o_ik1ya7l40cC2CUYeUIUsZWB0tJ9FjwrOyzDQZHcfE_roprPhR-0vb7yMH46b34TFn5GvBDsmWEZpKtuvcSS3kgdZgw8gXjVBGHli9Ibq_dA9lm2pAIA4XctDAMcBFJWqdSbmNb-CWdvJ2mbvWnU96Dx7OdXLXxF9_Y9m2DoNbSqzEQBGyjUpwfpoQnW-xE8BrzBNZ7yOQqvlGAYiDgoMUWl2xJOdhH6k9_9B%26pg%3D2GS3MAASKZF7RPC42IOI4GIOXA%26ch%3DAQEAEAABABT93q01fJBT1AoyVWp32GDyPKFzh_LPgXk.
