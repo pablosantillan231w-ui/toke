@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Standard
+Next Billing: June 2, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 289,99 TL
+Profiles (5): MURAT, MAVIS, FATMA, HARUN BERK, ŞİRİN AKGÜL
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKFA-VV1ViFbpdjFZVvCJ0Pqes1z6CW6W50IOStskZUoYszuOP7l6X1DjoWMTvRIHln4k8KwZYXe8N8zHmtW8lhjBHbigR1B_Abq7fc1T-FgpE_TrS-jFpvgNQH63GmOYGfQy1HjZ8J8SnJGNW6HVqXEwvkrST6NKZzNriZaYteXpP9-1pECvuCUmnd7CD4sEXbiw-GRnfTqdDSLg2zyoa5iMrKW4hpyUqgRueb78g5gDPc2Ps5W8H_rI3WcJRroYVEvhFnM3YGSA8em5k9ioUwR4ela7HCvbUKCylKaZHSobiOUYgsVEQQJQexAUvF6Exu6ZMzbi2z2y_GvYj4PFlw5CZ1GkrIIN6ixBY5dJWcxloRV4l4zv9HnSqbujZLgWfhbh58T6yJKKsdEmMUbq5Moj4WiBaFRlSp3X1L0DZojDhsytHqaYcNeTtJmGygAM2h878Joy7HOuEteNY-ZknSH2qsk59XEtPsVH41Ykr7u4HyitCwpEVkcUfFakrWqZkWjc-wyNmeGAYiDgoMpB9Xf_15G64Mtt_D%26pg%3DZOVKCZEX4NDEZEXHI5256KZZ6I%26ch%3DAQEAEAABABS1Ymly6Cw6INfc7Iv0jnTk9ouOD0oJovY.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABStESi0oX5XP6EtW_LEqadmDvMWNpkkTIY.%26dt%3D1763918630726
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAgP-6DiSqlnnuQEkLyHIdZgCgA1hivz-xz1aAHE0lAp5B8dNl4HoDJk_yCE2VTK6ZV89nYPoQk2-ldWAWvUb1U1dZl7eZVCvL252qZ6qMHZOo539kHwbQ-WXDlgV-TF5EdVw8RKvuy5TdGQmPPWnuGY
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Nov+23+2025+20%3A51%3A34+GMT%2B0300+(GMT%2B03%3A00)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0088549d-4ef9-4078-8c3c-82ade852dd18&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=TR%3B06
