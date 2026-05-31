@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Standard
+Next Billing: June 3, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: 13,99 €
+Extra Member: Yes
+Profiles (4): Kenia, Ismayla, Katy, Braulio
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAWnLnYUFDEny_XwKNMyI8hg0z3wYGKrbRR7wh9qjp2CaedvuqDx32itCDP8v96dSh-_LDoWhqM3IM5dEtBt6l6wzd0NkYDY0m_pNdYXflJwFdM4PPPdH7undxm_b2cIgM2qLQyl4DNmwyOBZZXwZfec
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLoA7CkN2V9HSNIRcDgg5l1MRb-w6UEVy9duP3PVQziW24Utc0obMRpqzcmbg3a9lOPtTH3yrY69EDMPdP6iT62K2yfdZjwfGTB4wRCnH3LmjEGLBGq8F2g1UTgFDeB5NZGGvvBlPxNfLLsKTRJ59pKQdld6AUb3CDvI44gE2bF1M48DzRuqKR9-BnoOJjgSoz6NbjFntfBAGhHmKEPd6GGmcuzAgeHyH3YdfTtWG_NVVLVrU95472f6WlmNQV_Z76lYQ973ghcVYIpeEkPEzQjyYDErY-CA22h7y9D1S7FrkRk6CBQjyaX1kzuLEQRG9kJs7utB6vqNHwwhnNRkd0WbapaYWQmLTHegX9_M93SmKideOJO63t9pYdj4zy9HsSHfimCYjT-HZkfe4F3E1Mw0h4AcbPXK_jmM0JdezePqZkJYnIRcVTKYBuMOpntYE39s5Fktl26jzlre8tD29nUzEUKpcKRjBfCNOoLQ3a32bQbgg2vtW6oGrkQHUbYX2OM3r60AnfQMhZathCqwDnawWJ5Ti24RWH46als1hxOtGt6_P8rT6PxpTqzg6QqWC17G7MlKjkD5I5GFsrlNENjRPKO9-SC6o5_flvy25VIzBmvoTFuO8XH9QcDAdgeXrn0q-J2c6U6k9-FGAYiDgoMBt2hAWsl7nnXna2W%26ch%3DAQEAEAABABRwJ1Z6Dq_KMyZKg5949HMFIUuYPjqZTz8.%26v%3D3%26pg%3DVQPTVIOOTBG2XAXWEXYCC7HR34
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Dec+13+2025+17%3A29%3A35+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=edbae21e-b17c-401a-ad73-60240a4b51cd&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=ES%3BCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR9cK1nzZxA5ArH1SXuSF1hsKjSRXHdloA.%26dt%3D1765643373566
