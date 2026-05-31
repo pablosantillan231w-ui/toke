@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Standard
+Next Billing: June 6, 2026
+Payment: UPI
+Quality: HD
+Streams: 2
+Price: ₹499
+Profiles (5): Karthik, TV, Vicky, Uma, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELHqVWOwAon6uVqsjmSxd9Vg0nXZWTOpoy-sQfl2gA0NH6Tetd-ASyShGfdXn12Be5Koj3pRZxJvnuSEpUJZSNb4cewcXjYZU9Apg-TWrgxqE5Q0ZM7wdkS0rxOa3zptQiwxUjGH3RcINGK2s1a74T81
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLSA4h0zeOlrBbIxR7R1zj3sjHNpXfYvHaDtin8ylepz8YGu4Js7coV8-PS6UtZV5gK1aEv8JZzZWfb6yxU2KxZpddCnOm7hEgEovNy6XI0kK7DW1WzgJ3mCyVdzuUSRjlkB1due2_otyYsRl7igdARRPpo9ECHt-pPmTdKbzrba2arOEEBp8cOIM6Sh5Jic3NLWtLq8I25MtWY2mk4CJWmqO_oPWq0ucVsmjog_tXAWbnTlfwTeHgYzL69ZvFOX6ORKWma7SoZHlq18cs4C3iGX9q87b4LRusQITpvW9jHUl94_tsEj5axUCsXQD8PIQjUoHUG32HhZajj8ttEp19HAExl7yDApviJABASCf2oAlf1_Wz7ekVj6nkJPA8vJ4y5cf3YDVjNTyffiBGv_0yBA_f1jszGqKZUHjitX0E2hMbRhiOA3wixS54wbWn_WpKsiDk9pR3d1Xl-2KySO97oCQUnFuMya1qmAKM6GwkLBe1BPFqjEx7epu6ihMX5NLpn96vuRPlvWP501EDRUvZJ8ZaPLhzMKy5tA4l4FV-AH1it5T1Fqqyp0ZyCZJoz1fnrJAkcXe0tB_cRrvv6yRQyx8pZluNwyyZKzMunIVUqR9lxMGoYBiIOCgwVunVoT-WBsjQszZM.%26ch%3DAQEAEAABABQgGkltCMIKXe7m8Hm1xeSDzUUyEO_NQek.%26v%3D3%26pg%3DDQRKEZPWHJBFFMKVMQBDAPSZC4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRABmOzuFQSIrcLmqMDdQNzm0PjQRYsVjg.%26dt%3D1758881067893
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Sep+26+2025+15%3A34%3A31+GMT%2B0530+(India+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11704b66-4cf9-4099-a553-805922869525&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
