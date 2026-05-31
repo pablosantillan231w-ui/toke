@@ -1,0 +1,18 @@
+NETFLIX HIT :👇
+
+Country: PK
+Plan: Premium
+Next Billing: June 30, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: PKR 1,100
+Profiles (5): Rogue Major, Guest, Osama, V&V, Hammad
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLmA-l5bXXcgZvnsDQG2-842k_YULwbm7FXtvW5dsKQT83GY7OQRlHggraDtlCStNp86M_HRvylQxDoJfjwX8brmpQvhYRiv1Ounutr6O7NbOBZ9m7PQbVMIw5rRTv6w8RxKWVE6V7fYoYdSvDkZXuWxarDazGT5lSllC9LSVeJT4fapxVfFTEbZMDqSzHkPI8j1I1ylvwZ3cq6uwH06OsijEh380WYFBLzzrIaOtIRRdDs8V47coiT71EoBkoN1nonx6B8FPnC6OZ-y8rsZ_CnX4slXoiRy5_NwIOlTIA7OrtSQji2kXZ9wGm-Iot_oVqFb4pHkuYZmuv_LJgbwZ2RHcmAzYnRQ9H2Z8_F0bcONJZfCs6VDltf7XZHroFdcaV1J6BoEciNmj74p0Ha1U3dxGaaRISNcPTV3BZz2Zpl2IG-ChWSP9CkuSG9M2XUfUdOCPowQ-suQaVJ0bWc26MY4yrEqXYGsgnkvI3Y56CkeenIPYxjKlf-0sZgx-We2yEobVqCCmxr-HGHNNbER_F_FIwhMwFEgt-SNlIAogj5atlVnO-BpCSftc8pYJhJQ8c8f7f2g6ORolxbteX_wKcZhFW0IuYIs3KxqMlf5JCKz8lPFKBk0v95kwvmv39BQgyr6xbErbgU6BgGIg4KDHXkbiN-pilz5rMJxw..%26ch%3DAQEAEAABABSFqmsNTj7z7c2a_dPRd6SsM2p-yv5xtBU.%26v%3D3%26pg%3DBS332MAJPBDQJPZNBMDNKNXO2U
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR8vwJ73NjyA5OEZds6JaV9kQ5zcoXtAjY.%26dt%3D1760344037655
