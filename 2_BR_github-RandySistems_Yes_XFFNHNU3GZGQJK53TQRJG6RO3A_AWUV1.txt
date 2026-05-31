@@ -1,0 +1,20 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Standard
+Next Billing: June 21, 2026
+Payment: CC
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Extra Member: Yes
+Profiles (5): Thaisy, Rosana, Rodrigo, Lucas, ZEZA
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEAa6ZMMBn1DIQk6I7nbpkV9gOA4MC3peRmRx68QZdbzL1SmPOCzfo94TgE9lOHSLkmIkWxflB2zuCm8b4WmR3fy4sE2EEJFHI415a9jqwk1mAIoXuFo-6S410lePKP57zn5BG1ULiRJQKvkfLU8o1afa
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKDBMcbX2MqTjKNYBetF0DWLOkQUWwucf9VNKDe0Z5MBraF6CKiVxBSBiBj8dEYLbrhT9PFBJof39PNJNeSRMHBtKlsljfjNlyP5J5xCuCvjo6vviAx3LtcNbJtbnlOBk3fPd_1yvLsQ_K02ZNf-URK3xRbDyyx8NNHYtPOKotIs6ZWthigZXePU7i1wV6a2ktFYqxAhMJKzlGPkMkk4nuGvkmJW6X2sM56mRlEsmkFiZw5tKYNZbvRyoyouNWuFEtykXS1VXGcpaxOm1PYFjANIEkmOxc1udeQUfXnTYj2tHiC9KB7DpcyqPI5I8TAELpeQv3f0jW6gcmYzm51-USzsfyrzZTcwBYlrH-uQIaGNiGccqL5uXgBx2qR76r9EpC4STo8AzjrmLVdCXbfHc-pf6l0BroD-iip7PDAR8FFwfLda2jvIbLuHuEL5YbWWcU8t2oK9Hi4DStSDYlLvxPNQXU9xWMTvxpFPK7bisBnpAU52nB_Xx6LKqWxY4P8a8HeUs-iZw_NHsyQih0c4WajH7Sgr4WDYYv_O9KtD1GW2GLqAdx16VArhYjRbOExQxo3xCBmb2v5b3k5L4CciDrHjlejM-u0Eg0M-eVwrq2SCTPIf5cgw4giyKe5BeTn7t09KZvg4cq3MKBR8SyA1btEOcpaYhrmvXnoLgRD16W3K_wyzij2GAYiDgoM9YWP950F_UTEbgbT%26ch%3DAQEAEAABABT_xXo1l02eBAB8i-VPliaUs46a0GKybPU.%26v%3D3%26pg%3DXFFNHNU3GZGQJK53TQRJG6RO3A
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isIABGlobal=false&datestamp=Sun+May+03+2026+02%3A26%3A22+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.1.0&consentId=2380f551-3fc0-47ad-87c2-f76fe76c8173&interactionCount=4&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&isGpcEnabled=0&browserGpcFlag=0&geolocation=BR%3BSP&isAnonUser=1&intType=3&crTime=1770258084191&prevHadToken=0&isDntEnabled=0
