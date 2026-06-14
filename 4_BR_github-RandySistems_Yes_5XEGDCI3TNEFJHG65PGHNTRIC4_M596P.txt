@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: Gustavo
+Email: cristiano.acao@gmail.com
+Country: BR
+Plan: Premium
+Member Since: March 2018
+Next Billing: July 9, 2026
+Payment: CC
+Card: 9462
+Phone: +5551981258669
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Cristiano, Fernanda, Gustavo, Theo, Lorenzo
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAbTR+CGAWYURLZvfLn8Bicq32fBJJfFaZSBPon/pO1SgoNyT0B6UM8q7VbrtQ1rlstfV0O9OnssUOVC7T9bi9OY3YG1IoE0EW0cOuD5ztpt6uitak5y09molnIBwuesUX+OHWuTZsLEGgKnQ7BOeKkRdKkXLTmxl2PkfF8d2FoUZTbNe79gOx3Un/WkknzgaBmNAYSRqnEtFo1jXHhUvMyorExbQs1F36rQ7FMHTjjUDTXHpKILf1dV4OV91uwxKcL4CGAYiDgoMjd3mMCxqkevvF2Dg
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAbTR+CGAWYURLZvfLn8Bicq32fBJJfFaZSBPon/pO1SgoNyT0B6UM8q7VbrtQ1rlstfV0O9OnssUOVC7T9bi9OY3YG1IoE0EW0cOuD5ztpt6uitak5y09molnIBwuesUX+OHWuTZsLEGgKnQ7BOeKkRdKkXLTmxl2PkfF8d2FoUZTbNe79gOx3Un/WkknzgaBmNAYSRqnEtFo1jXHhUvMyorExbQs1F36rQ7FMHTjjUDTXHpKILf1dV4OV91uwxKcL4CGAYiDgoMjd3mMCxqkevvF2Dg
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAbTR+CGAWYURLZvfLn8Bicq32fBJJfFaZSBPon/pO1SgoNyT0B6UM8q7VbrtQ1rlstfV0O9OnssUOVC7T9bi9OY3YG1IoE0EW0cOuD5ztpt6uitak5y09molnIBwuesUX+OHWuTZsLEGgKnQ7BOeKkRdKkXLTmxl2PkfF8d2FoUZTbNe79gOx3Un/WkknzgaBmNAYSRqnEtFo1jXHhUvMyorExbQs1F36rQ7FMHTjjUDTXHpKILf1dV4OV91uwxKcL4CGAYiDgoMjd3mMCxqkevvF2Dg
+Valid Till (UTC): 2026-06-14 02:47:28 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL-AtxKQ61ONIDBU58M-A77uJC610NwQk_4wKVv5vMNXBaD2ZNAjyMzStt5RqRpdO4T7gNkdjRvS0QJOjZOxYn-sURmq-_2lIgLywdJdTNNAXgRFTBxDN5OkIZdKzGlAZktNvLptsr9PAKzQTrdOf6mIfYOsq6IuKOtTPUTtOjZ9kedgjoQB6tkHYmaz_OkqAiyQdYn0C7oNOm2BP0QZZg-gGkyQfUDVX89Jpk3649ynYRt7niCePgWpYLdieonpE60CNOZ2Fdl4j6zklCcsaXsoB6g1l7ynUSAzBxWQTmOrySmCfRsJRKiU7qklE2APrwJYIfDZ8IOJ1Qubih80_jBhiKZpTcM1WHDpJ3IQMTHbiuTkwX7KdFuOVqq6t1PyKl_6ccHib6U8O0uScqB32Y0JV6gyJ-aqi5wI09i_51TvVjbE6dh5awL5z9RfqO8_EgMyS9-kHXeNOtb_WOq2AFE2nj5WaI5lfyjsUPNrhBnOxg-ZJtbqXZ_2oCcbggqQ9YYBiIOCgyJMRw-fS1zeaauQCc.%26pg%3D5XEGDCI3TNEFJHG65PGHNTRIC4%26ch%3DAQEAEAABABQKRRMy6ZslN9Wm7KgONGs4hvpY80HTKeE.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLdJxnAXeluBm734pNq6nj8S5PTcfJ9v0.%26dt%3D1764381780501
