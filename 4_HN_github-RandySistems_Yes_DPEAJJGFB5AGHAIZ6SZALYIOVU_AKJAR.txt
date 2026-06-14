@@ -1,0 +1,38 @@
+NETFLIX HIT :👇
+
+Name: Giova
+Email: floreswalter2474@gmail.com
+Country: HN
+Plan: Premium
+Member Since: October 2018
+Next Billing: June 20, 2026
+Payment: CC
+Card: 8691
+Phone: +50495013105
+Quality: UHD
+Streams: 4
+Price: USD 13.99
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Walter, Tatty, Giova, Sr Piero💋, Gianfranco
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLDAbzj1GTGfCgvf0wBKmcEgiMmkdzvZcp9goYwKT9qDrIKYR4WmzZmnb0KrpcSsy8OSIBheqvbY59qiSMC2J36hb3ptjX5XTEpMv/1zeDlbbWbfiq1Atcij0iEmeAJSCgGK1jA+JbkTyUn76c/rCiV7kxMBBV0SbdesAywvCLUYugoOopdIt6VNs5bN6BmWZmWQhZUjvlS9y7cR+4Zm1ZhM4wNOnkOH7BWPzFvX5Zb+thQ1XA0hRECNU+quHmheKzGPI8D3xgGIg4KDFYP1T6200rBU3p/vg==
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLDAbzj1GTGfCgvf0wBKmcEgiMmkdzvZcp9goYwKT9qDrIKYR4WmzZmnb0KrpcSsy8OSIBheqvbY59qiSMC2J36hb3ptjX5XTEpMv/1zeDlbbWbfiq1Atcij0iEmeAJSCgGK1jA+JbkTyUn76c/rCiV7kxMBBV0SbdesAywvCLUYugoOopdIt6VNs5bN6BmWZmWQhZUjvlS9y7cR+4Zm1ZhM4wNOnkOH7BWPzFvX5Zb+thQ1XA0hRECNU+quHmheKzGPI8D3xgGIg4KDFYP1T6200rBU3p/vg==
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLDAbzj1GTGfCgvf0wBKmcEgiMmkdzvZcp9goYwKT9qDrIKYR4WmzZmnb0KrpcSsy8OSIBheqvbY59qiSMC2J36hb3ptjX5XTEpMv/1zeDlbbWbfiq1Atcij0iEmeAJSCgGK1jA+JbkTyUn76c/rCiV7kxMBBV0SbdesAywvCLUYugoOopdIt6VNs5bN6BmWZmWQhZUjvlS9y7cR+4Zm1ZhM4wNOnkOH7BWPzFvX5Zb+thQ1XA0hRECNU+quHmheKzGPI8D3xgGIg4KDFYP1T6200rBU3p/vg==
+Valid Till (UTC): 2026-06-14 02:27:28 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDDpqFfVgfSGrg7GPBd6DelgPscRelpUM8CZON6dzCAK0b1rGl3faqMilQKzkBPpEIRQRkS005S4xbpQni3IIw7Ek6xFVpQAYkvZFhrjq5E8yLQuEr3V4CyLXjwSBESV5zHEuQRq96c5f3VQNJd-7uaT
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL8Aqw-qGYmEbjbQsA__CUHuQNvtc5AKa0Cdq_eQQApj98H-4yCh7bLjcTdzOYaYJi4EC07MOlRTLCIYXHRnrnqlz6aDbAJymNH0gTcOkko3-u4V4HkLi2685pagN-ZmKrpDCJ1eVdI3H7yHIKU2M-NHbAqi47vLgyAPlgPcTuehWFuT5X4TbuCT9tlbiNVz6QZ3F7Gs90-s6_EihXsSRDfhHjHqgqlhvmheB16qfuZGCYqmcu0IEJl9v9Cblgxk0OHFUo2Vy8tknOg8461dbh5dk4844rbBXt0WgYITp8afV7Z2XHV8OfVbZf7OW5v7_rZ6yN4lgmD6QMHlG3UEWMDO57yM5vj9bnsCseDcFrzpVmLoIIIFUd_msdPoKNcE9NoJH8u-Wq9PBhWMAHw4Ykck5iapjrWtHO2e29H575TotpA10QePc3H_35UEsFPngxs9YHyYpzX1BgN2zkljQI3H-jUYSXMhC_oyfCnu25z9WfxyFh35yQBh_b13n4QGAYiDgoMbrQeAYo6QAh35avw%26pg%3DDPEAJJGFB5AGHAIZ6SZALYIOVU%26ch%3DAQEAEAABABRQRa0Nh4n7EhuAIDhT-W5n3hQzuYe2JQ4.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQk2JSmoXUpO52-jKAwc2UgkDElW3ny-d4.%26dt%3D1765392219203
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Dec+10+2025+14%3A14%3A54+GMT-0500+(hora+de+Ecuador)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fdc23b64-82ea-46d9-ad2d-1a027b3dee5f&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
