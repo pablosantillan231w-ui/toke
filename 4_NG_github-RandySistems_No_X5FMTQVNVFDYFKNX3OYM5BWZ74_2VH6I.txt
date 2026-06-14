@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: Elle
+Email: mishaellequansah@gmail.com
+Country: NG
+Plan: Premium
+Member Since: April 2025
+Next Billing: July 6, 2026
+Payment: CC
+Card: 8819
+Phone: +2348076823100
+Quality: UHD
+Streams: 4
+Price: NGN 8,500
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Mishaelle, Mummy, Reuel & Ejiro, Elle, Kids
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAbKz5IpPwMHhzwZ6wTOqctdP46zIchKfI7PIdBtzkkjamX0VbhKvF9D5xTR+vZ5sEa1YkpAivinzsFhfs0uaweEyvShApPkl8+GQeCThvC/CEY3cvu0crRDERs0f2a2GigPXh7zk7Bn/bw+IB1t1DftYBzXyL1vWhWPW1yoz56sfQiXUdsZlVE/O9dhycD0d+JZwvFiW1bouIYCAiqux4wAauBNqKwnuJMFGdswxMCFU1csEMeLS5iCWopm8TDb5LtIoGAYiDgoMME+xZ/vlPAV3O0ab
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAbKz5IpPwMHhzwZ6wTOqctdP46zIchKfI7PIdBtzkkjamX0VbhKvF9D5xTR+vZ5sEa1YkpAivinzsFhfs0uaweEyvShApPkl8+GQeCThvC/CEY3cvu0crRDERs0f2a2GigPXh7zk7Bn/bw+IB1t1DftYBzXyL1vWhWPW1yoz56sfQiXUdsZlVE/O9dhycD0d+JZwvFiW1bouIYCAiqux4wAauBNqKwnuJMFGdswxMCFU1csEMeLS5iCWopm8TDb5LtIoGAYiDgoMME+xZ/vlPAV3O0ab
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAbKz5IpPwMHhzwZ6wTOqctdP46zIchKfI7PIdBtzkkjamX0VbhKvF9D5xTR+vZ5sEa1YkpAivinzsFhfs0uaweEyvShApPkl8+GQeCThvC/CEY3cvu0crRDERs0f2a2GigPXh7zk7Bn/bw+IB1t1DftYBzXyL1vWhWPW1yoz56sfQiXUdsZlVE/O9dhycD0d+JZwvFiW1bouIYCAiqux4wAauBNqKwnuJMFGdswxMCFU1csEMeLS5iCWopm8TDb5LtIoGAYiDgoMME+xZ/vlPAV3O0ab
+Valid Till (UTC): 2026-06-14 02:42:57 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEM78ct0AEU72A3qw6okcYp1gymV3sPQ5HTJWuZXLukF46LV6JUzQ2eXthe35nrCqIiIzc7N1RXrkAKaIcDIz_Eg9LnD8WPRCO3NQL-zuAAoxary9PD701tmWEqWCRfPxCyF-SKgfN5hWgOJBAkWYX0dC
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL7AseWPTCdVbr9O9kWNPQi8OyTuiCNWGYDzDZGaOHTCe6GrxfnTXRy0vheRnuUqyqj2zH7KlEef_0d0CfnlzgNzW1sMplucg1h4ZM0s8cKFPAFS-NPp7futbqM7qKK18bNPPk9HylJTK1v9ul10nDm2OLFrWdOqhisBQWYEFEzrVFbkAo5tcBjZ21T5fr9jQB5Ea4kwNAOCbAA7uPSCE4sH_JXfGar9VwqKpc1laJvtpWgRCxRfu1rFUxzteCQpRr3P2QtlpcsKOP9LoCuewyZwV4pvApxYOClx7LCI2Pw19Uy6fEopInCvonbJ2nwxl-p0rX6mjoGf7bET9udXAjrbXfZnbufdpuRRTEZqwRJFb1trXePcBqfMLLnTeR5JPtVQTeuTmlIBfoZtyLB-vbnEDq8SgieGFIl0M9fQw-013LETe2foLfO8HOVq7a9QkYAs2IiW2vbTQ7-fkgy7R6TASdGP6A0EtRLg0hEBNNm-7p7XTH8fjsQKC_pvJcYBiIOCgyfJzzRWAzo-aY2mN8.%26pg%3DX5FMTQVNVFDYFKNX3OYM5BWZ74%26ch%3DAQEAEAABABQpnjhWyiUppdnREheUQzW9Q_zMquT0V3w.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+18+2025+00%3A54%3A19+GMT%2B0100+(West+Africa+Standard+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fc9778a5-3d97-4b15-ba06-3175b1d7ee7b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=3&geolocation=GB%3BENG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTctqOS6AI6wwqNHBhdOlPmeOKOcnVaqxQ.%26dt%3D1763423640846
