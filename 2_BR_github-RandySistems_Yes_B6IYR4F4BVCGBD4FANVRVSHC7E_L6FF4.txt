@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: Matheus
+Email: ericacristinanjos@hotmail.com
+Country: BR
+Plan: Standard
+Member Since: March 2014
+Next Billing: July 4, 2026
+Payment: CC
+Card: 3271
+Phone: +5517996465515
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Erica Cristina, Cleyton Alexandre, Vó tonica, Matheus, mazin
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAdgNqnCNVPLIQYw9ZZi4dUhPiKaNV9wRNxwkOe//VYqeYacWhBTbw6TxGN4mJKg12Vuq9O118pCHwabtpqSub3mj4Y5ZZKeLn9CgpofsA/nR0rSodeR3him4zy0h1dGM1LegxxYWVOJpDZhpv6SBz9glh6Yfi5/L1IZl2nfgdx61wCIyH4O4oLHTphBHWp9LAiWUSJmGTfOPm8nW180dQ353DfoRyBUqUC2lCTlkf9afGE3IV0G6raEbZZrVttJa7OyDGAYiDgoMNNU2reh17htUFnfO
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAdgNqnCNVPLIQYw9ZZi4dUhPiKaNV9wRNxwkOe//VYqeYacWhBTbw6TxGN4mJKg12Vuq9O118pCHwabtpqSub3mj4Y5ZZKeLn9CgpofsA/nR0rSodeR3him4zy0h1dGM1LegxxYWVOJpDZhpv6SBz9glh6Yfi5/L1IZl2nfgdx61wCIyH4O4oLHTphBHWp9LAiWUSJmGTfOPm8nW180dQ353DfoRyBUqUC2lCTlkf9afGE3IV0G6raEbZZrVttJa7OyDGAYiDgoMNNU2reh17htUFnfO
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAdgNqnCNVPLIQYw9ZZi4dUhPiKaNV9wRNxwkOe//VYqeYacWhBTbw6TxGN4mJKg12Vuq9O118pCHwabtpqSub3mj4Y5ZZKeLn9CgpofsA/nR0rSodeR3him4zy0h1dGM1LegxxYWVOJpDZhpv6SBz9glh6Yfi5/L1IZl2nfgdx61wCIyH4O4oLHTphBHWp9LAiWUSJmGTfOPm8nW180dQ353DfoRyBUqUC2lCTlkf9afGE3IV0G6raEbZZrVttJa7OyDGAYiDgoMNNU2reh17htUFnfO
+Valid Till (UTC): 2026-06-14 02:37:23 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPJqGHVm2-vL7bmFD5R_HwNgxcMMdG-w2OuL-t3LP6pnCTjJUzAP5v8bjg7WHd1J2By0JsMr9SCL3zdgrdlPEF9IXyJS6rqyPq4PWUCH6GhT3SR6u7YjCokoiA5gjqiNRLzcr_2BXlezqn6sy2sF75g3
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLPAydqccvnM2B7pokcMxoDQDH5wWntHzajZVCgKUPJgl2AWHe2_57S05fWvmfFBiImM2Mz7iR1rU7zcsbI5DZpuqoQlbIwA1lp5-5xF_G61bO4KNcJrLhs2TPNRQVqhyk2-sv0JkD8CGXSeANX6goWVBoLsg-T91Efi8lIqMI9hE57tUUkYEcodBGgyiJacKmLCDeCqFXhen_6T118UoX9GMwexxjhc19piI0CE6v_PiCDjezgcnz61uNoEu4CLmXDW4iATWjz_XnZaqIns4dRX3CtRz3UVZEblQRMj3SZ2mhXaEWjNaJ1rmMQ0V2uEDw7o4qA-45g0O_1R5BzVklue_p5YtxChdrSqV8AXVpP4eRTXQOaJhclwZgolsIKfQ3RJllP_9vBFPjkcIkHJO8WQ93ZSJ3VBIvPbghDNQAdVUh-F1q-yY8svJaJzNaHOlUssvr49Nrf5mJ3UGiGwMN98rT3U362QpQC743P_qqlb8MM3m4103zHoWn_mZQ4AaxFMhH9jejyIn6Fmh4sPddJu2TCZ_YcxGdE9a05WfmhaiyZqOtYYronMRQ8tE55Vi4mDiiSBDEKXuhCkmoFxTFKwiBJfMo8sEpeVgjNDOKkU2oYBiIOCgyVSN1kgOx7vM466Mw.%26ch%3DAQEAEAABABTa8UqCXZN2cc23AIvtI32-cscupyG6bcc.%26v%3D3%26pg%3DB6IYR4F4BVCGBD4FANVRVSHC7E
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQuJAflPfxLhTxgLQAleZPY4e4wCY1OO3g.%26dt%3D1778970149162
