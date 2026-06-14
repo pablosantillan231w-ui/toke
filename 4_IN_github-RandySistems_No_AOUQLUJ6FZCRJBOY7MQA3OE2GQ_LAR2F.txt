@@ -1,0 +1,35 @@
+NETFLIX HIT :👇
+
+Name: krishna
+Email: lifeisgreat_111@outlook.com
+Country: IN
+Plan: Premium
+Member Since: August 2022
+Next Billing: June 17, 2026
+Payment: UPI
+Phone: +918096932125
+Quality: UHD
+Streams: 4
+Price: ₹649
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): krishna, Akieetj, Jackk, Jack, Krinshna
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAaSSjwTx4hCZV5GUtT/cT8zHbaIykq4ZxEW2jRj/JUOc8Kc3tbUjcmeryXIPwfcQIawfpkpqMHfSd92o+nAF8W6vB/l3RCSwhRROh6GkBUoQxdNEmS7h7KAg2XrMAuXP1U9tMgi003XxW3vz1n41MOg1f7HDFibPNjXfAtwXCqjCwqAcWgxiTOiDPRJyZ8ehUBisDv6isb+0iR+iD+vGH2v6K9FcOwfSMSUSqL/oqDXPn97HmOwQID8Sz+nHgK9MwUg3GAYiDgoMEkj6PJ6O5GQz4n0Y
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAaSSjwTx4hCZV5GUtT/cT8zHbaIykq4ZxEW2jRj/JUOc8Kc3tbUjcmeryXIPwfcQIawfpkpqMHfSd92o+nAF8W6vB/l3RCSwhRROh6GkBUoQxdNEmS7h7KAg2XrMAuXP1U9tMgi003XxW3vz1n41MOg1f7HDFibPNjXfAtwXCqjCwqAcWgxiTOiDPRJyZ8ehUBisDv6isb+0iR+iD+vGH2v6K9FcOwfSMSUSqL/oqDXPn97HmOwQID8Sz+nHgK9MwUg3GAYiDgoMEkj6PJ6O5GQz4n0Y
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAaSSjwTx4hCZV5GUtT/cT8zHbaIykq4ZxEW2jRj/JUOc8Kc3tbUjcmeryXIPwfcQIawfpkpqMHfSd92o+nAF8W6vB/l3RCSwhRROh6GkBUoQxdNEmS7h7KAg2XrMAuXP1U9tMgi003XxW3vz1n41MOg1f7HDFibPNjXfAtwXCqjCwqAcWgxiTOiDPRJyZ8ehUBisDv6isb+0iR+iD+vGH2v6K9FcOwfSMSUSqL/oqDXPn97HmOwQID8Sz+nHgK9MwUg3GAYiDgoMEkj6PJ6O5GQz4n0Y
+Valid Till (UTC): 2026-06-14 02:34:56 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+May+31+2026+14%3A54%3A20+GMT-0600+(hora+est%C3%A1ndar+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=6007d4f3-3e33-4c28-99d2-2afafb610a0b&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0&fclco=&intType=3&crTime=1780260859940&geolocation=MX%3BSLP
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKxA_bei_uLKBEMnh3U1LEeNoGeMnaHrHSLN5npAPs5mOEiHUtvKF8iFtyVp22ruvNxgzjPlpaCfFbRB7hf0qU0lE9e9iDwqU_OW0BWYzWcRE6h8d8oOsFd0WUwOE1wgpKLP0ow9tz7Z3BTUVpaCewsi9Z47fknI26v9wQ8K-P8zDczIUVOWt2qWDju0VFhmZDOSFyXiGJ23w0OJ8jnH3ShWkqqsZVz5FMHM-eICaIT5PsQSfTahCHeEx9fYdGpWfAXd76RjvqMgeuIm8nB4q6RbMHCZ1rbZFhO9QPssWIIVRxVVJ5xIFPsRqrrZuZyBIXgtq6Mj08YrzryjCy9rR7cmuy9FZ02pEmjEVKQh38vhHw-gQAZuY53-0iG-f8LjiLg24oelmmtuR_l5QCf7VOjpCgRHD8V4bTFd9OQBETjhobn_NlUZd1wnuqoHmp9HZ9yhMKieagfCs6dE8uGwQINkSJPnHdymgbGOvYO71VkdrVky4M9pczxQfSh6IcqJC74DL67eUJEASX97f0UBQgjm3R6RI1AjQ14fOmESZ0zcna9esrxnLL24xfIHvaV3ldn9BAYBiIOCgwTRPq_bvUax29IcFI.%26ch%3DAQEAEAABABR1LXi6IajEYLZ-aJ48NfnF-vPJC8A1e58.%26v%3D3%26pg%3DAOUQLUJ6FZCRJBOY7MQA3OE2GQ
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZWI41zA6jJCxfEttDjyVIAp_5YYDZj9k.%26dt%3D1780304076069
