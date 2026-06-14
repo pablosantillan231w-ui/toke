@@ -1,0 +1,38 @@
+NETFLIX HIT :👇
+
+Name: Stefano
+Email: vamercurio18@gmail.com
+Country: IT
+Plan: Standard
+Member Since: November 2024
+Next Billing: July 3, 2026
+Payment: CC
+Card: 9170
+Phone: UNKNOWN
+Quality: HD
+Streams: 2
+Price: 13,99 €
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (4): Valentina, Valerio, Stefano, Bambini
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAeHn3QHQbz+YGFgTVxmrJ1iMjtRbgwS8PMe+ap1i+9zGiBCz0o7/52bWz+b2msgb0bqcNVrYMSYhzuOaPTc9FVjFEsJ4tb2XVecnU3uFtOG8e6Ksnw2aT0kIXVOWOYAvWcWHkONdpX5AHj4NomBy9nFDAIIu66ELH00zWXbmFBia3H9siUoWh9ieu+z+fcJQw9oeSUxlwfHSIgTtAC23H6vBfLcSsQKJx2oxKM26Ug45e3UAhug14PpEouhYtYEsNezjGAYiDgoMSPB/nXHZdNsZxd7G
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAeHn3QHQbz+YGFgTVxmrJ1iMjtRbgwS8PMe+ap1i+9zGiBCz0o7/52bWz+b2msgb0bqcNVrYMSYhzuOaPTc9FVjFEsJ4tb2XVecnU3uFtOG8e6Ksnw2aT0kIXVOWOYAvWcWHkONdpX5AHj4NomBy9nFDAIIu66ELH00zWXbmFBia3H9siUoWh9ieu+z+fcJQw9oeSUxlwfHSIgTtAC23H6vBfLcSsQKJx2oxKM26Ug45e3UAhug14PpEouhYtYEsNezjGAYiDgoMSPB/nXHZdNsZxd7G
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAeHn3QHQbz+YGFgTVxmrJ1iMjtRbgwS8PMe+ap1i+9zGiBCz0o7/52bWz+b2msgb0bqcNVrYMSYhzuOaPTc9FVjFEsJ4tb2XVecnU3uFtOG8e6Ksnw2aT0kIXVOWOYAvWcWHkONdpX5AHj4NomBy9nFDAIIu66ELH00zWXbmFBia3H9siUoWh9ieu+z+fcJQw9oeSUxlwfHSIgTtAC23H6vBfLcSsQKJx2oxKM26Ug45e3UAhug14PpEouhYtYEsNezjGAYiDgoMSPB/nXHZdNsZxd7G
+Valid Till (UTC): 2026-06-14 02:28:51 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEBoqzLWHbakTvVt-KkEhMmlgS22ZAx6eW0jGsFPQJ5cKEcbZh6NRNMDmVVO0TbLtJ7YZsjqkh6-N786_Mj8K_dbBBxQLM7Kumvyuun03otEC88KpwyO6RhuVTW1Sc-KWHn3CHYaIzfHzEHhMmjQFnG1a
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKDBEbu-xMQRuxWMArjqtvELtVUR31Kqo-uKfCF3rSxFb0sRW5h2ywF4OCft4b4Nb_ei6uIwfMHIw5QrKz9TDzc9Sy0jUKKZa-EZiUeYhcfgiu43QRv4EBwazPkCYnd7BXoJgWDAtUTAUzCFgYbN37t2UKQerbnERfR3cyhXAWD2Wfe0UQiQXIXvYyitKUkbz-JXZYHpHt042AXaWNXKzob5MUhHCqU6iTd05rGhoR-fTtfEWHfn5KY3rcf7UCUjeeFzLLPEASIxqIuJym1nX9Eo-H6jpLzWMW6r2MBclNmtPRK-dj0nz05Vm4qDQWABRnYSTyidgMRaF2vfZJjAe5Aja7d-T_DA6MY3zfPtzcR5jvicSM-sM1weaqFJUdiRgHvQNA0T4F2ofzaJaxWUs8OgAMeGXFm9VOb1W9yDdFWkzkHgMrPiX_Qh9HijcuojATwWXWiUDWcm8rkQGu-juenegkO6neB_CevegR6B1SNMPzPRz4Qt3lLcc0mpQEsAcW6gJ6YOYjCBB8h6YIVfHgxZBuZCCc7jS6bsk_1MNjNd3WSwWVXtBVfujjDMnC8FxaJXAozFpGa4ThpAtTNEzt7Mn7ETCI5JW7ahAcQL4-n4Lb3LMSZ0YpXJCl-A-9hxKak4-SQ6LT4Pn7WB53V8kMLM1wn9ti0eo_E80qvx-Cv7XwXm4UyGAYiDgoMxjpVffzyIyup2Rsi%26ch%3DAQEAEAABABTaW43MicsZvM5rWuOo2A_CJ4ljikjS29c.%26v%3D3%26pg%3DZIS7CEP2F5FQHPUVHXFIM5KNJI
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+18%3A06%3A37+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c54f5053-71a1-4eae-8c91-7d4798ffe39b&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=IT%3B57&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQKmrGxOH0ufCnKx-e7Ic2ltw8jNIuBgNg.%26dt%3D1776182797988
