@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: Fernanda
+Email: wesleykcavalcante@gmail.com
+Country: BR
+Plan: Standard
+Member Since: September 2025
+Next Billing: July 6, 2026
+Payment: CC
+Card: 1560
+Phone: UNKNOWN
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (3): wesleykcavalcante, Fernanda, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAbqsGlePyae4iWfyQSeHe7Rzm8TkixHbLZKdluLuCO1nRcR/h1zcMq63pQC13tSHV2FQN1hGHkr4lliA3Eo3OKWz3M5wcPegPxyjdH85GyNvn44YL4g0PaMgHvm733ahkNWyCex9QIJVxlCph0MVHX2jEWKwhFLmgbN+VMUg+0N50Yr9I+1cw/YXtcmveyegejspRRTYwHY2YnOwrNthfUawbv3sS07lxRYtqNIUXGUMY3F2wwqLXAyUZbXaxhODUHPOGAYiDgoMdhaet6+tF6dYe7WL
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAbqsGlePyae4iWfyQSeHe7Rzm8TkixHbLZKdluLuCO1nRcR/h1zcMq63pQC13tSHV2FQN1hGHkr4lliA3Eo3OKWz3M5wcPegPxyjdH85GyNvn44YL4g0PaMgHvm733ahkNWyCex9QIJVxlCph0MVHX2jEWKwhFLmgbN+VMUg+0N50Yr9I+1cw/YXtcmveyegejspRRTYwHY2YnOwrNthfUawbv3sS07lxRYtqNIUXGUMY3F2wwqLXAyUZbXaxhODUHPOGAYiDgoMdhaet6+tF6dYe7WL
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAbqsGlePyae4iWfyQSeHe7Rzm8TkixHbLZKdluLuCO1nRcR/h1zcMq63pQC13tSHV2FQN1hGHkr4lliA3Eo3OKWz3M5wcPegPxyjdH85GyNvn44YL4g0PaMgHvm733ahkNWyCex9QIJVxlCph0MVHX2jEWKwhFLmgbN+VMUg+0N50Yr9I+1cw/YXtcmveyegejspRRTYwHY2YnOwrNthfUawbv3sS07lxRYtqNIUXGUMY3F2wwqLXAyUZbXaxhODUHPOGAYiDgoMdhaet6+tF6dYe7WL
+Valid Till (UTC): 2026-06-14 02:47:48 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEK1Np8UWuChchYPGqcbWxelgCcMxxVHROOEGMxshJplMFdhHaGNK1g_nnSJlhVXN5PfrC8ojFn9s2tAL6rxnupFnm1N4zBauhNVIslsCyJ19wlGqDCvX_5Tw8LAzEKZoIyFevkoqO7rWsyOSGAQPLjXE
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKGBMFjAEZmy0F3lSJSTpKfFm7ZUGHwbMnferL6pV9Wr1bgESxVXAuqI2kWb5wu5OXl24SH0wEi5gOxUpTmL9Lq3v_H8_4Co8n0wvWDtylev-OtHOJS4OOgq4XRLR--AbxLekX2yoFte3tNzTACkUallB7cAkvc1jEpGOEYDxwYTTII_Ms5W9n7V9WjdrBrpj7chl7tYt-fCtFgw_pGNJX9JVeJTFbHOCgJ5zS6TFDi0j-EszuYz8jApF1Gb5BLG2jnkshs7KKBa4O4brexuBZkqGZ3aRFr3tcqRv4i8Njwt4o4tTTIn_NnfT0Psk81n_ztSeClSWnrv-_m8Lvj6ejfbm4lqyZbQKxJdZ7YpC0nz4BuUDFsj9SlXqbStx5LbmcDthw7EF7bbQi1o5UDS92LV5Ul0luWXlvwVUtQ0gFtbObxLvjK6TDoDBQlHDZqSEGxt7TxQ9-2v81W9XE5W6lGdz9QiT54BjYHcLVT0W98uMmLMFUxriSMATcYgC14zJFKf16JP8dAgKCA89yEWg-53MPbA_BLxY8EaZGBtG8YmZFCrZ_VpaaQFLH1_KcT2n8yaH4nkHGITmFig6NxT9L46fzgBbIkhHMQ1Py6bcqgOvv96jtpvjIJfsN7ZVa0ao1fPa8TFgCHroR1AaNZ9wKMObS1FNGfjJ6Ce5zjmo9aDH3O1tHSI4VtGAYiDgoMGD7vwAVwlmmY43o5%26ch%3DAQEAEAABABSRuslB_tqxnHbJEvjfv6cZ1cK0EpruVMI.%26v%3D3%26pg%3DKHY2NGZTTZDHJPTN4LMJ2TCH6U
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRovw2ta2IumfWnQ0WHUZMeg7_ENrpD6E8.%26dt%3D1780087529999
