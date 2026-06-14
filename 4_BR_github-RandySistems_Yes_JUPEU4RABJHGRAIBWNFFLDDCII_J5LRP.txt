@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: EMERSON
+Email: handinhas@outlook.com
+Country: BR
+Plan: Premium
+Member Since: October 2019
+Next Billing: June 18, 2026
+Payment: DC
+Phone: +5519992302500
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): EMERSON, EDER, ISABEL, lilão, GEOVANI
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAYX+4VwhcUTUblff77q3l+ERu3n99PKy+LeDFqGA8HyBWlsNlshI+14vXy53EhTT/nAxE/oZQ41a4lpDzloFKutOzz1MKr1gXQY6oK+0iHnWVbEoEKzuJQFlNXKBK7IdXgLD/1D2qGG5BqVsxG1zOzGJsjgjc/1koVr3P1jEdjOVcP0Xf+rPrqs95ZSQAxWln7Iku1KPQuk2nAf+LDlx2ZqvW3mFD9S2ruLMSRk0C+XvSF62wZ9BeqJI3Q++8c0m9gSWGAYiDgoMmhQN1tl+aDtEThNW
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAYX+4VwhcUTUblff77q3l+ERu3n99PKy+LeDFqGA8HyBWlsNlshI+14vXy53EhTT/nAxE/oZQ41a4lpDzloFKutOzz1MKr1gXQY6oK+0iHnWVbEoEKzuJQFlNXKBK7IdXgLD/1D2qGG5BqVsxG1zOzGJsjgjc/1koVr3P1jEdjOVcP0Xf+rPrqs95ZSQAxWln7Iku1KPQuk2nAf+LDlx2ZqvW3mFD9S2ruLMSRk0C+XvSF62wZ9BeqJI3Q++8c0m9gSWGAYiDgoMmhQN1tl+aDtEThNW
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAYX+4VwhcUTUblff77q3l+ERu3n99PKy+LeDFqGA8HyBWlsNlshI+14vXy53EhTT/nAxE/oZQ41a4lpDzloFKutOzz1MKr1gXQY6oK+0iHnWVbEoEKzuJQFlNXKBK7IdXgLD/1D2qGG5BqVsxG1zOzGJsjgjc/1koVr3P1jEdjOVcP0Xf+rPrqs95ZSQAxWln7Iku1KPQuk2nAf+LDlx2ZqvW3mFD9S2ruLMSRk0C+XvSF62wZ9BeqJI3Q++8c0m9gSWGAYiDgoMmhQN1tl+aDtEThNW
+Valid Till (UTC): 2026-06-14 02:39:06 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEIVRq46DJ3LFwU_JC4sXb85gwSS49Wk7fBud6psj1og6z1TuY3gh7rCU-3umtisp6x7-KULcDhEJV2pA3O1V2Tx20FZbfFVBMskwRF30Sz-mAiFrUIP_LONiipL1c48hygxBUJ2luDUrQbTV-9CtyPqN
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKGBGV-_D-nyyVI6_EGaYVSsCpiXfQVuNUSp2iTaOfjroVYdGFrJfFEEAw8i9n8UnsCBW41ZohoXFr6tR9qqxluB8VTFeNR3uP4icRvW4AsoPpC0soR366Erge_Z8yeZWmslw6siYeltepeaCIcvRNXBbBXhHHqNCXkywpkxxO1vz-Gf9Fz23OeJaAfp14OIT-1tO5sJ13hrFP1tEgKSUjLqr24ORIqsgJ_VCmLGln6KTieGzu8bO6S0SKviswcVsVrX0h4ZGJNy98OtiAI97M3S1xYS7BWrR0ddMNXhrftPhnsiQj5v1PZNUl_Fvt0CuU6jzUe33eQ719xPzsjyVMSznLEaUuoOZDEo3c5ByLjqc4BBl5otlB9BABye5avsHIvi3mzAFuj_F0cyAhyZw8fbsxdweAeMh7LMj7xh-2U_-krFDb8-wCAV3yaP1w-PhsE5vp5G1GL4VLqhlywTRBRGR1UtlXxfypFAvHO5TjN6GZ37v37alXxDtfWKhkuVOh0JqUKXAEeAxWfbBUJqTvm7NfTsuYciI1Ip2XmNwhysy2C2RQbRbF4qvp02yJkBGHUr5IwGn-Rq0w6XSNLvxZNHY7Jhy2nMT9PWcgCVoMrB0W9wyyI4b8al79Ec7liQWx1J8ML9cX6s1dpvoFDFnTcag9zy94nL4p4l4QNPRTLnX4idHZSycK3GAYiDgoMuggADHvZi4BDHCNo%26ch%3DAQEAEAABABQLYI6EHP6p8q2ISbHvp_hae9h5_T6gQQU.%26v%3D3%26pg%3DJUPEU4RABJHGRAIBWNFFLDDCII
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+May+29+2026+20%3A32%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=934246a5-b69f-40b9-9189-a99be6198858&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&crTime=1768436851118&geolocation=BR%3BSP&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR1p0bor24XQsLrhU0WxCfW4HrBRLmefqE.%26dt%3D1780097540366
