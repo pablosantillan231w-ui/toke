@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: Patchi????
+Email: arazafatima16@gmail.com
+Country: PH
+Plan: Standard
+Member Since: Hunyo 2026
+Next Billing: July 2, 2026
+Payment: CC
+Card: 7171
+Phone: +639619274426
+Quality: HD
+Streams: 2
+Price: ₱449
+Hold Status: Yes
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (6): Patchi????, Patchi💙😻, Araza Family, Accell, KIDS, EL
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj6uevcAxLCAZVhxoNSkOtTfrsQBeNt3Qk0J/YMcfxV07HLOMnibgszu6x3yQkAkJHLfILv3+vboTOlVGR3+8s53OnQjEMyRHBMHvGx78ojq/Ex9pdqiNkHRL7au1pcRP2EDyapdkoRIw+FBRSvvKCdvQ60I+QrTqS6gZT10dI0WPEBGIlPveyvSf8LKQ++l22uGG41dWrRA6G9db8fq4mfKwBcuL88oH6vVY1op63n7rAqNUDKYkzAzrwTvTe2pV+ZApCfBrhlo6vVGAYiDgoMYyUuczo7IGCb9rzh
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj6uevcAxLCAZVhxoNSkOtTfrsQBeNt3Qk0J/YMcfxV07HLOMnibgszu6x3yQkAkJHLfILv3+vboTOlVGR3+8s53OnQjEMyRHBMHvGx78ojq/Ex9pdqiNkHRL7au1pcRP2EDyapdkoRIw+FBRSvvKCdvQ60I+QrTqS6gZT10dI0WPEBGIlPveyvSf8LKQ++l22uGG41dWrRA6G9db8fq4mfKwBcuL88oH6vVY1op63n7rAqNUDKYkzAzrwTvTe2pV+ZApCfBrhlo6vVGAYiDgoMYyUuczo7IGCb9rzh
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj6uevcAxLCAZVhxoNSkOtTfrsQBeNt3Qk0J/YMcfxV07HLOMnibgszu6x3yQkAkJHLfILv3+vboTOlVGR3+8s53OnQjEMyRHBMHvGx78ojq/Ex9pdqiNkHRL7au1pcRP2EDyapdkoRIw+FBRSvvKCdvQ60I+QrTqS6gZT10dI0WPEBGIlPveyvSf8LKQ++l22uGG41dWrRA6G9db8fq4mfKwBcuL88oH6vVY1op63n7rAqNUDKYkzAzrwTvTe2pV+ZApCfBrhlo6vVGAYiDgoMYyUuczo7IGCb9rzh
+Valid Till (UTC): 2026-06-14 02:21:52 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSGor6oqUFTDoh8xWca6GqIqu5L4x5DrDI.%26dt%3D1780409992869
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEN0GNO3uHdcjhuKWdLNQdHZgL8Q3QDPDrR0lg39Pdy0F7irPbbi0A_B8O6ex6mUwNW8v1yc7LwFr09w9JIfAowsC-dzhcXBN4l-bKfue5pFNGKYnlkZdd37B_J3hjcYUMGpwliplJdAikC-q-i19GUJq
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKtA90a2b2AoPqkenLYMOv4iSKylRbxQZ65U8cPkl-3HgfL6bOy0ixMuFaCYDUBR48NTXlAeFpOnbHwXG5Jnxv607VWLnjfmB-vAQFkXH318GEeRGzKVX0I1UNvYcrXN01QIRuH1NViqXjscTeHkcXj-7zP_2kWG9koVmbbsE_bvR-Mv7ur-N5JkP_phf7QDjPwLOLIiuCkFSTGutfKCSQ4bJzYSPVm6Xki562ec8Wjk9iX6ReSJwq_hmJ8rA7Awh7E3tCg3evqlS5t8ZLaFEB48s0mUwwgcjMrNVE4lRXOfA0bxbb9-z9Ecvmnr9nSC9J5ZfaP7huM79AiZ7h7BZva1KBsRuQLj4W6N4jm2b_S6pN78fvMQz6IFBvX8MXNotXl3iwveSuTQC_BlbYqnQcdLVMUNJXMHjd_-vfIgdluAMdy33mEfZMSqOqOufZuGCTyr2zsQE5JgMWNZP_466PUJFgRlud4TwknG__khIHY2evZ-xQu8V3ZcJ9LXjcfXXDOSt13-XzXCBfj_fpUr6yQ0OuEMVUs5HNBaGSaUAcUzpdur34tFBp2nESD6TQ2HRgGIg4KDD1rX6EwlsIxPDXMEw..%26pg%3D6RYI2XVYQFG6VBRWPXDO4GGM2Y%26ch%3DAQEAEAABABTMJP3D5duUuucAp-nfxawAU77q6PBV21A.
