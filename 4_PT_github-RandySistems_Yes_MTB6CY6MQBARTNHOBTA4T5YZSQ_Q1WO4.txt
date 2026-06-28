@@ -1,0 +1,38 @@
+NETFLIX HIT :👇
+
+Name: Suely
+Email: miguel_tesouro@hotmail.com
+Country: PT
+Plan: Premium
+Member Since: November 2020
+Next Billing: July 9, 2026
+Payment: CC
+Card: 7359
+Phone: +351939476973
+Quality: UHD
+Streams: 4
+Price: 17,99 €
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Antonio, Suely, Emilia, samzra, Crianças
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAYlB1CXXSgiBXRf2qhsdyl8oh1IK9VXd2r7x/UHUuVjRFXst3RDEGejwTpDp3MLSFU61XywZpN0kwBKjWt1sTwf15/JSSWgFQQvSaZLqlOyFNnVcKIMY8L0cnl9525D0JsxEWDzFW+dnU5E7fEHnUovLi29eIu6tCTJyU+Tnp32wheNwEFSPTXBKhiGAM/yr3Hbf1hfm+IcD9lgGLKua0xrXVtq5QEDKCJVid2Xjp3zW8g7Ha+53hsOS3kqFNbsRIKwlGAYiDgoMF8zGO2Zkwg2p/vQt
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAYlB1CXXSgiBXRf2qhsdyl8oh1IK9VXd2r7x/UHUuVjRFXst3RDEGejwTpDp3MLSFU61XywZpN0kwBKjWt1sTwf15/JSSWgFQQvSaZLqlOyFNnVcKIMY8L0cnl9525D0JsxEWDzFW+dnU5E7fEHnUovLi29eIu6tCTJyU+Tnp32wheNwEFSPTXBKhiGAM/yr3Hbf1hfm+IcD9lgGLKua0xrXVtq5QEDKCJVid2Xjp3zW8g7Ha+53hsOS3kqFNbsRIKwlGAYiDgoMF8zGO2Zkwg2p/vQt
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAYlB1CXXSgiBXRf2qhsdyl8oh1IK9VXd2r7x/UHUuVjRFXst3RDEGejwTpDp3MLSFU61XywZpN0kwBKjWt1sTwf15/JSSWgFQQvSaZLqlOyFNnVcKIMY8L0cnl9525D0JsxEWDzFW+dnU5E7fEHnUovLi29eIu6tCTJyU+Tnp32wheNwEFSPTXBKhiGAM/yr3Hbf1hfm+IcD9lgGLKua0xrXVtq5QEDKCJVid2Xjp3zW8g7Ha+53hsOS3kqFNbsRIKwlGAYiDgoMF8zGO2Zkwg2p/vQt
+Valid Till (UTC): 2026-06-28 19:40:12 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEF3BwF8J31KsTni_pZ7VF0FglEZ6dCGEmKof_h0mQ2arIzXt9q9190CJmY2iO5Q15e1UBRx7Xw3ZQM6jQBbiX9AVwDtK_TpGi75YJRJDbQ6WFgJ9aom9OZGDROnXYX9ojV5CCse5ISkeJvl48Ts1opEH
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKDBMM9Uw1MJsq3wQCMzZmyBpM-4ntvCStheBEaEtz2bBHvRrthPt_UIxYNt7m36K9tqnlmzO2EBQKevh_u1ZldQO4b1BjZIEYbRUsDh5WGz3jFxa01d4ryDzpatIWfeCthW4b-7LdB5VlRuH0rdb-r-5ulehzcIjq6RjjJ9VfFisRGKOYGY8qOnwT9nbotZe_4IhMD4tvGd-07aXdYmQ6MQxbt08ooXPXM-QwEP7damlknoPyZ9oddz7-v-hVjbu3YSUk31Dk9_7BDPP8O0u7VvGZN_uoyZ15voHT1Z2_HPrUmEpHEeGPU-RN3fJQ70zaJMvFlcjTbU_RdotYQUSQKRQgtLqaduud8YOWRbVlDvw0OToK7GhiVSVoapI4cb98pfOdsoPtg-35LWfuf59yOYOi5kpVRQxUpnM5NBeBXPJbsciQVKa5TcMSdaEBCpc1IfF1B4xcZ_f1MVeLwi0Dw7NCmUhd6wcZ2mMC79xO7ZVyDfLlFpCrS0GAoplczqTA1n3KlL-9CmmunYuGf5E0BxiFdcLPf1mM90xZG8JaXX2gmbT3cOysfTkTRzeuRobKRsWbOkOnZLCufuQQsVx9ENB3zx7KQVEq8jMFu2lQRsxjGeD5jP2f4QWV-PB4PkZQkIwXxdCWFDSMj3gInIPmZOtlvUnFkA_HWDJlTp7N9ujEYoWf2GAYiDgoMs_qcKpqaiR0Pfp5Q%26ch%3DAQEAEAABABRFCVIvva4nTjHS9Bf10UY1SYpwGMyvVxY.%26v%3D3%26pg%3DMTB6CY6MQBARTNHOBTA4T5YZSQ
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Apr+18+2026+20%3A49%3A47+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=ac36e5b4-a40b-40e0-abc9-f9e713fc833f&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=PT%3B11&AwaitingReconsent=false&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABT3P5pzTwHFKKZo_ONFeuV7nYoFPgvGr3k.%26dt%3D1776541786386
