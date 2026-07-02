@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: Alexou
+Email: mt.carm.gangarossa@gmail.com
+Country: FR
+Plan: Standard
+Member Since: March 2020
+Next Billing: July 15, 2026
+Payment: PAYPAL
+Phone: +33613601370
+Quality: HD
+Streams: 2
+Price: 14,99 €
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (4): MT, Alexou, Elsa, Maria
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLDAQtHB7V13I03rs9o6iLw1koEWaoME/7ra8Jbfw9HqM/qNpKdnVWdsUB7MvgUSYce8o5HibSIqsUHhDKkQ9Rku9ZtHF9UUxONlDHFTN7a8vjDUA7IycJ+wifWYBuh9i5YRf80lN78njY9jB0fdzfJdxrHva6mLqkzF5UVYpHrE01TguzLbiQaw5819DGTi50iwMZXWD7Vl5dBIbWfz7jDMaze2w1xObbavtgdYVan2DeyTJgENEsfnEmz+K+yhy4ac5n1XRgGIg4KDPZTEjhOpIdpkKkPKw==
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLDAQtHB7V13I03rs9o6iLw1koEWaoME/7ra8Jbfw9HqM/qNpKdnVWdsUB7MvgUSYce8o5HibSIqsUHhDKkQ9Rku9ZtHF9UUxONlDHFTN7a8vjDUA7IycJ+wifWYBuh9i5YRf80lN78njY9jB0fdzfJdxrHva6mLqkzF5UVYpHrE01TguzLbiQaw5819DGTi50iwMZXWD7Vl5dBIbWfz7jDMaze2w1xObbavtgdYVan2DeyTJgENEsfnEmz+K+yhy4ac5n1XRgGIg4KDPZTEjhOpIdpkKkPKw==
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLDAQtHB7V13I03rs9o6iLw1koEWaoME/7ra8Jbfw9HqM/qNpKdnVWdsUB7MvgUSYce8o5HibSIqsUHhDKkQ9Rku9ZtHF9UUxONlDHFTN7a8vjDUA7IycJ+wifWYBuh9i5YRf80lN78njY9jB0fdzfJdxrHva6mLqkzF5UVYpHrE01TguzLbiQaw5819DGTi50iwMZXWD7Vl5dBIbWfz7jDMaze2w1xObbavtgdYVan2DeyTJgENEsfnEmz+K+yhy4ac5n1XRgGIg4KDPZTEjhOpIdpkKkPKw==
+Valid Till (UTC): 2026-07-03 00:43:56 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEFXWAMn7CdtP5bLWJ6Xa0f9gu21ajgsoieHjHIk82KT6bCX_iClTSvhrTbIV7bb2G9F4ibRABb1YTSEkdb9udWNE7s3oE2_75jSX3upBCG6B1BZsv8gMFzUIAer2l0BOesGQbNm828kzqO9rFfg3Q3fn
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKZAxWFQisZpbNDz948bnRHIeiAD0rf2u__DCImKW97Ad75oyAlzbvkOlHKnjt7TqOpMrEl7i-FbTYQ6eTQh2kKPK6Bi5sNu8i5iziDmSWzZHZHLB5czOmqVgjzF6nwzBtEHsx-bVtnoXNhIuU2xaM3dZRr6s4mqLiwGu-NtaFPqL-nf1069J8oFQIV_siF14BBREePCmtDEwqxMMbs9AmoCYoqb1v38G04hMVYsnaEBYBjQWkkYxXR1OAJMX7mI3JDbQNokPasZQB2tBFRdp02fxMsywa_aYZ1911UBrPis3WxtVQJFThP7Cb2MclfmzL3Fh0fEUxlKujDhV-0O9TVPiQmLoaoACnqOQgJbzZlmN5IR0xpLeIdT5dlJjFIwOUmKgBZ0UPeR_aLKhU39S7mldYVsB_Y7VGLlm8YwkJ9ZVX8AzMLM_gbGFuRCCtfavRn3VIa_Vpb5azUlNkwfvPUgN8lUgx4KbUaHRjObxIh2AfRFCqjSxXHodeD7w_XAWLsuunysbkylin73bBJpSF2U6hJ_L44VdtmBK8YBiIOCgw-K0TIS3naEGzvIzY.%26ch%3DAQEAEAABABR3IvSXAo-DU8YauPHJ1R16hC9SvA85Bno.%26v%3D3%26pg%3DUJQJF233LRAQLAJYAHUYQJMWAU
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+21+2025+17%3A00%3A05+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=11e8a14f-4845-42ce-9ce1-0896551a146a&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=FR%3BGES
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS9XnFGNxPRg6z0O62X6xSBJ5Qwj3nYZgE.%26dt%3D1766332805912
