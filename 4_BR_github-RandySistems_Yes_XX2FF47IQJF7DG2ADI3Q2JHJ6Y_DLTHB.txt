@@ -1,0 +1,38 @@
+NETFLIX HIT :👇
+
+Name: Lucas Cardoso
+Email: lucascardososilva1327@gmail.com
+Country: BR
+Plan: Premium
+Member Since: May 2021
+Next Billing: July 8, 2026
+Payment: CC
+Card: 7120
+Phone: +5551982322113
+Quality: UHD
+Streams: 4
+Price: BRL 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Lucas Cardoso, Márcia, Edson, Emiliana, Hani
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAUS8tB2VRxctRQF25AP1cZsK7krzJukYPg3itkMi+GNdfgGDikr9UrkR3UROjpdVT0VnRd+Aw6Q4tqVrZQsTGrqjoRw8Sm9bFW1XxC6VwnWwRsS4Zl3TtmW+P62JJxNb4tKZYtEn5kKt00E37RzsLxPknXn0Hw9tZvux40MSyYQ2tVkVsc8ogqHsEDUwtACF7FdXdUwlmpVyH/cHHfIPGRX9eiadr/6ZRoq6W4TaF9v9XyJazB92RTUbBXKdOi4sJMOdGAYiDgoMPWZLpNc0uO+OekQY
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAUS8tB2VRxctRQF25AP1cZsK7krzJukYPg3itkMi+GNdfgGDikr9UrkR3UROjpdVT0VnRd+Aw6Q4tqVrZQsTGrqjoRw8Sm9bFW1XxC6VwnWwRsS4Zl3TtmW+P62JJxNb4tKZYtEn5kKt00E37RzsLxPknXn0Hw9tZvux40MSyYQ2tVkVsc8ogqHsEDUwtACF7FdXdUwlmpVyH/cHHfIPGRX9eiadr/6ZRoq6W4TaF9v9XyJazB92RTUbBXKdOi4sJMOdGAYiDgoMPWZLpNc0uO+OekQY
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAUS8tB2VRxctRQF25AP1cZsK7krzJukYPg3itkMi+GNdfgGDikr9UrkR3UROjpdVT0VnRd+Aw6Q4tqVrZQsTGrqjoRw8Sm9bFW1XxC6VwnWwRsS4Zl3TtmW+P62JJxNb4tKZYtEn5kKt00E37RzsLxPknXn0Hw9tZvux40MSyYQ2tVkVsc8ogqHsEDUwtACF7FdXdUwlmpVyH/cHHfIPGRX9eiadr/6ZRoq6W4TaF9v9XyJazB92RTUbBXKdOi4sJMOdGAYiDgoMPWZLpNc0uO+OekQY
+Valid Till (UTC): 2026-07-03 00:30:14 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBELWKDOZY2hX1kbuNueV9vxxg5c4PqJWQ3SLo6iBJTtZ8KFkEKToLI6pTpvv0ykJIV6oyACO3TPapsNm8LS_J6A18vzqBsi1Kq8Vv-aJhJ5p8Fhz7KK3OzvkX6q0Z9eYzYElebBt_gSiovjiQF4PzUGOE
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Dec+07+2025+15%3A49%3A43+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=76b616d0-8c29-4f2f-a1c4-5a41d975bc48&interactionCount=4&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BRS&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSi7zE0EYxxFsAvCubFIL-IhZv9tw1NnsE.%26dt%3D1765133381472
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLzA3CEa44R3pNP-znZjOQVsLDWzZG7QeAR-SPXHbghTu1QmeaGCG5l01E7ztWk6VXKT-mgxo_IaAgLWfOvL84qxRLK_XLopV6DGskU736WR__Jm3XTg5PfN2tY3mWwNhLAcK8levcWHnhQLNL3t36cA71vF3gzZWmfp-6CuR9U0GYLUZ2lDGzGBRjMCzy04PwrHctXPH2dZz8A95Oa0nLKRzbxLZMMVRyTygcq9osONzo-v4Fp9Bf0V-rX9M_YYDyVeDuOCsqAu_MSIWMwEyzZt6Q5Es6HWz30tDM2kzdfxA8JMLG0830vhwgL35WHhbDQZQQpYzJ0btqVA9bRBbLTuCAmukXdH8tfIWY8e18Bc-f4DHF9uHPPOubz_3Tm56cT4ixYZXl0tdI3_g2wm5XNi02cxnZiNAvfHvQDs1RFcmsOqSw54vlvni3B1ynYFsCFNXUwrmaUgI93Pm-t14G7Hc_41fVbLcxzs0APdX91UrV9T9QF4UGH5eT9y5Dw5HgFmEmAwEHcHmGLcHZCaTsOc-5YN7FkT-fIOLDi3aAUwkgGRTukmUbr9n-vvkADHZ6pkawtjcJ2t3zVPuoqwdXW2VU0o2AQeQV_QWgk5kUZC431XRq1sD2e37D56PCLdjZV_OfW3ApoObgqSPJDPsCyrlulLhwYBiIOCgzub3M2maZAtgxfwVk.%26ch%3DAQEAEAABABS8_xJJzjeZuu22G3-oO8cZEwV80_xC5Kg.%26v%3D3%26pg%3DXX2FF47IQJF7DG2ADI3Q2JHJ6Y
