@@ -1,0 +1,38 @@
+NETFLIX HIT :👇
+
+Name: Eric
+Email: elleen-barreto@hotmail.com
+Country: BR
+Plan: Premium
+Member Since: June 2016
+Next Billing: August 4, 2026
+Payment: CC
+Card: 6445
+Phone: +5511988104153
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (4): Ellen, Eric, Edy, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAbSMSs29v/FzO+d/OZ9pCOHGOhU53GSJCojuXv9wQuJPzQHpp3COr+T0dQSd77wO44JHhlFvzNszkkNBl9zJDJVdPbVmfGRengildCvp7Y0qYcPPB8PvGLtFiD5YRIsn4DstXjUvPZoeQQ5atg0fHvgELx0FXWbPoHL3f6INejEmA53JF0vhaKMCEXWlfMzHGbT3k+3jkGXV90vXR+W/VS6nxquqKBMzs2enAS0ksWamF7otDM7P28O6HAU2wxvLzxs7GAYiDgoMxBgaiWMojtKIg8Wt
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAbSMSs29v/FzO+d/OZ9pCOHGOhU53GSJCojuXv9wQuJPzQHpp3COr+T0dQSd77wO44JHhlFvzNszkkNBl9zJDJVdPbVmfGRengildCvp7Y0qYcPPB8PvGLtFiD5YRIsn4DstXjUvPZoeQQ5atg0fHvgELx0FXWbPoHL3f6INejEmA53JF0vhaKMCEXWlfMzHGbT3k+3jkGXV90vXR+W/VS6nxquqKBMzs2enAS0ksWamF7otDM7P28O6HAU2wxvLzxs7GAYiDgoMxBgaiWMojtKIg8Wt
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAbSMSs29v/FzO+d/OZ9pCOHGOhU53GSJCojuXv9wQuJPzQHpp3COr+T0dQSd77wO44JHhlFvzNszkkNBl9zJDJVdPbVmfGRengildCvp7Y0qYcPPB8PvGLtFiD5YRIsn4DstXjUvPZoeQQ5atg0fHvgELx0FXWbPoHL3f6INejEmA53JF0vhaKMCEXWlfMzHGbT3k+3jkGXV90vXR+W/VS6nxquqKBMzs2enAS0ksWamF7otDM7P28O6HAU2wxvLzxs7GAYiDgoMxBgaiWMojtKIg8Wt
+Valid Till (UTC): 2026-07-06 13:03:36 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxL9AiFmoxGCpIdZmekC_n1imXAtSeBD13Zu0x1woj_COrHrLHg8eh-P-NFYVdLUy4d9ORlC3zJXzMoS0p8axPRK8rLSrf8F-3jz-MPXRVGHI6xe4gBbu1VeUy55aqmM2EapjhOSFTvRNSnyvagEZ2UmNL2Plbu86v0m_MSpKTsXJK0BvRDp6xOtvY33D1BaUIH1reQvwimap4wzJHlYy-olCEeHC9lwyjZCicJgUZAuIkmuulJIevS1IclpclEBndOJp7Fh-U-AM4y5TjWAM916XxBeI3MGUnxm7G-DhXyyaaSgDE4g565DATbdBIf2XnFvHJSAESNdv6TuUSWSDcnPALoq6tRDcS4zMuBjnDFx3KIklceueXe3GEagLKzQxywc-weLmjPz7xWyIt82-4T8bzZEdaBme9V8snQVetSXsEbZEq2aqP5LRGtXBLavm1aBYcjgNYAWuXoUtWNxf8FG5uZyiH6ZTn9bFBLNFLtW2VLp3PzvLn3nopyAJ84YjRgGIg4KDP-bLItO67_vFnIINg..%26pg%3DPQY6ENJHCBETVJBWBACDEB6NEA%26ch%3DAQEAEAABABTqE3x_M-lWrqJsLiJHQPYJZOLjEfsYes4.
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Feb+01+2026+16%3A37%3A19+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8cb5e357-367c-405f-8191-6ba41b193800&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1769974484228&AwaitingReconsent=false&intType=3&geolocation=BR%3BSP
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS7uBgKjqXW8X-Tq8P1pBro-zRUf6m5SHE.%26dt%3D1769974637828
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDn_12Qct5g1cPQLsD4JbwBgQdgA2oI1jPhdGg9UacvyCYsIjWrcu3A8c_Ej6IrzMv_sB3Mc433jgo2e_xT0ltPypDK9hEB8ZfAtjJ7PzuDrTmfwMo-7dnLv6pgFrzQOI6L_X8w_Df16cGP4X4qhcFxw
