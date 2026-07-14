@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: casianfraser@icloud.com
+Country: GB
+Plan: Premium
+Member Since: January 2026
+Next Billing: UNKNOWN
+Payment: N/A
+Card: N/A
+Quality: UHD
+Streams: 4
+Price: N/A
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAfkZ7OG78qAr6J1MPd5zA3kr4uxiyulyvk5OamgBZe1JVsZDBUzdy5FtagVX9brLRM18T8em4nA1rifsCBhslehVuPVkP28ITNb5OOsuO5PNRpp3jh9lDRzuge6x9P2Tnmud5w4BpReXrbzsHhzRSYKgV8hAu+MWXiJnVTysSD4vAzSQ4wAbU2kAllTbQUlA85WZxpeGXoPJFdvib9P63CavfQp2n1zsOFa93Qg3M7GzFOHDSJ+GtED8dheDaNDImxbhGAYiDgoMdQr5N/SLNRUVY31Y
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAfkZ7OG78qAr6J1MPd5zA3kr4uxiyulyvk5OamgBZe1JVsZDBUzdy5FtagVX9brLRM18T8em4nA1rifsCBhslehVuPVkP28ITNb5OOsuO5PNRpp3jh9lDRzuge6x9P2Tnmud5w4BpReXrbzsHhzRSYKgV8hAu+MWXiJnVTysSD4vAzSQ4wAbU2kAllTbQUlA85WZxpeGXoPJFdvib9P63CavfQp2n1zsOFa93Qg3M7GzFOHDSJ+GtED8dheDaNDImxbhGAYiDgoMdQr5N/SLNRUVY31Y
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAfkZ7OG78qAr6J1MPd5zA3kr4uxiyulyvk5OamgBZe1JVsZDBUzdy5FtagVX9brLRM18T8em4nA1rifsCBhslehVuPVkP28ITNb5OOsuO5PNRpp3jh9lDRzuge6x9P2Tnmud5w4BpReXrbzsHhzRSYKgV8hAu+MWXiJnVTysSD4vAzSQ4wAbU2kAllTbQUlA85WZxpeGXoPJFdvib9P63CavfQp2n1zsOFa93Qg3M7GzFOHDSJ+GtED8dheDaNDImxbhGAYiDgoMdQr5N/SLNRUVY31Y
+Valid Till (UTC): 2026-07-14 03:04:15 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEE-UNSad-TDU5Pu9T7J8GklggFDhswCMsTdVtImgUwTtk8gCPTJst-Q7kYuzm9X3pJ2j25mpRe4MQNxlfY7Z2jOY3O0MhZJ0gEueaxwQL1ZpO5m51HGg4RgeWzJ61-4uBp1iCVj6yy5Vem7ggtPhY-lB
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct=BgjHlOvcAxKLBD4bmLE4FCvHqw2oIrqcvAuC9F3YUnF8YCJyeFRvbriO8781kGSEQkOFY-QuhCXA5QuaNlC3Sg_EowmC76P_7y_OIYUv8KE2puCJKZhFs8-xui0eXDyh48hwqsHfNQ0EG5OFfjEk7Rf14bZQLZuRZFTpn54r-KJksE8kqiOSKm2d4ZXeQ0eyoPcLBebpqs699FErHdHm7o2-R3OOT9j6CBFZh_u4T4Oe-8j0u2MwWv29M9fsxY05KwffYNd6MEmplUEKwiQSACBY8yD2f42rf8T2KqTCmGEQbbT1ZXJmJCNDTjC99PcyPwUVW5ye0Q_sunQBaB5AIXH98PN1Cro-7uUmGLmUMRuB6OyXH78MwgekmXbxy9eoDqR7fAM6E4FeUDzC7awhlDjUIp856-ll7zWU1vlxtgwihuzvgx8zDEMud9hkCvDyc-DFFbgGd3cjnfYg6sP5F0oYYV-_8zt-A2JJwe_UjzDtZRDFT4Aa6AWgJbwVq95GDXLMWplxCej3AvdRJFYUNc1dqLJ908r7xhzxOdkPek-q8aYMfWTcgRK6zhlQuOLAUFGuQCHgA5lhZwY8UvcoaoHrObr43ctw7XCyUUgNsk2ist7i9pjJPCRgoU5Tp6ieaWbj6lLs9F1SCIiEI7bSqpzgWENYRDfaoAvubFvRbJxrV8ojwz_kKJwNcDbilIfyARkfpY4YBiIOCgweqx2Omi8R0qYBTs4.&ch=AQEAEAABABS2nKn09kpYexCbsbKmNAlJiUdmmSLVhys.&v=3&pg=SLS4TEQKVNGKDIPMD7RNTU2SZA
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABTSVjpQQ1i_BE0vBv_0_ZgpNWC0IE0p5E4.&dt=1781373923562
