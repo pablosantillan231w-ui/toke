@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: bita.gang@gmail.com
+Country: BR
+Plan: Premium
+Member Since: abril de 2026
+Next Billing: UNKNOWN
+Payment: N/A
+Card: 4764
+Quality: UHD
+Streams: 4
+Price: R$ 44,90
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgi8u+vcAxLCAVWGU/RR5KR0jXTywGjDcad2gBlliGX3VpiPDkhUsAOB9l4BTVM9DvB6aURtCA1ohxIlaG53fJYliwaEKEQbD9WmEThQohgR9Rl0JEBnb8Zi2jn9eGL84srtRZkZ203UjFfTMH4/xOqYLUcgPBf7t2jHBii4/ARiJXTgl0LKBC/DfbI9sJZSffT7QT9LugUG3alaPncfyS28wAciWFlBG9U0gjg3C4ecnPe8dfu7SxjAZiRSrz3U97rE9WRmL4RSq4z7GAYiDgoMkpNaVWJ4smHqUuTo
+🖥️ PC Login: https://netflix.com/?nftoken=Bgi8u+vcAxLCAVWGU/RR5KR0jXTywGjDcad2gBlliGX3VpiPDkhUsAOB9l4BTVM9DvB6aURtCA1ohxIlaG53fJYliwaEKEQbD9WmEThQohgR9Rl0JEBnb8Zi2jn9eGL84srtRZkZ203UjFfTMH4/xOqYLUcgPBf7t2jHBii4/ARiJXTgl0LKBC/DfbI9sJZSffT7QT9LugUG3alaPncfyS28wAciWFlBG9U0gjg3C4ecnPe8dfu7SxjAZiRSrz3U97rE9WRmL4RSq4z7GAYiDgoMkpNaVWJ4smHqUuTo
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgi8u+vcAxLCAVWGU/RR5KR0jXTywGjDcad2gBlliGX3VpiPDkhUsAOB9l4BTVM9DvB6aURtCA1ohxIlaG53fJYliwaEKEQbD9WmEThQohgR9Rl0JEBnb8Zi2jn9eGL84srtRZkZ203UjFfTMH4/xOqYLUcgPBf7t2jHBii4/ARiJXTgl0LKBC/DfbI9sJZSffT7QT9LugUG3alaPncfyS28wAciWFlBG9U0gjg3C4ecnPe8dfu7SxjAZiRSrz3U97rE9WRmL4RSq4z7GAYiDgoMkpNaVWJ4smHqUuTo
+Valid Till (UTC): 2026-07-14 10:48:11 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBED1AvTQZp9EYwR1aNogcWwJgfxyBTKYGuqC_V8J5mKqJ7lc5PH_TnEz2XWirgcKsJ9d6n_I2wBFWzPjmJgcmTAELjze-K4GbZyQwgiRY7h9pOa5gNgx8Mdu_3yGitO61K9q5EqJlDIXaTrrIiYB12M5K
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct=BgjHlOvcAxKIBIO3X8iGYn1dllIhDmSlzbcl8DIP0Oq4VQyCnqfVLF20qrL-QaB3nBCwjOUbm1P7X2eQ8fOxcmzNacbtSKqZhcboklOl4sDwM6ugMKqEITWq_Ary5eggSPWnXuYLVCevJshgWsalUk_blmr85yuURmK7-t6BLFH70Pq4tpjJSxt7ntevruk_Sa4Yd0FNhIw_ZAi7vqcADEET1clOq0euYTSLhRZmanphm_nF2yKKeOfDbWQOp4vOIB60fkavg7_GJKIRpbXLMTkksM8L2AjRdfowX6FWVNP94fREt29B1gS9_pNl638-CE8o_PeQNj8Dac1GEv_lZqL83NNtn2W6B1ZgqiaowNUX5p8GiV9fMaq2wd6yi70UYOAROe3dIi8whk9szrXjc5Tu-DXLnA12UaTiNXCwG9jXR2vMbS1oU-kXJbwUYob34liwjosSPI0c9x40aQBBRdbxYdrHHgGxwHeEJ1U8BBRrfMgs9IORphNYAurIVRg4ixDoAx4gHnOafm-oihPjJgI-TPbsGrScP95nQLDYDsxLFIXJ0OwEig3GHn9ZuySOcK-vj91qfNO2tupK6dsN0gdCEFLzez5jDqcRRDykMABZYU2-dupQNtd3C2HkvE1Dpix0ey7zfiiYqmCtaKNp0ESpoeOtIuSsyq-2SerOtBxJkHCONUQxn7w296aotx0PSjMYBiIOCgwLZr09x4aqy_LVo_A.&ch=AQEAEAABABR8auCtdllyINfTuX1zXLcH9IKl-vLzpNo.&v=3&pg=VSFJ2RJNLJGRTPOVKDC7LONGCU
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABT1OHNCLDwu9OMkT1VzgWTNFJG0ugWZv0A.&dt=1779491465665
