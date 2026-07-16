@@ -1,0 +1,35 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: melisthepotterhead@gmail.com
+Country: IT
+Plan: Premium
+Member Since: April 2025
+Next Billing: July 22, 2026
+Payment: N/A
+Card: 9113
+Quality: UHD
+Streams: 4
+Price: EUR 19.99
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj8vOvcAxLCAazFU2SOboan8YpOD3IbFAiEY1fwx335WD885oYAfRN1KQf6cDeAg8S7fk5a4RWkaQR0Ppl6XzfX4Gh4xZkYE1oo+W3u9SUSU08kQZLboXT5m5WINpcSe8Sj8tUhbdlBZ1zyZN3fgUMdpCq86CfWJHue6Yd0LHhSo6q+p7qxktgpjU49PKGw1+dOwdf280DHLp60xwer21GTXWik2GlpBKsO1esNVwRIM1onbNuNXmHAQ/+8NsCnG9wiWUGyB7fXFFOpGAYiDgoMgYT8AI2S1WBPI50r
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj8vOvcAxLCAazFU2SOboan8YpOD3IbFAiEY1fwx335WD885oYAfRN1KQf6cDeAg8S7fk5a4RWkaQR0Ppl6XzfX4Gh4xZkYE1oo+W3u9SUSU08kQZLboXT5m5WINpcSe8Sj8tUhbdlBZ1zyZN3fgUMdpCq86CfWJHue6Yd0LHhSo6q+p7qxktgpjU49PKGw1+dOwdf280DHLp60xwer21GTXWik2GlpBKsO1esNVwRIM1onbNuNXmHAQ/+8NsCnG9wiWUGyB7fXFFOpGAYiDgoMgYT8AI2S1WBPI50r
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj8vOvcAxLCAazFU2SOboan8YpOD3IbFAiEY1fwx335WD885oYAfRN1KQf6cDeAg8S7fk5a4RWkaQR0Ppl6XzfX4Gh4xZkYE1oo+W3u9SUSU08kQZLboXT5m5WINpcSe8Sj8tUhbdlBZ1zyZN3fgUMdpCq86CfWJHue6Yd0LHhSo6q+p7qxktgpjU49PKGw1+dOwdf280DHLp60xwer21GTXWik2GlpBKsO1esNVwRIM1onbNuNXmHAQ/+8NsCnG9wiWUGyB7fXFFOpGAYiDgoMgYT8AI2S1WBPI50r
+Valid Till (UTC): 2026-07-16 00:57:35 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct=BgjHlOvcAxKaAzAfEyTjfT9Keh6vb2uzx3PXz1c_WmOjGrsqygK1bUQxUiPWfZtOqHsqrF8ytS1Ww4D40lGnb4z8UlzXLZd7dQGaADsvF5QrEXuMK9S8sYXI6RHP6RT2-pAmwX6Y1DLppoY3vjuDS19nFcNXW3HzjnQymSl5y1BfJnwKT_tJYUJQ41ZTK1PCsWTUvheoZKYoVOonZAqOrvJoD3LzoPqumQJkjk-ZOK-YgDM4_uJV4Jew-GnLA-NzZApeKXUANuki_L7XuR5hOiHh8jSycMcZ8mhdDq3yHIQ0xeivvmfhqFu4NALgUXaGIEkVisuA6Hh7iMdRxn56MdXoOFx-lg_BXcFX5kZUnV2EUngBJvoXzcwHEisZXBZws5VB_SnlNjUJKhDg4BrdTM04G13tfS5HCh7uU4f7_JA6qoxRv6E4tGrOEb5f0gIWe85XqEbVqNrLNSGCgWJKek9MWryRQvsnA7iyWUWkyZucpPGJ6nz3OGTc2Uq_KTVjSGQyw7GVyO2oJHujXguQ_Z5GLVaeYyjdUEKFZ0FwFFC6HLo3GAYiDgoMuAQOlNlWimeQAfSk&ch=AQEAEAABABSwyq9emUZwehhgidnAOTYJmbwFm4bMXHs.&v=3
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSffJCw1JC06dM3ZJKOoF0Jbb-HEFvGgws.&dt=1747234968068
