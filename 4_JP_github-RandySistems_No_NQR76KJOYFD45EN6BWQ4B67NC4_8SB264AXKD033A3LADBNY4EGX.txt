@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: scarlet0m0@gmail.com
+Country: JP
+Plan: Premium
+Member Since: 2024年11月
+Next Billing: UNKNOWN
+Payment: N/A
+Card: 4436
+Quality: UHD
+Streams: 4
+Price: ￥1,590
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj8vOvcAxLCAZO4AMwdQcwF2CWccM70mfv0k3Or5LEN23l2wsSbrUsmEfzptmbc9C2AywTCdhcCO4G+MdnwF4TsjV/wYArR/u0ZW7BCtjZHcrtnvg4/CnvAC6IQR/4j62q5L8RCKfvPWBUjjsOZc5nlQz25o4KQJM7e6W8m3OyVUKXMMILX4lQclXawRTc7qSp9EAGDP3kT5MW0SKiM6FO3n+bN+UQOnsY5TO4Y9HIOttX4e9HYtLwzVBAbaygCD/iqmqZxDnVpVUgIGAYiDgoMOR+bSqpUBAj0QQLb
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj8vOvcAxLCAZO4AMwdQcwF2CWccM70mfv0k3Or5LEN23l2wsSbrUsmEfzptmbc9C2AywTCdhcCO4G+MdnwF4TsjV/wYArR/u0ZW7BCtjZHcrtnvg4/CnvAC6IQR/4j62q5L8RCKfvPWBUjjsOZc5nlQz25o4KQJM7e6W8m3OyVUKXMMILX4lQclXawRTc7qSp9EAGDP3kT5MW0SKiM6FO3n+bN+UQOnsY5TO4Y9HIOttX4e9HYtLwzVBAbaygCD/iqmqZxDnVpVUgIGAYiDgoMOR+bSqpUBAj0QQLb
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj8vOvcAxLCAZO4AMwdQcwF2CWccM70mfv0k3Or5LEN23l2wsSbrUsmEfzptmbc9C2AywTCdhcCO4G+MdnwF4TsjV/wYArR/u0ZW7BCtjZHcrtnvg4/CnvAC6IQR/4j62q5L8RCKfvPWBUjjsOZc5nlQz25o4KQJM7e6W8m3OyVUKXMMILX4lQclXawRTc7qSp9EAGDP3kT5MW0SKiM6FO3n+bN+UQOnsY5TO4Y9HIOttX4e9HYtLwzVBAbaygCD/iqmqZxDnVpVUgIGAYiDgoMOR+bSqpUBAj0QQLb
+Valid Till (UTC): 2026-07-28 01:26:48 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEEH7tsMnp-MvNxzjbMdQ49pgLRR-gfjbygeGsGTuOdgICZ4vKt9Ad-PwNIM7OrHyZVhhAqq8m5J6KpVaDegDnDHEkZsflvtTGMivfEnq2FODETPXqXk8CmhnX54-kTCZjrBBEy3GCO5ttkMXIPfh-MHn
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct=BgjHlOvcAxKHBD6Lk-3_xXA-DD4l3HoP6zjkvgkykQABmZFtkTHN66RoRxvDxOmMsXftCjNKsCkzefB3_mUH9qzn8LX27w-QleIUIng4HsMqh1Yqs00iNMeJc1IVxgkawmailTuzlJLUCEKVUv12YYJQRwd8lodxeYufK0XxGTLXaJLy8PPE4bzA3pfiCnsz2O4sl5ULu_dsSzpRRc4NET6sivT-CxTwS4AksxQN_uxvkldbFa7mCmjrbCP232_wn1L1KVIJf_JSqMQ8H3YGp-wjGMnMRWiS2S35S9I8B4sUG5P7hdP06AwJ1AVjCL9-BVCUvQBKzu5HN6l7XM-weFheAruE1vM8rsvmvZdYlZ6C6S7hpvR6kl7f2BdG1q6yoGXMn6Vqq-DmHHhNPW6ZfKQSVKukgTbqaq-VKX5yoZVezHqjyI_QcXR7TDiPxSh_MRp3SF2Q2weCOQThYZPpUCgceAflsfD1W22GC6Y6-TY7q8PhD47c7aycNkMg8gNN_RT-JKnKxSpVU7e8PtN15XJ99doFR6Npg8NO9_Vhk2kyPTEyjs_VUdoinFwvOX-LId7h_oaEm-yQnpBdkd8DL4PP1btrBmFYw7CD0CThDTPk08qZvc_GlB5Zvb02hktHvekSOuCBj1tixccn-wtUtrjZXuKWhF-EZc4trNuxnA6STLutKLOMMV0kWZmQebcrWxgGIg4KDNURcW1LvrMkvzsg9g..&ch=AQEAEAABABRsqO112fH-_YkoktmJfo1JqgcxuewzK0M.&v=3&pg=NQR76KJOYFD45EN6BWQ4B67NC4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v=3&mac=AQEAEQABABSjzLBrUyP_sVk3kV1eROr3pVoJJV-q3TE.&dt=1779869979308
