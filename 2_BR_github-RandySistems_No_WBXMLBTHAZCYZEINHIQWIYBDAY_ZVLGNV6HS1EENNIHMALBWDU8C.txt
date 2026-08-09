@@ -1,0 +1,34 @@
+NETFLIX HIT :👇
+
+Name: Camille e Gabriel
+Email: 14camillesilva14@gmail.com
+Country: BR
+Plan: Premium
+Member Since: setembro de 2025
+Next Billing: September 07, 2026
+Payment: N/A
+Card: N/A
+Quality: HD
+Streams: 2
+Price: $ 8.999
+Hold Status: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Gabriel B Gonçalves, Camille e Gabriel, Maydy, duy, Netflix
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgj8vOvcAxLCAa0GrpLch8OqiwFWl1tUvTZ%2F3Mfd0noPLtfJljIAGv%2BWGDcYqRpFF3Ritltbqi04uxqQ7fcppmaZykhz%2FyklR8ORcy9OIKzpcl%2Fn8HrM05%2F2bD6PWNsXHcnsBrguYx9Obi3Tb5wdwn5BuKIMj4xXAQGOYj1EtAYjUvwfofPOE6RFctRL9o3%2BBTM1a%2FrqyUlIkUHFo7hvQJN1pYMwve4qMjY%2BXNCvjMBumfvDBL7R%2FpU3iD0ggMCZWc93qE%2FMn4ES5XLjGAYiDgoMfhJhvZhoT6FtJ3dp
+🖥️ PC Login: https://netflix.com/?nftoken=Bgj8vOvcAxLCAa0GrpLch8OqiwFWl1tUvTZ%2F3Mfd0noPLtfJljIAGv%2BWGDcYqRpFF3Ritltbqi04uxqQ7fcppmaZykhz%2FyklR8ORcy9OIKzpcl%2Fn8HrM05%2F2bD6PWNsXHcnsBrguYx9Obi3Tb5wdwn5BuKIMj4xXAQGOYj1EtAYjUvwfofPOE6RFctRL9o3%2BBTM1a%2FrqyUlIkUHFo7hvQJN1pYMwve4qMjY%2BXNCvjMBumfvDBL7R%2FpU3iD0ggMCZWc93qE%2FMn4ES5XLjGAYiDgoMfhJhvZhoT6FtJ3dp
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgj8vOvcAxLCAa0GrpLch8OqiwFWl1tUvTZ%2F3Mfd0noPLtfJljIAGv%2BWGDcYqRpFF3Ritltbqi04uxqQ7fcppmaZykhz%2FyklR8ORcy9OIKzpcl%2Fn8HrM05%2F2bD6PWNsXHcnsBrguYx9Obi3Tb5wdwn5BuKIMj4xXAQGOYj1EtAYjUvwfofPOE6RFctRL9o3%2BBTM1a%2FrqyUlIkUHFo7hvQJN1pYMwve4qMjY%2BXNCvjMBumfvDBL7R%2FpU3iD0ggMCZWc93qE%2FMn4ES5XLjGAYiDgoMfhJhvZhoT6FtJ3dp
+Valid Till (UTC): N/A
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v=3&ct=BgjHlOvcAxK9A_8n1RA6PDnYbBzf73N2ZLjar_iJw9OpPWQ_NiAN-a6urXwMUolfdrYbR_v9EUZeB8ib5Lyo5TEwHyVamg7xtwHHqPYK_U_M9d6TK-tmE9wE-2sV7HHAD3W8Urs3FEYX13ufjGg07loTO9QOQ-oW6mrcpf0t_hSiaLJdGipW2T9He1RD6uHS3IfnEnz_JEGeZtVOvDLDvb2FgLeCPffzl4wu8oqA6i-Hier0o1d7Fy54ie7kUA4xruOpbRBa3ZGrYA_MpGQfWLBa36sMHp7yz9-hhTVlsKsXt2hxf82GGdjUaj3Zu1vaXZThH1ARI7LKC9s5yQakAFYwcPCDtc5aP6a18aCnm1gtKvuqxpN0aJJvR9Y533gAJ2fhcq_z0Mzy42UWMJmd4Ek8MrPTzKx8mxmiYjuiZbU8XvH-5e5ULjz0jxN3sBONwRYgVr03dAnTb_aYF8hDNqKRW3j1yjODwQjZhknAENUo2YUjIrJREb6kORT6XN3krXs3ME4ZlmKtV-h0HpxKn7pRIUKgDvOwHNweA19PJ9Xj8xGe2NYMCG7lSY-KL7OhVRNKL8M1MkXrXtHPq287tb5oTjFhNIkYBiIOCgw0woe8U8co4oXHqHk.&pg=WBXMLBTHAZCYZEINHIQWIYBDAY&ch=AQEAEAABABRs0-_o54gL-8Wiq89XE82IkpMwvAdnmgI.
