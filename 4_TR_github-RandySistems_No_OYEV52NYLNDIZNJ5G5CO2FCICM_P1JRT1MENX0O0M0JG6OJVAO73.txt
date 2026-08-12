@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: wardersar123@gmail.com
+Country: TR
+Plan: Premium
+Member Since: Mayıs 2026
+Next Billing: UNKNOWN
+Payment: N/A
+Card: 0371
+Quality: UHD
+Streams: 4
+Price: 289,99 TL
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgiQvuvcAxLCAWLmBbw2G6WURFXerfKIALA61ZaTrQ3CcHCK+ASc1EPj+6teUUqWV/RRAlrV3Xc/l6NgJshGD8yKBomQLIwIBe6aOknMK2dwD/BYKfCWJmYeIYt37xcxfKaQpyCmfuLajzRzdMCTkmbDI1bBBaiT1amP5+HxMr+egQjnHvQ9SMUqYlEBEuIYPXpa9yY3LaPo47t+qJCgsea3tj1i/luIlFydfQPTKw92n/utGCAECBEU+av1b3F9TMqOYM+GVS76w7mFGAYiDgoML8uAg9SL2yKXsrMG
+🖥️ PC Login: https://netflix.com/?nftoken=BgiQvuvcAxLCAWLmBbw2G6WURFXerfKIALA61ZaTrQ3CcHCK+ASc1EPj+6teUUqWV/RRAlrV3Xc/l6NgJshGD8yKBomQLIwIBe6aOknMK2dwD/BYKfCWJmYeIYt37xcxfKaQpyCmfuLajzRzdMCTkmbDI1bBBaiT1amP5+HxMr+egQjnHvQ9SMUqYlEBEuIYPXpa9yY3LaPo47t+qJCgsea3tj1i/luIlFydfQPTKw92n/utGCAECBEU+av1b3F9TMqOYM+GVS76w7mFGAYiDgoML8uAg9SL2yKXsrMG
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgiQvuvcAxLCAWLmBbw2G6WURFXerfKIALA61ZaTrQ3CcHCK+ASc1EPj+6teUUqWV/RRAlrV3Xc/l6NgJshGD8yKBomQLIwIBe6aOknMK2dwD/BYKfCWJmYeIYt37xcxfKaQpyCmfuLajzRzdMCTkmbDI1bBBaiT1amP5+HxMr+egQjnHvQ9SMUqYlEBEuIYPXpa9yY3LaPo47t+qJCgsea3tj1i/luIlFydfQPTKw92n/utGCAECBEU+av1b3F9TMqOYM+GVS76w7mFGAYiDgoML8uAg9SL2yKXsrMG
+Valid Till (UTC): 2026-08-12 16:30:33 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEDtkKDdzUA8jnl72Y-KE5TRg7Munme3XMlRNkx8uKnwYz-padPtpOjnKqqsoHHPEW2SAgKsSLSzgY01029yIglXi_3VRDgmiGS1mONH0oPzFfOg4rmBSftwuRM48QvtAKV2Cd0aXlWK1jbaNWPAZonC8
+.netflix.com	TRUE	/	FALSE	0	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKgA4_UJL38j0aAq_vAyhVAr8aG3pZntL8MKrZT9n5usf0AUtv0FhwZjQnuzaVEjyjQYfG-kNdbWQF4n_nhvhnCuewOo8lndjtN2NE8rCfm7i-x7hA4Gk4hXhqFHt6wlzEgcBYdyBfxQiguhaPRVIlBd0eQ5vz7yYSf_-H-b7Om76KN5rFp30xT2Oc5wHz-RGZzSlqY3gIzUvHYMoD0W3v6wZaWsVdtfGmK_Ke5cQL_wPXsq0J0dWYJ3yrzm8U6YGlUY2SyB93WVVxHud_lE1tDxNeiobRx52VbS8FPytTsW3cAus0jVcBvDUrrshQy1ViO2fzqlVIkY6C8Vruy5YMdoND8qLej665yC5IOML-5lTWvLfFBYmesdw4uzgwRxCib7bGYgc5B4DUmyhE6OdV8lUAWsI9UNBgjSXVxNEMZcn6QxOPfaTqoVsaBgduPyoUhLek2RUTtsftdNlzeraxLDjxaq8CyNJeHy6pJZ3Z8raOBsZgX8wtHdcCijo01LSB-MM0R0tw981mZoX6Kx4PL--jst-0TZ4fAs-SRxlG5YlfuGAYiDgoMhOU9zxHPDM8GD2ay%26pg%3DOYEV52NYLNDIZNJ5G5CO2FCICM%26ch%3DAQEAEAABABSY1bSPmfwsAC-oTEtI5QYo43S811keHNI.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQS6pLq8-E1vmjmOh2Huz2c0sSl_QpGHig.%26dt%3D1782430216574
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jun+26+2026+07%3A50%3A52+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=45437c04-72de-495d-a8df-c00643d18b75&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=1&crTime=1782430168624&geolocation=TR%3B34
