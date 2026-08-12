@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: villasaizhome@gmail.com
+Country: US
+Plan: Premium
+Member Since: July 2018
+Next Billing: August 31, 2026
+Payment: N/A
+Card: ad***@digitalsaiz.com
+Quality: UHD
+Streams: 4
+Price: $26.99
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgiQvuvcAxLCAV6ALy3M6vsNjnd0BI9qsgd753UGHiFR3P4VPj3WB8abpbOP3H3xKG/HXpcmGjKJPLC7NjFHTjAtLP+kKHWHBQJji0pM5ARqAQWqgLD9kJVUDy/6eBbo4oLRrwYXbmCH973rVFJ4Vb7nbWWLm1FWvL+qpop8dAoiCduYKZACNIX8I/+ivwIH3mW84G2lhYEHmlKJqTG1Rtx/FIC8mplcUkI92EWFr/NpZ172+X/IsYyUUBpbUKxQm3HFZU/CwzGk0NebGAYiDgoMBS6V0LIkmzBcheL5
+🖥️ PC Login: https://netflix.com/?nftoken=BgiQvuvcAxLCAV6ALy3M6vsNjnd0BI9qsgd753UGHiFR3P4VPj3WB8abpbOP3H3xKG/HXpcmGjKJPLC7NjFHTjAtLP+kKHWHBQJji0pM5ARqAQWqgLD9kJVUDy/6eBbo4oLRrwYXbmCH973rVFJ4Vb7nbWWLm1FWvL+qpop8dAoiCduYKZACNIX8I/+ivwIH3mW84G2lhYEHmlKJqTG1Rtx/FIC8mplcUkI92EWFr/NpZ172+X/IsYyUUBpbUKxQm3HFZU/CwzGk0NebGAYiDgoMBS6V0LIkmzBcheL5
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgiQvuvcAxLCAV6ALy3M6vsNjnd0BI9qsgd753UGHiFR3P4VPj3WB8abpbOP3H3xKG/HXpcmGjKJPLC7NjFHTjAtLP+kKHWHBQJji0pM5ARqAQWqgLD9kJVUDy/6eBbo4oLRrwYXbmCH973rVFJ4Vb7nbWWLm1FWvL+qpop8dAoiCduYKZACNIX8I/+ivwIH3mW84G2lhYEHmlKJqTG1Rtx/FIC8mplcUkI92EWFr/NpZ172+X/IsYyUUBpbUKxQm3HFZU/CwzGk0NebGAYiDgoMBS6V0LIkmzBcheL5
+Valid Till (UTC): 2026-08-12 16:24:52 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBENVe5wDwELIbSgH14tMBttpgfPqyLl7fGeNIzgJD0A2IxVwrbC8YeuWfNDwtN9L9MODE5vrypGl9EEpWLiEpDM60m-09a_kQB50V_WFKa-rShZTNmTJ8gEoGJxp6OOPV42-YIbbiQ6wCORnpSZ3Xd5GM
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLnAwremxJeKevJWGMjrbAOLmqJSu-bYrA0Kpfbi_UGRg8yyY4_NIvNbjyJxpMlgcPDOP7Il7JJmjmkm_r3V6C72Cr7ipavsCu6DbJIWU3v6EClzZmiPdO4CeZ8_1hVxgxa2Zx0m8ap0OcXLO0d751sqA2M8-Nz9jcCz4QxMrmL6ommDxjrPLsmcnPy2gUWvKt_7eZGthYedXNbZd5_Qfbr3b7OGH8SAKWXqoGhAUWrBbGQ4RlotIm_VBUP6JmpotFuWJKZmZJoaXBRPnZxQ8osMfaL50HVtGDecXthHSb_2WMEx99rB4Bt0vAL2s9P9FRb8idPCQ5UlsCoh4yM1P2rYSf2A6iBTsY29Ko_LY8LdxegsfiJtIs8y63cFaAH5cwOhKpdBkIS9OUGYsEpasGPCMVvoNBP_9HNpC8eyzw5eoH5c7UPulRLlSAhqQ7Pxhq6SE1dbUaq8BSOXoityPE6rMOvSjCDZEbQGJMWo0j_ZRqiG8LrrMBE_XeKlk8ZHuwACoxO5yHH6ULLOk3AWl65ViTf4XBV3fITZoB-9dP5wPGehFY5PsibOfeRWiRHXZ8cVK1B8dpY1SSjNQmsjmAAjzQOoVusmI5ALBAGUf16338Nr0T7R0_tuDv0kput6d7HuC10OZbAU_gYBiIOCgyqSZMnkJ-s2rTYyfk.%26ch%3DAQEAEAABABQYUeZoqsOespEvHSa5_Fu0-OHElrCPuiA.%26v%3D3%26pg%3DFQ6U3XEXTVCXVBR2A6OLUSENGE
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTcgsJ0hzb6mSu9dOQC0pcP0zwfwwzmPxQ.%26dt%3D1772051059540
