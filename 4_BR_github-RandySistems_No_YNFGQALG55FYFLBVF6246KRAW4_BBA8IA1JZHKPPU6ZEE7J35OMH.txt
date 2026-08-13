@@ -1,0 +1,36 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: carloseduardosilva61982@gmail.com
+Country: BR
+Plan: Premium
+Member Since: Maret 2024
+Next Billing: 23 Agustus 2026
+Payment: N/A
+Card: 8507
+Quality: UHD
+Streams: 4
+Price: R$59,90
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgiQvuvcAxLDAWGgMpHbkseEL9GUcm4PsNm3GjfqwI8BjbhP2pJQs0WIGVZnwAICrNfLNPDmPyodzShhWRidp+HUDHyg8ZBdc/NDnm/6lPHmS3YaX9jzwnvggx3YwJ9dtXg28daWpWwl1NHeI3pA5MHNEuE4aVbqTYU6MJvN0/gXXKN+GfwBNhRStoAGdiGIwVAdI20Zf0xanttmN654bKdoUocmFZ3smklmNpoaiDU4e97Fzz9Lj1/KTcXPThfVpVY7FVQ2sDy0PGqAYxgGIg4KDId1a3QL86QCImbR3g==
+🖥️ PC Login: https://netflix.com/?nftoken=BgiQvuvcAxLDAWGgMpHbkseEL9GUcm4PsNm3GjfqwI8BjbhP2pJQs0WIGVZnwAICrNfLNPDmPyodzShhWRidp+HUDHyg8ZBdc/NDnm/6lPHmS3YaX9jzwnvggx3YwJ9dtXg28daWpWwl1NHeI3pA5MHNEuE4aVbqTYU6MJvN0/gXXKN+GfwBNhRStoAGdiGIwVAdI20Zf0xanttmN654bKdoUocmFZ3smklmNpoaiDU4e97Fzz9Lj1/KTcXPThfVpVY7FVQ2sDy0PGqAYxgGIg4KDId1a3QL86QCImbR3g==
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgiQvuvcAxLDAWGgMpHbkseEL9GUcm4PsNm3GjfqwI8BjbhP2pJQs0WIGVZnwAICrNfLNPDmPyodzShhWRidp+HUDHyg8ZBdc/NDnm/6lPHmS3YaX9jzwnvggx3YwJ9dtXg28daWpWwl1NHeI3pA5MHNEuE4aVbqTYU6MJvN0/gXXKN+GfwBNhRStoAGdiGIwVAdI20Zf0xanttmN654bKdoUocmFZ3smklmNpoaiDU4e97Fzz9Lj1/KTcXPThfVpVY7FVQ2sDy0PGqAYxgGIg4KDId1a3QL86QCImbR3g==
+Valid Till (UTC): 2026-08-13 00:35:07 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxKNBGXIu55p_YyX-lSm7_nnFw1KZlGdFu8Y-I7zk3Ond71u--lWAQSwGTAw98uLEJB_TYo39r2UIGCDqfiEmCT9pAm_cEjW4nBqWj8TtNozZ1ePwMnYDCqJQZSGPN7sLGIrDR_v4jvCKkMc1bVdhdm6Ho1cz76FqKXPRwWFMZzKNrMGhX4Bkq_WmFoXOPsolItJUoWF_A37Gd5K9J_jnkDImw39U89GokSHGPDTzzz0FeeDC7U3oB0Na4-fS73cyjXPEGo8Iiqms2tFr2jZBBJbkrqNR7xEHO6YODyCjmPPi86IGS382lb7BlbkWZ4i8iSoXXWPSqadAbnoz4hDU330MNltdFmD5bdTVw7OXiTRLteUZkBnTK4BD2wEh5mZp_GJtkkJ5862uHCHnubXDoBTxlAfXCSAlJZfiWYp5wR5_7T0pRWFVSNzQOHQSkFqleAD6qr9q_al9qBuYTaacuhJmqV5gisFYTEVSa8NeHj6y8uWjwEBXpOfRW03MfroSSiMBHnWM2M7Xgyye07rBRyzC4KTt-0HNpPYfC6Ly_IFh0CJJfu2IYtAIawv7Ue77_SQc_PGtkIhGjDBzEnT5NcMNB5YVX1I0ZLsBnZgWNwev_KPmiCl8iBmWzcmUVjl3Dnp0_FOi1bLTK9mn9sL0neI_kvrC53014Kb_3RlqajM2b7s4hyfIg_XapRfaacF8hgGIg4KDNs1Ddqlz4CJ_AdQeA..%26ch%3DAQEAEAABABTBwafwLxwHxgVJ_NKjC65L1kDqE-vMH7s.%26v%3D3%26pg%3DYNFGQALG55FYFLBVF6246KRAW4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRiUeehgSvRjFVtBp1PHDF8f2WdbIbBoIU.%26dt%3D1782041088831
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+21+2026+08%3A25%3A08+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=1f4e3dfd-ac05-44d4-895d-ed2828577c83&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&fclco=&intType=3&crTime=1780184855218&geolocation=BR%3BMG
