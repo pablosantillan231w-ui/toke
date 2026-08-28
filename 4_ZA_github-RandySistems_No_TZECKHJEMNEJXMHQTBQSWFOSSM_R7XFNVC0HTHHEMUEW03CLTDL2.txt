@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: N/A
+Email: emmanuel.lishivha@gmail.com
+Country: ZA
+Plan: Premium
+Member Since: September 2025
+Next Billing: September 3, 2026
+Payment: N/A
+Card: 1447
+Quality: UHD
+Streams: 4
+Price: ZAR 229
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles: N/A
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: BgiQvuvcAxLCARyPMebPZfThJCpNo3YkPGarREGuKe9CVZ5l9KOD26Ntjr1xyaSDKU7tK8udPHNUJhhm/7p0WPQjOv413qDw0GS46tqCszNSQ0G5b6IM47FIk0qEnBoDnV7a/4msaPQ7KGfojwD3kcgOxr4o3KVIYV1lhNSsBwnPWcGX0qC1ixtDp5q8rD0sUASQ7SbRV5P4GUglezaD1Nd03DcyTW6ipB4SqKkFm2md2EvqG8Bh168qXCFCj8qpGnI/vIDC6j0yLb+zGAYiDgoMjcqwqcxcPT03vGNx
+🖥️ PC Login: https://netflix.com/?nftoken=BgiQvuvcAxLCARyPMebPZfThJCpNo3YkPGarREGuKe9CVZ5l9KOD26Ntjr1xyaSDKU7tK8udPHNUJhhm/7p0WPQjOv413qDw0GS46tqCszNSQ0G5b6IM47FIk0qEnBoDnV7a/4msaPQ7KGfojwD3kcgOxr4o3KVIYV1lhNSsBwnPWcGX0qC1ixtDp5q8rD0sUASQ7SbRV5P4GUglezaD1Nd03DcyTW6ipB4SqKkFm2md2EvqG8Bh168qXCFCj8qpGnI/vIDC6j0yLb+zGAYiDgoMjcqwqcxcPT03vGNx
+📱 Phone Login: https://netflix.com/unsupported?nftoken=BgiQvuvcAxLCARyPMebPZfThJCpNo3YkPGarREGuKe9CVZ5l9KOD26Ntjr1xyaSDKU7tK8udPHNUJhhm/7p0WPQjOv413qDw0GS46tqCszNSQ0G5b6IM47FIk0qEnBoDnV7a/4msaPQ7KGfojwD3kcgOxr4o3KVIYV1lhNSsBwnPWcGX0qC1ixtDp5q8rD0sUASQ7SbRV5P4GUglezaD1Nd03DcyTW6ipB4SqKkFm2md2EvqG8Bh168qXCFCj8qpGnI/vIDC6j0yLb+zGAYiDgoMjcqwqcxcPT03vGNx
+Valid Till (UTC): 2026-08-28 11:58:02 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/RandySistems | Website: randysistems.in
+Netflix COOKIE :👇
+
+# Netscape HTTP Cookie File
+.netflix.com	TRUE	/	FALSE	0	nfvdid	BQFmAAEBEPShBTuIEXcsfipmdsYEcJRgM_JOt5A0pbfPKZKA9WYYBoXPrFdgLa3wrVGjf5lJnJ8-Qb74hkoPdoPS9wkHBkGvRLihwvyZwjyhPf6CF_Qx53PhwE2HLh5IBvtIi02rq--EW3yUe0D4KGReddpRsbCz
+.netflix.com	TRUE	/	FALSE	0	NetflixId	ct%3DBgjHlOvcAxLIA59CKHXrugOFmLlUWk-c2gnl_NvOPYGYGZzhEjEXD93yyXPUGJWi2GNyLnZlo6_XO2ASOj26aTPM58JtQkHyWuc4aUJ9RoH4yOnLd8OuF5s327DVWLu4DTtYtbGmFl9mZSBW2hwQnPqrV2CccFy3VmHAVKK9Fk2bwIxNjeCjajg6uyWY2BU4A28LHKQdl7esIlSaa7jHdE-Is-Nl3ICSxUG_pPBsC4YHSYRyFlc_HSXa2BKa3yU2Ro11BCMZ8HsgueUX8a7lig_4FqJbKbrW-yO4bMHHiM_rDUFt401Mh2ROJXEGIaSgJIGkVFGFPsREtPu9C42jrCNtXXHaOVPYZ42vYjh-c14UWMOHkmp31SSpdZXKW4sRlVRk4pUp5d_3742oyhhxx7niEusPdS6J8sCquweiD5XH4rlbVGnSt3F2FFGxhy4F55gNTObLlaM-thpfge0o9nbdwh8Ms7FRtif3UW6_G3tAxKtc7QkDyr2fyiEICH_86hP9u7fItXV6GU4WlYOWnihfTsfN8F8GpLuyibc4Wbf5kCWhyDXqUEzewI3rQkCLvqmBBqQJgWWGSfPI5pcCKZ6yyloqtsiwJH0XDIN76CTI8BgGIg4KDAR_4NKFlEDJr-qL_w..%26ch%3DAQEAEAABABR9lGckAI4fIJokQ37t_jbcEYbGUYHaP6c.%26v%3D3%26pg%3D4QKSUA3WNJBGFJ7VC2ZUZJMQD4
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQd6jBBqscjtRoFs-Nu8hmQiLSMthRrljY.%26dt%3D1787327371646
+.netflix.com	TRUE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+21+2026+18%3A37%3A00+GMT%2B0200+(South+Africa+Standard+Time)&version=202607.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=740e6fb6-dc8a-445b-9fc2-7ccc039595ee&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770052310627&AwaitingReconsent=false&prevHadToken=0&isDntEnabled=0
